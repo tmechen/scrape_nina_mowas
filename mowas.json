@@ -130,13 +130,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230122-50-000",
+    "id": "mow.DE-BW-RT-SE050-20230122-50-001",
     "version": 3,
-    "startDate": "2023-01-22T07:11:13+01:00",
+    "startDate": "2023-01-22T10:08:50+01:00",
+    "expiresDate": "2023-01-22T16:08:50+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gebäudebrand im Ortskern von Mönchweiler - Ortskern Herdstraße"
+      "de": "Entwarnung: Gebäudebrand im Ortskern von Mönchweiler - Ortskern Herdstraße"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
