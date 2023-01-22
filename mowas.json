@@ -115,19 +115,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-SN-HY-SE048-20230121-122-001",
-    "version": 3,
-    "startDate": "2023-01-21T20:50:55+01:00",
-    "expiresDate": "2023-01-22T02:50:55+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung durch Brand eines Gebäudes - Hoyerswerda"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
