@@ -128,5 +128,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230122-50-000",
+    "version": 3,
+    "startDate": "2023-01-22T07:11:13+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gebäudebrand im Ortskern von Mönchweiler - Ortskern Herdstraße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
