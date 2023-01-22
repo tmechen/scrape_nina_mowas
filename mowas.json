@@ -104,13 +104,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-MOS-W031-20230121-000",
+    "id": "mow.DE-BW-MOS-W031-20230122-000",
     "version": 3,
-    "startDate": "2023-01-21T17:45:52+01:00",
+    "startDate": "2023-01-22T22:51:14+01:00",
+    "expiresDate": "2023-01-23T04:51:14+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung - Bereich Rippberg und Hornbach"
+      "de": "Entwarnung: Rauchentwicklung - Bereich Rippberg und Hornbach"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
