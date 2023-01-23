@@ -104,19 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-MNG-W107-20230123-000",
-    "version": 3,
-    "startDate": "2023-01-23T14:17:58+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase durch Großbrand - Brotterode"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-OB-SE055-20230123-55-001",
     "version": 3,
     "startDate": "2023-01-23T16:11:29+01:00",
@@ -139,6 +126,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Rauchentwicklung durch Brandereigniss  - Rheinfelden, Karsau, Beuggen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-TH-MNG-W107-20230123-001",
+    "version": 3,
+    "startDate": "2023-01-23T17:52:13+01:00",
+    "expiresDate": "2023-01-23T23:52:13+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase durch Großbrand - Brotterode"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
