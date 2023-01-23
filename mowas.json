@@ -117,19 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-LOE-W023-20230123-000",
-    "version": 3,
-    "startDate": "2023-01-23T15:59:25+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Brandereigniss  - Rheinfelden, Karsau, Beuggen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-OB-SE055-20230123-55-001",
     "version": 3,
     "startDate": "2023-01-23T16:11:29+01:00",
@@ -141,6 +128,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BW-LOE-W023-20230123-001",
+    "version": 3,
+    "startDate": "2023-01-23T16:34:25+01:00",
+    "expiresDate": "2023-01-23T22:34:25+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Brandereigniss  - Rheinfelden, Karsau, Beuggen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
