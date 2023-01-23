@@ -104,20 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-MNG-W107-20230123-001",
-    "version": 3,
-    "startDate": "2023-01-23T17:52:13+01:00",
-    "expiresDate": "2023-01-23T23:52:13+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase durch Großbrand - Brotterode"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HB-HB-SE019-20230123-19-000",
     "version": 3,
     "startDate": "2023-01-23T22:13:36+01:00",
