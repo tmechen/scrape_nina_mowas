@@ -115,5 +115,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-OB-SE055-20230123-55-000",
+    "version": 3,
+    "startDate": "2023-01-23T14:43:34+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Oberhausen - Holtener Feld / Nähe Kurfürstenstr"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
