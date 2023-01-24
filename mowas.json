@@ -102,5 +102,18 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20230124-67-000",
+    "version": 3,
+    "startDate": "2023-01-24T12:47:19+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Blindgänger muss noch heute im Westfalenpark entschärft werden  - Dortmund"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
