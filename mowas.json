@@ -104,13 +104,14 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20230123-19-000",
+    "id": "mow.DE-HB-HB-SE019-20230124-19-000",
     "version": 3,
-    "startDate": "2023-01-23T22:13:36+01:00",
+    "startDate": "2023-01-24T04:40:23+01:00",
+    "expiresDate": "2023-01-24T10:40:23+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "500 kg - Weltkriegsbombe gefunden - Bremen-Frage, Bremen-Rönnebeck"
+      "de": "Entwarnung: Weltkriegsbombe entschärft - Bremen-Frage, Bremen-Rönnebeck"
     },
     "transKeys": {
       "event": "BBK-EVC-009"
