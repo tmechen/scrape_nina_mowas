@@ -104,13 +104,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-BM-SE042-20230125-42-000",
+    "id": "mow.DE-NW-BM-SE042-20230125-42-001",
     "version": 3,
-    "startDate": "2023-01-25T17:03:40+01:00",
+    "startDate": "2023-01-25T17:49:32+01:00",
+    "expiresDate": "2023-01-25T23:49:32+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall - Stadt Brühl"
+      "de": "Entwarnung: Stromausfall - Stadt Brühl"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
