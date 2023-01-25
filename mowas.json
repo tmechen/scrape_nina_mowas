@@ -102,5 +102,18 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
+  },
+  {
+    "id": "mow.DE-NW-BM-SE042-20230125-42-000",
+    "version": 3,
+    "startDate": "2023-01-25T17:03:40+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall - Stadt Brühl"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
