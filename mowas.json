@@ -102,19 +102,5 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
-  },
-  {
-    "id": "mow.DE-NW-SO-SE089-20230126-89-001",
-    "version": 3,
-    "startDate": "2023-01-26T21:39:01+01:00",
-    "expiresDate": "2023-01-27T03:39:01+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Rauchgase  - Soest"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
