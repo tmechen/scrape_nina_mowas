@@ -102,5 +102,18 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20230127-12-000",
+    "version": 3,
+    "startDate": "2023-01-27T16:03:43+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Nordhausen - Rathsfelderstraße - Nordhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
