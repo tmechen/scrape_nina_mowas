@@ -104,13 +104,14 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20230127-12-000",
+    "id": "mow.DE-TH-EF-SE012-20230127-12-001",
     "version": 3,
-    "startDate": "2023-01-27T16:03:43+01:00",
+    "startDate": "2023-01-27T22:02:01+01:00",
+    "expiresDate": "2023-01-28T04:02:01+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund in Nordhausen - Rathsfelderstraße - Nordhausen"
+      "de": "Entwarnung: ENTWARNUNG - Kampfmittelfund in Nordhausen - Rathsfelderstraße - Nordhausen"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
