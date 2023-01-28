@@ -130,5 +130,18 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20230128-105-000",
+    "version": 3,
+    "startDate": "2023-01-28T15:50:34+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung Ratzeburg - Ratzeburg + nähere Umgebung"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
