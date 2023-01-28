@@ -104,20 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KE-W173-20230128-001",
-    "version": 3,
-    "startDate": "2023-01-28T14:17:56+01:00",
-    "expiresDate": "2023-01-28T20:17:56+01:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz Brand - Kaufbeuren  OT Kemnat"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20230128-105-001",
     "version": 3,
     "startDate": "2023-01-28T17:08:36+01:00",
