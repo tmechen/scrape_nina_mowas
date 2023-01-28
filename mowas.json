@@ -132,13 +132,14 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20230128-105-000",
+    "id": "mow.DE-SH-OD-SE105-20230128-105-001",
     "version": 3,
-    "startDate": "2023-01-28T15:50:34+01:00",
+    "startDate": "2023-01-28T17:08:36+01:00",
+    "expiresDate": "2023-01-28T23:08:36+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung Ratzeburg - Ratzeburg + nähere Umgebung"
+      "de": "Entwarnung: Rauchentwicklung Ratzeburg - Ratzeburg + nähere Umgebung"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
