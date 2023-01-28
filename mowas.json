@@ -116,5 +116,18 @@
     "transKeys": {
       "event": "BBK-EVC-050"
     }
+  },
+  {
+    "id": "mow.DE-BY-KE-W173-20230128-000",
+    "version": 3,
+    "startDate": "2023-01-28T13:29:30+01:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz Brand - Kaufbeuren  OT Kemnat"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
