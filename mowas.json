@@ -102,5 +102,18 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20230128-000",
+    "version": 3,
+    "startDate": "2023-01-28T11:51:25+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenenprobe Stadtgebiet Oberursel - Stadtgebiet Oberursel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
