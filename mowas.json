@@ -102,5 +102,18 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
+  },
+  {
+    "id": "mow.DE-NI-EL-W089-20230129-000",
+    "version": 3,
+    "startDate": "2023-01-29T12:48:12+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Neubörger"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
