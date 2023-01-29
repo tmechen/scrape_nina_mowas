@@ -142,5 +142,18 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20230129-143-000",
+    "version": 3,
+    "startDate": "2023-01-30T00:27:16+01:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "weiterhin Großflächiger Stromausfall, langanhaltend - Harzkreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
