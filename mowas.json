@@ -129,5 +129,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-ST-HZ-W050-20230129-003",
+    "version": 3,
+    "startDate": "2023-01-29T22:38:52+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großflächiger Stromausfall - Harzkreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
