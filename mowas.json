@@ -117,13 +117,14 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-W108-20230130-000",
+    "id": "mow.DE-TH-EF-W108-20230130-001",
     "version": 3,
-    "startDate": "2023-01-30T16:10:03+01:00",
+    "startDate": "2023-01-30T21:51:35+01:00",
+    "expiresDate": "2023-01-31T03:51:35+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in Erfurt, Ortsteil Altstadt/ Bereich Hauptbahnhof - Stadt Erfurt, Ortsteil Altstadt"
+      "de": "Entwarnung: Brand in Erfurt, Ortsteil Altstadt/ Bereich Hauptbahnhof - Stadt Erfurt, Ortsteil Altstadt"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
