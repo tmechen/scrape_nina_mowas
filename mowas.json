@@ -115,5 +115,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20230130-143-002",
+    "version": 3,
+    "startDate": "2023-01-30T10:42:54+01:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großflächiger länger andauernder Stromausfall - Betroffen ist bisher Blankenburg und Halberstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
