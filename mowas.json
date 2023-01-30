@@ -104,20 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20230130-143-003",
-    "version": 3,
-    "startDate": "2023-01-30T12:37:32+01:00",
-    "expiresDate": "2023-01-30T18:37:32+01:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großflächiger länger andauernder Stromausfall - Betroffen ist bisher Blankenburg und Halberstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-NW-DU-SE038-20230130-38-001",
     "version": 3,
     "startDate": "2023-01-30T13:52:02+01:00",
