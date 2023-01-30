@@ -142,5 +142,18 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-NW-DU-SE038-20230130-38-000",
+    "version": 3,
+    "startDate": "2023-01-30T13:05:18+01:00",
+    "severity": "Extreme",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung in Duisburg-Hochfeld und Wanheimerort - Duisburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
