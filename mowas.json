@@ -104,19 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20230129-106-000",
-    "version": 3,
-    "startDate": "2023-01-29T19:55:18+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Einsatz der Feuerwehr - Darmstadt Eberstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-ST-HZ-W050-20230130-000",
     "version": 3,
     "startDate": "2023-01-30T03:18:34+01:00",
@@ -142,6 +129,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20230130-106-000",
+    "version": 3,
+    "startDate": "2023-01-30T06:30:48+01:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Einsatz der Feuerwehr - Darmstadt - Eberstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
