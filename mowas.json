@@ -117,26 +117,28 @@
     }
   },
   {
-    "id": "mow.DE-ST-HZ-W050-20230129-003",
+    "id": "mow.DE-ST-HZ-W050-20230130-000",
     "version": 3,
-    "startDate": "2023-01-29T22:38:52+01:00",
+    "startDate": "2023-01-30T03:18:34+01:00",
+    "expiresDate": "2023-01-30T09:18:34+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großflächiger Stromausfall - Harzkreis"
+      "de": "Entwarnung: Großflächiger Stromausfall - Harzkreis"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20230129-143-000",
+    "id": "mow.DE-ST-MD-SE022-20230130-143-000",
     "version": 3,
-    "startDate": "2023-01-30T00:27:16+01:00",
+    "startDate": "2023-01-30T03:21:48+01:00",
+    "expiresDate": "2023-01-30T09:21:48+01:00",
     "severity": "Severe",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "weiterhin Großflächiger Stromausfall, langanhaltend - Harzkreis"
+      "de": "Entwarnung: weiterhin Großflächiger Stromausfall, langanhaltend - Harzkreis"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
