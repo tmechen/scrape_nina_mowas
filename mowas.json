@@ -117,19 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DN-SE054-20230130-54-000",
-    "version": 3,
-    "startDate": "2023-01-30T11:15:31+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Nideggen-Schmidt - Nideggen-Schmidt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20230130-143-003",
     "version": 3,
     "startDate": "2023-01-30T12:37:32+01:00",
@@ -144,16 +131,31 @@
     }
   },
   {
-    "id": "mow.DE-NW-DU-SE038-20230130-38-000",
+    "id": "mow.DE-NW-DU-SE038-20230130-38-001",
     "version": 3,
-    "startDate": "2023-01-30T13:05:18+01:00",
+    "startDate": "2023-01-30T13:52:02+01:00",
+    "expiresDate": "2023-01-30T19:52:02+01:00",
     "severity": "Extreme",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Stromversorgung in Duisburg-Hochfeld und Wanheimerort - Duisburg"
+      "de": "Entwarnung: Ausfall Stromversorgung in Duisburg-Hochfeld und Wanheimerort - Duisburg"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20230130-54-001",
+    "version": 3,
+    "startDate": "2023-01-30T14:02:38+01:00",
+    "expiresDate": "2023-01-30T20:02:38+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Nideggen-Schmidt - Nideggen-Schmidt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
