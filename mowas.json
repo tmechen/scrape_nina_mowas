@@ -117,17 +117,16 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-W108-20230130-001",
+    "id": "mow.DE-SH-FL-SE100-20230131-100-000",
     "version": 3,
-    "startDate": "2023-01-30T21:51:35+01:00",
-    "expiresDate": "2023-01-31T03:51:35+01:00",
+    "startDate": "2023-01-31T04:08:01+01:00",
     "severity": "Minor",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Brand in Erfurt, Ortsteil Altstadt/ Bereich Hauptbahnhof - Stadt Erfurt, Ortsteil Altstadt"
+      "de": "Feuer in der Gemeinde Braderup - Braderup"
     },
     "transKeys": {
-      "event": "BBK-EVC-010"
+      "event": "BBK-EVC-030"
     }
   }
 ]
