@@ -104,20 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20230131-106-000",
-    "version": 3,
-    "startDate": "2023-01-31T12:37:22+01:00",
-    "expiresDate": "2023-01-31T18:37:22+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Einsatz der Feuerwehr - Darmstadt - Eberstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-DO-SE067-20230131-67-001",
     "version": 3,
     "startDate": "2023-01-31T15:39:24+01:00",
