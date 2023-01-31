@@ -91,19 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-D-SE020-20221222-20-000",
-    "version": 3,
-    "startDate": "2022-12-22T13:00:04+01:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Coronavirus: Informationen des Landes Nordrhein-Westfalen - Nordrhein-Westfalen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-081"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20230130-106-001",
     "version": 3,
     "startDate": "2023-01-30T15:33:10+01:00",
@@ -128,6 +115,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-D-SE020-20230131-20-000",
+    "version": 3,
+    "startDate": "2023-01-31T12:00:06+01:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Coronavirus: Informationen des Landes Nordrhein-Westfalen - Nordrhein-Westfalen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-081"
     }
   }
 ]
