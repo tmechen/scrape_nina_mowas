@@ -117,13 +117,14 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20230131-100-000",
+    "id": "mow.DE-SH-FL-SE100-20230131-100-001",
     "version": 3,
-    "startDate": "2023-01-31T04:08:01+01:00",
+    "startDate": "2023-01-31T10:30:01+01:00",
+    "expiresDate": "2023-01-31T16:30:01+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuer in der Gemeinde Braderup - Braderup"
+      "de": "Entwarnung: Feuer in der Gemeinde Braderup - Braderup"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
