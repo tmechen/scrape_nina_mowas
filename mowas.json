@@ -130,5 +130,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20230131-67-000",
+    "version": 3,
+    "startDate": "2023-01-31T13:40:34+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund - Dortmund - Westfalenpark"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
