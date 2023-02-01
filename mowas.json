@@ -102,5 +102,31 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230201-50-000",
+    "version": 3,
+    "startDate": "2023-02-01T08:39:37+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenen-Test in der gesamten Schweiz - Landkreis Konstanz; dort: Städte und Gemeinden in Grenznähe zur Schweiz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20230201-000",
+    "version": 3,
+    "startDate": "2023-02-01T08:41:51+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor einer Sturmflut im Hamburger Elbegebiet - Hamburger Elbegebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
   }
 ]
