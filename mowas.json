@@ -144,5 +144,18 @@
     "transKeys": {
       "event": "BBK-EVC-050"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20230201-002",
+    "version": 3,
+    "startDate": "2023-02-01T14:33:11+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor einer Sturmflut im Hamburger Elbegebiet - Hamburger Elbegebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
   }
 ]
