@@ -104,19 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230201-50-000",
-    "version": 3,
-    "startDate": "2023-02-01T08:39:37+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenen-Test in der gesamten Schweiz - Landkreis Konstanz; dort: Städte und Gemeinden in Grenznähe zur Schweiz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20230201-001",
     "version": 3,
     "startDate": "2023-02-01T13:33:43+01:00",
@@ -142,6 +129,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230201-50-001",
+    "version": 3,
+    "startDate": "2023-02-01T14:10:53+01:00",
+    "expiresDate": "2023-02-01T20:10:53+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Test in der gesamten Schweiz - Landkreis Konstanz; dort: Städte und Gemeinden in Grenznähe zur Schweiz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
     }
   }
 ]
