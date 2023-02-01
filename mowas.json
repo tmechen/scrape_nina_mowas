@@ -128,5 +128,18 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-NW-BO-SE077-20230201-77-000",
+    "version": 3,
+    "startDate": "2023-02-01T22:18:46+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vollbrand einer Lagerhalle es kommt zu einer starken Rauchentwicklung - Bochum Carolinenglückstraße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
