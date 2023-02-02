@@ -130,5 +130,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20230202-001",
+    "version": 3,
+    "startDate": "2023-02-02T16:37:24+01:00",
+    "expiresDate": "2023-02-02T22:37:24+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: INFORMATION: Kampfmittelfund in Augsburg-Lechhausen, Pöttmeser Str. - Stadt Augsburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
