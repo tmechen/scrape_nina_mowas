@@ -117,13 +117,14 @@
     }
   },
   {
-    "id": "mow.DE-TH-AP-W115-20230202-000",
+    "id": "mow.DE-TH-AP-W115-20230202-001",
     "version": 3,
-    "startDate": "2023-02-02T14:25:34+01:00",
+    "startDate": "2023-02-02T14:41:53+01:00",
+    "expiresDate": "2023-02-02T20:41:53+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand Recyclinghof - Meckfeld bei Blankenhain"
+      "de": "Entwarnung: Brand Recyclinghof - Meckfeld bei Blankenhain"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
