@@ -102,19 +102,5 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
-  },
-  {
-    "id": "mow.DE-HH-HH-W240-20230202-000",
-    "version": 3,
-    "startDate": "2023-02-02T02:25:41+01:00",
-    "expiresDate": "2023-02-02T08:25:41+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut im Hamburger Elbegebiet - Hamburger Elbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
   }
 ]
