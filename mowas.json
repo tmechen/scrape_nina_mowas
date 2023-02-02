@@ -115,5 +115,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-TH-AP-W115-20230202-000",
+    "version": 3,
+    "startDate": "2023-02-02T14:25:34+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand Recyclinghof - Meckfeld bei Blankenhain"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
