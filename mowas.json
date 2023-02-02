@@ -104,20 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-E-SE052-20230202-52-001",
-    "version": 3,
-    "startDate": "2023-02-02T16:07:39+01:00",
-    "expiresDate": "2023-02-02T22:07:39+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandrauch - Essen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20230202-001",
     "version": 3,
     "startDate": "2023-02-02T16:37:24+01:00",
@@ -132,13 +118,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-TUE-W126-20230202-000",
+    "id": "mow.DE-BW-TUE-W126-20230202-001",
     "version": 3,
-    "startDate": "2023-02-02T21:17:18+01:00",
+    "startDate": "2023-02-02T22:20:19+01:00",
+    "expiresDate": "2023-02-03T04:20:19+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall in Teilen von Dußlingen - Dußlingen"
+      "de": "Entwarnung: Stromausfall in Teilen von Dußlingen - Dußlingen"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
