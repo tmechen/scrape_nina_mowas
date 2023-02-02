@@ -104,20 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-AP-W115-20230202-001",
-    "version": 3,
-    "startDate": "2023-02-02T14:41:53+01:00",
-    "expiresDate": "2023-02-02T20:41:53+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand Recyclinghof - Meckfeld bei Blankenhain"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-E-SE052-20230202-52-001",
     "version": 3,
     "startDate": "2023-02-02T16:07:39+01:00",
@@ -143,6 +129,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-BW-TUE-W126-20230202-000",
+    "version": 3,
+    "startDate": "2023-02-02T21:17:18+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall in Teilen von Dußlingen - Dußlingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
