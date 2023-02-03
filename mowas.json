@@ -131,13 +131,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20230203-18-002",
+    "id": "mow.DE-BW-S-SE018-20230203-18-003",
     "version": 3,
-    "startDate": "2023-02-03T19:07:26+01:00",
+    "startDate": "2023-02-03T23:44:24+01:00",
+    "expiresDate": "2023-02-04T05:44:24+01:00",
     "severity": "Severe",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Bombenfund mit Evakuierung - Rastatt-Niederbühl"
+      "de": "Entwarnung: Bombenfund mit Evakuierung - Rastatt-Niederbühl"
     },
     "transKeys": {
       "event": "BBK-EVC-009"
