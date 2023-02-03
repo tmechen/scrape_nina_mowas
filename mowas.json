@@ -117,19 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20230203-18-001",
-    "version": 3,
-    "startDate": "2023-02-03T16:25:10+01:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bombenfund mit Evakuierung - Rastatt-Niederbühl"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20230203-31-001",
     "version": 3,
     "startDate": "2023-02-03T17:15:49+01:00",
@@ -144,16 +131,30 @@
     }
   },
   {
-    "id": "mow.DE-BY-BA-W140-20230203-000",
+    "id": "mow.DE-BY-BA-W140-20230203-001",
     "version": 3,
-    "startDate": "2023-02-03T17:46:00+01:00",
+    "startDate": "2023-02-03T18:53:56+01:00",
+    "expiresDate": "2023-02-04T00:53:56+01:00",
     "severity": "Severe",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in der Egelseestraße: Starke Rauchentwicklung - Bamberg"
+      "de": "Entwarnung: Brand in der Egelseestraße: Starke Rauchentwicklung - Bamberg"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20230203-18-002",
+    "version": 3,
+    "startDate": "2023-02-03T19:07:26+01:00",
+    "severity": "Severe",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Bombenfund mit Evakuierung - Rastatt-Niederbühl"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
