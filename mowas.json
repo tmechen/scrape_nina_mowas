@@ -102,19 +102,5 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
-  },
-  {
-    "id": "mow.DE-BW-HD-W086-20230203-001",
-    "version": 3,
-    "startDate": "2023-02-03T07:09:16+01:00",
-    "expiresDate": "2023-02-03T13:09:16+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall in Wiesloch, Stadtteil Schatthausen - Wiesloch Ortsteil Schatthausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
   }
 ]
