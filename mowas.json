@@ -115,5 +115,31 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20230203-18-001",
+    "version": 3,
+    "startDate": "2023-02-03T16:25:10+01:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bombenfund mit Evakuierung - Rastatt-Niederbühl"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20230203-31-000",
+    "version": 3,
+    "startDate": "2023-02-03T16:28:42+01:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "großräumige Rauchausbreitung - Köln Vogelsang"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
