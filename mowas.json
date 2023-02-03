@@ -142,5 +142,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BY-BA-W140-20230203-000",
+    "version": 3,
+    "startDate": "2023-02-03T17:46:00+01:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand in der Egelseestraße: Starke Rauchentwicklung - Bamberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
