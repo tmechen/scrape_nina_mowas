@@ -117,20 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20230204-105-002",
-    "version": 3,
-    "startDate": "2023-02-04T14:35:16+01:00",
-    "expiresDate": "2023-02-04T20:35:16+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall Stromversorgung in Ratzeburg und Umgebung - Ratzeburg und Umgebung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-NW-LEV-SE046-20230204-46-001",
     "version": 3,
     "startDate": "2023-02-04T15:13:13+01:00",
