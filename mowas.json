@@ -171,5 +171,18 @@
     "transKeys": {
       "event": "BBK-EVC-050"
     }
+  },
+  {
+    "id": "mow.DE-BY-TS-W135-20230204-000",
+    "version": 3,
+    "startDate": "2023-02-04T12:48:16+01:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Wiesmühl a.d. Alz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
