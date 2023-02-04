@@ -199,5 +199,18 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-NW-LEV-SE046-20230204-46-001",
+    "version": 3,
+    "startDate": "2023-02-04T15:13:13+01:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Bombenfund Campusallee - Leverkusen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
