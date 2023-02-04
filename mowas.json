@@ -173,16 +173,30 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20230204-000",
+    "id": "mow.DE-BY-TS-W135-20230204-001",
     "version": 3,
-    "startDate": "2023-02-04T12:48:16+01:00",
+    "startDate": "2023-02-04T13:53:59+01:00",
+    "expiresDate": "2023-02-04T19:53:59+01:00",
     "severity": "Severe",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Wiesmühl a.d. Alz"
+      "de": "Entwarnung: Feuerwehreinsatz - Wiesmühl a.d. Alz"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20230204-105-001",
+    "version": 3,
+    "startDate": "2023-02-04T13:55:18+01:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung in Ratzeburg und Umgebung - Ratzeburg und Umgebung"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
