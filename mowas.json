@@ -117,20 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-BA-W140-20230203-001",
-    "version": 3,
-    "startDate": "2023-02-03T18:53:56+01:00",
-    "expiresDate": "2023-02-04T00:53:56+01:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in der Egelseestraße: Starke Rauchentwicklung - Bamberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20230203-18-003",
     "version": 3,
     "startDate": "2023-02-03T23:44:24+01:00",
