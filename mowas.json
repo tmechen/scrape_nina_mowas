@@ -117,20 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20230204-001",
-    "version": 3,
-    "startDate": "2023-02-04T13:53:59+01:00",
-    "expiresDate": "2023-02-04T19:53:59+01:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Wiesmühl a.d. Alz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20230204-105-002",
     "version": 3,
     "startDate": "2023-02-04T14:35:16+01:00",
