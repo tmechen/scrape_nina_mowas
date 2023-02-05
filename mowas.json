@@ -117,20 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-LEV-SE046-20230204-46-002",
-    "version": 3,
-    "startDate": "2023-02-04T23:10:03+01:00",
-    "expiresDate": "2023-02-05T05:10:03+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenfund Campusallee - Leverkusen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-UN-SE068-20230205-68-000",
     "version": 3,
     "startDate": "2023-02-05T03:02:48+01:00",
