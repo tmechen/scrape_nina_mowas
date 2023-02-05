@@ -104,19 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20230204-18-000",
-    "version": 3,
-    "startDate": "2023-02-04T10:44:31+01:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Großbrand in Mannheim - Stadtteil Jungbusch - Mannheim - Jungbusch"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-UN-SE068-20230205-68-001",
     "version": 3,
     "startDate": "2023-02-05T07:13:51+01:00",
@@ -128,6 +115,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20230205-18-000",
+    "version": 3,
+    "startDate": "2023-02-05T11:17:43+01:00",
+    "expiresDate": "2023-02-05T17:17:43+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand in Mannheim - Stadtteil Jungbusch - Mannheim - Jungbusch"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
