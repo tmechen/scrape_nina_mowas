@@ -102,19 +102,5 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20230205-18-000",
-    "version": 3,
-    "startDate": "2023-02-05T11:17:43+01:00",
-    "expiresDate": "2023-02-05T17:17:43+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand in Mannheim - Stadtteil Jungbusch - Mannheim - Jungbusch"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
