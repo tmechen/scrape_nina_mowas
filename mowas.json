@@ -104,20 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-UN-SE068-20230205-68-001",
-    "version": 3,
-    "startDate": "2023-02-05T07:13:51+01:00",
-    "expiresDate": "2023-02-05T13:13:51+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall Stromversorgung - Stadt Selm"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20230205-18-000",
     "version": 3,
     "startDate": "2023-02-05T11:17:43+01:00",
