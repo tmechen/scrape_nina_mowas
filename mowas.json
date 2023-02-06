@@ -159,19 +159,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-UL-W127-20230206-000",
-    "version": 3,
-    "startDate": "2023-02-06T23:28:48+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand in Allmendingen - Allmendingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-SO-SE089-20230206-89-003",
     "version": 3,
     "startDate": "2023-02-06T23:53:18+01:00",
@@ -180,6 +167,19 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Rauchgase in Gewerbegebiet in der Stadt Werl - Kreis Soest"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20230206-18-000",
+    "version": 3,
+    "startDate": "2023-02-07T00:24:56+01:00",
+    "severity": "Severe",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Großbrand eines Gewerbebetriebs - Allmendingen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
