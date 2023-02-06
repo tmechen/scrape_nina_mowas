@@ -117,19 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20230206-89-001",
-    "version": 3,
-    "startDate": "2023-02-06T17:53:49+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase in Soest / Werl - BAB44 Parkplatz Ostönner Grund"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-UN-SE068-20230206-68-000",
     "version": 3,
     "startDate": "2023-02-06T19:20:24+01:00",
@@ -154,6 +141,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20230206-89-002",
+    "version": 3,
+    "startDate": "2023-02-06T22:04:39+01:00",
+    "expiresDate": "2023-02-07T04:04:39+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase in Soest / Werl - BAB44 Parkplatz Ostönner Grund"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
