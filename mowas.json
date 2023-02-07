@@ -104,19 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20230207-33-001",
-    "version": 3,
-    "startDate": "2023-02-07T18:12:12+01:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "1000 Pfund-Bombe Hamburg gefunden  - Hamburg Wilhelmsburg, Rotenhäuser Strasse"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-DO-SE067-20230207-67-001",
     "version": 3,
     "startDate": "2023-02-07T19:05:08+01:00",
@@ -141,6 +128,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20230207-33-002",
+    "version": 3,
+    "startDate": "2023-02-07T20:02:54+01:00",
+    "expiresDate": "2023-02-08T02:02:54+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: 1000 Pfund-Bombe Hamburg gefunden  - Hamburg Wilhelmsburg, Rotenhäuser Strasse"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
