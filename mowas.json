@@ -116,5 +116,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20230207-67-000",
+    "version": 3,
+    "startDate": "2023-02-07T16:10:22+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "3 Blindgänger im Westfalenpark - B1 ab 17:00 Uhr gesperrt - Dortmund"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
