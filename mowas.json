@@ -115,19 +115,5 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
-  },
-  {
-    "id": "mow.DE-NI-EL-W089-20230207-000",
-    "version": 3,
-    "startDate": "2023-02-07T01:07:00+01:00",
-    "expiresDate": "2023-02-07T07:07:00+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Schapen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
