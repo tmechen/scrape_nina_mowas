@@ -115,5 +115,18 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20230207-33-001",
+    "version": 3,
+    "startDate": "2023-02-07T18:12:12+01:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "1000 Pfund-Bombe Hamburg gefunden  - Hamburg Wilhelmsburg, Rotenhäuser Strasse"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
