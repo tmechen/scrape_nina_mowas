@@ -104,13 +104,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20230206-18-000",
+    "id": "mow.DE-BW-S-SE018-20230207-18-000",
     "version": 3,
-    "startDate": "2023-02-07T00:24:56+01:00",
+    "startDate": "2023-02-07T10:39:36+01:00",
+    "expiresDate": "2023-02-07T16:39:36+01:00",
     "severity": "Severe",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand eines Gewerbebetriebs - Allmendingen"
+      "de": "Entwarnung: Großbrand eines Gewerbebetriebs - Allmendingen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
