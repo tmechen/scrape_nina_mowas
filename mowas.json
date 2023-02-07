@@ -118,19 +118,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GT-SE040-20230207-40-000",
-    "version": 3,
-    "startDate": "2023-02-07T19:33:45+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase in Steinhagen, Kreis Gütersloh - Steinhagen, Umkreis 5 km"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20230207-33-002",
     "version": 3,
     "startDate": "2023-02-07T20:02:54+01:00",
@@ -142,6 +129,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-GT-SE040-20230207-40-001",
+    "version": 3,
+    "startDate": "2023-02-07T20:36:29+01:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchgase in Steinhagen, Kreis Gütersloh - Steinhagen, Umkreis 7 km"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
