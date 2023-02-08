@@ -104,34 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20230207-67-001",
-    "version": 3,
-    "startDate": "2023-02-07T19:05:08+01:00",
-    "expiresDate": "2023-02-08T01:05:08+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 3 Blindgänger im Westfalenpark - B1 ab 17:00 Uhr gesperrt - Dortmund"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-SE033-20230207-33-002",
-    "version": 3,
-    "startDate": "2023-02-07T20:02:54+01:00",
-    "expiresDate": "2023-02-08T02:02:54+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 1000 Pfund-Bombe Hamburg gefunden  - Hamburg Wilhelmsburg, Rotenhäuser Strasse"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-GT-SE040-20230207-40-002",
     "version": 3,
     "startDate": "2023-02-07T21:39:59+01:00",
