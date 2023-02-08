@@ -104,20 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-SE011-20230208-11-000",
-    "version": 3,
-    "startDate": "2023-02-08T14:50:22+01:00",
-    "expiresDate": "2023-02-08T20:50:22+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Coronavirus - Informationen des Sächsischen Staatsministeriums für Soz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-040"
-    }
-  },
-  {
     "id": "mow.DE-NW-ME-SE071-20230208-71-000",
     "version": 3,
     "startDate": "2023-02-08T18:29:36+01:00",
