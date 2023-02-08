@@ -116,5 +116,18 @@
     "transKeys": {
       "event": "BBK-EVC-040"
     }
+  },
+  {
+    "id": "mow.DE-NW-MI-SE073-20230208-73-000",
+    "version": 3,
+    "startDate": "2023-02-08T18:21:02+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bombenfund in Bad Oeynhausen, Silcherstraße / Prinzenwinkel - Bad Oeynhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
