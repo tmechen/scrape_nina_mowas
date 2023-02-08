@@ -129,5 +129,18 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NW-ME-SE071-20230208-71-000",
+    "version": 3,
+    "startDate": "2023-02-08T18:29:36+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch einen Brand - Stadt Velbert"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
