@@ -104,27 +104,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-ME-SE071-20230208-71-001",
+    "id": "mow.DE-NW-AC-SE090-20230209-90-001",
     "version": 3,
-    "startDate": "2023-02-09T00:40:53+01:00",
-    "expiresDate": "2023-02-09T06:40:53+01:00",
-    "severity": "Minor",
+    "startDate": "2023-02-09T07:19:14+01:00",
+    "expiresDate": "2023-02-09T13:19:14+01:00",
+    "severity": "Severe",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch einen Brand - Stadt Velbert"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NW-AC-SE090-20230209-90-000",
-    "version": 3,
-    "startDate": "2023-02-09T06:07:10+01:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall Stromversorgung - Stolberg Münsterbusch"
+      "de": "Entwarnung: Ausfall Stromversorgung - Stolberg Münsterbusch"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
