@@ -104,20 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20230209-90-001",
-    "version": 3,
-    "startDate": "2023-02-09T07:19:14+01:00",
-    "expiresDate": "2023-02-09T13:19:14+01:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall Stromversorgung - Stolberg Münsterbusch"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20230209-31-000",
     "version": 3,
     "startDate": "2023-02-09T12:00:48+01:00",
