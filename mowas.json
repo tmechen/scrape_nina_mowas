@@ -104,16 +104,30 @@
     }
   },
   {
-    "id": "mow.DE-NW-ME-SE071-20230210-71-002",
+    "id": "mow.DE-NW-ME-SE071-20230210-71-004",
     "version": 4,
-    "startDate": "2023-02-10T12:42:21+01:00",
+    "startDate": "2023-02-10T13:12:23+01:00",
     "severity": "Severe",
     "type": "Update",
     "i18nTitle": {
-      "de": "Ausfall Notruf/Störung der Telekommunikation in Erkrath, Haan, Hilden und Mettmann - Erkrath, Haan, Hilden, Mettmann"
+      "de": "Störung der Telekommunikation / Nichterreichbarkeit Notruf - Erkrath, Haan, Hilden, Mettmann"
     },
     "transKeys": {
       "event": "BBK-EVC-005"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MS-SE043-20230210-43-001",
+    "version": 4,
+    "startDate": "2023-02-10T13:21:31+01:00",
+    "expiresDate": "2023-02-10T19:21:31+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund - Münster - Robert-Bosch-Strasse"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
