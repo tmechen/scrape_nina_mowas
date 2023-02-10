@@ -104,19 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ME-SE071-20230210-71-004",
-    "version": 4,
-    "startDate": "2023-02-10T13:12:23+01:00",
-    "severity": "Severe",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Störung der Telekommunikation / Nichterreichbarkeit Notruf - Erkrath, Haan, Hilden, Mettmann"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-005"
-    }
-  },
-  {
     "id": "mow.DE-BY-BA-W140-20230210-000",
     "version": 4,
     "startDate": "2023-02-10T14:00:59+01:00",
@@ -141,6 +128,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ME-SE071-20230210-71-006",
+    "version": 4,
+    "startDate": "2023-02-10T21:22:02+01:00",
+    "severity": "Severe",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Störung der Telekommunikation / Nichterreichbarkeit Notruf - Erkrath, Haan, Hilden, Mettmann"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
     }
   }
 ]
