@@ -142,5 +142,18 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20230210-89-000",
+    "version": 4,
+    "startDate": "2023-02-10T19:29:29+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall in Ortsteilen der Gemeinde Möhnesee - Gemeinde Möhnesee"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
