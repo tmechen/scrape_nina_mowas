@@ -128,5 +128,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-ME-SE071-20230211-71-000",
+    "version": 4,
+    "startDate": "2023-02-11T17:56:42+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Velbert - Velbert Mitte / Röbbeck"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
