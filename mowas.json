@@ -115,5 +115,18 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20230211-29-002",
+    "version": 4,
+    "startDate": "2023-02-11T17:34:46+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand in der Stadt Nordenham , in der Straße Infelder Weg - Stadt Nordenham"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
