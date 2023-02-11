@@ -117,19 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20230211-29-002",
-    "version": 4,
-    "startDate": "2023-02-11T17:34:46+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand in der Stadt Nordenham , in der Straße Infelder Weg - Stadt Nordenham"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-ME-SE071-20230211-71-000",
     "version": 4,
     "startDate": "2023-02-11T17:56:42+01:00",
@@ -137,6 +124,20 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Rauchgase in Velbert - Velbert Mitte / Röbbeck"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20230211-29-003",
+    "version": 4,
+    "startDate": "2023-02-11T21:16:00+01:00",
+    "expiresDate": "2023-02-12T03:16:00+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand in der Stadt Nordenham , in der Straße Infelder Weg - Stadt Nordenham"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
