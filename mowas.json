@@ -115,5 +115,18 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20230212-122-000",
+    "version": 4,
+    "startDate": "2023-02-12T16:05:17+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Limbach-Oberfrohna"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
