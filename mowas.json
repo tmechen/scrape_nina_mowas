@@ -117,20 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ME-SE071-20230212-71-000",
-    "version": 4,
-    "startDate": "2023-02-12T02:37:02+01:00",
-    "expiresDate": "2023-02-12T08:37:02+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Velbert - Velbert Mitte / Röbbeck"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-GT-SE040-20230212-40-000",
     "version": 4,
     "startDate": "2023-02-12T05:41:48+01:00",
