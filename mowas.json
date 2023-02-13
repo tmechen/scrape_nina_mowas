@@ -115,5 +115,18 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20230213-100-000",
+    "version": 4,
+    "startDate": "2023-02-13T06:26:08+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "starke Rauchentwicklung durch Feuer - Husby, gesamter Ort"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
