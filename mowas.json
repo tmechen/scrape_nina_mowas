@@ -142,5 +142,18 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230213-50-000",
+    "version": 4,
+    "startDate": "2023-02-13T10:40:51+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gebäudebrand mit Rauchentwicklung - Stadt Eppingen - Mühlbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
