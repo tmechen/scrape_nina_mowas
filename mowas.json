@@ -117,20 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20230213-100-001",
-    "version": 4,
-    "startDate": "2023-02-13T08:47:25+01:00",
-    "expiresDate": "2023-02-13T14:47:25+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung durch Feuer - Husby, gesamter Ort"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-ST-SE032-20230213-32-001",
     "version": 4,
     "startDate": "2023-02-13T12:44:12+01:00",
