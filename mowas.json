@@ -156,5 +156,18 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20230213-33-000",
+    "version": 4,
+    "startDate": "2023-02-13T18:05:32+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand im Bereich Hamburg Barmbek/Alsterdorf - Hamburg Barmbek / Alsterdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
