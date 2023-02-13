@@ -117,16 +117,30 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20230213-100-000",
+    "id": "mow.DE-SH-FL-SE100-20230213-100-001",
     "version": 4,
-    "startDate": "2023-02-13T06:26:08+01:00",
+    "startDate": "2023-02-13T08:47:25+01:00",
+    "expiresDate": "2023-02-13T14:47:25+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "starke Rauchentwicklung durch Feuer - Husby, gesamter Ort"
+      "de": "Entwarnung: starke Rauchentwicklung durch Feuer - Husby, gesamter Ort"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ST-SE032-20230213-32-000",
+    "version": 4,
+    "startDate": "2023-02-13T08:52:48+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Rheine - Rheine, Bereich Neuenkirchener Str."
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
