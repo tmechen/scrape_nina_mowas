@@ -117,34 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ST-SE032-20230213-32-001",
-    "version": 4,
-    "startDate": "2023-02-13T12:44:12+01:00",
-    "expiresDate": "2023-02-13T18:44:12+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Rheine - Rheine, Bereich Neuenkirchener Str."
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RT-SE050-20230213-50-001",
-    "version": 4,
-    "startDate": "2023-02-13T13:00:51+01:00",
-    "expiresDate": "2023-02-13T19:00:51+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gebäudebrand mit Rauchentwicklung - Stadt Eppingen - Mühlbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20230213-28-000",
     "version": 4,
     "startDate": "2023-02-13T14:23:33+01:00",
@@ -158,19 +130,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20230213-33-000",
-    "version": 4,
-    "startDate": "2023-02-13T18:05:32+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand im Bereich Hamburg Barmbek/Alsterdorf - Hamburg Barmbek / Alsterdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-LM-W189-20230213-000",
     "version": 4,
     "startDate": "2023-02-13T18:23:30+01:00",
@@ -181,6 +140,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20230213-33-001",
+    "version": 4,
+    "startDate": "2023-02-13T18:54:57+01:00",
+    "expiresDate": "2023-02-14T00:54:57+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand im Bereich Hamburg Barmbek/Als - Hamburg Barmbek / Alsterdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
