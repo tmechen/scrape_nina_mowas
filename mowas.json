@@ -131,19 +131,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ST-SE032-20230213-32-000",
-    "version": 4,
-    "startDate": "2023-02-13T08:52:48+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Rheine - Rheine, Bereich Neuenkirchener Str."
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230213-50-000",
     "version": 4,
     "startDate": "2023-02-13T10:40:51+01:00",
@@ -154,6 +141,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ST-SE032-20230213-32-001",
+    "version": 4,
+    "startDate": "2023-02-13T12:44:12+01:00",
+    "expiresDate": "2023-02-13T18:44:12+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Rheine - Rheine, Bereich Neuenkirchener Str."
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
