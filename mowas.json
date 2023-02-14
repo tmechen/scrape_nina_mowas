@@ -128,19 +128,5 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
-  },
-  {
-    "id": "mow.DE-NW-DO-SE067-20230214-67-001",
-    "version": 4,
-    "startDate": "2023-02-14T15:06:17+01:00",
-    "expiresDate": "2023-02-14T21:06:17+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund - Dortmund"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
   }
 ]
