@@ -143,20 +143,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20230213-33-001",
-    "version": 4,
-    "startDate": "2023-02-13T18:54:57+01:00",
-    "expiresDate": "2023-02-14T00:54:57+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand im Bereich Hamburg Barmbek/Als - Hamburg Barmbek / Alsterdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-EN-SE069-20230213-69-001",
     "version": 4,
     "startDate": "2023-02-13T21:30:22+01:00",
