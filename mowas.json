@@ -130,20 +130,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20230215-100-001",
-    "version": 4,
-    "startDate": "2023-02-15T17:30:56+01:00",
-    "expiresDate": "2023-02-15T23:30:56+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Schadensfeuer mit starker Rauchentwicklung - Wohlde"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20230215-001",
     "version": 4,
     "startDate": "2023-02-15T22:06:29+01:00",
