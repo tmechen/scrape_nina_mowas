@@ -130,20 +130,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-GG-W222-20230215-001",
-    "version": 4,
-    "startDate": "2023-02-15T15:46:40+01:00",
-    "expiresDate": "2023-02-15T21:46:40+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall der Trinkwasserversorgung in Büttelborn-Worfelden! - Büttelborn-Worfelden."
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-SH-FL-SE100-20230215-100-001",
     "version": 4,
     "startDate": "2023-02-15T17:30:56+01:00",
@@ -155,6 +141,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20230215-001",
+    "version": 4,
+    "startDate": "2023-02-15T22:06:29+01:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "starke Rauchentwicklung durch Großbrand - Gersthofen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
