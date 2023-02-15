@@ -130,19 +130,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20230215-100-000",
-    "version": 4,
-    "startDate": "2023-02-15T12:12:00+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Schadensfeuer mit starker Rauchentwicklung - Wohlde"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-EU-SE091-20230215-109-001",
     "version": 4,
     "startDate": "2023-02-15T12:38:49+01:00",
@@ -168,6 +155,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20230215-100-001",
+    "version": 4,
+    "startDate": "2023-02-15T17:30:56+01:00",
+    "expiresDate": "2023-02-15T23:30:56+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Schadensfeuer mit starker Rauchentwicklung - Wohlde"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
