@@ -141,5 +141,18 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20230215-100-000",
+    "version": 4,
+    "startDate": "2023-02-15T12:12:00+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Schadensfeuer mit starker Rauchentwicklung - Wohlde"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
