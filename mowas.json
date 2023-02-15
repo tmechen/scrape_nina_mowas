@@ -128,19 +128,5 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
-  },
-  {
-    "id": "mow.DE-NW-HAM-SE085-20230215-85-000",
-    "version": 4,
-    "startDate": "2023-02-15T01:47:47+01:00",
-    "expiresDate": "2023-02-15T07:47:47+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung durch Großbrand - Hamm"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
