@@ -130,19 +130,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-EU-SE091-20230215-109-000",
-    "version": 4,
-    "startDate": "2023-02-15T10:03:13+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall durch Erdarbeiten - Weilerswist-Metternich"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-SH-FL-SE100-20230215-100-000",
     "version": 4,
     "startDate": "2023-02-15T12:12:00+01:00",
@@ -153,6 +140,33 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-EU-SE091-20230215-109-001",
+    "version": 4,
+    "startDate": "2023-02-15T12:38:49+01:00",
+    "expiresDate": "2023-02-15T18:38:49+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall durch Erdarbeiten - Weilerswist-Metternich"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-HE-GG-W222-20230215-000",
+    "version": 4,
+    "startDate": "2023-02-15T12:45:30+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall der Trinkwasserversorgung in Büttelborn-Worfelden! - Büttelborn-Worfelden."
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
