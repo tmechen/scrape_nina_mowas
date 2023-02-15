@@ -128,5 +128,18 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-NW-EU-SE091-20230215-109-000",
+    "version": 4,
+    "startDate": "2023-02-15T10:03:13+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall durch Erdarbeiten - Weilerswist-Metternich"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
