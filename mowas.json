@@ -157,13 +157,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-GG-W222-20230215-000",
+    "id": "mow.DE-HE-GG-W222-20230215-001",
     "version": 4,
-    "startDate": "2023-02-15T12:45:30+01:00",
+    "startDate": "2023-02-15T15:46:40+01:00",
+    "expiresDate": "2023-02-15T21:46:40+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall der Trinkwasserversorgung in Büttelborn-Worfelden! - Büttelborn-Worfelden."
+      "de": "Entwarnung: Ausfall der Trinkwasserversorgung in Büttelborn-Worfelden! - Büttelborn-Worfelden."
     },
     "transKeys": {
       "event": "BBK-EVC-078"
