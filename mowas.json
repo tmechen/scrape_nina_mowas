@@ -130,20 +130,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-EU-SE091-20230215-109-001",
-    "version": 4,
-    "startDate": "2023-02-15T12:38:49+01:00",
-    "expiresDate": "2023-02-15T18:38:49+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall durch Erdarbeiten - Weilerswist-Metternich"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-HE-GG-W222-20230215-001",
     "version": 4,
     "startDate": "2023-02-15T15:46:40+01:00",
