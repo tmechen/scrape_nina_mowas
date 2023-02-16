@@ -142,5 +142,18 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-NW-GE-SE064-20230216-64-000",
+    "version": 4,
+    "startDate": "2023-02-16T02:41:17+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Brandrauch - Gelsenkirchen Scholven + südliches Stadtgebiet von Dorsten"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
