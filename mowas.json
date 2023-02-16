@@ -128,5 +128,18 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-NW-HER-SE083-20230216-83-001",
+    "version": 4,
+    "startDate": "2023-02-16T14:13:30+01:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Herne - Herne"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
