@@ -141,19 +141,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-NW-HER-SE083-20230216-83-002",
-    "version": 4,
-    "startDate": "2023-02-16T17:43:13+01:00",
-    "expiresDate": "2023-02-16T23:43:13+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Herne - Herne"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
   }
 ]
