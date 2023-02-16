@@ -143,11 +143,11 @@
     }
   },
   {
-    "id": "mow.DE-HE-LM-W189-20230216-000",
+    "id": "mow.DE-HE-LM-W189-20230216-001",
     "version": 4,
-    "startDate": "2023-02-16T14:42:24+01:00",
+    "startDate": "2023-02-16T15:19:40+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Trinkwasserversorgung Brechen. - Gemeinde Brechen"
     },
