@@ -223,5 +223,18 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NI-OL-W015-20230217-000",
+    "version": 4,
+    "startDate": "2023-02-17T16:34:31+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gebäudebrand Cloppenburg - Cloppenburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
