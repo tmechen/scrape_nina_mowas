@@ -182,5 +182,18 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-HE-GG-W222-20230217-000",
+    "version": 4,
+    "startDate": "2023-02-17T09:45:48+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenenüberprpfung Stadt Raunheim - Raunheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
