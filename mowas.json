@@ -223,5 +223,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-GE-SE064-20230217-64-001",
+    "version": 4,
+    "startDate": "2023-02-17T16:08:01+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in Gelsenkirchen - Resse - Gelsenkirchen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
