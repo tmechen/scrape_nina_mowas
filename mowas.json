@@ -212,19 +212,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KL-SE112-20230217-112-003",
-    "version": 4,
-    "startDate": "2023-02-17T20:39:10+01:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Verzögerung der Entschärfungszeit !! Evakuierung Fund einer Weltkriegs-Bombe  - Kaiserslautern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20230217-33-001",
     "version": 4,
     "startDate": "2023-02-17T20:40:30+01:00",
@@ -236,6 +223,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KL-SE112-20230217-112-004",
+    "version": 4,
+    "startDate": "2023-02-17T22:14:07+01:00",
+    "expiresDate": "2023-02-18T04:14:07+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Die Bombe ist erfolgreich entschärft - Kaiserslautern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
