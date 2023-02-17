@@ -117,20 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-CO-W141-20230217-000",
-    "version": 4,
-    "startDate": "2023-02-17T13:08:10+01:00",
-    "expiresDate": "2023-02-17T19:08:10+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Corona Warnmeldung 2020"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-040"
-    }
-  },
-  {
     "id": "mow.DE-RP-KL-SE112-20230217-112-000",
     "version": 4,
     "startDate": "2023-02-17T13:28:10+01:00",
@@ -244,6 +230,19 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Starke Rauchentwicklung durch Großbrand im Bereich Hamburg [Steilshoop]  - Hamburg Steilshoop"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-ST-SLK-W069-20230217-001",
+    "version": 4,
+    "startDate": "2023-02-17T19:05:25+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand / starke Verrauchung im Einsatzgebiet - Amesdorf"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
