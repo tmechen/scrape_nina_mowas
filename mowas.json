@@ -197,19 +197,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-RE-SE078-20230217-78-000",
-    "version": 4,
-    "startDate": "2023-02-17T16:59:26+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "2.2 Vorsorgliche Information zu einer Geruchsbelästigung  - Herten Süd , Teilbereiche von Recklinghausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20230217-33-000",
     "version": 4,
     "startDate": "2023-02-17T18:13:38+01:00",
@@ -247,6 +234,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-RE-SE078-20230217-78-001",
+    "version": 4,
+    "startDate": "2023-02-17T19:50:53+01:00",
+    "expiresDate": "2023-02-18T01:50:53+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: 2.2 Vorsorgliche Information zu einer Geruchsbelästigung  - Herten Süd , Teilbereiche von Recklinghausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
