@@ -91,19 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GT-SE040-20230208-40-000",
-    "version": 3,
-    "startDate": "2023-02-08T06:35:28+01:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchgase in Steinhagen, Kreis Gütersloh - Steinhagen und Umgebung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-BA-W140-20230210-000",
     "version": 4,
     "startDate": "2023-02-10T14:00:59+01:00",
@@ -181,6 +168,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NW-GT-SE040-20230217-40-000",
+    "version": 4,
+    "startDate": "2023-02-17T12:12:04+01:00",
+    "expiresDate": "2023-02-17T18:12:04+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase in Steinhagen, Kreis Gütersloh - Steinhagen und Umgebung"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
