@@ -117,19 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-OL-W015-20230217-000",
-    "version": 4,
-    "startDate": "2023-02-17T16:34:31+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gebäudebrand Cloppenburg - Cloppenburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-ST-SLK-W069-20230217-001",
     "version": 4,
     "startDate": "2023-02-17T19:05:25+01:00",
@@ -224,6 +211,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NI-OL-W015-20230217-001",
+    "version": 4,
+    "startDate": "2023-02-17T23:12:02+01:00",
+    "expiresDate": "2023-02-18T05:12:02+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gebäudebrand Cloppenburg - Cloppenburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
