@@ -196,5 +196,18 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-RP-KL-SE112-20230217-112-001",
+    "version": 4,
+    "startDate": "2023-02-17T14:35:59+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Aktualisierung !! Evakuierung Fund einer Weltkriegs-Bombe  - Kaiserslautern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
