@@ -117,19 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-SLK-W069-20230214-000",
-    "version": 4,
-    "startDate": "2023-02-14T09:00:54+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand Landwirtschaftliche Lagerhalle - Teile Güsten, Amesdorf, Teile Osmarsleben"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HE-LM-W189-20230216-001",
     "version": 4,
     "startDate": "2023-02-16T15:19:40+01:00",
@@ -180,6 +167,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-ST-SLK-W069-20230217-000",
+    "version": 4,
+    "startDate": "2023-02-17T08:16:51+01:00",
+    "expiresDate": "2023-02-17T14:16:51+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand Landwirtschaftliche Lagerhalle - Teile Güsten, Amesdorf, Teile Osmarsleben"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
