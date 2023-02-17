@@ -130,20 +130,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MI-SE073-20230217-73-001",
-    "version": 4,
-    "startDate": "2023-02-17T04:10:24+01:00",
-    "expiresDate": "2023-02-17T10:10:24+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Bad Oeynhausen, Wulferdingsen, Volmerdingsen, Be - Bad Oeynhausen, Wulferdingsen, Volmerdingsen, Bergkirchen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-W-SE061-20230217-61-000",
     "version": 4,
     "startDate": "2023-02-17T07:38:50+01:00",
