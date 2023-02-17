@@ -130,20 +130,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-SLK-W069-20230217-000",
-    "version": 4,
-    "startDate": "2023-02-17T08:16:51+01:00",
-    "expiresDate": "2023-02-17T14:16:51+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand Landwirtschaftliche Lagerhalle - Teile Güsten, Amesdorf, Teile Osmarsleben"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HE-GG-W222-20230217-001",
     "version": 4,
     "startDate": "2023-02-17T10:05:01+01:00",
