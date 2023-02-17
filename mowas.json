@@ -144,19 +144,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-PB-SE093-20230217-93-000",
-    "version": 4,
-    "startDate": "2023-02-17T15:14:26+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchwolke aufgrund eines Brandereignisses - Bad Wünnenberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-GE-SE064-20230217-64-002",
     "version": 4,
     "startDate": "2023-02-17T16:22:49+01:00",
@@ -248,6 +235,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-PB-SE093-20230217-93-001",
+    "version": 4,
+    "startDate": "2023-02-17T20:23:52+01:00",
+    "expiresDate": "2023-02-18T02:23:52+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchwolke aufgrund eines Brandereignisses - Bad Wünnenberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
