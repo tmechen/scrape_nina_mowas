@@ -158,19 +158,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KL-SE112-20230217-112-001",
-    "version": 4,
-    "startDate": "2023-02-17T14:35:59+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Aktualisierung !! Evakuierung Fund einer Weltkriegs-Bombe  - Kaiserslautern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230217-50-002",
     "version": 4,
     "startDate": "2023-02-17T14:56:48+01:00",
@@ -235,6 +222,32 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KL-SE112-20230217-112-002",
+    "version": 4,
+    "startDate": "2023-02-17T16:54:55+01:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Änderung der Entschärfungszeit !! Evakuierung Fund einer Weltkriegs-Bombe  - Kaiserslautern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-RE-SE078-20230217-78-000",
+    "version": 4,
+    "startDate": "2023-02-17T16:59:26+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "2.2 Vorsorgliche Information zu einer Geruchsbelästigung  - Herten Süd , Teilbereiche von Recklinghausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
