@@ -184,13 +184,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-GG-W222-20230217-000",
+    "id": "mow.DE-HE-GG-W222-20230217-001",
     "version": 4,
-    "startDate": "2023-02-17T09:45:48+01:00",
+    "startDate": "2023-02-17T10:05:01+01:00",
+    "expiresDate": "2023-02-17T16:05:01+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenenüberprpfung Stadt Raunheim - Raunheim"
+      "de": "Entwarnung: Sirenenüberprpfung Stadt Raunheim - Raunheim"
     },
     "transKeys": {
       "event": "BBK-EVC-060"
