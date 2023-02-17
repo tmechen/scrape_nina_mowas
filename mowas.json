@@ -157,19 +157,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GE-SE064-20230217-64-001",
-    "version": 4,
-    "startDate": "2023-02-17T16:08:01+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in Gelsenkirchen - Resse - Gelsenkirchen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-GE-SE064-20230217-64-002",
     "version": 4,
     "startDate": "2023-02-17T16:22:49+01:00",
@@ -246,6 +233,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-GE-SE064-20230217-64-003",
+    "version": 4,
+    "startDate": "2023-02-17T19:41:13+01:00",
+    "expiresDate": "2023-02-18T01:41:13+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung in Gelsenkirchen - Resse - Gelsenkirchen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
