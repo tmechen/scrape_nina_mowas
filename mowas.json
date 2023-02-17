@@ -158,19 +158,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230217-50-001",
-    "version": 4,
-    "startDate": "2023-02-17T13:00:18+01:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Brand eines landwirtschaftlichen Anwesens - Bad Friedrichshall"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BY-CO-W141-20230217-000",
     "version": 4,
     "startDate": "2023-02-17T13:08:10+01:00",
@@ -208,6 +195,33 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230217-50-002",
+    "version": 4,
+    "startDate": "2023-02-17T14:56:48+01:00",
+    "expiresDate": "2023-02-17T20:56:48+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand eines landwirtschaftlichen Anwesens - Bad Friedrichshall"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-PB-SE093-20230217-93-000",
+    "version": 4,
+    "startDate": "2023-02-17T15:14:26+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchwolke aufgrund eines Brandereignisses - Bad Wünnenberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
