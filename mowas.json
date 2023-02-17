@@ -117,20 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GE-SE064-20230217-64-002",
-    "version": 4,
-    "startDate": "2023-02-17T16:22:49+01:00",
-    "expiresDate": "2023-02-17T22:22:49+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Entschärfung einer Weltkriegsbombe - Gelsenkirchen Bulmke-Hüllen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NI-OL-W015-20230217-000",
     "version": 4,
     "startDate": "2023-02-17T16:34:31+01:00",
