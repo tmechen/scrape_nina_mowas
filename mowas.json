@@ -171,32 +171,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KL-SE112-20230217-112-002",
-    "version": 4,
-    "startDate": "2023-02-17T16:54:55+01:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Änderung der Entschärfungszeit !! Evakuierung Fund einer Weltkriegs-Bombe  - Kaiserslautern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-SE033-20230217-33-000",
-    "version": 4,
-    "startDate": "2023-02-17T18:13:38+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand im Bereich Hamburg [Steilshoop]  - Hamburg Steilshoop"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-ST-SLK-W069-20230217-001",
     "version": 4,
     "startDate": "2023-02-17T19:05:25+01:00",
@@ -249,6 +223,33 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KL-SE112-20230217-112-003",
+    "version": 4,
+    "startDate": "2023-02-17T20:39:10+01:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Verzögerung der Entschärfungszeit !! Evakuierung Fund einer Weltkriegs-Bombe  - Kaiserslautern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20230217-33-001",
+    "version": 4,
+    "startDate": "2023-02-17T20:40:30+01:00",
+    "expiresDate": "2023-02-18T02:40:30+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand im Bereich Hamburg [Steilshoop - Hamburg Steilshoop"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
