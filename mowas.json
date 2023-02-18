@@ -130,34 +130,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-PB-SE093-20230217-93-001",
-    "version": 4,
-    "startDate": "2023-02-17T20:23:52+01:00",
-    "expiresDate": "2023-02-18T02:23:52+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke aufgrund eines Brandereignisses - Bad Wünnenberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-SE033-20230217-33-001",
-    "version": 4,
-    "startDate": "2023-02-17T20:40:30+01:00",
-    "expiresDate": "2023-02-18T02:40:30+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand im Bereich Hamburg [Steilshoop - Hamburg Steilshoop"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-RP-KL-SE112-20230217-112-004",
     "version": 4,
     "startDate": "2023-02-17T22:14:07+01:00",
