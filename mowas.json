@@ -130,20 +130,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KL-SE112-20230217-112-004",
-    "version": 4,
-    "startDate": "2023-02-17T22:14:07+01:00",
-    "expiresDate": "2023-02-18T04:14:07+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Die Bombe ist erfolgreich entschärft - Kaiserslautern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-RP-KL-SE112-20230217-112-005",
     "version": 4,
     "startDate": "2023-02-17T22:20:32+01:00",
