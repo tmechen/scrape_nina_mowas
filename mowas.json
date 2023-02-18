@@ -130,34 +130,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KL-SE112-20230217-112-005",
-    "version": 4,
-    "startDate": "2023-02-17T22:20:32+01:00",
-    "expiresDate": "2023-02-18T04:20:32+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Die Bombe ist erfolgreich entschärft - Kaiserslautern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-NI-OL-W015-20230217-001",
-    "version": 4,
-    "startDate": "2023-02-17T23:12:02+01:00",
-    "expiresDate": "2023-02-18T05:12:02+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gebäudebrand Cloppenburg - Cloppenburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20230218-105-000",
     "version": 4,
     "startDate": "2023-02-18T04:15:49+01:00",
