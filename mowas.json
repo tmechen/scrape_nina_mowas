@@ -117,19 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-SLK-W069-20230217-001",
-    "version": 4,
-    "startDate": "2023-02-17T19:05:25+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand / starke Verrauchung im Einsatzgebiet - Amesdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20230218-105-001",
     "version": 4,
     "startDate": "2023-02-18T06:03:10+01:00",
@@ -141,6 +128,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-ST-SLK-W069-20230218-000",
+    "version": 4,
+    "startDate": "2023-02-18T09:46:29+01:00",
+    "expiresDate": "2023-02-18T15:46:29+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand / starke Verrauchung im Einsatzgebiet - Amesdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
