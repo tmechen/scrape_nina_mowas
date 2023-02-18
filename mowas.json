@@ -170,5 +170,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20230218-105-000",
+    "version": 4,
+    "startDate": "2023-02-18T04:15:49+01:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brand eines Hauses - Bad Schwartau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
