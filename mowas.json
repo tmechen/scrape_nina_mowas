@@ -115,5 +115,18 @@
     "transKeys": {
       "event": "BBK-EVC-004"
     }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20230219-28-000",
+    "version": 4,
+    "startDate": "2023-02-19T13:56:29+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Horst"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
