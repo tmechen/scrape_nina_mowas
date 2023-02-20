@@ -104,13 +104,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-W-SE061-20230217-61-000",
+    "id": "mow.DE-NW-W-SE061-20230220-61-000",
     "version": 4,
-    "startDate": "2023-02-17T07:38:50+01:00",
+    "startDate": "2023-02-20T09:36:17+01:00",
+    "expiresDate": "2023-02-20T15:36:17+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Vorsorgliche Information - Ausfall IT System Stadtverwaltung - Wuppertal"
+      "de": "Entwarnung: Vorsorgliche Information - Ausfall IT System Stadtverwaltung - Wuppertal"
     },
     "transKeys": {
       "event": "BBK-EVC-004"
