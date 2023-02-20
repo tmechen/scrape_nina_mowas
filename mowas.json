@@ -91,19 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-LM-W189-20230216-001",
-    "version": 4,
-    "startDate": "2023-02-16T15:19:40+01:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Trinkwasserversorgung Brechen. - Gemeinde Brechen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-SN-DD-W094-20230220-000",
     "version": 4,
     "startDate": "2023-02-20T14:20:15+01:00",
@@ -114,6 +101,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-HE-LM-W189-20230220-000",
+    "version": 4,
+    "startDate": "2023-02-20T16:40:14+01:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Entwarung -Trinkwasserversorgung Brechen. - Gemeinde Brechen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
