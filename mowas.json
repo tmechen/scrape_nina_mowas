@@ -102,19 +102,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-SN-DD-W094-20230220-001",
-    "version": 4,
-    "startDate": "2023-02-20T17:07:37+01:00",
-    "expiresDate": "2023-02-20T23:07:37+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gasleck - Dresden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
   }
 ]
