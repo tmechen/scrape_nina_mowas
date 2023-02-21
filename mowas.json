@@ -116,5 +116,18 @@
     "transKeys": {
       "event": "BBK-EVC-005"
     }
+  },
+  {
+    "id": "mow.DE-BW-AA-W035-20230221-000",
+    "version": 4,
+    "startDate": "2023-02-21T19:44:57+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Wohnhausbrand - Essingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-047"
+    }
   }
 ]
