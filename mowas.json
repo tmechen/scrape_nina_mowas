@@ -118,13 +118,14 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE003-20230222-3-000",
+    "id": "mow.DE-RP-MZ-SE003-20230222-3-001",
     "version": 4,
-    "startDate": "2023-02-22T18:28:29+01:00",
+    "startDate": "2023-02-22T21:51:14+01:00",
+    "expiresDate": "2023-02-23T03:51:14+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall im Bereich St. Julian - St. Julian"
+      "de": "Entwarnung: Stromausfall im Bereich St. Julian - St. Julian"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
