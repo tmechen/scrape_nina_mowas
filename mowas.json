@@ -104,27 +104,14 @@
     }
   },
   {
-    "id": "mow.DE-RP-KL-SE112-20230222-112-001",
+    "id": "mow.DE-RP-KL-SE112-20230222-112-003",
     "version": 4,
-    "startDate": "2023-02-22T10:13:09+01:00",
-    "expiresDate": "2023-02-22T16:13:09+01:00",
+    "startDate": "2023-02-22T16:25:47+01:00",
+    "expiresDate": "2023-02-22T22:25:47+01:00",
     "severity": "Minor",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Achtung Stromausfall - Kaiserslautern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-RP-KL-SE112-20230222-112-002",
-    "version": 4,
-    "startDate": "2023-02-22T14:31:36+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall in der OG Zellertal  - OT Niefernheim"
+      "de": "Entwarnung: Stromausfall in der OG Zellertal  - OT Niefernheim"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
