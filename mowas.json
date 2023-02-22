@@ -102,5 +102,18 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-RP-KL-SE112-20230222-112-000",
+    "version": 4,
+    "startDate": "2023-02-22T09:39:50+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Achtung Stromausfall - Kaiserslautern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
