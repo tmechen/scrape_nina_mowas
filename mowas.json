@@ -91,13 +91,14 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20230223-000",
+    "id": "mow.DE-BY-A-W083-20230223-001",
     "version": 4,
-    "startDate": "2023-02-23T08:34:32+01:00",
+    "startDate": "2023-02-23T09:24:17+01:00",
+    "expiresDate": "2023-02-23T15:24:17+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Brand - Ried"
+      "de": "Entwarnung: Rauchentwicklung durch Brand - Ried"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
