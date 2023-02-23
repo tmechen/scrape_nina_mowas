@@ -104,13 +104,14 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20230223-99-000",
+    "id": "mow.DE-SH-KI-SE099-20230223-99-001",
     "version": 4,
-    "startDate": "2023-02-23T15:53:57+01:00",
+    "startDate": "2023-02-23T18:53:35+01:00",
+    "expiresDate": "2023-02-24T00:53:35+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gefahreninformation Feuerwehreinsatz - Stadt Rendsburg"
+      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Stadt Rendsburg"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
