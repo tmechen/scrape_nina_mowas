@@ -103,5 +103,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-SH-HL-SE103-20230225-103-000",
+    "version": 4,
+    "startDate": "2023-02-25T08:42:31+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser Innenstadt und Travemünde - Hansestadt Lübeck"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
