@@ -91,20 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-MNG-W107-20230225-001",
-    "version": 4,
-    "startDate": "2023-02-25T04:49:21+01:00",
-    "expiresDate": "2023-02-25T10:49:21+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Brand im Stadtgebiet Meiningen - Landkreis Schmalkalden-Meiningen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-HL-SE103-20230225-103-001",
     "version": 4,
     "startDate": "2023-02-25T09:33:29+01:00",
