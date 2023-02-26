@@ -104,13 +104,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-DI-W104-20230226-000",
+    "id": "mow.DE-HE-DI-W104-20230226-001",
     "version": 4,
-    "startDate": "2023-02-26T03:52:20+01:00",
+    "startDate": "2023-02-26T14:01:30+01:00",
+    "expiresDate": "2023-02-26T20:01:30+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Brand – halten sie vorsorgl Fenster und Türen geschlossen  - Ober-Ramstadt / Kernstadt"
+      "de": "Entwarnung: Rauchentwicklung durch Brand – halten sie vorsorgl Fenster und Türen g - Ober-Ramstadt / Kernstadt"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
