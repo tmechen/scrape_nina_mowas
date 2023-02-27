@@ -145,11 +145,11 @@
     }
   },
   {
-    "id": "mow.DE-NI-DH-W233-20230227-000",
+    "id": "mow.DE-NI-DH-W233-20230227-001",
     "version": 4,
-    "startDate": "2023-02-27T15:30:36+01:00",
+    "startDate": "2023-02-27T15:42:08+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Starke Rauchentwicklung durch Gebäudebrand - Wagenfeld"
     },
