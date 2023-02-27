@@ -104,20 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20230227-100-001",
-    "version": 4,
-    "startDate": "2023-02-27T11:32:48+01:00",
-    "expiresDate": "2023-02-27T17:32:48+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Schadensfeuer - Gemeinde Kropp"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20230227-84-001",
     "version": 4,
     "startDate": "2023-02-27T14:05:26+01:00",
