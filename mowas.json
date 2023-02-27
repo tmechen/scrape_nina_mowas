@@ -143,5 +143,18 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-NI-DH-W233-20230227-000",
+    "version": 4,
+    "startDate": "2023-02-27T15:30:36+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Gebäudebrand - Wagenfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
