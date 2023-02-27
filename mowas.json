@@ -102,5 +102,18 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20230227-100-000",
+    "version": 4,
+    "startDate": "2023-02-27T10:24:37+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Schadensfeuer - Gemeinde Kropp"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
