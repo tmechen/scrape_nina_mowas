@@ -104,20 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE113-20230227-113-001",
-    "version": 4,
-    "startDate": "2023-02-27T16:45:32+01:00",
-    "expiresDate": "2023-02-27T22:45:32+01:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in der Ortslage Lütz, Gefährdung durch Rauch- und Brandgase  - 56290 Lütz im Landkreis Cochem-Zell"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-DH-W233-20230227-002",
     "version": 4,
     "startDate": "2023-02-27T21:14:41+01:00",
