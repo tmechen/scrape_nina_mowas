@@ -116,5 +116,18 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20230228-122-000",
+    "version": 4,
+    "startDate": "2023-02-28T02:35:31+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Sankt Egidien"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
