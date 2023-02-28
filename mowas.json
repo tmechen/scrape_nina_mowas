@@ -104,20 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-DH-W233-20230227-002",
-    "version": 4,
-    "startDate": "2023-02-27T21:14:41+01:00",
-    "expiresDate": "2023-02-28T03:14:41+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Gebäudebrand - Wagenfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SN-HY-SE048-20230228-122-000",
     "version": 4,
     "startDate": "2023-02-28T02:35:31+01:00",
