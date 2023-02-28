@@ -1,18 +1,5 @@
 [
   {
-    "id": "mow.DE-NW-D-SE047-20210427-47-001",
-    "version": 1,
-    "startDate": "2021-11-09T15:17:11+01:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Corona-Virus Düsseldorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-040"
-    }
-  },
-  {
     "id": "mow.DE-NW-ERK-SE056-20210131-56-000",
     "version": 1,
     "startDate": "2021-11-09T15:17:15+01:00",
@@ -144,6 +131,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-D-SE047-20230228-47-000",
+    "version": 4,
+    "startDate": "2023-02-28T17:39:59+01:00",
+    "expiresDate": "2023-02-28T23:39:59+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Corona-Virus Düsseldorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-040"
     }
   }
 ]
