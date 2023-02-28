@@ -132,5 +132,18 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20230228-67-000",
+    "version": 4,
+    "startDate": "2023-02-28T15:59:59+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Blindgänger an der Westfalenhütte - Dortmund"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
