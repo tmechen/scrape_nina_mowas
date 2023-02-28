@@ -93,19 +93,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20230228-67-000",
-    "version": 4,
-    "startDate": "2023-02-28T15:59:59+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Blindgänger an der Westfalenhütte - Dortmund"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-D-SE047-20230228-47-000",
     "version": 4,
     "startDate": "2023-02-28T17:39:59+01:00",
@@ -117,6 +104,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-040"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20230228-67-001",
+    "version": 4,
+    "startDate": "2023-02-28T18:22:06+01:00",
+    "expiresDate": "2023-03-01T00:22:06+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Blindgänger an der Westfalenhütte - Dortmund"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
