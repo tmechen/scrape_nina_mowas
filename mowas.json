@@ -78,29 +78,31 @@
     }
   },
   {
-    "id": "mow.DE-ST-SLK-W069-20230301-001",
+    "id": "mow.DE-SH-OD-SE105-20230301-105-001",
     "version": 4,
-    "startDate": "2023-03-01T02:31:36+01:00",
+    "startDate": "2023-03-01T09:28:13+01:00",
+    "expiresDate": "2023-03-01T15:28:13+01:00",
     "severity": "Minor",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauch- und Geruchsbelästigung durch Großbrand einer Lagerhalle - Bernburg ( Saale )"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-SH-OD-SE105-20230301-105-000",
-    "version": 4,
-    "startDate": "2023-03-01T08:22:37+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Klingberg"
+      "de": "Entwarnung: Feuerwehreinsatz - Klingberg"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-ST-SLK-W069-20230301-002",
+    "version": 4,
+    "startDate": "2023-03-01T09:29:00+01:00",
+    "expiresDate": "2023-03-01T15:29:00+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauch- und Geruchsbelästigung durch Großbrand einer Lagerhalle - Bernburg ( Saale )"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
