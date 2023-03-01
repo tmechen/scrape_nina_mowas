@@ -65,13 +65,14 @@
     }
   },
   {
-    "id": "mow.DE-MV-HST-W239-20230228-000",
+    "id": "mow.DE-MV-HST-W239-20230301-000",
     "version": 4,
-    "startDate": "2023-02-28T19:18:07+01:00",
+    "startDate": "2023-03-01T18:46:05+01:00",
+    "expiresDate": "2023-03-02T00:46:05+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauch- und Geruchsbelästigung durch Brand von Reifen - Amtsbereich Sundhagen/ Gemeinde Horst"
+      "de": "Entwarnung: Rauch- und Geruchsbelästigung durch Brand von Reifen - Amtsbereich Sundhagen/ Gemeinde Horst"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
