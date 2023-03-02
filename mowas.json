@@ -65,13 +65,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230301-50-000",
+    "id": "mow.DE-BW-RT-SE050-20230302-50-000",
     "version": 4,
-    "startDate": "2023-03-01T22:08:02+01:00",
+    "startDate": "2023-03-02T09:54:40+01:00",
+    "expiresDate": "2023-03-02T15:54:40+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gebäudebrand zwischen Mönchweiler und Königsfeld - Ortsbereich Mönchweiler"
+      "de": "Entwarnung: Gebäudebrand zwischen Mönchweiler und Königsfeld - Ortsbereich Mönchweiler"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
