@@ -79,19 +79,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DN-SE054-20230302-54-000",
-    "version": 4,
-    "startDate": "2023-03-02T12:22:24+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Langerwehe-Schlich  - Langerwehe Ortsteile Schlich und D'horn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-SN-Z-W095-20230302-000",
     "version": 4,
     "startDate": "2023-03-02T14:10:43+01:00",
@@ -102,6 +89,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-081"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20230302-54-001",
+    "version": 4,
+    "startDate": "2023-03-02T15:21:27+01:00",
+    "expiresDate": "2023-03-02T21:21:27+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Langerwehe-Schlich  - Langerwehe Ortsteile Schlich und D'horn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
