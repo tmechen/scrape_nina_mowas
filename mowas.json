@@ -90,5 +90,18 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-SN-Z-W095-20230302-000",
+    "version": 4,
+    "startDate": "2023-03-02T14:10:43+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Notaufnahme der Paracelsus-Klinik Reichenbach/V. nachts geschlossen - Vogtlandkreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-081"
+    }
   }
 ]
