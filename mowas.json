@@ -78,27 +78,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20230303-31-000",
+    "id": "mow.DE-NW-ERK-SE056-20230303-56-001",
     "version": 4,
-    "startDate": "2023-03-03T01:11:52+01:00",
-    "expiresDate": "2023-03-03T07:11:52+01:00",
-    "severity": "Severe",
+    "startDate": "2023-03-03T07:05:31+01:00",
+    "expiresDate": "2023-03-03T13:05:31+01:00",
+    "severity": "Minor",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: großflächiger Ausfall von Infrastruktur (Strom) - Köln-Mülheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-NW-ERK-SE056-20230303-56-000",
-    "version": 4,
-    "startDate": "2023-03-03T03:31:56+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase in Hückelhoven Stadt und Ortslage Hilfarth - Nordrhein Westfalen Kreis Heinsberg 41836 Hückelhoven"
+      "de": "Entwarnung: Rauchgase in Hückelhoven Stadt und Ortslage Hilfarth - Nordrhein Westfalen Kreis Heinsberg 41836 Hückelhoven"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
