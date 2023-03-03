@@ -78,13 +78,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20230302-31-000",
+    "id": "mow.DE-NW-K-SE031-20230303-31-000",
     "version": 4,
-    "startDate": "2023-03-02T21:26:49+01:00",
+    "startDate": "2023-03-03T01:11:52+01:00",
+    "expiresDate": "2023-03-03T07:11:52+01:00",
     "severity": "Severe",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "großflächiger Ausfall von Infrastruktur (Strom) - Köln-Mülheim"
+      "de": "Entwarnung: großflächiger Ausfall von Infrastruktur (Strom) - Köln-Mülheim"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
