@@ -90,5 +90,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20230303-18-000",
+    "version": 4,
+    "startDate": "2023-03-03T11:02:17+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand/Großbrand in (ORT) - Laupheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
