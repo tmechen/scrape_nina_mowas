@@ -78,20 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-FB-W193-20230303-001",
-    "version": 4,
-    "startDate": "2023-03-03T18:18:23+01:00",
-    "expiresDate": "2023-03-04T00:18:23+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Großbrand - Rosbach v.d. Höhe"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-SO-SE089-20230303-89-001",
     "version": 4,
     "startDate": "2023-03-03T21:09:53+01:00",
