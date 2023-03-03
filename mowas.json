@@ -78,20 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20230303-18-001",
-    "version": 4,
-    "startDate": "2023-03-03T11:33:33+01:00",
-    "expiresDate": "2023-03-03T17:33:33+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand/Großbrand in (ORT) - Laupheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-FB-W193-20230303-000",
     "version": 4,
     "startDate": "2023-03-03T13:54:04+01:00",
