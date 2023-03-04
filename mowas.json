@@ -78,20 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-KLE-SE058-20230304-58-001",
-    "version": 4,
-    "startDate": "2023-03-04T12:03:14+01:00",
-    "expiresDate": "2023-03-04T18:03:14+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm im Kreis Kleve - Kreis Kleve"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20230304-001",
     "version": 4,
     "startDate": "2023-03-04T12:05:15+01:00",
