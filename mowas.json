@@ -76,5 +76,18 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
+  },
+  {
+    "id": "mow.DE-TH-UH-W116-20230304-001",
+    "version": 4,
+    "startDate": "2023-03-04T10:38:49+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Funktionsprobe der Sirenen und Meldeempfänger im Unstrut-Hainich-Kreis - UH Kreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
