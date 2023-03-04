@@ -76,19 +76,5 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
-  },
-  {
-    "id": "mow.DE-NW-SO-SE089-20230303-89-001",
-    "version": 4,
-    "startDate": "2023-03-03T21:09:53+01:00",
-    "expiresDate": "2023-03-04T03:09:53+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Werl, Ortsteil Westönnen - Werl, Ortsteil Westönnen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
