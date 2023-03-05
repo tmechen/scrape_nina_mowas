@@ -78,13 +78,14 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20230305-29-000",
+    "id": "mow.DE-NI-STD-SE029-20230305-29-001",
     "version": 4,
-    "startDate": "2023-03-05T14:43:55+01:00",
+    "startDate": "2023-03-05T16:27:46+01:00",
+    "expiresDate": "2023-03-05T22:27:46+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand im Landkreis Ammerland,in der Gemeinde Edewecht, in der Hauptstr. - Edewecht"
+      "de": "Entwarnung: Großbrand im Landkreis Ammerland,in der Gemeinde Edewecht, in der Haup - Edewecht"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
