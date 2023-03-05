@@ -76,19 +76,5 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
-  },
-  {
-    "id": "mow.DE-ST-MD-SE022-20230305-143-000",
-    "version": 4,
-    "startDate": "2023-03-05T03:41:37+01:00",
-    "expiresDate": "2023-03-05T09:41:37+01:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Nach starker Rauchentwicklung mit Brand  - Berßel , Zilly und Umgebung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
