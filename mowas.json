@@ -26,19 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MH-SE065-20200612-65-002",
-    "version": 1,
-    "startDate": "2021-11-09T15:17:22+01:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Information für die Bevölkerung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-040"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20200819-35-000",
     "version": 1,
     "startDate": "2021-11-09T15:17:24+01:00",
@@ -89,6 +76,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MH-SE065-20230306-65-000",
+    "version": 4,
+    "startDate": "2023-03-06T15:29:59+01:00",
+    "expiresDate": "2023-03-06T21:29:59+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Information für die Bevölkerung"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-040"
     }
   }
 ]
