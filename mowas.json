@@ -78,20 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HF-SE039-20230306-39-001",
-    "version": 4,
-    "startDate": "2023-03-06T07:18:58+01:00",
-    "expiresDate": "2023-03-06T13:18:58+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand eines Landwirtschaflichen Gebäudes mit starker Rauchentwicklung - Löhne, Wittel, Bereich Koblenzer Straße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-KLE-SE058-20230306-58-000",
     "version": 4,
     "startDate": "2023-03-06T12:41:04+01:00",
