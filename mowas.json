@@ -63,19 +63,5 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
-  },
-  {
-    "id": "mow.DE-NW-MH-SE065-20230306-65-000",
-    "version": 4,
-    "startDate": "2023-03-06T15:29:59+01:00",
-    "expiresDate": "2023-03-06T21:29:59+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Information für die Bevölkerung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-040"
-    }
   }
 ]
