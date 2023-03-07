@@ -63,19 +63,5 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
-  },
-  {
-    "id": "mow.DE-SN-HY-SE048-20230307-122-002",
-    "version": 4,
-    "startDate": "2023-03-07T07:52:05+01:00",
-    "expiresDate": "2023-03-07T13:52:05+01:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Störung Erreichbarkeit der Integrierten Regionalleitstelle Ostsachsen  - Landkreise Bautzen und Görlitz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
   }
 ]
