@@ -63,5 +63,18 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20230307-122-001",
+    "version": 4,
+    "startDate": "2023-03-07T04:57:53+01:00",
+    "severity": "Severe",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Störung Erreichbarkeit der Integrierten Regionalleitstelle Ostsachsen (IRLS - OSN) - Landkreise Bautzen und Görlitz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
