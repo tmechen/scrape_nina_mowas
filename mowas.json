@@ -63,5 +63,18 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20230308-89-000",
+    "version": 4,
+    "startDate": "2023-03-08T19:21:15+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung  - Stadt Werl im westlichen Bereich"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
