@@ -76,5 +76,70 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-BY-TS-W135-20230309-000",
+    "version": 4,
+    "startDate": "2023-03-09T10:30:10+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Information Probealarm - Landkreise Altötting, Berchtesgadener Land, Mühldorf a. Inn, Traunstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-LA-W144-20230309-000",
+    "version": 4,
+    "startDate": "2023-03-09T10:32:22+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Landesweiter Sirenenprobealarm - Landkreis Kelheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20230309-000",
+    "version": 4,
+    "startDate": "2023-03-09T10:33:04+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Landesweiter Warntag am 09.03. Überprüfung der Sirenenwarnsysteme und der WarnApp  - Landkreis Neu-Ulm"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-FFB-W143-20230309-000",
+    "version": 4,
+    "startDate": "2023-03-09T10:38:27+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "ÜBUNG!!!! \tÜBUNG!!!! \tÜBUNG!!!! \tÜBUNG!!!! \tÜBUNG!!!! - Landkreis Landsberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20230309-001",
+    "version": 4,
+    "startDate": "2023-03-09T10:44:28+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Landeseinheitlicher Probealarm in Bayern - Landkreis Günzburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
