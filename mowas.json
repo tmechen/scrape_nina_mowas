@@ -78,19 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20230309-000",
-    "version": 4,
-    "startDate": "2023-03-09T10:53:03+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "KEINE GEFAHR- landesweit einheitlicher Probealarm - Stadtgebiet Ingolstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-RP-KO-SE113-20230309-113-001",
     "version": 4,
     "startDate": "2023-03-09T11:03:09+01:00",
@@ -483,13 +470,28 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20230309-003",
+    "id": "mow.DE-BY-IN-W139-20230309-004",
     "version": 4,
-    "startDate": "2023-03-09T11:41:53+01:00",
+    "startDate": "2023-03-09T11:50:16+01:00",
+    "expiresDate": "2023-03-09T17:50:16+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung - Stadtgebiet Ingolstadt"
+      "de": "Entwarnung: KEINE GEFAHR- landesweit einheitlicher Probealarm - Stadtgebiet Ingolstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20230309-005",
+    "version": 4,
+    "startDate": "2023-03-09T11:50:48+01:00",
+    "expiresDate": "2023-03-09T17:50:48+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Entwarnung - Stadtgebiet Ingolstadt"
     },
     "transKeys": {
       "event": "BBK-EVC-050"
