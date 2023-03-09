@@ -91,84 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-E-SE052-20230309-52-000",
-    "version": 4,
-    "startDate": "2023-03-09T10:55:12+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall Notruf 112 - Essen (gesamtes Stadtgebiet)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-NW-D-SE020-20230309-20-000",
-    "version": 4,
-    "startDate": "2023-03-09T10:59:15+01:00",
-    "severity": "Extreme",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweiter Warntag - Es besteht KEINE GEFAHR - Nordrhein-Westfalen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-WEN-W130-20230309-000",
-    "version": 4,
-    "startDate": "2023-03-09T11:00:09+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweiter Warntag- Keine Gefahr-Übung - Landkreis Tirschenreuth"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-AN-W166-20230309-001",
-    "version": 4,
-    "startDate": "2023-03-09T11:00:09+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Übung - Übung - Übung  - Heute bayernweit einheitlicher Warntag - Landkreis Ansbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BY-CO-W141-20230309-000",
-    "version": 4,
-    "startDate": "2023-03-09T11:00:25+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bundesweiter Warntag - Probewarnung - Landkreis Kronach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-CO-W141-20230309-001",
-    "version": 4,
-    "startDate": "2023-03-09T11:00:40+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bayernweiter Warntag: Probewarnung der kreisfreien Stadt Coburg  - Stadt Coburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-RP-KO-SE113-20230309-113-001",
     "version": 4,
     "startDate": "2023-03-09T11:03:09+01:00",
@@ -177,32 +99,6 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Probealarm der Stadt Koblenz - Stadtgebiet Koblenz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-BT-W082-20230309-001",
-    "version": 4,
-    "startDate": "2023-03-09T11:03:37+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweiter einheitlicher Probealarm Bayern 2023 - Landkreis Kulmbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-M-SE010-20230309-10-000",
-    "version": 4,
-    "startDate": "2023-03-09T11:05:16+01:00",
-    "severity": "Extreme",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Probealarm - Es besteht keine Gefahr - Bayern"
     },
     "transKeys": {
       "event": "BBK-EVC-050"
@@ -469,6 +365,118 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: ÜBUNG!!!! \tÜBUNG!!!! \tÜBUNG!!!! \tÜBUNG!!!! \tÜBUNG!!!! - Landkreis Landsberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-D-SE020-20230309-20-001",
+    "version": 4,
+    "startDate": "2023-03-09T11:20:07+01:00",
+    "expiresDate": "2023-03-09T17:20:07+01:00",
+    "severity": "Extreme",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landesweiter Warntag - Es besteht KEINE GEFAHR - Nordrhein-Westfalen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-CO-W141-20230309-002",
+    "version": 4,
+    "startDate": "2023-03-09T11:20:09+01:00",
+    "expiresDate": "2023-03-09T17:20:09+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bayernweiter Warntag: Probewarnung der kreisfreien Stadt Coburg  - Stadt Coburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-BT-W082-20230309-003",
+    "version": 4,
+    "startDate": "2023-03-09T11:20:15+01:00",
+    "expiresDate": "2023-03-09T17:20:15+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landesweiter einheitlicher Probealarm Bayern 2023 - Landkreis Kulmbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-CO-W141-20230309-003",
+    "version": 4,
+    "startDate": "2023-03-09T11:20:45+01:00",
+    "expiresDate": "2023-03-09T17:20:45+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bundesweiter Warntag - Probewarnung - Landkreis Kronach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-WEN-W130-20230309-001",
+    "version": 4,
+    "startDate": "2023-03-09T11:21:21+01:00",
+    "expiresDate": "2023-03-09T17:21:21+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Entwarnung Landesweiter Warntag - Landkreis Tirschenreuth"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-M-SE010-20230309-10-001",
+    "version": 4,
+    "startDate": "2023-03-09T11:25:26+01:00",
+    "expiresDate": "2023-03-09T17:25:26+01:00",
+    "severity": "Extreme",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Probealarm - Es besteht keine Gefahr - Bayern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-NW-E-SE052-20230309-52-001",
+    "version": 4,
+    "startDate": "2023-03-09T11:32:13+01:00",
+    "expiresDate": "2023-03-09T17:32:13+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall Notruf 112 - Essen (gesamtes Stadtgebiet)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-AN-W166-20230309-002",
+    "version": 4,
+    "startDate": "2023-03-09T11:32:35+01:00",
+    "expiresDate": "2023-03-09T17:32:35+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Übung - Übung - Übung  - Heute bayernweit einheitlicher Warntag - Landkreis Ansbach"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
