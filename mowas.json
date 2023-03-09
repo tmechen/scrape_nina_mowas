@@ -76,19 +76,5 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
-  },
-  {
-    "id": "mow.DE-BY-IN-W139-20230309-005",
-    "version": 4,
-    "startDate": "2023-03-09T11:50:48+01:00",
-    "expiresDate": "2023-03-09T17:50:48+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Entwarnung - Stadtgebiet Ingolstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
   }
 ]
