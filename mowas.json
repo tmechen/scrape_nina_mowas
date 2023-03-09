@@ -76,5 +76,18 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20230309-33-000",
+    "version": 4,
+    "startDate": "2023-03-09T22:30:24+01:00",
+    "severity": "Extreme",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Amtliche Gefahrendurchsage der Behörde für Inneres - Polizei  - Hamburg, Groß Borstel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-044"
+    }
   }
 ]
