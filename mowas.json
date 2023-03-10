@@ -78,13 +78,14 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20230309-33-000",
+    "id": "mow.DE-HH-HH-SE033-20230310-33-000",
     "version": 4,
-    "startDate": "2023-03-09T22:30:24+01:00",
+    "startDate": "2023-03-10T03:02:13+01:00",
+    "expiresDate": "2023-03-10T09:02:13+01:00",
     "severity": "Extreme",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Amtliche Gefahrendurchsage der Behörde für Inneres - Polizei  - Hamburg, Groß Borstel"
+      "de": "Entwarnung: Amtliche Gefahrendurchsage der Behörde für Inneres - Polizei  - Hamburg, Groß Borstel"
     },
     "transKeys": {
       "event": "BBK-EVC-044"
