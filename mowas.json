@@ -52,19 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-Z-W095-20230302-000",
-    "version": 4,
-    "startDate": "2023-03-02T14:10:43+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Notaufnahme der Paracelsus-Klinik Reichenbach/V. nachts geschlossen - Vogtlandkreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-081"
-    }
-  },
-  {
     "id": "mow.DE-BY-AN-W166-20230309-000",
     "version": 4,
     "startDate": "2023-03-09T08:05:19+01:00",
@@ -78,17 +65,17 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20230310-33-000",
+    "id": "mow.DE-SN-Z-W095-20230310-000",
     "version": 4,
-    "startDate": "2023-03-10T03:02:13+01:00",
-    "expiresDate": "2023-03-10T09:02:13+01:00",
-    "severity": "Extreme",
+    "startDate": "2023-03-10T08:53:43+01:00",
+    "expiresDate": "2023-03-10T14:53:43+01:00",
+    "severity": "Minor",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Amtliche Gefahrendurchsage der Behörde für Inneres - Polizei  - Hamburg, Groß Borstel"
+      "de": "Entwarnung: Notaufnahme der Paracelsus-Klinik Reichenbach/V.  - Vogtlandkreis"
     },
     "transKeys": {
-      "event": "BBK-EVC-044"
+      "event": "BBK-EVC-081"
     }
   }
 ]
