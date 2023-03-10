@@ -63,5 +63,18 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-RP-LU-SE005-20230310-5-000",
+    "version": 4,
+    "startDate": "2023-03-10T20:43:25+01:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "großflächiger Ausfall Stromversorgung in / im Stadtgebiet Ludwigshafen am Rhein - Stadtgebiet Ludwigshafen am Rhein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
