@@ -52,20 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-AN-W166-20230310-000",
-    "version": 4,
-    "startDate": "2023-03-10T09:31:54+01:00",
-    "expiresDate": "2023-03-10T15:31:54+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rezatparkplatz wegen Hochwasser gesperrt - Stadt Ansbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20230310-000",
     "version": 4,
     "startDate": "2023-03-10T11:24:26+01:00",
