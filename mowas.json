@@ -76,5 +76,18 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-RP-LU-SE005-20230310-5-001",
+    "version": 4,
+    "startDate": "2023-03-10T21:38:47+01:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Notruf 112 Festnetz und Mobilfunk - Im Stadtgebiet Grünstadt und in der Verbandsgemeidene Leininger LAnd"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
+    }
   }
 ]
