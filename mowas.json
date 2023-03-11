@@ -79,13 +79,14 @@
     }
   },
   {
-    "id": "mow.DE-RP-LU-SE005-20230310-5-003",
+    "id": "mow.DE-RP-LU-SE005-20230310-5-004",
     "version": 4,
-    "startDate": "2023-03-10T23:54:28+01:00",
+    "startDate": "2023-03-11T00:53:46+01:00",
+    "expiresDate": "2023-03-11T06:53:46+01:00",
     "severity": "Severe",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großflächiger Ausfall der Stromversorgung im Stadtgebiet Ludwigshafen am Rhein - Stadtgebiet Ludwigshafen am Rhein"
+      "de": "Entwarnung: Stromversorgung im Stadtgebiet Ludwigshafen ist wieder hergestellt. - Stadtgebiet Ludwigshafen am Rhein"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
