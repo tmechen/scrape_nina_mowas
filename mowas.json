@@ -52,13 +52,14 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20230310-000",
+    "id": "mow.DE-BY-IN-W139-20230311-000",
     "version": 4,
-    "startDate": "2023-03-10T11:24:26+01:00",
+    "startDate": "2023-03-11T20:03:26+01:00",
+    "expiresDate": "2023-03-12T02:03:26+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Fälschliche Sirenenauslösung zur Warnung der Bevölkerung - Landkreis Eichstätt"
+      "de": "Entwarnung: Fälschliche Sirenenauslösung zur Warnung der Bevölkerung - Landkreis Eichstätt"
     },
     "transKeys": {
       "event": "BBK-EVC-060"
