@@ -63,19 +63,5 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
-  },
-  {
-    "id": "mow.DE-RP-LU-SE005-20230310-5-004",
-    "version": 4,
-    "startDate": "2023-03-11T00:53:46+01:00",
-    "expiresDate": "2023-03-11T06:53:46+01:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromversorgung im Stadtgebiet Ludwigshafen ist wieder hergestellt. - Stadtgebiet Ludwigshafen am Rhein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
   }
 ]
