@@ -50,5 +50,18 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20230312-12-000",
+    "version": 4,
+    "startDate": "2023-03-12T07:36:05+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Telefonanlage der Polizeiinspektion Sömmerda - Thüringen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
+    }
   }
 ]
