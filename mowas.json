@@ -64,5 +64,18 @@
     "transKeys": {
       "event": "BBK-EVC-006"
     }
+  },
+  {
+    "id": "mow.DE-RP-LD-SE117-20230312-121-000",
+    "version": 4,
+    "startDate": "2023-03-12T17:12:38+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brandeinsatz - Es geht keine Gefahr für die Bevölkerung aus! - Petersberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
