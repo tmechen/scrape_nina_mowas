@@ -78,5 +78,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BB-BRB-SE081-20230312-81-000",
+    "version": 4,
+    "startDate": "2023-03-12T21:07:56+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "starke Rauchentwicklung durch Gebäudebrand - Brandenburg an der Havel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
