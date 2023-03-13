@@ -50,19 +50,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-NW-ST-SE032-20230313-32-001",
-    "version": 4,
-    "startDate": "2023-03-13T18:14:22+01:00",
-    "expiresDate": "2023-03-14T00:14:22+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Rheine - Bereich Hovestr.  - Rheine, Hovestr. Hafenbahn, Welkinghove, Münsterstr."
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
   }
 ]
