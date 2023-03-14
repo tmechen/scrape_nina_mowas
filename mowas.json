@@ -52,20 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20230314-100-001",
-    "version": 4,
-    "startDate": "2023-03-14T09:49:34+01:00",
-    "expiresDate": "2023-03-14T15:49:34+01:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gasaustritt  - Sylt / OT Tinnum"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-NW-UN-SE068-20230314-68-001",
     "version": 4,
     "startDate": "2023-03-14T12:16:52+01:00",
