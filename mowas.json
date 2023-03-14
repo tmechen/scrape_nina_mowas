@@ -50,5 +50,18 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20230314-100-000",
+    "version": 4,
+    "startDate": "2023-03-14T09:03:41+01:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gasaustritt im Bereich Sylt / OT Tinnum - Sylt / OT Tinnum"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
