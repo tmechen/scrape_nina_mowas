@@ -52,16 +52,30 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20230314-100-000",
+    "id": "mow.DE-SH-FL-SE100-20230314-100-001",
     "version": 4,
-    "startDate": "2023-03-14T09:03:41+01:00",
+    "startDate": "2023-03-14T09:49:34+01:00",
+    "expiresDate": "2023-03-14T15:49:34+01:00",
     "severity": "Severe",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gasaustritt im Bereich Sylt / OT Tinnum - Sylt / OT Tinnum"
+      "de": "Entwarnung: Gasaustritt  - Sylt / OT Tinnum"
     },
     "transKeys": {
       "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-NW-UN-SE068-20230314-68-000",
+    "version": 4,
+    "startDate": "2023-03-14T10:03:56+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Bergkamen  - Bergkamen Untere Erlentiefenstraße, Overberger Str. 93-113, Industriestraße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
