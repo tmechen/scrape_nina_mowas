@@ -63,5 +63,18 @@
     "transKeys": {
       "event": "BBK-EVC-006"
     }
+  },
+  {
+    "id": "mow.DE-RP-KO-SE113-20230315-113-000",
+    "version": 4,
+    "startDate": "2023-03-15T19:26:45+01:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall des Notrufes im Bereich der VG Altenahr - Verbandsgemeinde Altenahr"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
+    }
   }
 ]
