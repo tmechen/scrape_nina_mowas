@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20230315-56-000",
-    "version": 4,
-    "startDate": "2023-03-15T10:15:02+01:00",
-    "expiresDate": "2023-03-15T16:15:02+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Coronavirus im Kreis Heinsberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-040"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-SE004-20230315-4-000",
     "version": 4,
     "startDate": "2023-03-15T13:24:21+01:00",
