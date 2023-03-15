@@ -51,5 +51,18 @@
     "transKeys": {
       "event": "BBK-EVC-040"
     }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20230315-4-000",
+    "version": 4,
+    "startDate": "2023-03-15T13:24:21+01:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall von Festnetz-Telefon und Internet  - Westen Triers"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
+    }
   }
 ]
