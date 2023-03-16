@@ -26,26 +26,28 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20230315-4-000",
+    "id": "mow.DE-RP-TR-SE004-20230316-4-000",
     "version": 4,
-    "startDate": "2023-03-15T13:24:21+01:00",
+    "startDate": "2023-03-16T14:12:36+01:00",
+    "expiresDate": "2023-03-16T20:12:36+01:00",
     "severity": "Severe",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall von Festnetz-Telefon und Internet  - Westen Triers"
+      "de": "Entwarnung: Ausfall von Festnetz-Telefon und Internet  - Westen Triers"
     },
     "transKeys": {
       "event": "BBK-EVC-006"
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE107-20230315-107-000",
+    "id": "mow.DE-RP-TR-SE107-20230316-107-000",
     "version": 4,
-    "startDate": "2023-03-15T13:45:58+01:00",
+    "startDate": "2023-03-16T14:21:39+01:00",
+    "expiresDate": "2023-03-16T20:21:39+01:00",
     "severity": "Severe",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall von Festnetz-Telefon und Internet  - Aach, Newel, Igel, Langsur, Welschbillig, Kordel, Trierweiler"
+      "de": "Entwarnung: Ausfall von Festnetz-Telefon und Internet  - Aach, Newel, Igel, Langsur, Welschbillig, Kordel, Trierweiler"
     },
     "transKeys": {
       "event": "BBK-EVC-006"
