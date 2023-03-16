@@ -24,19 +24,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-RP-TR-SE107-20230316-107-000",
-    "version": 4,
-    "startDate": "2023-03-16T14:21:39+01:00",
-    "expiresDate": "2023-03-16T20:21:39+01:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall von Festnetz-Telefon und Internet  - Aach, Newel, Igel, Langsur, Welschbillig, Kordel, Trierweiler"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-006"
-    }
   }
 ]
