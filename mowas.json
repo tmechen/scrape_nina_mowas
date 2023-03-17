@@ -24,19 +24,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-BW-UL-W127-20230317-001",
-    "version": 4,
-    "startDate": "2023-03-17T08:54:26+01:00",
-    "expiresDate": "2023-03-17T14:54:26+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung Ulm-Oststadt - Stadtkreis Ulm, Stadtteile Oststadt, Stadtmitte, Safranberg, Böfingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
