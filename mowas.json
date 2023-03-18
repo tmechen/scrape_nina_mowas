@@ -37,5 +37,18 @@
     "transKeys": {
       "event": "BBK-EVC-045"
     }
+  },
+  {
+    "id": "mow.DE-TH-HIG-W111-20230318-000",
+    "version": 4,
+    "startDate": "2023-03-18T11:20:24+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenen-Funktionsprobe Stadt Heiligenstadt und VG Lindenberg/Eichsfeld - Landkreis Eichsfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
