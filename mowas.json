@@ -26,19 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-W017-20230320-000",
-    "version": 4,
-    "startDate": "2023-03-20T07:40:59+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Entschärfung einer Weltkriegsbombe in Berlin-Zehlendorf - Berlin-Zehlendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-SN-HY-SE048-20230320-122-001",
     "version": 4,
     "startDate": "2023-03-20T12:01:05+01:00",
@@ -64,6 +51,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-045"
+    }
+  },
+  {
+    "id": "mow.DE-BR-B-W017-20230320-001",
+    "version": 4,
+    "startDate": "2023-03-20T14:39:19+01:00",
+    "expiresDate": "2023-03-20T20:39:19+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Entschärfung einer Weltkriegsbombe in Berlin-Zehlendorf - Berlin-Zehlendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
