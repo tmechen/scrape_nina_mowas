@@ -37,5 +37,18 @@
     "transKeys": {
       "event": "BBK-EVC-045"
     }
+  },
+  {
+    "id": "mow.DE-BR-B-W017-20230320-000",
+    "version": 4,
+    "startDate": "2023-03-20T07:40:59+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Entschärfung einer Weltkriegsbombe in Berlin-Zehlendorf - Berlin-Zehlendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
