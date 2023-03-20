@@ -26,20 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-W017-20230320-001",
-    "version": 4,
-    "startDate": "2023-03-20T14:39:19+01:00",
-    "expiresDate": "2023-03-20T20:39:19+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Entschärfung einer Weltkriegsbombe in Berlin-Zehlendorf - Berlin-Zehlendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-DO-SE067-20230320-67-000",
     "version": 4,
     "startDate": "2023-03-20T17:07:13+01:00",
@@ -50,6 +36,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BY-RO-W136-20230320-000",
+    "version": 4,
+    "startDate": "2023-03-20T20:34:22+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahrgutaustritt - Hausham, Bahnhof"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-012"
     }
   }
 ]
