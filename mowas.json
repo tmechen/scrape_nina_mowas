@@ -52,13 +52,14 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20230320-122-000",
+    "id": "mow.DE-SN-HY-SE048-20230320-122-001",
     "version": 4,
-    "startDate": "2023-03-20T10:13:19+01:00",
+    "startDate": "2023-03-20T12:01:05+01:00",
+    "expiresDate": "2023-03-20T18:01:05+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke durch Brand in Lagerhalle - Chemnitz"
+      "de": "Entwarnung: Rauchwolke durch Brand in Lagerhalle - Chemnitz"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
