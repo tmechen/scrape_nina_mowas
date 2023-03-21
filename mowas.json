@@ -26,13 +26,14 @@
     }
   },
   {
-    "id": "mow.DE-BY-RO-W136-20230320-000",
+    "id": "mow.DE-BY-RO-W136-20230321-000",
     "version": 4,
-    "startDate": "2023-03-20T20:34:22+01:00",
+    "startDate": "2023-03-21T07:04:27+01:00",
+    "expiresDate": "2023-03-21T13:04:27+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gefahrgutaustritt - Hausham, Bahnhof"
+      "de": "Entwarnung: Gefahrgutaustritt - Hausham, Bahnhof"
     },
     "transKeys": {
       "event": "BBK-EVC-012"
