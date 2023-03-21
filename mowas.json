@@ -24,5 +24,31 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-HE-DI-W104-20230321-000",
+    "version": 4,
+    "startDate": "2023-03-21T14:30:14+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Fund von Weltkriegsbombe in - Weiterstadt / Stadtteil Riedbahn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-HE-DA-W184-20230321-000",
+    "version": 4,
+    "startDate": "2023-03-21T14:30:52+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Fund von Weltkriegsbombe - Evakuierung - Darmstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
