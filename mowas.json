@@ -26,24 +26,24 @@
     }
   },
   {
-    "id": "mow.DE-HE-DI-W104-20230321-000",
+    "id": "mow.DE-NW-HER-SE083-20230321-83-000",
     "version": 4,
-    "startDate": "2023-03-21T14:30:14+01:00",
+    "startDate": "2023-03-21T16:44:32+01:00",
     "severity": "Minor",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Fund von Weltkriegsbombe in - Weiterstadt / Stadtteil Riedbahn"
+      "de": "Fund einer Weltkriegsbombe - Herne"
     },
     "transKeys": {
       "event": "BBK-EVC-009"
     }
   },
   {
-    "id": "mow.DE-HE-DA-W184-20230321-000",
+    "id": "mow.DE-HE-DA-W184-20230321-001",
     "version": 4,
-    "startDate": "2023-03-21T14:30:52+01:00",
+    "startDate": "2023-03-21T19:07:51+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Fund von Weltkriegsbombe - Evakuierung - Darmstadt"
     },
@@ -52,13 +52,13 @@
     }
   },
   {
-    "id": "mow.DE-NW-HER-SE083-20230321-83-000",
+    "id": "mow.DE-HE-DI-W104-20230321-001",
     "version": 4,
-    "startDate": "2023-03-21T16:44:32+01:00",
+    "startDate": "2023-03-21T19:10:34+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Fund einer Weltkriegsbombe - Herne"
+      "de": "Fund von Weltkriegsbombe in - Weiterstadt / Stadtteil Riedbahn"
     },
     "transKeys": {
       "event": "BBK-EVC-009"
