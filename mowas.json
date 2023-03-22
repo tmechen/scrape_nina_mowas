@@ -93,5 +93,18 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-NW-UN-SE068-20230322-68-003",
+    "version": 4,
+    "startDate": "2023-03-22T14:19:44+01:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Entschärfung eines Blindgängers - Hamm-Wiescherhöfen/Weetfeld / Bönen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
