@@ -26,34 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HAM-SE085-20230322-85-002",
-    "version": 5,
-    "startDate": "2023-03-22T15:29:35+01:00",
-    "expiresDate": "2023-03-22T21:29:35+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Entschärfung eines Blindgängers - Hamm-Wiescherhöfen/Weetfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NW-UN-SE068-20230322-68-004",
-    "version": 5,
-    "startDate": "2023-03-22T15:30:46+01:00",
-    "expiresDate": "2023-03-22T21:30:46+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Entschärfung eines Blindgängers - Hamm-Wiescherhöfen/Weetfeld / Bönen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-SN-DD-W094-20230322-001",
     "version": 5,
     "startDate": "2023-03-22T16:11:35+01:00",
