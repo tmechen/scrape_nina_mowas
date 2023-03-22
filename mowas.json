@@ -50,19 +50,5 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
-  },
-  {
-    "id": "mow.DE-NW-HER-SE083-20230321-83-001",
-    "version": 4,
-    "startDate": "2023-03-21T20:09:39+01:00",
-    "expiresDate": "2023-03-22T02:09:39+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Fund einer Weltkriegsbombe - Herne"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
   }
 ]
