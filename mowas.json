@@ -26,19 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HAM-SE085-20230322-85-001",
-    "version": 4,
-    "startDate": "2023-03-22T12:51:26+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Entschärfung eines Blindgängers - Hamm-Wiescherhöfen/Weetfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20230322-106-001",
     "version": 4,
     "startDate": "2023-03-22T13:03:38+01:00",
@@ -95,19 +82,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-UN-SE068-20230322-68-003",
-    "version": 4,
-    "startDate": "2023-03-22T14:19:44+01:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Entschärfung eines Blindgängers - Hamm-Wiescherhöfen/Weetfeld / Bönen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-SN-DD-W094-20230322-000",
     "version": 5,
     "startDate": "2023-03-22T14:50:50+01:00",
@@ -118,6 +92,47 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HAM-SE085-20230322-85-002",
+    "version": 5,
+    "startDate": "2023-03-22T15:29:35+01:00",
+    "expiresDate": "2023-03-22T21:29:35+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Entschärfung eines Blindgängers - Hamm-Wiescherhöfen/Weetfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-UN-SE068-20230322-68-004",
+    "version": 5,
+    "startDate": "2023-03-22T15:30:46+01:00",
+    "expiresDate": "2023-03-22T21:30:46+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Entschärfung eines Blindgängers - Hamm-Wiescherhöfen/Weetfeld / Bönen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230322-50-000",
+    "version": 5,
+    "startDate": "2023-03-22T15:46:13+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Brandrauch  - Eppingen-Kleingartach, Schwaigern-Niederhofen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
