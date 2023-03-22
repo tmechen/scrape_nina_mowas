@@ -52,11 +52,11 @@
     }
   },
   {
-    "id": "mow.DE-HE-F-SE119-20230322-128-001",
+    "id": "mow.DE-HE-KS-SE106-20230322-106-000",
     "version": 4,
-    "startDate": "2023-03-22T06:02:53+01:00",
+    "startDate": "2023-03-22T08:01:46+01:00",
     "severity": "Severe",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Fund und Entschärfung einer Weltkriegsbombe - Weiterstadt / Stadtteil Riedbahn"
     },
