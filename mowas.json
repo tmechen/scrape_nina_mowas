@@ -37,5 +37,19 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20230323-001",
+    "version": 5,
+    "startDate": "2023-03-23T19:18:29+01:00",
+    "expiresDate": "2023-03-24T01:18:29+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund Lechhausen - Augsburg-Lechhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
