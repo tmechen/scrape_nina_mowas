@@ -67,19 +67,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KH-SE111-20230324-114-000",
-    "version": 5,
-    "startDate": "2023-03-24T17:15:27+01:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "ÜBUNG +++ ÜBUNG +++ ÜBUNG - Verbandsgemeinde Simmern-Rheinböllen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-RP-KH-SE111-20230324-114-001",
     "version": 5,
     "startDate": "2023-03-24T17:25:20+01:00",
@@ -87,6 +74,20 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "ENTWARNUNG +++ ÜBUNG +++ ÜBUNG +++ ÜBUNG - Verbandsgemeinde Simmern-Rheinböllen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KH-SE111-20230324-114-002",
+    "version": 5,
+    "startDate": "2023-03-24T17:52:11+01:00",
+    "expiresDate": "2023-03-24T23:52:11+01:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung:  ÜBUNG +++ ÜBUNG +++ ÜBUNG - Verbandsgemeinde Simmern-Rheinböllen"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
