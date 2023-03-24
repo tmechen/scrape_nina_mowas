@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20230324-001",
-    "version": 5,
-    "startDate": "2023-03-24T12:36:44+01:00",
-    "expiresDate": "2023-03-24T18:36:44+01:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand mit starker Rauchentwicklung - Weisenbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SN-L-W093-20230324-001",
     "version": 5,
     "startDate": "2023-03-24T14:11:25+01:00",
