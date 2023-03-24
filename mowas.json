@@ -37,5 +37,18 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20230324-000",
+    "version": 5,
+    "startDate": "2023-03-24T11:34:31+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand mit starker Rauchentwicklung - Weisenbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
