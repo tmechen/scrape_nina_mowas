@@ -78,13 +78,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20230325-106-000",
+    "id": "mow.DE-HE-KS-SE106-20230325-106-001",
     "version": 5,
-    "startDate": "2023-03-25T10:13:45+01:00",
+    "startDate": "2023-03-25T10:17:03+01:00",
+    "expiresDate": "2023-03-25T16:17:03+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Übung Katastrophenschutz - Wetteraukreis"
+      "de": "Entwarnung: Übung Katastrophenschutz - Wetteraukreis"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
