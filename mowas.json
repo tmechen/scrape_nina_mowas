@@ -65,19 +65,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230325-50-000",
-    "version": 5,
-    "startDate": "2023-03-25T09:57:06+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenenprobe März 2023 - Stadtkreis Freiburg und Landkreis Breisgau-Hochschwarzwald"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20230325-106-001",
     "version": 5,
     "startDate": "2023-03-25T10:17:03+01:00",
@@ -89,6 +76,33 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KH-SE111-20230325-114-000",
+    "version": 5,
+    "startDate": "2023-03-25T10:51:38+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Übung +++ Übung +++ Übung +++ angenommene Lage: Stromausfall - Stadt Simmern und Orte Pleizenhausen, Klosterkumbd, Schönborn, Kisselbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230325-50-001",
+    "version": 5,
+    "startDate": "2023-03-25T11:03:08+01:00",
+    "expiresDate": "2023-03-25T17:03:08+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenenprobe März 2023 - Stadtkreis Freiburg und Landkreis Breisgau-Hochschwarzwald"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
     }
   }
 ]
