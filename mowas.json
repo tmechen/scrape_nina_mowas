@@ -52,19 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-W108-20230324-000",
-    "version": 5,
-    "startDate": "2023-03-24T18:26:26+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brand eines Strohlagers in RIngleben - Ringleben /Gebesee"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20230325-106-001",
     "version": 5,
     "startDate": "2023-03-25T10:17:03+01:00",
@@ -103,6 +90,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-W108-20230325-000",
+    "version": 5,
+    "startDate": "2023-03-25T11:16:46+01:00",
+    "expiresDate": "2023-03-25T17:16:46+01:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brand eines Strohlagers in RIngleben - Ringleben /Gebesee"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
