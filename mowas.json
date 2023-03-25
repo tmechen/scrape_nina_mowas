@@ -63,5 +63,31 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230325-50-000",
+    "version": 5,
+    "startDate": "2023-03-25T09:57:06+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenenprobe März 2023 - Stadtkreis Freiburg und Landkreis Breisgau-Hochschwarzwald"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20230325-106-000",
+    "version": 5,
+    "startDate": "2023-03-25T10:13:45+01:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Übung Katastrophenschutz - Wetteraukreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
