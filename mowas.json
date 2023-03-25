@@ -107,13 +107,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20230325-000",
+    "id": "mow.DE-HE-HG-W103-20230325-001",
     "version": 5,
-    "startDate": "2023-03-25T11:50:45+01:00",
+    "startDate": "2023-03-25T12:31:48+01:00",
+    "expiresDate": "2023-03-25T18:31:48+01:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenentest im Stadtgebiet Oberursel - Oberursel"
+      "de": "Entwarnung: Sirenentest im Stadtgebiet Oberursel - Oberursel"
     },
     "transKeys": {
       "event": "BBK-EVC-060"
