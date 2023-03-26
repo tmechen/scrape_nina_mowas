@@ -26,19 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20230323-99-000",
-    "version": 5,
-    "startDate": "2023-03-23T14:38:10+01:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelentschärfung im Kieler Stadtgebiet - Kiel-Gaarden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-RP-KH-SE111-20230324-114-001",
     "version": 5,
     "startDate": "2023-03-24T17:25:20+01:00",
@@ -52,17 +39,17 @@
     }
   },
   {
-    "id": "mow.DE-TH-J-W110-20230326-001",
+    "id": "mow.DE-SH-KI-SE099-20230326-99-002",
     "version": 5,
-    "startDate": "2023-03-26T09:37:18+02:00",
-    "expiresDate": "2023-03-26T15:37:18+02:00",
+    "startDate": "2023-03-26T15:41:00+02:00",
+    "expiresDate": "2023-03-26T21:41:00+02:00",
     "severity": "Minor",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Großbrand im Stadtgebiet Kahla - Kahla"
+      "de": "Entwarnung: Kampfmittelentschärfung im Kieler Stadtgebiet - Kiel-Gaarden"
     },
     "transKeys": {
-      "event": "BBK-EVC-034"
+      "event": "BBK-EVC-009"
     }
   }
 ]
