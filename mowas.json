@@ -37,19 +37,5 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
-  },
-  {
-    "id": "mow.DE-SH-KI-SE099-20230326-99-002",
-    "version": 5,
-    "startDate": "2023-03-26T15:41:00+02:00",
-    "expiresDate": "2023-03-26T21:41:00+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelentschärfung im Kieler Stadtgebiet - Kiel-Gaarden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
   }
 ]
