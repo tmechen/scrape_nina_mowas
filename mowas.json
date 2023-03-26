@@ -50,5 +50,18 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-TH-J-W110-20230326-000",
+    "version": 5,
+    "startDate": "2023-03-26T08:03:01+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand im Stadtgebiet Kahla - Kahla"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
