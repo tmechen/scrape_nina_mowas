@@ -37,5 +37,18 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20230327-29-000",
+    "version": 5,
+    "startDate": "2023-03-27T05:16:33+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand im Landkreis Oldenburg in der Gemeinde Wardenburg - Gemeinde Wardenburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
