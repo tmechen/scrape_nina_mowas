@@ -26,20 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KH-SE111-20230327-114-000",
-    "version": 5,
-    "startDate": "2023-03-27T10:55:06+02:00",
-    "expiresDate": "2023-03-27T16:55:06+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Übungsabschluss +++ Übungsabschluss +++ Übungsabschluss  - Verbandsgemeinde Simmern-Rheinböllen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20230327-29-001",
     "version": 5,
     "startDate": "2023-03-27T11:35:18+02:00",
@@ -62,6 +48,19 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Brand einer Schreinerei - 72505 Krauchenwies, Pfullendorfer Straße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE049-20230327-49-000",
+    "version": 5,
+    "startDate": "2023-03-27T16:55:36+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung - Wismar"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
