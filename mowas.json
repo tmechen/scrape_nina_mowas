@@ -26,20 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230327-50-001",
-    "version": 5,
-    "startDate": "2023-03-27T16:25:21+02:00",
-    "expiresDate": "2023-03-27T22:25:21+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand einer Schreinerei - 72505 Krauchenwies, Pfullendorfer Straße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE049-20230327-49-001",
     "version": 5,
     "startDate": "2023-03-27T19:41:55+02:00",
