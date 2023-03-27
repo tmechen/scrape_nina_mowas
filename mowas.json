@@ -52,5 +52,18 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230327-50-000",
+    "version": 5,
+    "startDate": "2023-03-27T14:29:40+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand einer Schreinerei - 72505 Krauchenwies, Pfullendorfer Straße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
