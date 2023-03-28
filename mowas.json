@@ -24,19 +24,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-TH-EF-SE012-20230328-12-001",
-    "version": 5,
-    "startDate": "2023-03-28T07:21:29+02:00",
-    "expiresDate": "2023-03-28T13:21:29+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung nach Wohnhausbrand - Nobitz und Umgebung, LK Altenburger Land"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
