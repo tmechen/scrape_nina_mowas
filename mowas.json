@@ -40,13 +40,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20230329-90-000",
+    "id": "mow.DE-NW-AC-SE090-20230329-90-001",
     "version": 5,
-    "startDate": "2023-03-29T15:12:11+02:00",
+    "startDate": "2023-03-29T16:31:24+02:00",
+    "expiresDate": "2023-03-29T22:31:24+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall Innenstadt Aachen - Stadt Aachen"
+      "de": "Entwarnung: Stromausfall Innenstadt Aachen - Stadt Aachen"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
