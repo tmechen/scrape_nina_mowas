@@ -26,13 +26,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-UN-SE068-20230329-68-000",
+    "id": "mow.DE-NW-UN-SE068-20230329-68-001",
     "version": 5,
-    "startDate": "2023-03-29T09:38:20+02:00",
+    "startDate": "2023-03-29T11:51:47+02:00",
+    "expiresDate": "2023-03-29T17:51:47+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund in Bergkamen - Bergkamen Untere Erlentiefenstraße 93-107"
+      "de": "Entwarnung: Kampfmittelfund in Bergkamen - Bergkamen Untere Erlentiefenstraße 93-107"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
