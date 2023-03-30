@@ -66,5 +66,18 @@
     "transKeys": {
       "event": "BBK-EVC-014"
     }
+  },
+  {
+    "id": "mow.DE-NW-BOT-SE062-20230330-62-000",
+    "version": 5,
+    "startDate": "2023-03-30T13:55:47+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelentschärfung - Bottrop"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
