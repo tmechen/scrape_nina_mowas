@@ -26,13 +26,14 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20230331-000",
+    "id": "mow.DE-BY-TS-W135-20230331-001",
     "version": 5,
-    "startDate": "2023-03-31T11:38:18+02:00",
+    "startDate": "2023-03-31T15:22:42+02:00",
+    "expiresDate": "2023-03-31T21:22:42+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz in der Gemeinde Seeon-Seebruck - Seeon-Seebruck"
+      "de": "Entwarnung: Feuerwehreinsatz in der Gemeinde Seeon-Seebruck - Seeon-Seebruck"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
