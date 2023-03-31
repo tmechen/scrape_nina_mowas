@@ -26,20 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20230331-001",
-    "version": 5,
-    "startDate": "2023-03-31T15:22:42+02:00",
-    "expiresDate": "2023-03-31T21:22:42+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz in der Gemeinde Seeon-Seebruck - Seeon-Seebruck"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230331-50-000",
     "version": 5,
     "startDate": "2023-03-31T16:26:54+02:00",
@@ -50,19 +36,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BW-KN-W131-20230331-000",
-    "version": 5,
-    "startDate": "2023-03-31T18:12:55+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Abstürzende Dachziegel nach Sturmereignis - Engen Kernstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-064"
     }
   },
   {
@@ -77,6 +50,33 @@
     },
     "transKeys": {
       "event": "BBK-EVC-003"
+    }
+  },
+  {
+    "id": "mow.DE-BW-KN-W131-20230331-001",
+    "version": 5,
+    "startDate": "2023-03-31T21:18:12+02:00",
+    "expiresDate": "2023-04-01T03:18:12+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Abstürzende Dachziegel nach Sturmereignis - Engen Kernstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-064"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20230331-33-000",
+    "version": 5,
+    "startDate": "2023-03-31T21:18:32+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "500 Pfund-Bombe in Hamburg (Waltershofer Hafen) gefunden  - Hamburg (Waltershofer Hafen)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
