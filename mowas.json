@@ -51,5 +51,18 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-BW-KN-W131-20230331-000",
+    "version": 5,
+    "startDate": "2023-03-31T18:12:55+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abstürzende Dachziegel nach Sturmereignis - Engen Kernstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-064"
+    }
   }
 ]
