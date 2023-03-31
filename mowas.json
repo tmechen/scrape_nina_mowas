@@ -24,19 +24,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-NW-AC-SE090-20230331-90-000",
-    "version": 5,
-    "startDate": "2023-03-31T04:46:41+02:00",
-    "expiresDate": "2023-03-31T10:46:41+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase - Eschweiler"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
