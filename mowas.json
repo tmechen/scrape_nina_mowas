@@ -67,19 +67,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WUE-W164-20230331-000",
-    "version": 5,
-    "startDate": "2023-03-31T21:34:33+02:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand einer Scheune - Würzburg, Stadtteil Rottenbauer"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20230331-33-001",
     "version": 5,
     "startDate": "2023-03-31T22:01:27+02:00",
@@ -105,6 +92,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-WUE-W164-20230331-001",
+    "version": 5,
+    "startDate": "2023-03-31T22:51:01+02:00",
+    "expiresDate": "2023-04-01T04:51:01+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand einer Scheune - Würzburg, Stadtteil Rottenbauer"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
