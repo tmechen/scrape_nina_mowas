@@ -26,11 +26,11 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230331-50-000",
+    "id": "mow.DE-BW-RT-SE050-20230401-50-000",
     "version": 5,
-    "startDate": "2023-03-31T16:26:54+02:00",
+    "startDate": "2023-04-01T09:16:18+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Wasserversorgung gestört - Stadtbezirk Schwenningen"
     },
