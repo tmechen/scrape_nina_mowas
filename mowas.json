@@ -67,19 +67,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20230401-000",
-    "version": 5,
-    "startDate": "2023-04-01T11:15:14+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenenprobealarm - Ettlingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE024-20230401-24-001",
     "version": 5,
     "startDate": "2023-04-01T11:22:52+02:00",
@@ -172,6 +159,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Funktionsprobe Sirenen und Funkmeldeempfänger des Unstrut Hainich Kre - Unstrut Hainich Kreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20230401-001",
+    "version": 5,
+    "startDate": "2023-04-01T12:24:25+02:00",
+    "expiresDate": "2023-04-01T18:24:25+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenenprobealarm - Ettlingen"
     },
     "transKeys": {
       "event": "BBK-EVC-050"
