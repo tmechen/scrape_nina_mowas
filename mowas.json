@@ -39,48 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20230401-29-001",
-    "version": 5,
-    "startDate": "2023-04-01T12:12:47+02:00",
-    "expiresDate": "2023-04-01T18:12:47+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kreisweiter Warntag - Landkreis Hameln-Pyrmont"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-TH-EF-SE012-20230401-12-001",
-    "version": 5,
-    "startDate": "2023-04-01T12:14:12+02:00",
-    "expiresDate": "2023-04-01T18:14:12+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Funktionsprobe Sirenen und Funkmeldeempfänger des Unstrut Hainich Kre - Unstrut Hainich Kreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BW-KA-W138-20230401-001",
-    "version": 5,
-    "startDate": "2023-04-01T12:24:25+02:00",
-    "expiresDate": "2023-04-01T18:24:25+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenenprobealarm - Ettlingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20230401-12-002",
     "version": 5,
     "startDate": "2023-04-01T18:09:29+02:00",
