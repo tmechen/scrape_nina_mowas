@@ -39,16 +39,17 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20230401-12-002",
+    "id": "mow.DE-TH-EF-SE012-20230401-12-003",
     "version": 5,
-    "startDate": "2023-04-01T18:09:29+02:00",
+    "startDate": "2023-04-01T18:34:53+02:00",
+    "expiresDate": "2023-04-02T00:34:53+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Giftige Rauchwolke nach Verkehrsunfall - B247 Ortumgehung Bad Langensalza"
+      "de": "Entwarnung: Vollsperrung Bundesstraße  - B247 Ortumgehung Bad Langensalza"
     },
     "transKeys": {
-      "event": "BBK-EVC-010"
+      "event": "BBK-EVC-074"
     }
   }
 ]
