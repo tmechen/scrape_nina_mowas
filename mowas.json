@@ -37,33 +37,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-NW-SO-SE089-20230331-89-001",
-    "version": 5,
-    "startDate": "2023-03-31T22:43:17+02:00",
-    "expiresDate": "2023-04-01T04:43:17+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung im Gewerbegebiet der Stadt Soest Overweg - Soest"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-BY-WUE-W164-20230331-001",
-    "version": 5,
-    "startDate": "2023-03-31T22:51:01+02:00",
-    "expiresDate": "2023-04-01T04:51:01+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand einer Scheune - Würzburg, Stadtteil Rottenbauer"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
