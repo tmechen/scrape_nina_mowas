@@ -50,5 +50,18 @@
     "transKeys": {
       "event": "BBK-EVC-011"
     }
+  },
+  {
+    "id": "mow.DE-NW-AC-SE090-20230403-90-001",
+    "version": 5,
+    "startDate": "2023-04-03T14:42:28+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Abkochgebot für das Trinkwasser - Stolberg / Eschweiler"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-045"
+    }
   }
 ]
