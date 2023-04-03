@@ -52,19 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20230403-105-000",
-    "version": 5,
-    "startDate": "2023-04-03T16:28:55+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Bad Oldesloe"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SN-L-W093-20230403-003",
     "version": 5,
     "startDate": "2023-04-03T16:43:36+02:00",
@@ -76,6 +63,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-011"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20230403-105-001",
+    "version": 5,
+    "startDate": "2023-04-03T16:48:35+02:00",
+    "expiresDate": "2023-04-03T22:48:35+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Bad Oldesloe"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
