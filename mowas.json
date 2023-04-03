@@ -51,5 +51,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-SN-L-W093-20230403-001",
+    "version": 5,
+    "startDate": "2023-04-03T06:53:55+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Brand in Leipzig-Plaußig-Portitz - Leipzig-Plaußig-Portitz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-011"
+    }
   }
 ]
