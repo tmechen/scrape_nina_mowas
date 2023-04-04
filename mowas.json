@@ -80,13 +80,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20230404-90-000",
+    "id": "mow.DE-NW-AC-SE090-20230404-90-001",
     "version": 5,
-    "startDate": "2023-04-04T18:56:58+02:00",
+    "startDate": "2023-04-04T20:38:30+02:00",
+    "expiresDate": "2023-04-05T02:38:30+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase - Eschweiler-Röthgen"
+      "de": "Entwarnung: Rauchgase - Eschweiler-Röthgen"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
