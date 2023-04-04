@@ -78,5 +78,18 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-NW-AC-SE090-20230404-90-000",
+    "version": 5,
+    "startDate": "2023-04-04T18:56:58+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase - Eschweiler-Röthgen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
