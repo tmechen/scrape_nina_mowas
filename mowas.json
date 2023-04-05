@@ -80,11 +80,11 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230405-125-000",
+    "id": "mow.DE-RP-MZ-SE114-20230405-125-001",
     "version": 5,
-    "startDate": "2023-04-05T13:08:37+02:00",
+    "startDate": "2023-04-05T13:59:18+02:00",
     "severity": "Severe",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Großbrand Recyclinganlage - Stadt Worms"
     },
