@@ -78,5 +78,18 @@
     "transKeys": {
       "event": "BBK-EVC-050"
     }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230405-125-000",
+    "version": 5,
+    "startDate": "2023-04-05T13:08:37+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand Recyclinganlage - Stadt Worms"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
