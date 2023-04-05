@@ -52,19 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230405-125-001",
-    "version": 5,
-    "startDate": "2023-04-05T13:59:18+02:00",
-    "severity": "Severe",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Großbrand Recyclinganlage - Stadt Worms"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-LU-SE005-20230405-5-000",
     "version": 5,
     "startDate": "2023-04-05T14:47:04+02:00",
@@ -72,6 +59,20 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Großbrand Recyclinganlage - Stadt Worms - Kleinniedesheim, Bobenheim-Roxheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230405-125-002",
+    "version": 5,
+    "startDate": "2023-04-05T17:18:07+02:00",
+    "expiresDate": "2023-04-05T23:18:07+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand Recyclinganlage - Stadt Worms"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
