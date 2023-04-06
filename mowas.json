@@ -67,13 +67,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-D-SE047-20230406-47-000",
+    "id": "mow.DE-NW-D-SE047-20230406-47-001",
     "version": 5,
-    "startDate": "2023-04-06T13:53:17+02:00",
+    "startDate": "2023-04-06T16:16:42+02:00",
+    "expiresDate": "2023-04-06T22:16:42+02:00",
     "severity": "Severe",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Bombenfund - Düsseldorf"
+      "de": "Entwarnung: Bombenfund - Düsseldorf"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
