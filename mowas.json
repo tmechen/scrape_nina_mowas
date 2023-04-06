@@ -26,20 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20230406-90-000",
-    "version": 5,
-    "startDate": "2023-04-06T13:46:43+02:00",
-    "expiresDate": "2023-04-06T19:46:43+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Abkochgebot für das Trinkwasser - Stolberg / Eschweiler"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-045"
-    }
-  },
-  {
     "id": "mow.DE-NW-D-SE047-20230406-47-001",
     "version": 5,
     "startDate": "2023-04-06T16:16:42+02:00",
