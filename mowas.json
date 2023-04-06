@@ -24,19 +24,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-BY-BA-W140-20230406-000",
-    "version": 5,
-    "startDate": "2023-04-06T18:48:16+02:00",
-    "expiresDate": "2023-04-07T00:48:16+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wichtige Information: Update zur Wasserversorgung in der Eggolsheimer  - Gemeinden Eggolsheim, Hallerndorf, Altendorf, Buttenheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
   }
 ]
