@@ -26,13 +26,14 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20230408-12-000",
+    "id": "mow.DE-TH-EF-SE012-20230408-12-001",
     "version": 5,
-    "startDate": "2023-04-08T19:33:48+02:00",
+    "startDate": "2023-04-08T20:26:11+02:00",
+    "expiresDate": "2023-04-09T02:26:11+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall der öffentlichen Einwahl des Polizeiinspektionsdienstes Gotha  - Landkreis Gotha"
+      "de": "Entwarnung: Ausfall der öffentlichen Einwahl des Polizeiinspektionsdienstes Gotha  - Landkreis Gotha"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
