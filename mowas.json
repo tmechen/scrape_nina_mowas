@@ -40,13 +40,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-SHA-W039-20230408-000",
+    "id": "mow.DE-BW-SHA-W039-20230408-001",
     "version": 5,
-    "startDate": "2023-04-08T20:54:19+02:00",
+    "startDate": "2023-04-08T23:37:09+02:00",
+    "expiresDate": "2023-04-09T05:37:09+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "starke Rauchentwicklung aufgrund Brand in einem Holzverarbeitungsbetrieb - Gemeinde Oberrot, Landkreis Schwäbisch Hall"
+      "de": "Entwarnung: starke Rauchentwicklung aufgrund Brand in einem Holzverarbeitungsbetri - Gemeinde Oberrot, Landkreis Schwäbisch Hall"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
