@@ -24,19 +24,5 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
-  },
-  {
-    "id": "mow.DE-BW-RT-SE050-20230408-50-000",
-    "version": 5,
-    "startDate": "2023-04-08T11:38:15+02:00",
-    "expiresDate": "2023-04-08T17:38:15+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wasserversorgung gestört - Stadtbezirk Schwenningen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
   }
 ]
