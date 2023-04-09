@@ -39,13 +39,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-HA-SE087-20230409-149-000",
+    "id": "mow.DE-NW-HA-SE087-20230409-149-001",
     "version": 5,
-    "startDate": "2023-04-09T08:46:16+02:00",
+    "startDate": "2023-04-09T10:40:10+02:00",
+    "expiresDate": "2023-04-09T16:40:10+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in Hagen-Emst - Hagen-Emst"
+      "de": "Entwarnung: Brand in Hagen-Emst - Hagen-Emst"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
