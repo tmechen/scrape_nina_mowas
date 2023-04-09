@@ -26,11 +26,11 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20230409-33-000",
+    "id": "mow.DE-HH-HH-SE033-20230409-33-001",
     "version": 5,
-    "startDate": "2023-04-09T05:51:40+02:00",
-    "severity": "Minor",
-    "type": "Alert",
+    "startDate": "2023-04-09T07:25:20+02:00",
+    "severity": "Extreme",
+    "type": "Update",
     "i18nTitle": {
       "de": "Starke Rauchentwicklung durch Großbrand im Bereich Hamburg [Rothenburgsort]  - Hamburg-Rothenburgsort"
     },
