@@ -40,13 +40,14 @@
     }
   },
   {
-    "id": "mow.DE-SH-NMS-SE101-20230410-101-000",
+    "id": "mow.DE-SH-NMS-SE101-20230410-101-001",
     "version": 5,
-    "startDate": "2023-04-10T22:48:38+02:00",
+    "startDate": "2023-04-11T00:07:49+02:00",
+    "expiresDate": "2023-04-11T06:07:49+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Neumünster"
+      "de": "Entwarnung: Feuerwehreinsatz - Neumünster"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
