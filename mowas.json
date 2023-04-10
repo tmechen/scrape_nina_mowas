@@ -26,20 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20230410-33-000",
-    "version": 5,
-    "startDate": "2023-04-10T13:54:37+02:00",
-    "expiresDate": "2023-04-10T19:54:37+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand im Bereich Hamburg [Rothenburg - Hamburg-Rothenburgsort"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SN-L-W093-20230410-000",
     "version": 5,
     "startDate": "2023-04-10T19:44:41+02:00",
