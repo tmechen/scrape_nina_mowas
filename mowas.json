@@ -11,5 +11,18 @@
     "transKeys": {
       "event": "BBK-EVC-059"
     }
+  },
+  {
+    "id": "mow.DE-BR-B-SE017-20230412-17-000",
+    "version": 5,
+    "startDate": "2023-04-12T23:37:38+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brand - Berlin Neukölln Nord"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
