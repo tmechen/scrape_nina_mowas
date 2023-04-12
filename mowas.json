@@ -13,13 +13,14 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-W094-20230412-000",
+    "id": "mow.DE-SN-DD-W094-20230412-001",
     "version": 5,
-    "startDate": "2023-04-12T14:00:30+02:00",
+    "startDate": "2023-04-12T15:15:36+02:00",
+    "expiresDate": "2023-04-12T21:15:36+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Probealarm Sirenenwarnsystem Landeshauptstadt Dresden - Stadt Dresden"
+      "de": "Entwarnung: Probealarm Sirenenwarnsystem Landeshauptstadt Dresden - Stadt Dresden"
     },
     "transKeys": {
       "event": "BBK-EVC-060"
