@@ -11,19 +11,5 @@
     "transKeys": {
       "event": "BBK-EVC-059"
     }
-  },
-  {
-    "id": "mow.DE-NW-K-SE031-20230413-31-001",
-    "version": 5,
-    "startDate": "2023-04-13T17:15:36+02:00",
-    "expiresDate": "2023-04-13T23:15:36+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenfund - Rhein-Kreis-Neuss"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
   }
 ]
