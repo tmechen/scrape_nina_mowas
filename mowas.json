@@ -13,19 +13,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20230413-31-000",
-    "version": 5,
-    "startDate": "2023-04-13T11:22:14+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bombenfund - Rhein-Kreis-Neuss"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-BW-BB-W125-20230413-001",
     "version": 5,
     "startDate": "2023-04-13T15:02:26+02:00",
@@ -51,6 +38,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20230413-31-001",
+    "version": 5,
+    "startDate": "2023-04-13T17:15:36+02:00",
+    "expiresDate": "2023-04-13T23:15:36+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenfund - Rhein-Kreis-Neuss"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
