@@ -13,20 +13,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-NE-SE044-20230413-44-001",
-    "version": 5,
-    "startDate": "2023-04-13T07:22:19+02:00",
-    "expiresDate": "2023-04-13T13:22:19+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall Stromversorgung in Dormagen - Stadt Dormagen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BR-B-SE017-20230413-17-000",
     "version": 5,
     "startDate": "2023-04-13T09:34:12+02:00",
@@ -65,6 +51,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-BW-BB-W125-20230413-000",
+    "version": 5,
+    "startDate": "2023-04-13T13:40:09+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Simmozheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
