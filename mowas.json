@@ -54,19 +54,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-BB-W125-20230413-000",
-    "version": 5,
-    "startDate": "2023-04-13T13:40:09+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Simmozheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20230413-29-000",
     "version": 5,
     "startDate": "2023-04-13T14:22:46+02:00",
@@ -77,6 +64,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-BB-W125-20230413-001",
+    "version": 5,
+    "startDate": "2023-04-13T15:02:26+02:00",
+    "expiresDate": "2023-04-13T21:02:26+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Simmozheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
