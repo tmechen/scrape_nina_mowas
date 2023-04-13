@@ -53,5 +53,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20230413-31-000",
+    "version": 5,
+    "startDate": "2023-04-13T11:22:14+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bombenfund - Rhein-Kreis-Neuss"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
