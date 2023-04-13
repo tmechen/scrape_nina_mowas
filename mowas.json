@@ -13,20 +13,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20230413-29-001",
-    "version": 5,
-    "startDate": "2023-04-13T16:11:17+02:00",
-    "expiresDate": "2023-04-13T22:11:17+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung starke Rauchentwicklung durch Großbrand - 27356 Borchel und 27383 Abbendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20230413-31-001",
     "version": 5,
     "startDate": "2023-04-13T17:15:36+02:00",
