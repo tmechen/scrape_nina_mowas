@@ -13,20 +13,6 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-SE017-20230413-17-000",
-    "version": 5,
-    "startDate": "2023-04-13T09:34:12+02:00",
-    "expiresDate": "2023-04-13T15:34:12+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brand - Berlin Neukölln Nord"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20230413-001",
     "version": 5,
     "startDate": "2023-04-13T10:33:04+02:00",
