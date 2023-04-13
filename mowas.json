@@ -11,5 +11,19 @@
     "transKeys": {
       "event": "BBK-EVC-059"
     }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20230413-12-002",
+    "version": 5,
+    "startDate": "2023-04-14T00:43:12+02:00",
+    "expiresDate": "2023-04-14T06:43:12+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall Telefonanlage der Polizeiinspektion Weimar - Thüringen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
+    }
   }
 ]
