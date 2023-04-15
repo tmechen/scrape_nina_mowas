@@ -51,5 +51,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20230415-000",
+    "version": 5,
+    "startDate": "2023-04-15T11:12:08+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenentest Stadt Kraichtal, alle Ortsteile - Stadt Kraichtal mit allen Ortsteilen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
