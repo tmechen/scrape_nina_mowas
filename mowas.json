@@ -37,5 +37,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20230415-122-000",
+    "version": 5,
+    "startDate": "2023-04-15T07:00:20+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Evakuierungsmaßnahmen am 15.04.2023 wegen Bombenfund - Dresden"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
