@@ -69,13 +69,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-PF-W024-20230415-000",
+    "id": "mow.DE-BW-PF-W024-20230415-001",
     "version": 5,
-    "startDate": "2023-04-15T15:37:37+02:00",
+    "startDate": "2023-04-15T16:28:58+02:00",
+    "expiresDate": "2023-04-15T22:28:58+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenenprobealarm - Pforzheim / Enzkreis"
+      "de": "Entwarnung: Sirenenprobealarm - Pforzheim / Enzkreis"
     },
     "transKeys": {
       "event": "BBK-EVC-060"
