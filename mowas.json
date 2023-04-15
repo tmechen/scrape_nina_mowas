@@ -13,46 +13,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-W094-20230414-000",
-    "version": 5,
-    "startDate": "2023-04-14T19:24:46+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Evakuierungsmaßnahmen am 15.04.2023 wegen Bombenfund - Dresden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-SN-HY-SE048-20230415-122-000",
-    "version": 5,
-    "startDate": "2023-04-15T07:00:20+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Evakuierungsmaßnahmen am 15.04.2023 wegen Bombenfund - Dresden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NW-PB-SE093-20230415-93-001",
-    "version": 5,
-    "startDate": "2023-04-15T08:37:37+02:00",
-    "expiresDate": "2023-04-15T14:37:37+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung - Paderborn, Riemekeviertel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-KA-W138-20230415-001",
     "version": 5,
     "startDate": "2023-04-15T11:56:04+02:00",
@@ -78,6 +38,34 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-SN-DD-W094-20230415-001",
+    "version": 5,
+    "startDate": "2023-04-15T14:30:24+02:00",
+    "expiresDate": "2023-04-15T20:30:24+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Evakuierungsmaßnahmen am 15.04.2023 wegen Bombenfund - Dresden"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20230415-122-001",
+    "version": 5,
+    "startDate": "2023-04-15T14:43:59+02:00",
+    "expiresDate": "2023-04-15T20:43:59+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Evakuierungsmaßnahmen am 15.04.2023 wegen Bombenfund - Dresden"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
