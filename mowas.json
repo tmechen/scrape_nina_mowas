@@ -24,5 +24,18 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NW-PB-SE093-20230415-93-000",
+    "version": 5,
+    "startDate": "2023-04-15T05:37:33+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung - Paderborn, Riemekeviertel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
