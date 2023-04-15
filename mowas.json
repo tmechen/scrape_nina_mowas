@@ -53,5 +53,18 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-NI-GS-W211-20230415-000",
+    "version": 5,
+    "startDate": "2023-04-15T20:18:16+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung - Bad Harzburg mit den Ortsteilen und Oker"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
