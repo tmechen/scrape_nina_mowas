@@ -41,13 +41,14 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20230416-12-000",
+    "id": "mow.DE-TH-EF-SE012-20230416-12-001",
     "version": 5,
-    "startDate": "2023-04-16T17:38:04+02:00",
+    "startDate": "2023-04-16T18:09:43+02:00",
+    "expiresDate": "2023-04-17T00:09:43+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauschentwicklung nach Gebäudebrand - Gotha, Innenstadtbereich"
+      "de": "Entwarnung: Starke Rauschentwicklung nach Gebäudebrand - Gotha, Innenstadtbereich"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
