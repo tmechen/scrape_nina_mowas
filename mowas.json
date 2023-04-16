@@ -13,20 +13,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230416-125-001",
-    "version": 5,
-    "startDate": "2023-04-16T13:29:15+02:00",
-    "expiresDate": "2023-04-16T19:29:15+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Dachstuhlbrand in Ober-Ingelheim - Ingelheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20230416-12-001",
     "version": 5,
     "startDate": "2023-04-16T18:09:43+02:00",
