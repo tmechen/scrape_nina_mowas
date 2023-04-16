@@ -11,19 +11,5 @@
     "transKeys": {
       "event": "BBK-EVC-059"
     }
-  },
-  {
-    "id": "mow.DE-NW-MG-SE053-20230416-53-000",
-    "version": 5,
-    "startDate": "2023-04-16T02:51:35+02:00",
-    "expiresDate": "2023-04-16T08:51:35+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Mönchengladbach - Hardt  - Mönchengladbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
