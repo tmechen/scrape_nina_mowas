@@ -11,5 +11,18 @@
     "transKeys": {
       "event": "BBK-EVC-059"
     }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230416-125-000",
+    "version": 5,
+    "startDate": "2023-04-16T10:11:26+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Dachstuhlbrand in Ober-Ingelheim - Ingelheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
