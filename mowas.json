@@ -13,19 +13,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230416-125-000",
-    "version": 5,
-    "startDate": "2023-04-16T10:11:26+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Dachstuhlbrand in Ober-Ingelheim - Ingelheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-ERK-SE056-20230416-56-001",
     "version": 5,
     "startDate": "2023-04-16T12:48:30+02:00",
@@ -34,6 +21,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Geruchsbelästigung in Erkelenz-Holzweiler - Erkelenz-Holzweiler, Erkelenz-Katzem, Titz-Jackerath, Titz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230416-125-001",
+    "version": 5,
+    "startDate": "2023-04-16T13:29:15+02:00",
+    "expiresDate": "2023-04-16T19:29:15+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Dachstuhlbrand in Ober-Ingelheim - Ingelheim"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
