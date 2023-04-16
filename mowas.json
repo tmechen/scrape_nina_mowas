@@ -26,13 +26,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20230416-56-000",
+    "id": "mow.DE-NW-ERK-SE056-20230416-56-001",
     "version": 5,
-    "startDate": "2023-04-16T11:44:25+02:00",
+    "startDate": "2023-04-16T12:48:30+02:00",
+    "expiresDate": "2023-04-16T18:48:30+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung in Erkelenz-Holzweiler - Erkelenz-Holzweiler, Erkelenz-Katzem, Titz-Jackerath, Titz"
+      "de": "Entwarnung: Geruchsbelästigung in Erkelenz-Holzweiler - Erkelenz-Holzweiler, Erkelenz-Katzem, Titz-Jackerath, Titz"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
