@@ -39,5 +39,18 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20230417-33-000",
+    "version": 5,
+    "startDate": "2023-04-17T19:56:45+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor Kontakt mit Wasser der Bille - Hamburg, Rothenburgsort, Bille bis Mündung in die Elbe"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
