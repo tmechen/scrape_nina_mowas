@@ -13,34 +13,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230417-125-001",
-    "version": 5,
-    "startDate": "2023-04-17T16:16:13+02:00",
-    "expiresDate": "2023-04-17T22:16:13+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenentest in Ebersheim - Mainz-Ebersheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
-    "id": "mow.DE-NW-NE-SE044-20230417-44-001",
-    "version": 5,
-    "startDate": "2023-04-17T16:18:50+02:00",
-    "expiresDate": "2023-04-17T22:18:50+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenfund - Kaarst-Büttgen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20230417-33-000",
     "version": 5,
     "startDate": "2023-04-17T19:56:45+02:00",
