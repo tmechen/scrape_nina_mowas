@@ -24,5 +24,18 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230417-125-000",
+    "version": 5,
+    "startDate": "2023-04-17T16:00:10+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenentest in Ebersheim - Mainz-Ebersheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
