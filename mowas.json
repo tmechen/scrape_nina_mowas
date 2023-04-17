@@ -26,13 +26,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-BM-SE042-20230417-42-001",
+    "id": "mow.DE-NW-BM-SE042-20230417-42-002",
     "version": 5,
-    "startDate": "2023-04-17T23:28:01+02:00",
+    "startDate": "2023-04-17T23:53:27+02:00",
+    "expiresDate": "2023-04-18T05:53:27+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall - Rhein-Erft-Kreis"
+      "de": "Entwarnung: Stromausfall - Rhein-Erft-Kreis"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
