@@ -11,5 +11,18 @@
     "transKeys": {
       "event": "BBK-EVC-059"
     }
+  },
+  {
+    "id": "mow.DE-NW-NE-SE044-20230417-44-000",
+    "version": 5,
+    "startDate": "2023-04-17T13:34:36+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bombenfund - Kaarst-Büttgen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
