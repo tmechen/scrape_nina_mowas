@@ -24,19 +24,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-RP-MZ-SE114-20230418-125-001",
-    "version": 5,
-    "startDate": "2023-04-18T14:59:28+02:00",
-    "expiresDate": "2023-04-18T20:59:28+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall  - Gemeinde Mommenheim / Harxheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
   }
 ]
