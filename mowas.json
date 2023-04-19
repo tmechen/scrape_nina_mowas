@@ -51,5 +51,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20230419-33-000",
+    "version": 5,
+    "startDate": "2023-04-20T00:33:06+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung  durch Brandrauch bei Großbrand im Bereich Hamburg Winterhude - Hamburg Winterhude"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
