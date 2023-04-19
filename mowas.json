@@ -26,13 +26,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20230419-67-000",
+    "id": "mow.DE-NW-DO-SE067-20230419-67-001",
     "version": 5,
-    "startDate": "2023-04-19T16:27:24+02:00",
+    "startDate": "2023-04-19T21:07:30+02:00",
+    "expiresDate": "2023-04-20T03:07:30+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Blindgängerfund im Bereich Bovermannstraße - Dortmund"
+      "de": "Entwarnung: Blindgängerfund im Bereich Bovermannstraße - Dortmund"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
