@@ -26,20 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20230419-67-001",
-    "version": 5,
-    "startDate": "2023-04-19T21:07:30+02:00",
-    "expiresDate": "2023-04-20T03:07:30+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Blindgängerfund im Bereich Bovermannstraße - Dortmund"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NI-BS-W091-20230419-000",
     "version": 5,
     "startDate": "2023-04-19T21:54:11+02:00",
@@ -53,16 +39,30 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20230419-33-000",
+    "id": "mow.DE-HH-HH-SE033-20230420-33-000",
     "version": 5,
-    "startDate": "2023-04-20T00:33:06+02:00",
+    "startDate": "2023-04-20T02:38:08+02:00",
+    "expiresDate": "2023-04-20T08:38:08+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung  durch Brandrauch bei Großbrand im Bereich Hamburg Winterhude - Hamburg Winterhude"
+      "de": "Entwarnung: Geruchsbelästigung  durch Brandrauch bei Großbrand im Bereich Hamburg  - Hamburg Winterhude"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SN-C-W092-20230420-000",
+    "version": 5,
+    "startDate": "2023-04-20T02:39:48+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Scheune in Vollbrand dichter Rauch in Richtung Heiersdorf und Burgstädt - Burgstädt Heiersdorfer Str.27"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
