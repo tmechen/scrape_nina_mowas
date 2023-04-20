@@ -26,13 +26,14 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20230420-28-000",
+    "id": "mow.DE-SH-EH-SE028-20230420-28-001",
     "version": 5,
-    "startDate": "2023-04-20T23:50:27+02:00",
+    "startDate": "2023-04-21T01:16:35+02:00",
+    "expiresDate": "2023-04-21T07:16:35+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Halstenbek"
+      "de": "Entwarnung: Feuerwehreinsatz - Halstenbek"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
