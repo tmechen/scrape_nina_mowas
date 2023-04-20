@@ -40,19 +40,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-C-W092-20230420-000",
-    "version": 5,
-    "startDate": "2023-04-20T02:39:48+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Scheune in Vollbrand dichter Rauch in Richtung Heiersdorf und Burgstädt - Burgstädt Heiersdorfer Str.27"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NI-BS-W091-20230420-000",
     "version": 5,
     "startDate": "2023-04-20T07:47:14+02:00",
@@ -64,6 +51,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SN-C-W092-20230420-001",
+    "version": 5,
+    "startDate": "2023-04-20T08:29:54+02:00",
+    "expiresDate": "2023-04-20T14:29:54+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Scheune in Vollbrand dichter Rauch in Richtung Heiersdorf und Burgstäd - Burgstädt Heiersdorfer Str.27"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
