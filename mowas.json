@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20230421-105-001",
-    "version": 5,
-    "startDate": "2023-04-21T18:20:53+02:00",
-    "expiresDate": "2023-04-22T00:20:53+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung aufgrund eines Brandereignisses - Reinfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-ST-SK-W070-20230421-001",
     "version": 5,
     "startDate": "2023-04-21T20:49:42+02:00",
