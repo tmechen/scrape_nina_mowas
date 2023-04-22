@@ -64,5 +64,32 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-RP-KL-SE112-20230422-112-000",
+    "version": 5,
+    "startDate": "2023-04-22T12:10:02+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Telefonleitung - Krickenbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20230422-001",
+    "version": 5,
+    "startDate": "2023-04-22T12:13:19+02:00",
+    "expiresDate": "2023-04-22T18:13:19+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Probealarm - Rheinmünster"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
