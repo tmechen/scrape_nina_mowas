@@ -92,5 +92,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-BOT-SE062-20230422-62-000",
+    "version": 5,
+    "startDate": "2023-04-22T14:23:47+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in Bottrop - Bottrop-Eigen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
