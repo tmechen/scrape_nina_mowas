@@ -50,5 +50,18 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20230422-000",
+    "version": 5,
+    "startDate": "2023-04-22T03:41:54+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall in Teilen von Bad Homburg - Bad Homburg - Gonzenheim - Ober-Eschbach - Kirdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
