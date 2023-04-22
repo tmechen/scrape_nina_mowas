@@ -52,13 +52,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20230422-000",
+    "id": "mow.DE-HE-HG-W103-20230422-001",
     "version": 5,
-    "startDate": "2023-04-22T03:41:54+02:00",
+    "startDate": "2023-04-22T05:20:08+02:00",
+    "expiresDate": "2023-04-22T11:20:08+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall in Teilen von Bad Homburg - Bad Homburg - Gonzenheim - Ober-Eschbach - Kirdorf"
+      "de": "Entwarnung: Stromausfall in Teilen von Bad Homburg - Bad Homburg - Gonzenheim - Ober-Eschbach - Kirdorf"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
