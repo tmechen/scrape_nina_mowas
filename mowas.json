@@ -80,13 +80,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-BOT-SE062-20230422-62-000",
+    "id": "mow.DE-NW-BOT-SE062-20230422-62-001",
     "version": 5,
-    "startDate": "2023-04-22T14:23:47+02:00",
+    "startDate": "2023-04-22T16:31:11+02:00",
+    "expiresDate": "2023-04-22T22:31:11+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung in Bottrop - Bottrop-Eigen"
+      "de": "Entwarnung: Geruchsbelästigung in Bottrop - Bottrop-Eigen"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
