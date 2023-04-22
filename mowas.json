@@ -65,5 +65,18 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230422-125-000",
+    "version": 5,
+    "startDate": "2023-04-22T11:25:45+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Übung !!  Übung !!    Übung !!     - nördlicher Landkreis VG Wöllstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
