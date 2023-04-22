@@ -53,19 +53,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230422-125-000",
-    "version": 5,
-    "startDate": "2023-04-22T11:25:45+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Übung !!  Übung !!    Übung !!     - nördlicher Landkreis VG Wöllstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-KL-SE112-20230422-112-000",
     "version": 5,
     "startDate": "2023-04-22T12:10:02+02:00",
@@ -90,6 +77,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230422-125-001",
+    "version": 5,
+    "startDate": "2023-04-22T12:19:42+02:00",
+    "expiresDate": "2023-04-22T18:19:42+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Übung !!  Übung !!    Übung !!     - nördlicher Landkreis VG Wöllstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
