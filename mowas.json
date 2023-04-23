@@ -66,13 +66,14 @@
     }
   },
   {
-    "id": "mow.DE-TH-AP-W115-20230422-000",
+    "id": "mow.DE-TH-AP-W115-20230423-000",
     "version": 5,
-    "startDate": "2023-04-22T23:32:51+02:00",
+    "startDate": "2023-04-23T02:09:46+02:00",
+    "expiresDate": "2023-04-23T08:09:46+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz Gebäudebrand - Kranichfeld, Rosengasse"
+      "de": "Entwarnung: Feuerwehreinsatz Gebäudebrand - Kranichfeld, Rosengasse"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
