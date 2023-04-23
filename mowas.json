@@ -52,20 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-LIP-SE041-20230422-41-001",
-    "version": 5,
-    "startDate": "2023-04-22T21:18:38+02:00",
-    "expiresDate": "2023-04-23T03:18:38+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Waldbrand - Horn Bad Meinberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-AP-W115-20230423-000",
     "version": 5,
     "startDate": "2023-04-23T02:09:46+02:00",
@@ -74,6 +60,19 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Feuerwehreinsatz Gebäudebrand - Kranichfeld, Rosengasse"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20230423-000",
+    "version": 5,
+    "startDate": "2023-04-23T03:40:57+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand mit starker Rauchentwicklung - Gaggenau"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
