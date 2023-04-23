@@ -50,19 +50,5 @@
     "transKeys": {
       "event": "BBK-EVC-006"
     }
-  },
-  {
-    "id": "mow.DE-BW-RA-W025-20230423-001",
-    "version": 5,
-    "startDate": "2023-04-23T05:08:47+02:00",
-    "expiresDate": "2023-04-23T11:08:47+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand mit starker Rauchentwicklung - Gaggenau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
