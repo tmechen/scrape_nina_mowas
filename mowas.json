@@ -50,5 +50,18 @@
     "transKeys": {
       "event": "BBK-EVC-006"
     }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20230423-000",
+    "version": 5,
+    "startDate": "2023-04-23T21:48:43+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Freisetzung einer Rauchwolke durch Brand - Malsch"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
