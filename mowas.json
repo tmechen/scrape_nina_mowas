@@ -39,19 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KL-SE112-20230422-112-000",
-    "version": 5,
-    "startDate": "2023-04-22T12:10:02+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall Telefonleitung - Krickenbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-006"
-    }
-  },
-  {
     "id": "mow.DE-NW-HA-SE087-20230424-149-000",
     "version": 5,
     "startDate": "2023-04-24T06:09:39+02:00",
@@ -78,20 +65,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-BL-W128-20230424-001",
-    "version": 5,
-    "startDate": "2023-04-24T07:58:59+02:00",
-    "expiresDate": "2023-04-24T13:58:59+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Geruchsbelästigung und Rauchentwicklung - Gemeinde Bisingen, Ortsteil Bisingen-Nord B27"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-E-SE052-20230424-52-000",
     "version": 5,
     "startDate": "2023-04-24T13:00:23+02:00",
@@ -102,6 +75,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KL-SE112-20230424-112-000",
+    "version": 5,
+    "startDate": "2023-04-24T13:53:13+02:00",
+    "expiresDate": "2023-04-24T19:53:13+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall Telefonleitung - Krickenbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
     }
   }
 ]
