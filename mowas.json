@@ -63,5 +63,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BW-BL-W128-20230424-000",
+    "version": 5,
+    "startDate": "2023-04-24T06:24:43+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "starke Geruchsbelästigung und Rauchentwicklung - Gemeinde Bisingen, Ortsteil Bisingen-Nord B27"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
