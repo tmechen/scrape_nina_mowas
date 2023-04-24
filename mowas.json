@@ -76,5 +76,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-UN-SE068-20230424-68-000",
+    "version": 5,
+    "startDate": "2023-04-24T06:34:27+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Update: Rauchgase breiten sich aus. - Hagener Nord bis über Stadtgrenze nach Dortmund und Schwerte."
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
