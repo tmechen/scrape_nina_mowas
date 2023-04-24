@@ -52,30 +52,16 @@
     }
   },
   {
-    "id": "mow.DE-NW-HA-SE087-20230423-149-001",
+    "id": "mow.DE-NW-HA-SE087-20230424-149-000",
     "version": 5,
-    "startDate": "2023-04-23T22:45:43+02:00",
+    "startDate": "2023-04-24T06:09:39+02:00",
     "severity": "Minor",
     "type": "Update",
     "i18nTitle": {
-      "de": "Update: Rauchgase - niedrige Gefahr. - Hagen Nord"
+      "de": "Update: Rauchgase breiten sich aus. - Hagener Nord bis über Stadtgrenze nach Dortmund und Schwerte."
     },
     "transKeys": {
       "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BW-KA-W138-20230423-001",
-    "version": 5,
-    "startDate": "2023-04-23T23:46:20+02:00",
-    "expiresDate": "2023-04-24T05:46:20+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Freisetzung einer Rauchwolke durch Brand - Malsch"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
     }
   }
 ]
