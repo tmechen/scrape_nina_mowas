@@ -53,13 +53,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-BOT-SE062-20230425-62-000",
+    "id": "mow.DE-NW-BOT-SE062-20230425-62-001",
     "version": 5,
-    "startDate": "2023-04-25T13:24:21+02:00",
+    "startDate": "2023-04-25T17:28:45+02:00",
+    "expiresDate": "2023-04-25T23:28:45+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund in Bottrop - Bottrop Welheimer Mark"
+      "de": "Entwarnung: Kampfmittelfund in Bottrop - Bottrop Welheimer Mark"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
