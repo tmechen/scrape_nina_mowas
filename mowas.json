@@ -79,5 +79,18 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-NW-BOT-SE062-20230425-62-000",
+    "version": 5,
+    "startDate": "2023-04-25T13:24:21+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Bottrop - Bottrop Welheimer Mark"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
