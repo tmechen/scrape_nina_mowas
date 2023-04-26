@@ -53,19 +53,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GE-SE064-20230426-64-000",
-    "version": 5,
-    "startDate": "2023-04-26T07:48:28+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch ein Brandereignis - Im nördlichen Stadtgebiet von Gelsenkirchen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-GG-W222-20230426-002",
     "version": 5,
     "startDate": "2023-04-26T11:21:33+02:00",
@@ -91,6 +78,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-NW-GE-SE064-20230426-64-001",
+    "version": 5,
+    "startDate": "2023-04-26T12:24:39+02:00",
+    "expiresDate": "2023-04-26T18:24:39+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch ein Brandereignis - Im nördlichen Stadtgebiet von Gelsenkirchen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
