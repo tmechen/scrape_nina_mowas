@@ -37,19 +37,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-NW-GE-SE064-20230426-64-001",
-    "version": 5,
-    "startDate": "2023-04-26T12:24:39+02:00",
-    "expiresDate": "2023-04-26T18:24:39+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch ein Brandereignis - Im nördlichen Stadtgebiet von Gelsenkirchen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
