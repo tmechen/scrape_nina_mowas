@@ -51,5 +51,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-GE-SE064-20230426-64-000",
+    "version": 5,
+    "startDate": "2023-04-26T07:48:28+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch ein Brandereignis - Im nördlichen Stadtgebiet von Gelsenkirchen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
