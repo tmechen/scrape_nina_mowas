@@ -66,26 +66,28 @@
     }
   },
   {
-    "id": "mow.DE-HE-GG-W222-20230426-000",
+    "id": "mow.DE-HE-GG-W222-20230426-002",
     "version": 5,
-    "startDate": "2023-04-26T10:43:40+02:00",
+    "startDate": "2023-04-26T11:21:33+02:00",
+    "expiresDate": "2023-04-26T17:21:33+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Probealarm - Vorankündigung - Landkreis Groß-Gerau"
+      "de": "Entwarnung: Probealarm - Vorankündigung - Landkreis Groß-Gerau"
     },
     "transKeys": {
       "event": "BBK-EVC-050"
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20230426-106-000",
+    "id": "mow.DE-HE-KS-SE106-20230426-106-001",
     "version": 5,
-    "startDate": "2023-04-26T11:11:05+02:00",
+    "startDate": "2023-04-26T11:25:30+02:00",
+    "expiresDate": "2023-04-26T17:25:30+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Probealarm - Landkreis Groß-Gerau"
+      "de": "Entwarnung: Probealarm - Landkreis Groß-Gerau"
     },
     "transKeys": {
       "event": "BBK-EVC-050"
