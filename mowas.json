@@ -39,13 +39,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20230426-000",
+    "id": "mow.DE-BW-RA-W025-20230426-001",
     "version": 5,
-    "startDate": "2023-04-26T05:16:56+02:00",
+    "startDate": "2023-04-26T06:45:12+02:00",
+    "expiresDate": "2023-04-26T12:45:12+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand mit starker Rauchentwicklung - Bischweier und Kuppenheim-Oberndorf"
+      "de": "Entwarnung: Brand mit starker Rauchentwicklung - Bischweier und Kuppenheim-Oberndorf"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
