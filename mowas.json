@@ -37,5 +37,18 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20230426-000",
+    "version": 5,
+    "startDate": "2023-04-26T05:16:56+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand mit starker Rauchentwicklung - Bischweier und Kuppenheim-Oberndorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
