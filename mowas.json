@@ -37,33 +37,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-MV-NB-W076-20230427-001",
-    "version": 5,
-    "startDate": "2023-04-27T11:49:16+02:00",
-    "expiresDate": "2023-04-27T17:49:16+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: geplante Bombenentschärfung - Rechlin"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
-    "id": "mow.DE-NW-UN-SE068-20230427-68-001",
-    "version": 5,
-    "startDate": "2023-04-27T12:03:24+02:00",
-    "expiresDate": "2023-04-27T18:03:24+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase - Fröndenberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
