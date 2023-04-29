@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20230429-29-000",
-    "version": 5,
-    "startDate": "2023-04-29T06:16:04+02:00",
-    "expiresDate": "2023-04-29T12:16:04+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: In der Stadt Oldenburg in der Masurenstraße Ecke Rauhehorst - Oldenburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20230429-001",
     "version": 5,
     "startDate": "2023-04-29T10:02:39+02:00",
