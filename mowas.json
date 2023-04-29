@@ -39,13 +39,14 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20230428-29-000",
+    "id": "mow.DE-NI-STD-SE029-20230429-29-000",
     "version": 5,
-    "startDate": "2023-04-28T16:42:53+02:00",
+    "startDate": "2023-04-29T06:16:04+02:00",
+    "expiresDate": "2023-04-29T12:16:04+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "In der Stadt Oldenburg in der Masurenstraße Ecke Rauhehorst - Oldenburg"
+      "de": "Entwarnung: In der Stadt Oldenburg in der Masurenstraße Ecke Rauhehorst - Oldenburg"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
