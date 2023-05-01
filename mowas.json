@@ -67,13 +67,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-ERB-W191-20230501-000",
+    "id": "mow.DE-HE-ERB-W191-20230501-001",
     "version": 5,
-    "startDate": "2023-05-01T15:48:21+02:00",
+    "startDate": "2023-05-01T16:36:20+02:00",
+    "expiresDate": "2023-05-01T22:36:20+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand  - Breuberg"
+      "de": "Entwarnung: Brand  - Breuberg"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
