@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-NR-W245-20230501-001",
-    "version": 5,
-    "startDate": "2023-05-01T15:31:16+02:00",
-    "expiresDate": "2023-05-01T21:31:16+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gebäudebrand im Bereich Linz: Fenster und Türen geschlossen halten - Linz am Rhein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HE-ERB-W191-20230501-001",
     "version": 5,
     "startDate": "2023-05-01T16:36:20+02:00",
