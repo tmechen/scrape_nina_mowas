@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20230502-29-001",
-    "version": 5,
-    "startDate": "2023-05-02T13:01:14+02:00",
-    "expiresDate": "2023-05-02T19:01:14+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gasaustritt in [Ebstorf]  - Ebstorf, Bahnhofstraße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20230502-001",
     "version": 5,
     "startDate": "2023-05-02T14:36:51+02:00",
