@@ -39,19 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-NE-SE044-20230502-44-000",
-    "version": 5,
-    "startDate": "2023-05-02T12:53:37+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Kaarst - Kaarster Kreuz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20230502-29-001",
     "version": 5,
     "startDate": "2023-05-02T13:01:14+02:00",
@@ -66,16 +53,30 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20230502-000",
+    "id": "mow.DE-BY-IN-W139-20230502-001",
     "version": 5,
-    "startDate": "2023-05-02T13:27:35+02:00",
+    "startDate": "2023-05-02T14:36:51+02:00",
     "severity": "Extreme",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Verzehrverbot Trinkwasser Waaler Gruppe - Ottersried, Stöffel, Langenbruck, Winden a. Aign und  Au a. Aign"
+      "de": "Verzehrverbot Trinkwasser Waaler Gruppe - Stöffel, Langenbruck, Ronnweg, Hög, Winden a. Aign, Au a. Aign, Agelsberg"
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-NW-NE-SE044-20230502-44-001",
+    "version": 5,
+    "startDate": "2023-05-02T14:37:59+02:00",
+    "expiresDate": "2023-05-02T20:37:59+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Kaarst - Kaarster Kreuz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
