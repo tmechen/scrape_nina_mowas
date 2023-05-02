@@ -37,5 +37,18 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20230502-29-000",
+    "version": 5,
+    "startDate": "2023-05-02T12:22:14+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gasaustritt in [Ebstorf]  - Ebstorf, Bahnhofstraße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
