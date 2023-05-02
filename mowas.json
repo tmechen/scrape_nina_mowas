@@ -39,19 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20230502-001",
-    "version": 5,
-    "startDate": "2023-05-02T14:36:51+02:00",
-    "severity": "Extreme",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Verzehrverbot Trinkwasser Waaler Gruppe - Stöffel, Langenbruck, Ronnweg, Hög, Winden a. Aign, Au a. Aign, Agelsberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NW-NE-SE044-20230502-44-001",
     "version": 5,
     "startDate": "2023-05-02T14:37:59+02:00",
@@ -63,6 +50,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20230502-002",
+    "version": 5,
+    "startDate": "2023-05-02T19:36:40+02:00",
+    "severity": "Severe",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Verzehrverbot Trinkwasser Waaler Gruppe - Stöffel, Langenbruck, Ronnweg, Hög, Winden a. Aign, Au a. Aign, Agelsberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
