@@ -92,13 +92,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-MOS-W031-20230503-000",
+    "id": "mow.DE-BW-MOS-W031-20230503-001",
     "version": 5,
-    "startDate": "2023-05-03T16:47:03+02:00",
+    "startDate": "2023-05-03T20:10:01+02:00",
+    "expiresDate": "2023-05-04T02:10:01+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke durch Brandereigniss (Obrigheim) - Obrigheim  Neckar-Odenwald Kreis"
+      "de": "Entwarnung: Rauchwolke durch Brandereigniss (Obrigheim) - Obrigheim  Neckar-Odenwald Kreis"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
