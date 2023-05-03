@@ -64,5 +64,31 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-HE-DI-W104-20230503-000",
+    "version": 5,
+    "startDate": "2023-05-03T11:53:13+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Einsatz der Feuerwehr Darmstadt - Eberstadt  - Stadt Pfungstadt / Kernstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230503-50-000",
+    "version": 5,
+    "startDate": "2023-05-03T12:12:53+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Austritt unbekannter Stoff - Zeppelin Realschule Singen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-081"
+    }
   }
 ]
