@@ -91,20 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20230504-31-003",
-    "version": 5,
-    "startDate": "2023-05-04T18:20:10+02:00",
-    "expiresDate": "2023-05-05T00:20:10+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großräumige Rauchausbreitung mit Geruchsbelästigung - Köln Humboldt-Gremberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-OB-SE055-20230504-55-001",
     "version": 5,
     "startDate": "2023-05-04T19:48:31+02:00",
