@@ -89,5 +89,18 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-MV-HST-W239-20230504-000",
+    "version": 5,
+    "startDate": "2023-05-04T12:45:20+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Stralsund"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
