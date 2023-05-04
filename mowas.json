@@ -91,20 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20230504-31-002",
-    "version": 5,
-    "startDate": "2023-05-04T18:02:28+02:00",
-    "expiresDate": "2023-05-05T00:02:28+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenfund - Köln Lindenthal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20230504-31-003",
     "version": 5,
     "startDate": "2023-05-04T18:20:10+02:00",
@@ -127,19 +113,6 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Kampfmittelfund in Oberhausen - Grafenbusch"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NW-DO-SE067-20230504-67-000",
-    "version": 5,
-    "startDate": "2023-05-04T20:06:04+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Blindgänger in der City gefunden - 900 Anwohner*innen betroffen - Dortmund Innenstadt"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
@@ -171,6 +144,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20230504-67-001",
+    "version": 5,
+    "startDate": "2023-05-05T00:19:40+02:00",
+    "expiresDate": "2023-05-05T06:19:40+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Blindgänger in der City gefunden - 900 Anwohner*innen betroffen - Dortmund Innenstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
