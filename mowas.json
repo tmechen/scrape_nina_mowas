@@ -91,20 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-W017-20230504-001",
-    "version": 5,
-    "startDate": "2023-05-04T13:29:37+02:00",
-    "expiresDate": "2023-05-04T19:29:37+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Entschärfung einer Weltkriegsbombe - Berlin-Friedrichshain"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-OB-SE055-20230504-55-000",
     "version": 5,
     "startDate": "2023-05-04T15:37:39+02:00",
