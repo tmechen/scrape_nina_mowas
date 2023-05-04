@@ -78,19 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-W017-20230504-000",
-    "version": 5,
-    "startDate": "2023-05-04T08:17:11+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Entschärfung einer Weltkriegsbombe - Berlin-Friedrichshain"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-MV-HST-W239-20230504-000",
     "version": 5,
     "startDate": "2023-05-04T12:45:20+02:00",
@@ -114,6 +101,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-BR-B-W017-20230504-001",
+    "version": 5,
+    "startDate": "2023-05-04T13:29:37+02:00",
+    "expiresDate": "2023-05-04T19:29:37+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Entschärfung einer Weltkriegsbombe - Berlin-Friedrichshain"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
