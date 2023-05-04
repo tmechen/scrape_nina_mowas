@@ -116,5 +116,18 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NW-HER-SE083-20230504-83-000",
+    "version": 5,
+    "startDate": "2023-05-04T14:07:01+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Herne - Herne, Sportpark Eickel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
