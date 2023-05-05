@@ -76,33 +76,5 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
-  },
-  {
-    "id": "mow.DE-HE-DA-W184-20230505-000",
-    "version": 5,
-    "startDate": "2023-05-05T07:02:13+02:00",
-    "expiresDate": "2023-05-05T13:02:13+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Einsatz der Feuerwehr - Darmstadt - Eberstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-HE-DI-W104-20230505-000",
-    "version": 5,
-    "startDate": "2023-05-05T07:05:45+02:00",
-    "expiresDate": "2023-05-05T13:05:45+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Einsatz der Feuerwehr Darmstadt - Eberstadt  - Stadt Pfungstadt / Kernstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
