@@ -64,5 +64,18 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-TH-AP-W115-20230506-000",
+    "version": 5,
+    "startDate": "2023-05-06T09:44:20+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenenprobealarm - Kreis Weimarer Land"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
