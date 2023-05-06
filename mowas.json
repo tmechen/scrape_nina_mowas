@@ -80,19 +80,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-PF-W024-20230506-000",
-    "version": 5,
-    "startDate": "2023-05-06T10:19:20+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnübung - Gemeindegebiet Niefern-Öschelbronn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20230506-12-001",
     "version": 5,
     "startDate": "2023-05-06T11:32:45+02:00",
@@ -159,6 +146,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-PF-W024-20230506-001",
+    "version": 5,
+    "startDate": "2023-05-06T14:07:14+02:00",
+    "expiresDate": "2023-05-06T20:07:14+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnübung - Gemeindegebiet Niefern-Öschelbronn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
     }
   }
 ]
