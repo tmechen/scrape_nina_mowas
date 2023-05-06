@@ -52,48 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-SLF-W113-20230505-001",
-    "version": 5,
-    "startDate": "2023-05-05T19:49:51+02:00",
-    "expiresDate": "2023-05-06T01:49:51+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Alarmierungsübung Katastrophenschutz  - Rudolstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RT-SE050-20230505-50-002",
-    "version": 5,
-    "startDate": "2023-05-05T19:58:23+02:00",
-    "expiresDate": "2023-05-06T01:58:23+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenentschärfung mit Evakuierung - Karlsruhe (Bereich Güterbahnhof)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RT-SE050-20230505-50-003",
-    "version": 5,
-    "startDate": "2023-05-05T19:58:41+02:00",
-    "expiresDate": "2023-05-06T01:58:41+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenentschärfung mit Evakuierung - Karlsruhe (Bereich Güterbahnhof)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20230505-18-002",
     "version": 5,
     "startDate": "2023-05-05T23:26:12+02:00",
