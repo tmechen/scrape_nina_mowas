@@ -64,5 +64,18 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-TH-J-W110-20230506-000",
+    "version": 5,
+    "startDate": "2023-05-06T03:46:06+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brand - Rudolstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
