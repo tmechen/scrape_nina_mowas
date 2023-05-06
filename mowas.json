@@ -147,5 +147,18 @@
     "transKeys": {
       "event": "BBK-EVC-050"
     }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20230506-82-000",
+    "version": 5,
+    "startDate": "2023-05-06T12:33:18+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "starke Rauchentwicklung durch Großbrand einer Lagerhalle  - Potsdam OT Fahrland"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
