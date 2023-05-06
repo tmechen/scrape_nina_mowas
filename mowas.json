@@ -79,13 +79,14 @@
     }
   },
   {
-    "id": "mow.DE-TH-MNG-W107-20230506-000",
+    "id": "mow.DE-TH-MNG-W107-20230506-001",
     "version": 5,
-    "startDate": "2023-05-06T20:12:57+02:00",
+    "startDate": "2023-05-06T21:22:40+02:00",
+    "expiresDate": "2023-05-07T03:22:40+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase durch Großbrand - Meiningen"
+      "de": "Entwarnung: Rauchgase durch Großbrand - Meiningen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
