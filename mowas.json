@@ -50,19 +50,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-BB-P-SE082-20230507-82-000",
-    "version": 5,
-    "startDate": "2023-05-07T11:55:33+02:00",
-    "expiresDate": "2023-05-07T17:55:33+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brand  - Potsdam OT Fahrland"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
