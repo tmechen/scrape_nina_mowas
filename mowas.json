@@ -50,19 +50,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-RP-WW-SE116-20230508-123-001",
-    "version": 5,
-    "startDate": "2023-05-08T05:45:13+02:00",
-    "expiresDate": "2023-05-08T11:45:13+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Unwetter VG Daaden-Herdorf - VG Daaden-Herdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
   }
 ]
