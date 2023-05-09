@@ -65,13 +65,14 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20230509-105-000",
+    "id": "mow.DE-SH-OD-SE105-20230509-105-001",
     "version": 5,
-    "startDate": "2023-05-09T02:19:12+02:00",
+    "startDate": "2023-05-09T03:34:42+02:00",
+    "expiresDate": "2023-05-09T09:34:42+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Ahrensburg"
+      "de": "Entwarnung: Feuerwehreinsatz - Ahrensburg"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
