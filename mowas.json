@@ -52,13 +52,14 @@
     }
   },
   {
-    "id": "mow.DE-ST-SK-W070-20230508-001",
+    "id": "mow.DE-ST-SK-W070-20230509-000",
     "version": 5,
-    "startDate": "2023-05-08T18:52:58+02:00",
+    "startDate": "2023-05-09T10:36:47+02:00",
+    "expiresDate": "2023-05-09T16:36:47+02:00",
     "severity": "Minor",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmitttelfund in Leuna OT Pissen und Witzschersdorf  - Leuna OT Pissen und Witzschersdorf"
+      "de": "Entwarnung: Kampfmitttelfund in Leuna OT Pissen und Witzschersdorf  - Leuna OT Pissen und Witzschersdorf"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
