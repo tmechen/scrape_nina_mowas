@@ -79,19 +79,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20230509-99-000",
-    "version": 5,
-    "startDate": "2023-05-09T20:50:43+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahreninformation Feuerwehreinsatz - Thumby"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-BL-W128-20230509-002",
     "version": 5,
     "startDate": "2023-05-09T22:12:14+02:00",
@@ -103,6 +90,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20230509-99-001",
+    "version": 5,
+    "startDate": "2023-05-09T22:54:40+02:00",
+    "expiresDate": "2023-05-10T04:54:40+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Thumby"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
