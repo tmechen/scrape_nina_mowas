@@ -90,5 +90,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20230509-99-000",
+    "version": 5,
+    "startDate": "2023-05-09T20:50:43+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahreninformation Feuerwehreinsatz - Thumby"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
