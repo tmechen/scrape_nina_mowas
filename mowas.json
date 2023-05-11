@@ -93,19 +93,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20230511-000",
-    "version": 5,
-    "startDate": "2023-05-11T11:28:41+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall in Sinsheim - Sinsheim inklusive betroffene Stadtteile"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-NW-WES-SE097-20230511-97-001",
     "version": 5,
     "startDate": "2023-05-11T11:48:28+02:00",
@@ -117,6 +104,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20230511-001",
+    "version": 5,
+    "startDate": "2023-05-11T12:33:43+02:00",
+    "expiresDate": "2023-05-11T18:33:43+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall in Sinsheim - Sinsheim inklusive betroffene Stadtteile"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
