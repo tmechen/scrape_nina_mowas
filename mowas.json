@@ -64,5 +64,18 @@
     "transKeys": {
       "event": "BBK-EVC-059"
     }
+  },
+  {
+    "id": "mow.DE-BB-EW-SE079-20230511-79-000",
+    "version": 5,
+    "startDate": "2023-05-11T02:32:38+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Austritt Giftstoff nach Unfall - Kremmen // Orion"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-029"
+    }
   }
 ]
