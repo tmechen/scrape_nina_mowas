@@ -119,5 +119,18 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230511-50-000",
+    "version": 5,
+    "startDate": "2023-05-11T14:44:33+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasserverunreinigung mit Abkochgebot - Geislingen an der Steige, Zone Seebach, Bereich Längental und Geislingen-Ey"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
