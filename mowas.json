@@ -92,13 +92,27 @@
     }
   },
   {
-    "id": "mow.DE-NW-MS-SE043-20230511-43-000",
+    "id": "mow.DE-NW-WES-SE097-20230511-97-000",
     "version": 5,
-    "startDate": "2023-05-11T10:34:07+02:00",
+    "startDate": "2023-05-11T11:03:31+02:00",
     "severity": "Minor",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Sirenen - Probealarm - Münster- Nord in den Stadtteilen Kinderhaus, Uppenberg"
+      "de": "Probealarm in Moers, Werk INEOS - Moers, Werk INEOS"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MS-SE043-20230511-43-001",
+    "version": 5,
+    "startDate": "2023-05-11T11:04:50+02:00",
+    "expiresDate": "2023-05-11T17:04:50+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen - Probealarm - Münster- Nord in den Stadtteilen Kinderhaus, Uppenberg"
     },
     "transKeys": {
       "event": "BBK-EVC-050"
