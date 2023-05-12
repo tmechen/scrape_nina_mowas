@@ -90,5 +90,31 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BW-UL-W127-20230512-001",
+    "version": 5,
+    "startDate": "2023-05-12T18:30:14+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Gefahreninformation der Feuerwehr wegen eines Brandes in der Ulmer Weststadt - Ulm"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20230512-28-001",
+    "version": 5,
+    "startDate": "2023-05-12T18:32:25+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Nahe"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
