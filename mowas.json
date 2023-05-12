@@ -76,19 +76,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-BR-B-SE017-20230512-17-000",
-    "version": 5,
-    "startDate": "2023-05-12T09:15:38+02:00",
-    "expiresDate": "2023-05-12T15:15:38+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Entschärfung einer Weltkriegsbombe - Berlin - Marienfelde"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
   }
 ]
