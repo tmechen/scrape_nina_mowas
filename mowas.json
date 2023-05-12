@@ -116,5 +116,31 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230512-50-000",
+    "version": 5,
+    "startDate": "2023-05-12T18:33:17+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand eines Firmengebäudes - Stadt Ulm, Wohngebiete Eselsberg und Michelsberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230512-125-000",
+    "version": 5,
+    "startDate": "2023-05-12T18:40:12+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand einer Lagerhalle - Alzey"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
