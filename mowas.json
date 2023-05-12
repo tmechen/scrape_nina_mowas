@@ -78,19 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20230512-28-001",
-    "version": 5,
-    "startDate": "2023-05-12T18:32:25+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Nahe"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20230512-125-000",
     "version": 5,
     "startDate": "2023-05-12T18:40:12+02:00",
@@ -139,6 +126,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Großbrand eines Firmengebäudes - Stadt Ulm, Söflingen und Industriegebiet entlang der Blaubeurer Straße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20230512-28-003",
+    "version": 5,
+    "startDate": "2023-05-13T00:23:03+02:00",
+    "expiresDate": "2023-05-13T06:23:03+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Nahe"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
