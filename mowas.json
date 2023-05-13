@@ -65,19 +65,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230513-50-000",
-    "version": 5,
-    "startDate": "2023-05-13T03:40:39+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand landwirtschaftliches Anwesen - Bräunlingen, Hüfingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20230513-125-000",
     "version": 5,
     "startDate": "2023-05-13T06:22:05+02:00",
@@ -100,6 +87,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Rauchgase - Alsdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230513-50-001",
+    "version": 5,
+    "startDate": "2023-05-13T10:15:59+02:00",
+    "expiresDate": "2023-05-13T16:15:59+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand landwirtschaftliches Anwesen - Bräunlingen, Hüfingen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
