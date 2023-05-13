@@ -78,20 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20230512-28-002",
-    "version": 5,
-    "startDate": "2023-05-12T19:44:42+02:00",
-    "expiresDate": "2023-05-13T01:44:42+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Henstedt-Ulzburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230512-50-003",
     "version": 5,
     "startDate": "2023-05-13T00:06:34+02:00",
