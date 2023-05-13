@@ -107,13 +107,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-LM-W189-20230513-000",
+    "id": "mow.DE-HE-LM-W189-20230513-001",
     "version": 5,
-    "startDate": "2023-05-13T10:52:50+02:00",
+    "startDate": "2023-05-13T11:15:33+02:00",
+    "expiresDate": "2023-05-13T17:15:33+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenenprobe Hünfelden - Gemeindegebiet Hünfelden"
+      "de": "Entwarnung: Sirenenprobe Hünfelden - Gemeindegebiet Hünfelden"
     },
     "transKeys": {
       "event": "BBK-EVC-060"
