@@ -78,20 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230512-50-003",
-    "version": 5,
-    "startDate": "2023-05-13T00:06:34+02:00",
-    "expiresDate": "2023-05-13T06:06:34+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand eines Firmengebäudes - Stadt Ulm, Söflingen und Industriegebiet entlang der Blaubeurer Straße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20230512-28-003",
     "version": 5,
     "startDate": "2023-05-13T00:23:03+02:00",
@@ -141,6 +127,19 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Brand landwirtschaftliches Anwesen - Bräunlingen, Hüfingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-AC-SE090-20230513-90-001",
+    "version": 5,
+    "startDate": "2023-05-13T06:16:23+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase - Alsdorf"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
