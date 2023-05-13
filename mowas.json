@@ -93,13 +93,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230513-50-002",
+    "id": "mow.DE-BW-RT-SE050-20230513-50-003",
     "version": 5,
-    "startDate": "2023-05-13T11:36:36+02:00",
+    "startDate": "2023-05-13T15:48:16+02:00",
+    "expiresDate": "2023-05-13T21:48:16+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall in Stadtteilen von Offenburg und in Schutterwald - Gemeinden Offenburg und Schutterwald"
+      "de": "Entwarnung: Stromausfall in Stadtteilen von Offenburg und in Schutterwald - Gemeinden Offenburg und Schutterwald"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
