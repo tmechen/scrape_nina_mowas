@@ -63,19 +63,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029-20230514-29-001",
-    "version": 5,
-    "startDate": "2023-05-14T15:15:17+02:00",
-    "expiresDate": "2023-05-14T21:15:17+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuer in der Gemeinde Wurster Nordseeküste, Ortschaft Dorum Speckenstr - Dorum"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
