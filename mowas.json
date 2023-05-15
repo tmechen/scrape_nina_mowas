@@ -90,5 +90,19 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20230515-001",
+    "version": 5,
+    "startDate": "2023-05-15T20:45:15+02:00",
+    "expiresDate": "2023-05-16T02:45:15+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung - Gemeinde Aresing"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
