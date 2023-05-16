@@ -77,5 +77,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20230516-122-000",
+    "version": 5,
+    "startDate": "2023-05-17T00:32:57+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung bei Scheunenbrand - Burgstädt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
