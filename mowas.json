@@ -65,13 +65,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-WES-SE097-20230516-97-000",
+    "id": "mow.DE-NW-WES-SE097-20230516-97-001",
     "version": 5,
-    "startDate": "2023-05-16T17:15:54+02:00",
+    "startDate": "2023-05-16T19:44:09+02:00",
+    "expiresDate": "2023-05-17T01:44:09+02:00",
     "severity": "Severe",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in Sonsbeck - Sonsbeck"
+      "de": "Entwarnung: Rauchgase in Sonsbeck - Sonsbeck"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
