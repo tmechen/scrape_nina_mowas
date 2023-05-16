@@ -63,5 +63,18 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NW-WES-SE097-20230516-97-000",
+    "version": 5,
+    "startDate": "2023-05-16T17:15:54+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Sonsbeck - Sonsbeck"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
