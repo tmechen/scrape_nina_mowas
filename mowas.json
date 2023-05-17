@@ -65,13 +65,14 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20230516-122-000",
+    "id": "mow.DE-SN-HY-SE048-20230517-122-000",
     "version": 5,
-    "startDate": "2023-05-17T00:32:57+02:00",
+    "startDate": "2023-05-17T04:05:29+02:00",
+    "expiresDate": "2023-05-17T10:05:29+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung bei Scheunenbrand - Burgstädt"
+      "de": "Entwarnung: Starke Rauchentwicklung bei Scheunenbrand - Burgstädt"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
