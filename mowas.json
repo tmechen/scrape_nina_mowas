@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-DH-W233-20230517-001",
-    "version": 5,
-    "startDate": "2023-05-17T18:05:21+02:00",
-    "expiresDate": "2023-05-18T00:05:21+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausbreitung von Rauchgasen durch einen Moorbrand - Gemeinde Freistatt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-F-SE119-20230517-128-002",
     "version": 5,
     "startDate": "2023-05-17T19:01:08+02:00",
