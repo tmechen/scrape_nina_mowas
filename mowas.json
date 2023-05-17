@@ -66,11 +66,11 @@
     }
   },
   {
-    "id": "mow.DE-HE-F-SE119-20230517-128-000",
+    "id": "mow.DE-HE-F-SE119-20230517-128-001",
     "version": 5,
-    "startDate": "2023-05-17T14:30:31+02:00",
+    "startDate": "2023-05-17T15:17:37+02:00",
     "severity": "Severe",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Kampfmittelbeseitigung. Räumung des Bereiches heute bis 16 Uhr - Frankfurt-Frankfurter Berg"
     },
