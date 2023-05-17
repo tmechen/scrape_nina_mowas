@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230517-50-002",
-    "version": 5,
-    "startDate": "2023-05-17T08:15:11+02:00",
-    "expiresDate": "2023-05-17T14:15:11+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand Wohnhaus in Künzelsau, Rauch zieht in westliche Richtung - Stadtgebiet Künzelsau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230517-50-003",
     "version": 5,
     "startDate": "2023-05-17T13:01:15+02:00",
