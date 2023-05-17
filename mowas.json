@@ -78,5 +78,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NI-DH-W233-20230517-000",
+    "version": 5,
+    "startDate": "2023-05-17T17:30:09+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausbreitung von Rauchgasen durch einen Moorbrand - Gemeinde Freistatt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
