@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20230517-000",
-    "version": 5,
-    "startDate": "2023-05-17T07:21:23+02:00",
-    "expiresDate": "2023-05-17T13:21:23+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Abkochgebot ab Montag, 24.April 2023 - Gemeinde Bibertal (Alle Ortsteile)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230517-50-002",
     "version": 5,
     "startDate": "2023-05-17T08:15:11+02:00",
@@ -78,6 +64,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230517-50-004",
+    "version": 5,
+    "startDate": "2023-05-17T13:35:32+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gebäudebrand Mehrfamilienhaus - 88696 Billafingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
