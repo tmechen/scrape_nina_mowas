@@ -37,19 +37,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-HE-F-SE119-20230517-128-002",
-    "version": 5,
-    "startDate": "2023-05-17T19:01:08+02:00",
-    "expiresDate": "2023-05-18T01:01:08+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelbeseitigung Frankfurter-Berg - Frankfurt-Frankfurter Berg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
   }
 ]
