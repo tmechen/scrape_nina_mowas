@@ -39,13 +39,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W043-20230518-001",
+    "id": "mow.DE-BW-HD-W043-20230518-002",
     "version": 5,
-    "startDate": "2023-05-18T21:43:28+02:00",
+    "startDate": "2023-05-18T22:15:01+02:00",
+    "expiresDate": "2023-05-19T04:15:01+02:00",
     "severity": "Minor",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall in Teilen des Stadtgebiets Heidelberg / Update: 21:34 Uhr - Stadtkreis Heidelberg, Stadtteil Emmertsgrund"
+      "de": "Entwarnung: Stromausfall in Teilen des Stadtgebiets Heidelberg / Update: 21:34 Uhr - Stadtkreis Heidelberg, Stadtteil Emmertsgrund"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
