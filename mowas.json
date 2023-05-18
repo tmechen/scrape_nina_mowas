@@ -51,5 +51,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BW-HD-W043-20230518-000",
+    "version": 5,
+    "startDate": "2023-05-18T20:12:02+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall in Teilen des Stadtgebiets Heidelberg - Stadtkreis Heidelberg, Stadtteile Emmertsgrund, Boxberg, Rohrbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
