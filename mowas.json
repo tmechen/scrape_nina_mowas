@@ -50,5 +50,18 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20230518-100-000",
+    "version": 5,
+    "startDate": "2023-05-18T06:11:39+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuer mit starker Rauchentwicklung - Kappeln"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
