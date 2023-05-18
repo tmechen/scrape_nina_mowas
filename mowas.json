@@ -39,11 +39,11 @@
     }
   },
   {
-    "id": "mow.DE-TH-UH-W116-20230518-000",
+    "id": "mow.DE-TH-UH-W116-20230518-001",
     "version": 5,
-    "startDate": "2023-05-18T03:49:26+02:00",
+    "startDate": "2023-05-18T05:31:52+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Großbrand in Schönstedt - Schönstedt"
     },
