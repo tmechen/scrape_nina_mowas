@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20230518-99-001",
-    "version": 5,
-    "startDate": "2023-05-18T15:14:30+02:00",
-    "expiresDate": "2023-05-18T21:14:30+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Groß Buchwald - Hauptstraße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-HD-W043-20230518-000",
     "version": 5,
     "startDate": "2023-05-18T20:12:02+02:00",
