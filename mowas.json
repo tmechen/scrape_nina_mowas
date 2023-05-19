@@ -26,20 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20230519-4-000",
-    "version": 5,
-    "startDate": "2023-05-19T10:38:53+02:00",
-    "expiresDate": "2023-05-19T16:38:53+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserverunreinigung - Kordel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230519-50-000",
     "version": 5,
     "startDate": "2023-05-19T12:58:50+02:00",
@@ -66,13 +52,14 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20230519-105-000",
+    "id": "mow.DE-SH-OD-SE105-20230519-105-001",
     "version": 5,
-    "startDate": "2023-05-19T15:03:31+02:00",
+    "startDate": "2023-05-19T17:14:15+02:00",
+    "expiresDate": "2023-05-19T23:14:15+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Eckhorst"
+      "de": "Entwarnung: Feuerwehreinsatz - Eckhorst"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
