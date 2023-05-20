@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20230520-000",
-    "version": 5,
-    "startDate": "2023-05-20T10:16:42+02:00",
-    "expiresDate": "2023-05-20T16:16:42+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Störung der Rufnummer 19222   - Rhein-Neckar-Kreis und Stadt Heidelberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-006"
-    }
-  },
-  {
     "id": "mow.DE-TH-HIG-W111-20230520-001",
     "version": 5,
     "startDate": "2023-05-20T12:28:36+02:00",
