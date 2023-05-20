@@ -50,19 +50,5 @@
     "transKeys": {
       "event": "BBK-EVC-006"
     }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029B-20230519-129-000",
-    "version": 5,
-    "startDate": "2023-05-19T21:46:01+02:00",
-    "expiresDate": "2023-05-20T03:46:01+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: unkontrollierte Ausbreitung von Brandrauch bei Strohballenbrand - Stadt Hameln / Gemeinde Emmerthal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
