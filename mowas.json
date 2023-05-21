@@ -39,13 +39,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-GT-SE040-20230521-40-000",
+    "id": "mow.DE-NW-GT-SE040-20230521-40-001",
     "version": 5,
-    "startDate": "2023-05-21T14:02:39+02:00",
+    "startDate": "2023-05-21T16:27:43+02:00",
+    "expiresDate": "2023-05-21T22:27:43+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in Harsewinkel - Stadt Harsewinkel"
+      "de": "Entwarnung: Rauchgase in Harsewinkel - Stadt Harsewinkel"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
