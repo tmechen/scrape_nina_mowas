@@ -52,19 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SI-SE066-20230522-66-000",
-    "version": 5,
-    "startDate": "2023-05-22T21:15:52+02:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausbreitung einer Rauchwolke durch Brandereignis - Neunkirchen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-MK-SE095-20230522-95-001",
     "version": 5,
     "startDate": "2023-05-22T21:56:25+02:00",
@@ -101,6 +88,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Großbrand - Quedlinburg Rambergweg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SI-SE066-20230522-66-001",
+    "version": 5,
+    "startDate": "2023-05-23T00:45:18+02:00",
+    "expiresDate": "2023-05-23T06:45:18+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausbreitung einer Rauchwolke durch Brandereignis - Neunkirchen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
