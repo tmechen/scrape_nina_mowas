@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20230522-001",
-    "version": 5,
-    "startDate": "2023-05-22T17:53:36+02:00",
-    "expiresDate": "2023-05-22T23:53:36+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor Brandrauch - Wertingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20230522-000",
     "version": 5,
     "startDate": "2023-05-22T18:51:03+02:00",
