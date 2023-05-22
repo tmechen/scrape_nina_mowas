@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20230522-90-001",
-    "version": 5,
-    "startDate": "2023-05-22T05:01:56+02:00",
-    "expiresDate": "2023-05-22T11:01:56+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase - Städteregion Aachen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-AC-SE090-20230522-90-002",
     "version": 5,
     "startDate": "2023-05-22T08:35:47+02:00",
