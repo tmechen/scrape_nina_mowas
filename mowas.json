@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-OE-SE086-20230522-86-001",
-    "version": 5,
-    "startDate": "2023-05-22T17:31:17+02:00",
-    "expiresDate": "2023-05-22T23:31:17+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser/Überflutung - Kreis Olpe"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-021"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20230522-001",
     "version": 5,
     "startDate": "2023-05-22T17:53:36+02:00",
@@ -121,13 +107,14 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20230522-143-001",
+    "id": "mow.DE-ST-MD-SE022-20230522-143-002",
     "version": 5,
-    "startDate": "2023-05-22T22:22:26+02:00",
+    "startDate": "2023-05-22T23:28:34+02:00",
+    "expiresDate": "2023-05-23T05:28:34+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand - Quedlinburg Rambergweg"
+      "de": "Entwarnung: Großbrand - Quedlinburg Rambergweg"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
