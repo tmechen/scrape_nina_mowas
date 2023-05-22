@@ -50,5 +50,18 @@
     "transKeys": {
       "event": "BBK-EVC-021"
     }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20230522-000",
+    "version": 5,
+    "startDate": "2023-05-22T17:22:48+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor Brandrauch - Wertingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
