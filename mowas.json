@@ -39,17 +39,16 @@
     }
   },
   {
-    "id": "mow.DE-NI-VEC-W078-20230523-001",
+    "id": "mow.DE-NW-E-SE052-20230523-52-000",
     "version": 5,
-    "startDate": "2023-05-23T06:00:44+02:00",
-    "expiresDate": "2023-05-23T12:00:44+02:00",
+    "startDate": "2023-05-23T12:01:06+02:00",
     "severity": "Minor",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Vechta/Calveslage"
+      "de": "Kampfmittelfund in Essen (Südostviertel) - Essen"
     },
     "transKeys": {
-      "event": "BBK-EVC-034"
+      "event": "BBK-EVC-079"
     }
   }
 ]
