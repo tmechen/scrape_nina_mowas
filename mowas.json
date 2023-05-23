@@ -67,13 +67,14 @@
     }
   },
   {
-    "id": "mow.DE-NI-VEC-W078-20230523-000",
+    "id": "mow.DE-NI-VEC-W078-20230523-001",
     "version": 5,
-    "startDate": "2023-05-23T04:21:11+02:00",
+    "startDate": "2023-05-23T06:00:44+02:00",
+    "expiresDate": "2023-05-23T12:00:44+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Vechta/Calveslage"
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Vechta/Calveslage"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
