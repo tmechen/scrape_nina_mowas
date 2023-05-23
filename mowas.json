@@ -52,13 +52,14 @@
     }
   },
   {
-    "id": "mow.DE-BY-ED-W186-20230523-000",
+    "id": "mow.DE-BY-ED-W186-20230523-001",
     "version": 5,
-    "startDate": "2023-05-23T14:55:52+02:00",
+    "startDate": "2023-05-23T16:30:20+02:00",
+    "expiresDate": "2023-05-23T22:30:20+02:00",
     "severity": "Severe",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Notrufnummer 112 - ILS Erding"
+      "de": "Entwarnung: Ausfall Notrufnummer 112 - ILS Erding"
     },
     "transKeys": {
       "event": "BBK-EVC-005"
