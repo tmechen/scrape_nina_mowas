@@ -37,19 +37,5 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
-  },
-  {
-    "id": "mow.DE-BW-RT-SE050-20230524-50-000",
-    "version": 5,
-    "startDate": "2023-05-24T18:22:49+02:00",
-    "expiresDate": "2023-05-25T00:22:49+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserabkochgebot für die Ortsteile Eschelbach und Obersöllbach - Neuenstein-Eschelbach und Neuenstein-Obersöllbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
   }
 ]
