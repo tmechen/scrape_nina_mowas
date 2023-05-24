@@ -39,13 +39,14 @@
     }
   },
   {
-    "id": "mow.DE-RP-KL-SE112-20230523-112-000",
+    "id": "mow.DE-RP-KL-SE112-20230524-112-000",
     "version": 5,
-    "startDate": "2023-05-23T21:32:03+02:00",
+    "startDate": "2023-05-24T04:52:21+02:00",
+    "expiresDate": "2023-05-24T10:52:21+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Keine oder gestörte Wasserversorgung - Großgemeinde Bruchmühlbach-Miesau"
+      "de": "Entwarnung: Störung der Wasserversorgung wurde behoben - Großgemeinde Bruchmühlbach-Miesau"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
