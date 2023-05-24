@@ -26,20 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20230524-106-001",
-    "version": 5,
-    "startDate": "2023-05-24T13:23:35+02:00",
-    "expiresDate": "2023-05-24T19:23:35+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand - Ginsheim-Gustavsburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-RP-KO-SE113-20230524-113-002",
     "version": 5,
     "startDate": "2023-05-24T16:52:48+02:00",
