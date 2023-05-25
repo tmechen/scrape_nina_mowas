@@ -26,20 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-MNG-W107-20230525-001",
-    "version": 5,
-    "startDate": "2023-05-25T12:04:32+02:00",
-    "expiresDate": "2023-05-25T18:04:32+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall Amtsleitung Leitstelle SM-MGN - Landkreis Schmalkalden-Meiningen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-006"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-SE004-20230525-4-000",
     "version": 5,
     "startDate": "2023-05-25T16:04:19+02:00",
