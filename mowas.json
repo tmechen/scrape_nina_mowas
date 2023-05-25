@@ -26,19 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE113-20230524-113-002",
-    "version": 5,
-    "startDate": "2023-05-24T16:52:48+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Fund / Entschärfung einer Weltkriegsbombe - Koblenz Rauental"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-TH-MNG-W107-20230525-001",
     "version": 5,
     "startDate": "2023-05-25T12:04:32+02:00",
@@ -63,6 +50,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KO-SE113-20230525-113-000",
+    "version": 5,
+    "startDate": "2023-05-25T16:44:07+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Fund / Entschärfung einer Weltkriegsbombe - Koblenz Rauental"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
