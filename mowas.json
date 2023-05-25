@@ -52,13 +52,14 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20230525-33-000",
+    "id": "mow.DE-HH-HH-SE033-20230525-33-001",
     "version": 5,
-    "startDate": "2023-05-25T17:45:08+02:00",
+    "startDate": "2023-05-25T19:25:34+02:00",
+    "expiresDate": "2023-05-26T01:25:34+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand im Bereich Hamburg Neustadt - 20355 Hamburg"
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand im Bereich Hamburg Neustadt - 20355 Hamburg"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
