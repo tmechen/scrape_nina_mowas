@@ -51,5 +51,18 @@
     "transKeys": {
       "event": "BBK-EVC-027"
     }
+  },
+  {
+    "id": "mow.DE-TH-MNG-W107-20230525-000",
+    "version": 5,
+    "startDate": "2023-05-25T10:44:38+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Amtsleitung Leitstelle SM-MGN - Landkreis Schmalkalden-Meiningen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
+    }
   }
 ]
