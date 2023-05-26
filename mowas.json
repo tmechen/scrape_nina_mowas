@@ -24,47 +24,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-RP-TR-SE004-20230525-4-001",
-    "version": 5,
-    "startDate": "2023-05-25T20:02:04+02:00",
-    "expiresDate": "2023-05-26T02:02:04+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung bei einem Großbrand - Morbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BY-N-W163-20230525-001",
-    "version": 5,
-    "startDate": "2023-05-25T20:15:10+02:00",
-    "expiresDate": "2023-05-26T02:15:10+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probewarnung Bergkirchweih - Stadt Erlangen, Bergkirchweihgelände"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-RP-KO-SE113-20230525-113-001",
-    "version": 5,
-    "startDate": "2023-05-25T20:24:37+02:00",
-    "expiresDate": "2023-05-26T02:24:37+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Fund / Entschärfung einer Weltkriegsbombe - Koblenz Rauental"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
   }
 ]
