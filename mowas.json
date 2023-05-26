@@ -26,19 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20230526-56-000",
-    "version": 5,
-    "startDate": "2023-05-26T14:20:17+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase in Wegberg -  Ortsteil Arsbeck"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE024-20230526-24-000",
     "version": 5,
     "startDate": "2023-05-26T14:50:16+02:00",
@@ -49,6 +36,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20230526-56-001",
+    "version": 5,
+    "startDate": "2023-05-26T15:23:42+02:00",
+    "expiresDate": "2023-05-26T21:23:42+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase in Wegberg -  Ortsteil Arsbeck"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
