@@ -54,11 +54,11 @@
     }
   },
   {
-    "id": "mow.DE-NW-DN-SE054-20230526-54-000",
+    "id": "mow.DE-NW-DN-SE054-20230526-54-001",
     "version": 5,
-    "startDate": "2023-05-26T17:25:38+02:00",
+    "startDate": "2023-05-26T21:14:26+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Rauchgase in Linnich - Linnich"
     },
