@@ -26,19 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BOT-SE062-20230526-62-000",
-    "version": 5,
-    "startDate": "2023-05-26T07:11:28+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brandrauch - Bottrop"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-SE004-20230526-4-001",
     "version": 5,
     "startDate": "2023-05-26T07:56:02+02:00",
@@ -50,6 +37,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BOT-SE062-20230526-62-001",
+    "version": 5,
+    "startDate": "2023-05-26T08:26:56+02:00",
+    "expiresDate": "2023-05-26T14:26:56+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brandrauch - Bottrop"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
