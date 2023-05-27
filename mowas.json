@@ -26,20 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230527-125-001",
-    "version": 5,
-    "startDate": "2023-05-27T11:26:35+02:00",
-    "expiresDate": "2023-05-27T17:26:35+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung Ober Ingelheim - Ingelheim, Ober Ingelheim, Gemeinde Schwabenheim und Gau Algesheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-VIE-SE074-20230527-74-001",
     "version": 5,
     "startDate": "2023-05-27T12:04:42+02:00",
