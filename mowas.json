@@ -26,19 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20230527-122-000",
-    "version": 5,
-    "startDate": "2023-05-27T03:36:21+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung bei einem Gebäudebrand  - 04668 Grimma"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20230527-125-000",
     "version": 5,
     "startDate": "2023-05-27T03:46:50+02:00",
@@ -76,6 +63,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20230527-122-003",
+    "version": 5,
+    "startDate": "2023-05-27T06:02:48+02:00",
+    "expiresDate": "2023-05-27T12:02:48+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung bei einem Gebäudebrand  - 04668 Grimma"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
