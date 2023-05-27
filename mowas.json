@@ -26,13 +26,40 @@
     }
   },
   {
-    "id": "mow.DE-NW-DN-SE054-20230526-54-002",
+    "id": "mow.DE-SN-HY-SE048-20230527-122-000",
     "version": 5,
-    "startDate": "2023-05-26T21:33:34+02:00",
+    "startDate": "2023-05-27T03:36:21+02:00",
     "severity": "Minor",
-    "type": "Update",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Rauchgase in Linnich - Linnich"
+      "de": "Starke Rauchentwicklung bei einem Gebäudebrand  - 04668 Grimma"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230527-125-000",
+    "version": 5,
+    "startDate": "2023-05-27T03:46:50+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung Ober Ingelheim - Ingelheim, Ober Ingelheim, Gemeinde Schwabenheim und Gau Algesheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20230527-54-000",
+    "version": 5,
+    "startDate": "2023-05-27T04:01:40+02:00",
+    "expiresDate": "2023-05-27T10:01:40+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase in Linnich - Linnich"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
