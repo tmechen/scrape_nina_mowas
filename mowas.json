@@ -26,20 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-SE011-20230527-11-000",
-    "version": 5,
-    "startDate": "2023-05-27T10:11:33+02:00",
-    "expiresDate": "2023-05-27T16:11:33+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Großbrand  - Kamenz- Stadt und Umgebung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20230527-125-001",
     "version": 5,
     "startDate": "2023-05-27T11:26:35+02:00",
