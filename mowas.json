@@ -40,13 +40,14 @@
     }
   },
   {
-    "id": "mow.DE-BY-AN-W166-20230528-000",
+    "id": "mow.DE-BY-AN-W166-20230528-001",
     "version": 5,
-    "startDate": "2023-05-28T07:54:40+02:00",
+    "startDate": "2023-05-28T11:00:15+02:00",
+    "expiresDate": "2023-05-28T17:00:15+02:00",
     "severity": "Severe",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung Lagerhallenbrand - Markt Erlbach Losaurach"
+      "de": "Entwarnung: Rauchentwicklung Lagerhallenbrand - Markt Erlbach Losaurach"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
