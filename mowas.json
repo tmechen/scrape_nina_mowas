@@ -26,19 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20230528-19-000",
-    "version": 5,
-    "startDate": "2023-05-28T21:38:22+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand - Bremerhaven"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SN-DD-W094-20230528-000",
     "version": 5,
     "startDate": "2023-05-28T21:40:58+02:00",
@@ -49,6 +36,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20230528-19-001",
+    "version": 5,
+    "startDate": "2023-05-28T22:08:52+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Großbrand - Bremerhaven"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
