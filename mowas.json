@@ -26,20 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20230528-122-001",
-    "version": 5,
-    "startDate": "2023-05-28T05:55:18+02:00",
-    "expiresDate": "2023-05-28T11:55:18+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand in Oschatz - Umkreis von Oschatz in südlicher Richtung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-AN-W166-20230528-001",
     "version": 5,
     "startDate": "2023-05-28T11:00:15+02:00",
