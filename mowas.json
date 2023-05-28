@@ -24,5 +24,31 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20230528-19-000",
+    "version": 5,
+    "startDate": "2023-05-28T21:38:22+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand - Bremerhaven"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-SN-DD-W094-20230528-000",
+    "version": 5,
+    "startDate": "2023-05-28T21:40:58+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Brand in Dresden Strehlen - Dresden Strehlen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
