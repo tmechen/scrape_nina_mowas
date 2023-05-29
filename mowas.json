@@ -24,19 +24,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-HH-HH-SE033-20230529-33-001",
-    "version": 5,
-    "startDate": "2023-05-29T16:22:48+02:00",
-    "expiresDate": "2023-05-29T22:22:48+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Feuer im Bereich Hamburg Hausbruch  - Hamburg Hausbruch / Lange Striepen Richtung Cuxhavener Str."
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
