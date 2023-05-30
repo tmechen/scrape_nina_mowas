@@ -66,19 +66,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-E-SE052-20230530-52-000",
-    "version": 5,
-    "startDate": "2023-05-30T17:26:41+02:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Schadstofffreisetzung in Bergerhausen - Essen Bergerhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-020"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20230530-000",
     "version": 5,
     "startDate": "2023-05-30T18:31:26+02:00",
@@ -102,6 +89,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-E-SE052-20230530-52-001",
+    "version": 5,
+    "startDate": "2023-05-30T19:09:48+02:00",
+    "expiresDate": "2023-05-31T01:09:48+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Schadstofffreisetzung in Bergerhausen - Essen Bergerhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-020"
     }
   }
 ]
