@@ -77,5 +77,31 @@
     "transKeys": {
       "event": "BBK-EVC-020"
     }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20230530-000",
+    "version": 5,
+    "startDate": "2023-05-30T18:31:26+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahrstoffaustritt EX - Baden-Baden"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-029"
+    }
+  },
+  {
+    "id": "mow.DE-NW-KLE-SE058-20230530-58-000",
+    "version": 5,
+    "startDate": "2023-05-30T18:42:04+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Straelen / Wachtendonk - Straelen/ Wachtendonk"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
