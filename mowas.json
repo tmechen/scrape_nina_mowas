@@ -51,5 +51,18 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-BY-SC-W185-20230530-001",
+    "version": 5,
+    "startDate": "2023-05-30T16:56:42+02:00",
+    "severity": "Severe",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Großbrand im Bereich Kleinschwarzenlohe / Wendelstein - Kleinschwarzenlohe"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
