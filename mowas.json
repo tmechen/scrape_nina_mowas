@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-UH-W116-20230530-002",
-    "version": 5,
-    "startDate": "2023-05-30T10:23:01+02:00",
-    "expiresDate": "2023-05-30T16:23:01+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung in Bad Langensalza im Bereich Innenstadt - Stadtgebiet Bad Langensalza"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NI-VER-W077-20230530-001",
     "version": 5,
     "startDate": "2023-05-30T15:04:55+02:00",
