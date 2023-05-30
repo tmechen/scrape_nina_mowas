@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-VER-W077-20230530-001",
-    "version": 5,
-    "startDate": "2023-05-30T15:04:55+02:00",
-    "expiresDate": "2023-05-30T21:04:55+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Gebäudebrand in Achim - Achim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20230530-000",
     "version": 5,
     "startDate": "2023-05-30T18:31:26+02:00",
