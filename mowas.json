@@ -37,19 +37,5 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
-  },
-  {
-    "id": "mow.DE-BW-RA-W025-20230530-001",
-    "version": 5,
-    "startDate": "2023-05-30T23:23:05+02:00",
-    "expiresDate": "2023-05-31T05:23:05+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahrstoffaustritt EX - Baden-Baden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-029"
-    }
   }
 ]
