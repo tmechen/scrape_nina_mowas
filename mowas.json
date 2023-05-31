@@ -65,5 +65,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BR-B-SE017-20230531-17-000",
+    "version": 5,
+    "startDate": "2023-05-31T20:52:00+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand in Berlin Neukölln in einer Lagerhalle für Papierabfälle. - Berlin"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
