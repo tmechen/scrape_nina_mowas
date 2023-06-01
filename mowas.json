@@ -24,19 +24,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-BR-B-SE017-20230601-17-000",
-    "version": 5,
-    "startDate": "2023-06-01T02:46:31+02:00",
-    "expiresDate": "2023-06-01T08:46:31+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand in Berlin Neukölln in einer Lagerhalle für Papierabfälle. - Berlin"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
