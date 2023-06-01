@@ -24,5 +24,18 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20230601-12-001",
+    "version": 5,
+    "startDate": "2023-06-01T11:41:47+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Erhebliche Geruchsbelästigung nach Großbrand - Arnstadt, OT Dannheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
