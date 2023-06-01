@@ -26,19 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20230601-12-001",
-    "version": 5,
-    "startDate": "2023-06-01T11:41:47+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Erhebliche Geruchsbelästigung nach Großbrand - Arnstadt, OT Dannheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20230601-29-001",
     "version": 5,
     "startDate": "2023-06-01T14:33:24+02:00",
@@ -47,6 +34,33 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: unkontrollierte Ausbreitung von Brandrauch - Hess. Oldendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BB-BRB-SE081-20230601-81-000",
+    "version": 5,
+    "startDate": "2023-06-01T15:03:29+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Waldbrand auf Truppenübungsplatz Jüterbog West - Jüterbog, Kloster Zinna, Grüna und Neuheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20230601-12-002",
+    "version": 5,
+    "startDate": "2023-06-01T15:13:31+02:00",
+    "expiresDate": "2023-06-01T21:13:31+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Erhebliche Geruchsbelästigung nach Großbrand - Arnstadt, OT Dannheim"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
