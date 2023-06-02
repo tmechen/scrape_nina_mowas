@@ -78,13 +78,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20230602-000",
+    "id": "mow.DE-BW-HD-W086-20230602-001",
     "version": 5,
-    "startDate": "2023-06-02T17:11:28+02:00",
+    "startDate": "2023-06-02T17:45:10+02:00",
+    "expiresDate": "2023-06-02T23:45:10+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall in Sinsheim-Eschelbach - Sinsheim-Eschelbach"
+      "de": "Entwarnung: Stromausfall in Sinsheim-Eschelbach - Sinsheim-Eschelbach"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
