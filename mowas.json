@@ -63,5 +63,18 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20230602-12-001",
+    "version": 5,
+    "startDate": "2023-06-02T16:40:16+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung - Tautenhain / Saale- Holzland- Kreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
