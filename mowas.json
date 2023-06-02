@@ -39,13 +39,14 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20230601-12-003",
+    "id": "mow.DE-TH-EF-SE012-20230602-12-000",
     "version": 5,
-    "startDate": "2023-06-01T21:33:12+02:00",
+    "startDate": "2023-06-02T02:38:38+02:00",
+    "expiresDate": "2023-06-02T08:38:38+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Großbrand in Recyclinghof - Thüringen, Hildburghausen, Dammstraße"
+      "de": "Entwarnung: Rauchentwicklung durch Großbrand in Recyclinghof - Thüringen, Hildburghausen, Dammstraße"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
