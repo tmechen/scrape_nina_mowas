@@ -52,19 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20230603-12-000",
-    "version": 5,
-    "startDate": "2023-06-03T09:52:51+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Einsatzübung Krankenhaus Friedrichroda - Ortslage Friedrichroda"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-TH-AP-W115-20230603-001",
     "version": 5,
     "startDate": "2023-06-03T09:59:54+02:00",
@@ -229,6 +216,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20230603-12-001",
+    "version": 5,
+    "startDate": "2023-06-03T13:21:58+02:00",
+    "expiresDate": "2023-06-03T19:21:58+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Einsatzübung Krankenhaus Friedrichroda - Ortslage Friedrichroda"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
