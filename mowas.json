@@ -216,5 +216,19 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20230603-005",
+    "version": 5,
+    "startDate": "2023-06-03T13:02:04+02:00",
+    "expiresDate": "2023-06-03T19:02:04+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Probealarm - Lichtenau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
