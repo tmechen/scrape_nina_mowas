@@ -52,47 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20230603-122-000",
-    "version": 5,
-    "startDate": "2023-06-03T05:59:59+02:00",
-    "expiresDate": "2023-06-03T11:59:59+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand starke Rauchentwicklung - Stadt Chemnitz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-SN-HY-SE048-20230603-122-001",
-    "version": 5,
-    "startDate": "2023-06-03T06:00:32+02:00",
-    "expiresDate": "2023-06-03T12:00:32+02:00",
-    "severity": "Extreme",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand starke Rauchentwicklung - Stadt Chemnitz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-HE-LM-W189-20230603-000",
-    "version": 5,
-    "startDate": "2023-06-03T08:29:30+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großübung - Waldbrand - Mensfelder Kopf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20230603-12-000",
     "version": 5,
     "startDate": "2023-06-03T09:52:51+02:00",
@@ -156,6 +115,74 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Probealarmierung von Warn-Apps - Stadt Speyer"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-HE-LM-W189-20230603-001",
+    "version": 5,
+    "startDate": "2023-06-03T11:48:50+02:00",
+    "expiresDate": "2023-06-03T17:48:50+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großübung - Waldbrand - Mensfelder Kopf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20230603-31-000",
+    "version": 5,
+    "startDate": "2023-06-03T11:59:04+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Probealarm - Stadtgebiet Köln"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-HE-F-SE119-20230603-128-000",
+    "version": 5,
+    "startDate": "2023-06-03T12:00:34+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenenprobe - Eltville am Rhein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20230603-001",
+    "version": 5,
+    "startDate": "2023-06-03T12:06:10+02:00",
+    "expiresDate": "2023-06-03T18:06:10+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Probealarm - Loffenau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20230603-31-002",
+    "version": 5,
+    "startDate": "2023-06-03T12:13:51+02:00",
+    "expiresDate": "2023-06-03T18:13:51+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Probealarm in Leverkusen - Leverkusen"
     },
     "transKeys": {
       "event": "BBK-EVC-050"
