@@ -135,19 +135,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-F-SE119-20230603-128-000",
-    "version": 5,
-    "startDate": "2023-06-03T12:00:34+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenenprobe - Eltville am Rhein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20230603-001",
     "version": 5,
     "startDate": "2023-06-03T12:06:10+02:00",
@@ -190,19 +177,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20230603-002",
-    "version": 5,
-    "startDate": "2023-06-03T12:16:56+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenen-Probealarm - Lichtenau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20230603-29-000",
     "version": 5,
     "startDate": "2023-06-03T12:18:13+02:00",
@@ -213,6 +187,34 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-F-SE119-20230603-128-001",
+    "version": 5,
+    "startDate": "2023-06-03T12:35:01+02:00",
+    "expiresDate": "2023-06-03T18:35:01+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenenprobe - Eltville am Rhein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20230603-003",
+    "version": 5,
+    "startDate": "2023-06-03T12:40:57+02:00",
+    "expiresDate": "2023-06-03T18:40:57+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Probealarm - Lichtenau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
     }
   }
 ]
