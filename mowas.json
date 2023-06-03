@@ -164,19 +164,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20230603-29-000",
-    "version": 5,
-    "startDate": "2023-06-03T12:18:13+02:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor Brandgasen - Hastenbeck"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-F-SE119-20230603-128-001",
     "version": 5,
     "startDate": "2023-06-03T12:35:01+02:00",
@@ -230,6 +217,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20230603-29-001",
+    "version": 5,
+    "startDate": "2023-06-03T14:08:16+02:00",
+    "expiresDate": "2023-06-03T20:08:16+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor Brandgasen - Hastenbeck"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
