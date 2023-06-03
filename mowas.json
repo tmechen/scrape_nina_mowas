@@ -78,5 +78,18 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-HE-LM-W189-20230603-000",
+    "version": 5,
+    "startDate": "2023-06-03T08:29:30+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großübung - Waldbrand - Mensfelder Kopf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
