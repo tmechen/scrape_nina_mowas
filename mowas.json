@@ -217,5 +217,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20230603-12-002",
+    "version": 5,
+    "startDate": "2023-06-03T17:32:50+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung - Stadt an der Schmücke  - Ortslage Hemleben"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
