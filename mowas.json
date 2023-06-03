@@ -134,13 +134,28 @@
     }
   },
   {
-    "id": "mow.DE-RP-LU-W205-20230603-000",
+    "id": "mow.DE-RP-LU-W205-20230603-001",
     "version": 5,
-    "startDate": "2023-06-03T11:19:51+02:00",
+    "startDate": "2023-06-03T11:40:09+02:00",
+    "expiresDate": "2023-06-03T17:40:09+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Probealarmierung von Warn-Apps - Stadt Speyer"
+      "de": "Entwarnung: Ende des Probealarms - Stadt Speyer"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LU-SE005-20230603-5-001",
+    "version": 5,
+    "startDate": "2023-06-03T11:41:07+02:00",
+    "expiresDate": "2023-06-03T17:41:07+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Probealarmierung von Warn-Apps - Stadt Speyer"
     },
     "transKeys": {
       "event": "BBK-EVC-050"
