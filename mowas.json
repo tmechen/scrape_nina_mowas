@@ -135,19 +135,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20230603-31-000",
-    "version": 5,
-    "startDate": "2023-06-03T11:59:04+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Probealarm - Stadtgebiet Köln"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-HE-F-SE119-20230603-128-000",
     "version": 5,
     "startDate": "2023-06-03T12:00:34+02:00",
@@ -186,6 +173,46 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20230603-31-003",
+    "version": 5,
+    "startDate": "2023-06-03T12:16:11+02:00",
+    "expiresDate": "2023-06-03T18:16:11+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Probealarm - Stadtgebiet Köln"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20230603-002",
+    "version": 5,
+    "startDate": "2023-06-03T12:16:56+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenen-Probealarm - Lichtenau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20230603-29-000",
+    "version": 5,
+    "startDate": "2023-06-03T12:18:13+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor Brandgasen - Hastenbeck"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
