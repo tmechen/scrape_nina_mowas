@@ -39,19 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-BRB-SE081-20230602-81-000",
-    "version": 5,
-    "startDate": "2023-06-02T19:48:56+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Waldbrand auf dem Keilberg bei Jüterbog wieder mit erheblicher Rauchentwicklung - Jüterbog"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-TH-UH-W116-20230604-001",
     "version": 5,
     "startDate": "2023-06-04T14:33:11+02:00",
@@ -63,6 +50,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BB-BRB-SE081-20230604-81-000",
+    "version": 5,
+    "startDate": "2023-06-04T19:41:14+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Waldbrand auf dem Keilberg bei Jüterbog wieder mit erheblicher Rauchentwicklung - Jüterbog, Stadt Jüterbog, Gem. Niederer Fläming"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
