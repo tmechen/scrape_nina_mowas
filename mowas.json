@@ -80,13 +80,14 @@
     }
   },
   {
-    "id": "mow.DE-TH-UH-W116-20230604-000",
+    "id": "mow.DE-TH-UH-W116-20230604-001",
     "version": 5,
-    "startDate": "2023-06-04T14:13:28+02:00",
+    "startDate": "2023-06-04T14:33:11+02:00",
+    "expiresDate": "2023-06-04T20:33:11+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand am Bahnhof - Stadtgebiet Mühlhausen"
+      "de": "Entwarnung: Brand am Bahnhof - Stadtgebiet Mühlhausen"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
