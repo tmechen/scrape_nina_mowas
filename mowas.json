@@ -52,19 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-AP-W115-20230604-000",
-    "version": 5,
-    "startDate": "2023-06-04T05:36:07+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz Gebäudebrand - Apolda"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20230604-28-000",
     "version": 5,
     "startDate": "2023-06-04T07:40:31+02:00",
@@ -87,6 +74,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Starke Rauchentwicklung - Bad Frankenhausen - Thomas-Müntzer-Siedlung"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-TH-AP-W115-20230604-001",
+    "version": 5,
+    "startDate": "2023-06-04T10:45:13+02:00",
+    "expiresDate": "2023-06-04T16:45:13+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz Gebäudebrand - Apolda"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
