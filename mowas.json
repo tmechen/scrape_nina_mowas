@@ -52,20 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20230604-28-000",
-    "version": 5,
-    "startDate": "2023-06-04T07:40:31+02:00",
-    "expiresDate": "2023-06-04T13:40:31+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Störung der Frischwasserversorgung - Nutzung einschränken - Orte im Amt Bornhöved und Gemeinden Ascheberg, Belau, Dersau und Kalübbe"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-TH-NDH-W019-20230604-000",
     "version": 5,
     "startDate": "2023-06-04T10:10:15+02:00",
@@ -91,6 +77,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-TH-UH-W116-20230604-000",
+    "version": 5,
+    "startDate": "2023-06-04T14:13:28+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand am Bahnhof - Stadtgebiet Mühlhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
