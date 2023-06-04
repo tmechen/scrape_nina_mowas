@@ -52,13 +52,14 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20230604-99-000",
+    "id": "mow.DE-SH-KI-SE099-20230604-99-001",
     "version": 5,
-    "startDate": "2023-06-04T20:31:52+02:00",
+    "startDate": "2023-06-04T22:31:24+02:00",
+    "expiresDate": "2023-06-05T04:31:24+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gefahreninformation Feuerwehreinsatz - Schierensee"
+      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Schierensee"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
