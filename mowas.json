@@ -64,5 +64,18 @@
     "transKeys": {
       "event": "BBK-EVC-077"
     }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20230604-99-000",
+    "version": 5,
+    "startDate": "2023-06-04T20:31:52+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahreninformation Feuerwehreinsatz - Schierensee"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
