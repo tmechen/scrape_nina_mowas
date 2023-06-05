@@ -76,5 +76,18 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-TH-GT-W112-20230605-000",
+    "version": 5,
+    "startDate": "2023-06-05T15:57:52+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Verkehrsbehinderungen wegen Polizei und Feuerwehreinsatz. - Ingersleben"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-075"
+    }
   }
 ]
