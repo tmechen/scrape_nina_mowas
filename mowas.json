@@ -50,5 +50,31 @@
     "transKeys": {
       "event": "BBK-EVC-077"
     }
+  },
+  {
+    "id": "mow.DE-NW-WES-SE097-20230605-97-000",
+    "version": 5,
+    "startDate": "2023-06-05T15:39:45+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in Teilen von Kamp-Lintfort und Rheinberg - Kamp-Lintfort und Rheinberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20230605-106-000",
+    "version": 5,
+    "startDate": "2023-06-05T15:40:31+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Fund einer Weltkriegsbombe - Darmstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
