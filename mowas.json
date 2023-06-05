@@ -91,5 +91,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NI-EL-W089-20230605-000",
+    "version": 5,
+    "startDate": "2023-06-05T17:56:01+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Spelle"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
