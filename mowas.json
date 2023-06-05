@@ -106,13 +106,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-GT-SE040-20230605-40-000",
+    "id": "mow.DE-NW-GT-SE040-20230605-40-001",
     "version": 5,
-    "startDate": "2023-06-05T18:20:57+02:00",
+    "startDate": "2023-06-05T19:20:35+02:00",
+    "expiresDate": "2023-06-06T01:20:35+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in Gütersloh - Stadt Gütersloh"
+      "de": "Entwarnung: Rauchgase in Gütersloh - Stadt Gütersloh"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
