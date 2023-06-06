@@ -78,5 +78,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-MV-LRO-W007-20230606-000",
+    "version": 5,
+    "startDate": "2023-06-06T13:36:20+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Große Rauchwolke - Göldenitzer Moor"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
   }
 ]
