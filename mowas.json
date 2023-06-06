@@ -63,19 +63,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-RP-KL-SE112-20230605-112-001",
-    "version": 5,
-    "startDate": "2023-06-05T23:12:26+02:00",
-    "expiresDate": "2023-06-06T05:12:26+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand im Industriegebiet Mehlingen - Mehlingen, Fröhnerhof, Mehlinger Heide"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
