@@ -90,5 +90,18 @@
     "transKeys": {
       "event": "BBK-EVC-006"
     }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20230607-28-000",
+    "version": 5,
+    "startDate": "2023-06-07T20:03:18+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Bad Segeberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
