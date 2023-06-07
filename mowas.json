@@ -52,20 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230607-125-002",
-    "version": 5,
-    "startDate": "2023-06-07T18:31:24+02:00",
-    "expiresDate": "2023-06-08T00:31:24+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Störungen/Ausfall Fest- und Mobilfunknetz - auch Notruf 112 und 110 be - VG Bodenheim, VG Rhein-Selz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-006"
-    }
-  },
-  {
     "id": "mow.DE-BB-BRB-SE081-20230607-81-000",
     "version": 5,
     "startDate": "2023-06-07T20:58:15+02:00",
