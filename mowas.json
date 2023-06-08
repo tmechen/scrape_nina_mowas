@@ -63,19 +63,5 @@
     "transKeys": {
       "event": "BBK-EVC-077"
     }
-  },
-  {
-    "id": "mow.DE-BY-RO-W136-20230608-001",
-    "version": 5,
-    "startDate": "2023-06-08T14:48:28+02:00",
-    "expiresDate": "2023-06-08T20:48:28+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand mit starker Rauchentwicklung - Wasserburg am Inn, Altstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
   }
 ]
