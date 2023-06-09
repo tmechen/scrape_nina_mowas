@@ -26,32 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20230606-28-001",
-    "version": 5,
-    "startDate": "2023-06-06T18:16:57+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Die örtliche Gefahrenabwehrbehörde Amt Bornhöved gibt bekannt - Amt Bornhöved und den Gemeinden Ascheberg, Kalübbe, Dersau, Belau und Daldo"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BB-BRB-SE081-20230607-81-002",
-    "version": 5,
-    "startDate": "2023-06-07T21:18:28+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand auf dem ehemaligen TÜP Jüterbog West - Landkreis Teltow-Fläming + LK Potsdam Mittelmark"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE024-20230608-24-000",
     "version": 5,
     "startDate": "2023-06-08T13:58:43+02:00",
@@ -76,6 +50,32 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BB-BRB-SE081-20230609-81-000",
+    "version": 5,
+    "startDate": "2023-06-09T09:27:56+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Brand auf dem ehemaligen Truppenübungsplatz Jüterbog West - Landkreis Teltow-Fläming + LK Potsdam Mittelmark"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20230609-28-000",
+    "version": 5,
+    "startDate": "2023-06-09T09:29:15+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Die örtliche Gefahrenabwehrbehörde Amt Bornhöved gibt bekannt - Amt Bornhöved und den Gemeinden Ascheberg, Kalübbe, Dersau, Belau und Daldo"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
