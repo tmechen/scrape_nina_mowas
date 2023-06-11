@@ -78,26 +78,28 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230611-125-000",
+    "id": "mow.DE-RP-MZ-SE114-20230611-125-002",
     "version": 5,
-    "startDate": "2023-06-11T08:49:33+02:00",
+    "startDate": "2023-06-11T14:04:15+02:00",
+    "expiresDate": "2023-06-11T20:04:15+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in Altstadtbereich - Mainz Altstadt"
+      "de": "Entwarnung: Brand in Altstadtbereich - Mainz Altstadt"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230611-125-001",
+    "id": "mow.DE-RP-MZ-SE114-20230611-125-003",
     "version": 5,
-    "startDate": "2023-06-11T12:00:15+02:00",
+    "startDate": "2023-06-11T14:04:48+02:00",
+    "expiresDate": "2023-06-11T20:04:48+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in Altstadtbereich - Mainz Altstadt"
+      "de": "Entwarnung: Brand in Altstadtbereich - Mainz Altstadt"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
