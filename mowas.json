@@ -119,5 +119,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230612-125-002",
+    "version": 5,
+    "startDate": "2023-06-12T18:10:43+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall durch Brand in einer Trafostation - Teile von Osthofen, Rheindürkheim,Ibersheim, Abenheim, Industriegebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
