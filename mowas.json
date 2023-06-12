@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230612-125-001",
-    "version": 5,
-    "startDate": "2023-06-12T14:48:24+02:00",
-    "expiresDate": "2023-06-12T20:48:24+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: ++ ENTWARNUNG ++ Geruchsbelästigung durch Brand in Recyclingbetrieb - Worms"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20230612-001",
     "version": 5,
     "startDate": "2023-06-12T15:20:24+02:00",
