@@ -132,5 +132,18 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230612-125-003",
+    "version": 5,
+    "startDate": "2023-06-12T18:20:22+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall im Bereich Osthofen, Westhofen und Gundersheim - Osthofen, Westhofen und Gundersheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
