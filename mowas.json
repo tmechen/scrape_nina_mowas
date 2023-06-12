@@ -121,29 +121,44 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230612-125-002",
+    "id": "mow.DE-RP-MZ-SE114-20230612-125-004",
     "version": 5,
-    "startDate": "2023-06-12T18:10:43+02:00",
+    "startDate": "2023-06-12T18:50:25+02:00",
+    "expiresDate": "2023-06-13T00:50:25+02:00",
     "severity": "Severe",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall durch Brand in einer Trafostation - Teile von Osthofen, Rheindürkheim,Ibersheim, Abenheim, Industriegebiet"
+      "de": "Entwarnung: Stromausfall durch Brand in einer Trafostation behoben - Teile von Osthofen, Rheindürkheim,Ibersheim, Abenheim, Industriegebiet"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230612-125-003",
+    "id": "mow.DE-RP-MZ-SE114-20230612-125-005",
     "version": 5,
-    "startDate": "2023-06-12T18:20:22+02:00",
+    "startDate": "2023-06-12T18:52:05+02:00",
+    "expiresDate": "2023-06-13T00:52:05+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall im Bereich Osthofen, Westhofen und Gundersheim - Osthofen, Westhofen und Gundersheim"
+      "de": "Entwarnung: Stromausfall im Bereich Osthofen, Westhofen und Gundersheim behoben - Osthofen, Westhofen und Gundersheim"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BN-SE060-20230612-60-000",
+    "version": 5,
+    "startDate": "2023-06-12T19:09:05+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Bonn, Bereich Ellerstraße - Bundesstadt Bonn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
