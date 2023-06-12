@@ -90,5 +90,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20230612-99-000",
+    "version": 5,
+    "startDate": "2023-06-12T08:24:25+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelentschärfung in Schwentiental Ortsteil Klausdorf - Schwentintal Ortsteil Klausdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
