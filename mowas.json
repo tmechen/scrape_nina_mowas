@@ -39,34 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20230612-82-000",
-    "version": 5,
-    "startDate": "2023-06-12T14:20:08+02:00",
-    "expiresDate": "2023-06-12T20:20:08+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand auf dem ehemaligen Truppenübungsplatz Jüterbog West - Landkreis Teltow-Fläming + LK Potsdam Mittelmark"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029-20230612-29-002",
-    "version": 5,
-    "startDate": "2023-06-12T14:29:24+02:00",
-    "expiresDate": "2023-06-12T20:29:24+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke aufgrund Feuer in Watenbüttel - Watenbüttel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20230612-125-001",
     "version": 5,
     "startDate": "2023-06-12T14:48:24+02:00",
