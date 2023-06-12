@@ -81,19 +81,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20230612-000",
-    "version": 5,
-    "startDate": "2023-06-12T13:54:11+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchwolke durch Gebäudebrand - Altenburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20230612-000",
     "version": 5,
     "startDate": "2023-06-12T14:13:28+02:00",
@@ -146,6 +133,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20230612-001",
+    "version": 5,
+    "startDate": "2023-06-12T15:20:24+02:00",
+    "expiresDate": "2023-06-12T21:20:24+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchwolke durch Gebäudebrand - Altenburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
