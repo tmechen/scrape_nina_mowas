@@ -105,5 +105,18 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230612-125-000",
+    "version": 5,
+    "startDate": "2023-06-12T13:38:55+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Brand in Recyclingbetrieb - Worms"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
