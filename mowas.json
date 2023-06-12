@@ -65,19 +65,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE024-20230609-24-000",
-    "version": 5,
-    "startDate": "2023-06-09T13:09:12+02:00",
-    "severity": "Severe",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Anhaltende starke Rauchentwicklung und Geruchsbelästigung - Göldenitzer Moor"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-MV-LRO-W007-20230612-000",
     "version": 5,
     "startDate": "2023-06-12T04:40:38+02:00",
@@ -102,6 +89,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE024-20230612-24-000",
+    "version": 5,
+    "startDate": "2023-06-12T09:27:13+02:00",
+    "expiresDate": "2023-06-12T15:27:13+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Aufhebung der Warnmeldung in Bezug auf Rauch und Geruchsbelästigung - Göldenitzer Moor"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
