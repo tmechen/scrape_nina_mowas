@@ -91,20 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20230613-67-001",
-    "version": 5,
-    "startDate": "2023-06-13T18:50:15+02:00",
-    "expiresDate": "2023-06-14T00:50:15+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Zwei Blindgänger im Bereich B1/B54 gefunden - Dortmund"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-AC-SE090-20230613-90-001",
     "version": 5,
     "startDate": "2023-06-13T21:20:11+02:00",
