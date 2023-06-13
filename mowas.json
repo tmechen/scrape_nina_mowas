@@ -159,13 +159,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20230613-90-000",
+    "id": "mow.DE-NW-AC-SE090-20230613-90-001",
     "version": 5,
-    "startDate": "2023-06-13T20:44:48+02:00",
+    "startDate": "2023-06-13T21:20:11+02:00",
+    "expiresDate": "2023-06-14T03:20:11+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung - Stolberg Donnerberg"
+      "de": "Entwarnung: Geruchsbelästigung - Stolberg Donnerberg"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
