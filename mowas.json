@@ -90,5 +90,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20230613-82-000",
+    "version": 5,
+    "startDate": "2023-06-13T05:59:25+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung Waldbrand - LK OPR"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
   }
 ]
