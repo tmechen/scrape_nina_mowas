@@ -133,19 +133,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HSK-SE096-20230613-96-000",
-    "version": 5,
-    "startDate": "2023-06-13T22:47:42+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Fund einer Weltkriegsbombe in Meschede Unterm Hasenfeld, Neubaugebiet - Meschede"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BB-P-SE082-20230613-82-001",
     "version": 5,
     "startDate": "2023-06-13T23:39:17+02:00",
@@ -157,6 +144,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HSK-SE096-20230613-96-001",
+    "version": 5,
+    "startDate": "2023-06-14T00:42:14+02:00",
+    "expiresDate": "2023-06-14T06:42:14+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Fund einer Weltkriegsbombe in Meschede Unterm Hasenfeld, Neubaugebiet - Meschede"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
