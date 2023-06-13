@@ -115,5 +115,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-RP-LD-SE117-20230613-121-000",
+    "version": 5,
+    "startDate": "2023-06-13T15:41:22+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Waldbrand zwischen Stadt Pirmasens und Rodalben - Pirmasens und Rodalben"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
   }
 ]
