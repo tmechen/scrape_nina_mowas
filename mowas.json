@@ -91,19 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-LIP-SE041-20230613-41-000",
-    "version": 5,
-    "startDate": "2023-06-13T11:09:11+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase durch Großbrand - Detmold"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230613-50-000",
     "version": 5,
     "startDate": "2023-06-13T14:45:12+02:00",
@@ -140,6 +127,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-LIP-SE041-20230613-41-001",
+    "version": 5,
+    "startDate": "2023-06-13T16:22:24+02:00",
+    "expiresDate": "2023-06-13T22:22:24+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase durch Großbrand - Detmold"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
