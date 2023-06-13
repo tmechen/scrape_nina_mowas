@@ -78,20 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20230613-4-000",
-    "version": 5,
-    "startDate": "2023-06-13T03:13:04+02:00",
-    "expiresDate": "2023-06-13T09:13:04+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand mit starker Rauchentwicklung - Teile der OG Ralingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BB-P-SE082-20230613-82-000",
     "version": 5,
     "startDate": "2023-06-13T05:59:25+02:00",
