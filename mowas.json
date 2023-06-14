@@ -91,20 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20230613-82-001",
-    "version": 5,
-    "startDate": "2023-06-13T23:39:17+02:00",
-    "expiresDate": "2023-06-14T05:39:17+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung Waldbrand - LK OPR"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-NW-HSK-SE096-20230613-96-001",
     "version": 5,
     "startDate": "2023-06-14T00:42:14+02:00",
@@ -119,13 +105,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230613-50-002",
+    "id": "mow.DE-BW-RT-SE050-20230614-50-000",
     "version": 5,
-    "startDate": "2023-06-14T01:26:01+02:00",
+    "startDate": "2023-06-14T06:05:12+02:00",
+    "expiresDate": "2023-06-14T12:05:12+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand Landwirtschaftliches Anwesen - Landkreis Göppingen"
+      "de": "Entwarnung: Großbrand Landwirtschaftliches Anwesen - Landkreis Göppingen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
