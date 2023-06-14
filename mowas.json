@@ -105,13 +105,14 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-SE017-20230614-17-000",
+    "id": "mow.DE-BR-B-SE017-20230614-17-001",
     "version": 5,
-    "startDate": "2023-06-14T09:23:45+02:00",
+    "startDate": "2023-06-14T10:56:10+02:00",
+    "expiresDate": "2023-06-14T16:56:10+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch einen Brand in einer Tiefgarage  - Berlin Wilhelmstadt"
+      "de": "Entwarnung: Starke Rauchentwicklung durch einen Brand in einer Tiefgarage  - Berlin Wilhelmstadt"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
