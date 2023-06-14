@@ -103,5 +103,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20230614-122-000",
+    "version": 5,
+    "startDate": "2023-06-15T00:40:09+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgasentwicklung - Frankenberg/Sa., OT Mühlbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
