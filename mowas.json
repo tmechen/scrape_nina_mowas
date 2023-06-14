@@ -117,5 +117,18 @@
     "transKeys": {
       "event": "BBK-EVC-077"
     }
+  },
+  {
+    "id": "mow.DE-TH-GT-W112-20230614-000",
+    "version": 5,
+    "startDate": "2023-06-14T13:45:52+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gasaustritt - Gräfentonna"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
