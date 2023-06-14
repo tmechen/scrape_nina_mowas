@@ -78,19 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20230614-106-000",
-    "version": 5,
-    "startDate": "2023-06-14T15:17:43+02:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchwolke durch Waldbrand - Helsa und Kaufungen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-RP-LU-SE005-20230614-5-000",
     "version": 5,
     "startDate": "2023-06-14T16:45:18+02:00",
@@ -116,6 +103,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20230614-106-001",
+    "version": 5,
+    "startDate": "2023-06-14T21:20:45+02:00",
+    "expiresDate": "2023-06-15T03:20:45+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchwolke durch Waldbrand - Helsa und Kaufungen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
