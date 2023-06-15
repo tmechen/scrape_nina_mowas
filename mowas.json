@@ -120,16 +120,30 @@
     }
   },
   {
-    "id": "mow.DE-BW-HN-W045-20230615-000",
+    "id": "mow.DE-BW-HN-W045-20230615-001",
     "version": 5,
-    "startDate": "2023-06-15T10:49:19+02:00",
+    "startDate": "2023-06-15T11:19:23+02:00",
+    "expiresDate": "2023-06-15T17:19:23+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Probealarm im Landkreis Heilbronn - Landkreis Heilbronn"
+      "de": "Entwarnung: Probealarm im Landkreis Heilbronn - Landkreis Heilbronn"
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20230615-000",
+    "version": 5,
+    "startDate": "2023-06-15T11:23:36+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abkochgebot für das Trinkwasser  - Versorgungsbereich Wasserzweckverband Burgheimer Gruppe"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
