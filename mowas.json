@@ -132,16 +132,30 @@
     }
   },
   {
-    "id": "mow.DE-NW-DU-SE038-20230615-38-000",
+    "id": "mow.DE-NW-DU-SE038-20230615-38-001",
     "version": 5,
-    "startDate": "2023-06-15T14:43:08+02:00",
+    "startDate": "2023-06-15T15:35:09+02:00",
+    "expiresDate": "2023-06-15T21:35:09+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund in Duisburg Walsum - Duisburg"
+      "de": "Entwarnung: Kampfmittelfund in Duisburg Walsum - Duisburg"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-GE-SE064-20230615-64-000",
+    "version": 5,
+    "startDate": "2023-06-15T15:42:00+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch ein Brandereignis - Gelsenkirchen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
