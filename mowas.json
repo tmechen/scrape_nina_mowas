@@ -65,20 +65,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GE-SE064-20230615-64-001",
-    "version": 5,
-    "startDate": "2023-06-15T18:34:39+02:00",
-    "expiresDate": "2023-06-16T00:34:39+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch ein Brandereignis - Gelsenkirchen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-DN-SE054-20230615-54-001",
     "version": 5,
     "startDate": "2023-06-15T19:01:51+02:00",
