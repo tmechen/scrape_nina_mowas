@@ -145,5 +145,18 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20230615-54-000",
+    "version": 5,
+    "startDate": "2023-06-15T17:41:36+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Kreuzau - Kreuzau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
