@@ -78,20 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20230614-106-001",
-    "version": 5,
-    "startDate": "2023-06-14T21:20:45+02:00",
-    "expiresDate": "2023-06-15T03:20:45+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Waldbrand - Helsa und Kaufungen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-NW-WAF-SE045-20230614-45-001",
     "version": 5,
     "startDate": "2023-06-15T01:42:07+02:00",
@@ -113,6 +99,19 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Rauchgasentwicklung - Frankenberg/Sa., OT Mühlbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HAM-SE085-20230615-85-000",
+    "version": 5,
+    "startDate": "2023-06-15T03:38:38+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung im Stadtgebiet Hamm - Stadt Hamm"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
