@@ -92,19 +92,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20230614-122-000",
-    "version": 5,
-    "startDate": "2023-06-15T00:40:09+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgasentwicklung - Frankenberg/Sa., OT Mühlbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-WAF-SE045-20230614-45-001",
     "version": 5,
     "startDate": "2023-06-15T01:42:07+02:00",
@@ -112,6 +99,20 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Geruchsbelästigung in Ahlen - Ahlen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20230615-122-000",
+    "version": 5,
+    "startDate": "2023-06-15T03:24:06+02:00",
+    "expiresDate": "2023-06-15T09:24:06+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgasentwicklung - Frankenberg/Sa., OT Mühlbach"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
