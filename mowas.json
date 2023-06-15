@@ -78,20 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20230615-000",
-    "version": 5,
-    "startDate": "2023-06-15T12:42:46+02:00",
-    "expiresDate": "2023-06-15T18:42:46+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Waldbrand Altkönig - Königstein/Kronberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-NW-DU-SE038-20230615-38-001",
     "version": 5,
     "startDate": "2023-06-15T15:35:09+02:00",
@@ -134,19 +120,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DN-SE054-20230615-54-000",
-    "version": 5,
-    "startDate": "2023-06-15T17:41:36+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Kreuzau - Kreuzau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-GE-SE064-20230615-64-001",
     "version": 5,
     "startDate": "2023-06-15T18:34:39+02:00",
@@ -158,6 +131,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20230615-54-001",
+    "version": 5,
+    "startDate": "2023-06-15T19:01:51+02:00",
+    "expiresDate": "2023-06-16T01:01:51+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Kreuzau - Kreuzau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
