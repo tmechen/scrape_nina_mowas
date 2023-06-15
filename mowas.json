@@ -106,19 +106,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20230615-18-000",
-    "version": 5,
-    "startDate": "2023-06-15T14:38:14+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall in der Stadt Schriesheim - Schriesheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-NW-DU-SE038-20230615-38-001",
     "version": 5,
     "startDate": "2023-06-15T15:35:09+02:00",
@@ -157,6 +144,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20230615-18-001",
+    "version": 5,
+    "startDate": "2023-06-15T16:22:28+02:00",
+    "expiresDate": "2023-06-15T22:22:28+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall in der Stadt Schriesheim - Schriesheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
