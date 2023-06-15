@@ -52,19 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BO-SE077-20230615-77-000",
-    "version": 5,
-    "startDate": "2023-06-15T10:28:51+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Fund von Weltkriegsbomben - Bochum-Werne  - Bochum"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20230615-000",
     "version": 5,
     "startDate": "2023-06-15T11:23:36+02:00",
@@ -145,6 +132,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BO-SE077-20230615-77-001",
+    "version": 5,
+    "startDate": "2023-06-15T19:24:25+02:00",
+    "expiresDate": "2023-06-16T01:24:25+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Fund von Weltkriegsbomben - Bochum-Werne  - Bochum"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
