@@ -92,19 +92,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HAM-SE085-20230615-85-000",
-    "version": 5,
-    "startDate": "2023-06-15T03:38:38+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung im Stadtgebiet Hamm - Stadt Hamm"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-WAF-SE045-20230615-45-000",
     "version": 5,
     "startDate": "2023-06-15T06:36:03+02:00",
@@ -113,6 +100,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Geruchsbelästigung in Ahlen - Ahlen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HAM-SE085-20230615-85-001",
+    "version": 5,
+    "startDate": "2023-06-15T07:30:56+02:00",
+    "expiresDate": "2023-06-15T13:30:56+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung im Stadtgebiet Hamm - Stadt Hamm"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
