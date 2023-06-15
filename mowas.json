@@ -52,19 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE049-20230612-49-001",
-    "version": 5,
-    "startDate": "2023-06-12T21:37:56+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Waldbrand - Hagenow, Viez"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20230614-001",
     "version": 5,
     "startDate": "2023-06-14T12:29:51+02:00",
@@ -114,6 +101,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Geruchsbelästigung im Stadtgebiet Hamm - Stadt Hamm"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE049-20230615-49-000",
+    "version": 5,
+    "startDate": "2023-06-15T09:24:06+02:00",
+    "expiresDate": "2023-06-15T15:24:06+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Waldbrand - Hagenow, Viez"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
