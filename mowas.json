@@ -120,19 +120,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DN-SE054-20230616-54-000",
-    "version": 5,
-    "startDate": "2023-06-16T20:29:23+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase in Nörvenich - Eschweiler Ü Feld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-MR-W190-20230616-000",
     "version": 5,
     "startDate": "2023-06-16T21:19:06+02:00",
@@ -140,6 +127,33 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Rauchentwicklung und Geruchsbelästigung unter Heuballenbrand - Bad Endbach Günterod"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20230616-54-001",
+    "version": 5,
+    "startDate": "2023-06-16T21:31:49+02:00",
+    "expiresDate": "2023-06-17T03:31:49+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase in Nörvenich - Eschweiler Ü Feld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-MR-W190-20230616-001",
+    "version": 5,
+    "startDate": "2023-06-16T21:33:14+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Scheunenbrand - Rauschenberg Ernsthausen"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
