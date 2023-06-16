@@ -118,5 +118,18 @@
     "transKeys": {
       "event": "BBK-EVC-011"
     }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20230616-54-000",
+    "version": 5,
+    "startDate": "2023-06-16T20:29:23+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Nörvenich - Eschweiler Ü Feld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
