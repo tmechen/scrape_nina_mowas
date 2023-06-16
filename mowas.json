@@ -78,16 +78,16 @@
     }
   },
   {
-    "id": "mow.DE-BB-BRB-SE081-20230616-81-001",
+    "id": "mow.DE-BB-BRB-SE081-20230616-81-002",
     "version": 5,
-    "startDate": "2023-06-16T12:52:03+02:00",
+    "startDate": "2023-06-16T13:32:52+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Ausfall Notruf 112 in Potsdam-Mittelmark, Teltow -Fläming und Brandenburg  - Potsdam-Mittelmark, Teltow -Fläming und Brandenburg"
+      "de": "Ausfall der Regionalleitstelle Brandenburg - Notruf 112  - Potsdam-Mittelmark, Teltow -Fläming und Brandenburg"
     },
     "transKeys": {
-      "event": "BBK-EVC-005"
+      "event": "BBK-EVC-004"
     }
   }
 ]
