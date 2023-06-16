@@ -89,5 +89,18 @@
     "transKeys": {
       "event": "BBK-EVC-004"
     }
+  },
+  {
+    "id": "mow.DE-NW-ME-SE071-20230616-71-000",
+    "version": 5,
+    "startDate": "2023-06-16T14:59:40+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in Wülfrath - Stadt Wülfrath"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
