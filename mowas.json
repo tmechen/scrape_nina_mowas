@@ -52,19 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-SDL-W029-20230616-000",
-    "version": 5,
-    "startDate": "2023-06-16T09:08:23+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand Mülldeponie - Salzwedel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-011"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20230616-000",
     "version": 5,
     "startDate": "2023-06-16T12:35:48+02:00",
@@ -116,6 +103,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-ST-SDL-W029-20230616-001",
+    "version": 5,
+    "startDate": "2023-06-16T20:03:52+02:00",
+    "expiresDate": "2023-06-17T02:03:52+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand Mülldeponie - Salzwedel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-011"
     }
   }
 ]
