@@ -63,19 +63,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-TH-G-W109-20230616-000",
-    "version": 5,
-    "startDate": "2023-06-16T02:17:54+02:00",
-    "expiresDate": "2023-06-16T08:17:54+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Größere Rauchentwicklung - Gera"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
