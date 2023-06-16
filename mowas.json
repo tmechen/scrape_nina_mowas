@@ -63,5 +63,18 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-ST-SDL-W029-20230616-000",
+    "version": 5,
+    "startDate": "2023-06-16T09:08:23+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand Mülldeponie - Salzwedel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-011"
+    }
   }
 ]
