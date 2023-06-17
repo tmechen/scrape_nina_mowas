@@ -77,5 +77,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20230617-29-000",
+    "version": 5,
+    "startDate": "2023-06-17T11:17:45+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Probealarm zur Warnung der Bevölkerung im Landkreis Gifhorn - Landkreis Gifhorn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
