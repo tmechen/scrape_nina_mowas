@@ -65,13 +65,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-MR-W190-20230616-000",
+    "id": "mow.DE-HE-MR-W190-20230617-000",
     "version": 5,
-    "startDate": "2023-06-16T21:19:06+02:00",
+    "startDate": "2023-06-17T06:25:01+02:00",
+    "expiresDate": "2023-06-17T12:25:01+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung und Geruchsbelästigung unter Heuballenbrand - Bad Endbach Günterod"
+      "de": "Entwarnung: Rauchentwicklung und Geruchsbelästigung unter Heuballenbrand - Bad Endbach Günterod"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
