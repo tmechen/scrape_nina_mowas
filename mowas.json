@@ -91,5 +91,31 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20230617-105-000",
+    "version": 5,
+    "startDate": "2023-06-17T13:33:31+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Bargteheide"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-AN-W166-20230617-000",
+    "version": 5,
+    "startDate": "2023-06-17T13:41:04+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Brand in einem Industriegebäude - Rothenburg o.d.T."
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
