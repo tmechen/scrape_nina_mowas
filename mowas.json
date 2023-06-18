@@ -78,19 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20230618-57-000",
-    "version": 5,
-    "startDate": "2023-06-18T12:13:33+02:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchwolke  - St. Augustin - Niederpleis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-BC-W124-20230618-003",
     "version": 5,
     "startDate": "2023-06-18T13:57:47+02:00",
@@ -130,6 +117,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SU-SE057-20230618-57-001",
+    "version": 5,
+    "startDate": "2023-06-18T17:27:46+02:00",
+    "expiresDate": "2023-06-18T23:27:46+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchwolke  - St. Augustin - Niederpleis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
