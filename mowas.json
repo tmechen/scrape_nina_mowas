@@ -79,13 +79,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20230618-000",
+    "id": "mow.DE-HE-HG-W103-20230618-001",
     "version": 5,
-    "startDate": "2023-06-18T23:31:52+02:00",
+    "startDate": "2023-06-18T23:48:25+02:00",
+    "expiresDate": "2023-06-19T05:48:25+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall - Weilrod und Schmitten"
+      "de": "Entwarnung: Stromausfall - Weilrod und Schmitten"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
