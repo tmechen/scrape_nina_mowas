@@ -119,19 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-BC-W124-20230618-002",
-    "version": 5,
-    "startDate": "2023-06-18T12:17:55+02:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Brand/Großbrand in Oberopfingen - Oberopfingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-HA-SE087-20230618-149-000",
     "version": 5,
     "startDate": "2023-06-18T12:52:45+02:00",
@@ -139,6 +126,33 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Rauchgase in Hagen Haspe - Sportplatz Am Quambusch"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20230618-29-000",
+    "version": 5,
+    "startDate": "2023-06-18T13:55:08+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Austritt von Chlorgas - Gemeinde Ilsede"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-BW-BC-W124-20230618-003",
+    "version": 5,
+    "startDate": "2023-06-18T13:57:47+02:00",
+    "expiresDate": "2023-06-18T19:57:47+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand/Großbrand in Oberopfingen - Oberopfingen"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
