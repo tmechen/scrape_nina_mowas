@@ -117,5 +117,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BW-BC-W124-20230618-002",
+    "version": 5,
+    "startDate": "2023-06-18T12:17:55+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Brand/Großbrand in Oberopfingen - Oberopfingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
