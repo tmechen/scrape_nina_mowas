@@ -65,20 +65,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230617-50-001",
-    "version": 5,
-    "startDate": "2023-06-18T01:16:46+02:00",
-    "expiresDate": "2023-06-18T07:16:46+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gebäudebrand in Blumberg-Riedöschingen - Schwarzwald - Baar - Kreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BB-BRB-SE081-20230618-81-000",
     "version": 5,
     "startDate": "2023-06-18T02:43:06+02:00",
