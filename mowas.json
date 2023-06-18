@@ -91,5 +91,18 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20230618-000",
+    "version": 5,
+    "startDate": "2023-06-19T00:16:05+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand - Hockenheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
