@@ -117,5 +117,18 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230619-50-000",
+    "version": 5,
+    "startDate": "2023-06-19T18:51:45+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brandereignis mit starker Rauchentwicklung in Rust - Gemeinde Rust"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
