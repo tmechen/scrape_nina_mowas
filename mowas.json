@@ -78,19 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230619-50-000",
-    "version": 5,
-    "startDate": "2023-06-19T18:51:45+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brandereignis mit starker Rauchentwicklung in Rust - Gemeinde Rust"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-F-SE119-20230619-128-001",
     "version": 5,
     "startDate": "2023-06-19T21:55:17+02:00",
@@ -116,6 +103,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230619-50-001",
+    "version": 5,
+    "startDate": "2023-06-20T01:20:15+02:00",
+    "expiresDate": "2023-06-20T07:20:15+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandereignis mit starker Rauchentwicklung in Rust - Gemeinde Rust"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
