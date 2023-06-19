@@ -79,13 +79,27 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20230618-000",
+    "id": "mow.DE-BB-BRB-SE081-20230619-81-000",
     "version": 5,
-    "startDate": "2023-06-19T00:16:05+02:00",
+    "startDate": "2023-06-19T04:47:08+02:00",
     "severity": "Minor",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Großbrand - Hockenheim"
+      "de": "Geruchsbelästigung im Stadtgebiet Treuenbrietzen und Umgebung - Treuenbrietzen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20230619-000",
+    "version": 5,
+    "startDate": "2023-06-19T04:51:35+02:00",
+    "expiresDate": "2023-06-19T10:51:35+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand - Hockenheim"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
