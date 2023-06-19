@@ -63,5 +63,18 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BY-RO-W136-20230619-000",
+    "version": 5,
+    "startDate": "2023-06-19T13:37:37+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Waldbrandgefahr - Landkreis Rosenheim, Stadt Rosenheim, Landkreis Miesbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
