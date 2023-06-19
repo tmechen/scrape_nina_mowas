@@ -63,19 +63,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-BB-BRB-SE081-20230619-81-001",
-    "version": 5,
-    "startDate": "2023-06-19T06:32:51+02:00",
-    "expiresDate": "2023-06-19T12:32:51+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung im Stadtgebiet Treuenbrietzen und Umgebung - Treuenbrietzen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
