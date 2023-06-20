@@ -78,20 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-F-SE119-20230619-128-001",
-    "version": 5,
-    "startDate": "2023-06-19T21:55:17+02:00",
-    "expiresDate": "2023-06-20T03:55:17+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Dachstuhlbrand - Frankfurt- Bereich Innenstadt / Westend"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-GE-SE064-20230619-64-001",
     "version": 5,
     "startDate": "2023-06-19T23:50:59+02:00",
