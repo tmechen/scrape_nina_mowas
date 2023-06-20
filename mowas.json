@@ -76,5 +76,18 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20230620-99-001",
+    "version": 5,
+    "startDate": "2023-06-20T09:12:58+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahreninformation Feuerwehreinsatz - Schönberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
