@@ -78,19 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20230620-99-001",
-    "version": 5,
-    "startDate": "2023-06-20T09:12:58+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahreninformation Feuerwehreinsatz - Schönberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-BOT-SE062-20230620-62-001",
     "version": 5,
     "startDate": "2023-06-20T15:02:49+02:00",
@@ -102,6 +89,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20230620-99-002",
+    "version": 5,
+    "startDate": "2023-06-20T16:16:31+02:00",
+    "expiresDate": "2023-06-20T22:16:31+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Schönberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
