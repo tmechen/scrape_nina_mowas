@@ -26,19 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20230609-28-000",
-    "version": 5,
-    "startDate": "2023-06-09T09:29:15+02:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Die örtliche Gefahrenabwehrbehörde Amt Bornhöved gibt bekannt - Amt Bornhöved und den Gemeinden Ascheberg, Kalübbe, Dersau, Belau und Daldo"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE049-20230612-49-000",
     "version": 5,
     "startDate": "2023-06-12T21:33:35+02:00",
@@ -101,6 +88,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20230621-28-000",
+    "version": 5,
+    "startDate": "2023-06-21T09:06:10+02:00",
+    "expiresDate": "2023-06-21T15:06:10+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Die örtliche Gefahrenabwehrbehörde Amt Bornhöved gibt bekannt - Amt Bornhöved und den Gemeinden Ascheberg, Kalübbe, Dersau, Belau und Daldo"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
