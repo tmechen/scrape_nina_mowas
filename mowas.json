@@ -78,20 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KL-SE112-20230621-112-001",
-    "version": 5,
-    "startDate": "2023-06-21T14:08:45+02:00",
-    "expiresDate": "2023-06-21T20:08:45+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung im Bereich Kottweiler-Schwanden - Kottweiler-Schwanden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-HER-SE083-20230621-83-001",
     "version": 5,
     "startDate": "2023-06-21T14:25:19+02:00",
@@ -106,13 +92,14 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20230621-28-001",
+    "id": "mow.DE-SH-EH-SE028-20230621-28-002",
     "version": 5,
-    "startDate": "2023-06-21T17:44:15+02:00",
+    "startDate": "2023-06-21T20:17:48+02:00",
+    "expiresDate": "2023-06-22T02:17:48+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gasaustritt - Burg"
+      "de": "Entwarnung: Gasaustritt - Burg"
     },
     "transKeys": {
       "event": "BBK-EVC-027"
