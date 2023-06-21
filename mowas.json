@@ -65,20 +65,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-DI-W104-20230621-001",
-    "version": 5,
-    "startDate": "2023-06-21T09:21:13+02:00",
-    "expiresDate": "2023-06-21T15:21:13+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke und Geruchsbelästigung durch Betriebsstörung - Weiterstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-012"
-    }
-  },
-  {
     "id": "mow.DE-NW-E-SE052-20230621-52-000",
     "version": 5,
     "startDate": "2023-06-21T13:57:57+02:00",
