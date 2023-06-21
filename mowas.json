@@ -76,19 +76,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-BY-M-SE010-20230620-10-001",
-    "version": 5,
-    "startDate": "2023-06-21T00:38:34+02:00",
-    "expiresDate": "2023-06-21T06:38:34+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand eines Sägewerks - Habach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
   }
 ]
