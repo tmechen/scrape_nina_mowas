@@ -104,5 +104,18 @@
     "transKeys": {
       "event": "BBK-EVC-027"
     }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20230621-000",
+    "version": 5,
+    "startDate": "2023-06-21T20:22:00+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall in Teilen von Gonzenheim und Ober-Eschbach - Gonzenheim und Ober-Eschbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
