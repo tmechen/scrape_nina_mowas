@@ -76,5 +76,31 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-HE-DI-W104-20230621-000",
+    "version": 5,
+    "startDate": "2023-06-21T07:54:06+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchwolke und Geruchsbelästigung durch Betriebsstörung - Weiterstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-012"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KL-SE112-20230621-112-000",
+    "version": 5,
+    "startDate": "2023-06-21T07:55:59+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung im Bereich Kottweiler-Schwanden - Kottweiler-Schwanden"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
