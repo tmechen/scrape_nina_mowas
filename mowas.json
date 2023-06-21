@@ -104,5 +104,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20230621-28-001",
+    "version": 5,
+    "startDate": "2023-06-21T17:44:15+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gasaustritt - Burg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
