@@ -79,19 +79,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20230622-84-000",
-    "version": 5,
-    "startDate": "2023-06-22T17:19:21+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand - Maxhütte-Haidhof"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-SO-SE089-20230622-89-000",
     "version": 5,
     "startDate": "2023-06-22T18:02:01+02:00",
@@ -129,6 +116,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20230622-84-001",
+    "version": 5,
+    "startDate": "2023-06-22T20:44:37+02:00",
+    "expiresDate": "2023-06-23T02:44:37+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand - Maxhütte-Haidhof"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
