@@ -52,20 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE049-20230622-49-000",
-    "version": 5,
-    "startDate": "2023-06-22T08:10:53+02:00",
-    "expiresDate": "2023-06-22T14:10:53+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Waldbrand - Lübtheen / Volzrade"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NI-HK-W223-20230622-000",
     "version": 5,
     "startDate": "2023-06-22T13:25:33+02:00",
