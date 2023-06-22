@@ -78,20 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-OF-SE098-20230622-98-002",
-    "version": 5,
-    "startDate": "2023-06-22T18:43:13+02:00",
-    "expiresDate": "2023-06-23T00:43:13+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Extremes Gewitter mit Tornadogefahr,Orkanböen, Starkregen und großem H - Nordhessen über Kassel bis ins südliche Niedersachsen und das Eichsfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-086"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20230622-84-001",
     "version": 5,
     "startDate": "2023-06-22T20:44:37+02:00",
