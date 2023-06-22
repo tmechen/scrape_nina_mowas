@@ -65,19 +65,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230622-125-001",
-    "version": 5,
-    "startDate": "2023-06-22T15:13:35+02:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Stromausfall - Mz-Hechtsheim und Mz-Oberstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20230622-129-001",
     "version": 5,
     "startDate": "2023-06-22T17:19:19+02:00",
@@ -129,6 +116,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-086"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230622-125-002",
+    "version": 5,
+    "startDate": "2023-06-22T19:37:31+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Stromausfall - Mz-Hechtsheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
