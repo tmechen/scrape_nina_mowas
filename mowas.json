@@ -65,13 +65,26 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230622-125-000",
+    "id": "mow.DE-NI-STD-SE029B-20230622-129-000",
     "version": 5,
-    "startDate": "2023-06-22T14:53:41+02:00",
+    "startDate": "2023-06-22T15:01:01+02:00",
     "severity": "Minor",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Stromausfall - Mainz Hechtsheim"
+      "de": "Großbrand im Landkreis Cloppenburg,Stadt Friesoythe,Ortsteil Markhausen - Friesoythe, Ortsteil Markhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230622-125-001",
+    "version": 5,
+    "startDate": "2023-06-22T15:13:35+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Stromausfall - Mz-Hechtsheim und Mz-Oberstadt"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
