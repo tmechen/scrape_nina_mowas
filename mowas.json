@@ -131,5 +131,18 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-NI-SZ-W179-20230622-000",
+    "version": 5,
+    "startDate": "2023-06-22T20:47:02+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gewitter mit schwere Regenfällen - Üfingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
+    }
   }
 ]
