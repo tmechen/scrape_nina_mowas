@@ -106,19 +106,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-SZ-W179-20230622-000",
-    "version": 5,
-    "startDate": "2023-06-22T20:47:02+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gewitter mit schwere Regenfällen - Üfingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
     "id": "mow.DE-NW-DU-SE038-20230622-38-000",
     "version": 5,
     "startDate": "2023-06-22T22:31:22+02:00",
@@ -156,6 +143,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-021"
+    }
+  },
+  {
+    "id": "mow.DE-NI-SZ-W179-20230622-001",
+    "version": 5,
+    "startDate": "2023-06-22T23:27:28+02:00",
+    "expiresDate": "2023-06-23T05:27:28+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gewitter mit schwere Regenfällen - Üfingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
     }
   }
 ]
