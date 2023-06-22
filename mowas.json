@@ -65,19 +65,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20230622-129-000",
-    "version": 5,
-    "startDate": "2023-06-22T15:01:01+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand im Landkreis Cloppenburg,Stadt Friesoythe,Ortsteil Markhausen - Friesoythe, Ortsteil Markhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20230622-125-001",
     "version": 5,
     "startDate": "2023-06-22T15:13:35+02:00",
@@ -101,6 +88,33 @@
     },
     "transKeys": {
       "event": "BBK-EVC-086"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20230622-129-001",
+    "version": 5,
+    "startDate": "2023-06-22T17:19:19+02:00",
+    "expiresDate": "2023-06-22T23:19:19+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand im Landkreis Cloppenburg,Stadt Friesoythe,Ortsteil Markhause - Friesoythe, Ortsteil Markhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20230622-84-000",
+    "version": 5,
+    "startDate": "2023-06-22T17:19:21+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand - Maxhütte-Haidhof"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
