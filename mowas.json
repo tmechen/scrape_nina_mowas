@@ -144,5 +144,18 @@
     "transKeys": {
       "event": "BBK-EVC-062"
     }
+  },
+  {
+    "id": "mow.DE-NW-DU-SE038-20230622-38-000",
+    "version": 5,
+    "startDate": "2023-06-22T22:31:22+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Beeinträchtigungen durch Starkregen - Duisburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
+    }
   }
 ]
