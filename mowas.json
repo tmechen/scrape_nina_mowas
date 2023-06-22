@@ -120,19 +120,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-OB-SE055-20230622-55-001",
-    "version": 5,
-    "startDate": "2023-06-22T23:15:59+02:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Beeinträchtigung durch Starkregen - Stadtgebiet Oberhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-021"
-    }
-  },
-  {
     "id": "mow.DE-NI-SZ-W179-20230622-001",
     "version": 5,
     "startDate": "2023-06-22T23:27:28+02:00",
@@ -158,6 +145,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-062"
+    }
+  },
+  {
+    "id": "mow.DE-NW-OB-SE055-20230622-55-002",
+    "version": 5,
+    "startDate": "2023-06-23T00:36:41+02:00",
+    "expiresDate": "2023-06-23T06:36:41+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Beeinträchtigung durch Starkregen - Stadtgebiet Oberhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-021"
     }
   }
 ]
