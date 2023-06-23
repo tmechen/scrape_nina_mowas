@@ -78,20 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230622-125-003",
-    "version": 5,
-    "startDate": "2023-06-22T23:05:12+02:00",
-    "expiresDate": "2023-06-23T05:05:12+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall - Mz-Hechtsheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-NI-SZ-W179-20230622-001",
     "version": 5,
     "startDate": "2023-06-22T23:27:28+02:00",
