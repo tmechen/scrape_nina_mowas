@@ -52,34 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20230623-4-001",
-    "version": 5,
-    "startDate": "2023-06-23T11:32:11+02:00",
-    "expiresDate": "2023-06-23T17:32:11+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand einer Lagerhalle - Industriegebiet Trier-Euren-Zewen-Monaise"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NW-UN-SE068-20230623-68-001",
-    "version": 5,
-    "startDate": "2023-06-23T11:33:16+02:00",
-    "expiresDate": "2023-06-23T17:33:16+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Schadstofffreisetzung - Stadt Bergkamen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-014"
-    }
-  },
-  {
     "id": "mow.DE-NW-E-SE052-20230623-52-001",
     "version": 5,
     "startDate": "2023-06-23T12:50:48+02:00",
