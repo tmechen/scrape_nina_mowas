@@ -89,5 +89,18 @@
     "transKeys": {
       "event": "BBK-EVC-014"
     }
+  },
+  {
+    "id": "mow.DE-NW-E-SE052-20230623-52-000",
+    "version": 5,
+    "startDate": "2023-06-23T08:32:28+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Essen (Nordviertel) - Essen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
