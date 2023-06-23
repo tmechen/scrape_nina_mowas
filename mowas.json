@@ -118,5 +118,18 @@
     "transKeys": {
       "event": "BBK-EVC-014"
     }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230623-125-002",
+    "version": 5,
+    "startDate": "2023-06-23T12:23:50+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall - Mainz Hechtsheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
