@@ -78,5 +78,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20230623-89-001",
+    "version": 5,
+    "startDate": "2023-06-23T21:33:38+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahren durch Rauchgase - Gemeinde Wickede"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
