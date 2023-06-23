@@ -103,5 +103,18 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20230623-4-000",
+    "version": 5,
+    "startDate": "2023-06-23T11:10:20+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand einer Lagerhalle - Industriegebiet Trier-Euren-Zewen-Monaise"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
