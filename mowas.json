@@ -80,13 +80,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20230623-89-001",
+    "id": "mow.DE-NW-SO-SE089-20230623-89-002",
     "version": 5,
-    "startDate": "2023-06-23T21:33:38+02:00",
+    "startDate": "2023-06-24T01:00:39+02:00",
+    "expiresDate": "2023-06-24T07:00:39+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gefahren durch Rauchgase - Gemeinde Wickede"
+      "de": "Entwarnung: Gefahren durch Rauchgase - Gemeinde Wickede"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
