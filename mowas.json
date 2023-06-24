@@ -39,13 +39,14 @@
     }
   },
   {
-    "id": "mow.DE-NI-HK-W223-20230622-000",
+    "id": "mow.DE-NI-HK-W223-20230624-000",
     "version": 5,
-    "startDate": "2023-06-22T13:25:33+02:00",
+    "startDate": "2023-06-24T19:18:53+02:00",
+    "expiresDate": "2023-06-25T01:18:53+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Warnung Starkregenereignis - Landkreis Heidekreis"
+      "de": "Entwarnung: ENTWARNUNG  Warnung Starkregenereignis - Landkreis Heidekreis"
     },
     "transKeys": {
       "event": "BBK-EVC-082"
