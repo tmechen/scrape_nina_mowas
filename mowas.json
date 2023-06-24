@@ -78,5 +78,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20230624-82-001",
+    "version": 5,
+    "startDate": "2023-06-24T13:05:45+02:00",
+    "expiresDate": "2023-06-24T19:05:45+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Tag des Bevölkerungsschutzes 23- Probewarnung - Potsdam zum Tag des Bevölkerungsschutzes 23"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
