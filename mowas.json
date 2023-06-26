@@ -63,5 +63,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20230626-99-000",
+    "version": 5,
+    "startDate": "2023-06-26T14:12:30+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelentschärfung im Kieler Stadtgebiet - Kiel-Schreventeich"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
