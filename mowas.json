@@ -91,19 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20230626-001",
-    "version": 5,
-    "startDate": "2023-06-26T15:23:20+02:00",
-    "severity": "Extreme",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchwolke durch Großbrand - Augsburg - Inningen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230626-50-002",
     "version": 5,
     "startDate": "2023-06-26T16:56:51+02:00",
@@ -129,6 +116,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20230626-002",
+    "version": 5,
+    "startDate": "2023-06-26T20:44:33+02:00",
+    "expiresDate": "2023-06-27T02:44:33+02:00",
+    "severity": "Extreme",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchwolke durch Großbrand - Augsburg - Inningen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
