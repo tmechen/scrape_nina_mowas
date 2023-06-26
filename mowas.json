@@ -50,5 +50,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230626-50-000",
+    "version": 5,
+    "startDate": "2023-06-26T13:04:18+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kompostplatz im Vollbrand - Rechberghausen und Bartenbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
