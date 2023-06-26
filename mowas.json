@@ -107,19 +107,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20230626-001",
-    "version": 5,
-    "startDate": "2023-06-26T21:46:07+02:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Weinheim/Heddesheim Bereich BAB 5"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-SE004-20230626-4-001",
     "version": 5,
     "startDate": "2023-06-26T23:34:35+02:00",
@@ -131,6 +118,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20230626-002",
+    "version": 5,
+    "startDate": "2023-06-27T00:12:30+02:00",
+    "expiresDate": "2023-06-27T06:12:30+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung - Weinheim/Heddesheim Bereich BAB 5"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
