@@ -76,5 +76,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-BI-SE070-20230627-70-000",
+    "version": 5,
+    "startDate": "2023-06-27T12:11:06+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "---Rauchgase--- - Bielefeld Stadtteil Jöllenbeck"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
