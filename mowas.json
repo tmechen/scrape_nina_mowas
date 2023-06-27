@@ -52,19 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20230627-105-000",
-    "version": 5,
-    "startDate": "2023-06-27T11:37:20+02:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Duvensee"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-BI-SE070-20230627-70-000",
     "version": 5,
     "startDate": "2023-06-27T12:11:06+02:00",
@@ -142,6 +129,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20230627-105-001",
+    "version": 5,
+    "startDate": "2023-06-27T16:42:04+02:00",
+    "expiresDate": "2023-06-27T22:42:04+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Duvensee"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
