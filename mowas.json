@@ -115,5 +115,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BY-PA-W160-20230627-000",
+    "version": 5,
+    "startDate": "2023-06-27T14:13:10+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahrgutaustritt - Sammarei - Ortenburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-014"
+    }
   }
 ]
