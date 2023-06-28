@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-PA-W160-20230628-000",
-    "version": 5,
-    "startDate": "2023-06-28T02:07:14+02:00",
-    "expiresDate": "2023-06-28T08:07:14+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahrgutaustritt - Sammarei - Wies"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-014"
-    }
-  },
-  {
     "id": "mow.DE-NW-BI-SE070-20230628-70-000",
     "version": 5,
     "startDate": "2023-06-28T07:37:42+02:00",
