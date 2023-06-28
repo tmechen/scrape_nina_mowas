@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-CO-W141-20230628-001",
-    "version": 5,
-    "startDate": "2023-06-28T12:38:46+02:00",
-    "expiresDate": "2023-06-28T18:38:46+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung - Seubelsdorf, B173"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20230628-99-000",
     "version": 5,
     "startDate": "2023-06-28T13:47:24+02:00",
