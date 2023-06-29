@@ -63,5 +63,18 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NI-VER-W077-20230629-000",
+    "version": 5,
+    "startDate": "2023-06-29T16:35:37+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Durch einen Gebäudebrand in Quelkhorn kommt es zu erheblicher Rauchentwicklung - Quelkhorn Flecken Ottersberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
