@@ -52,29 +52,44 @@
     }
   },
   {
-    "id": "mow.DE-NW-MS-SE043-20230629-43-000",
+    "id": "mow.DE-NI-H-SE110-20230629-110-000",
     "version": 5,
-    "startDate": "2023-06-29T13:07:43+02:00",
-    "severity": "Severe",
+    "startDate": "2023-06-29T17:31:27+02:00",
+    "severity": "Minor",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Kampfmittelfund - Münster - Mauritz"
+      "de": "Kampfmittelfund - Hannover-Bothfeld"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
     }
   },
   {
-    "id": "mow.DE-NI-VER-W077-20230629-000",
+    "id": "mow.DE-NI-VER-W077-20230629-001",
     "version": 5,
-    "startDate": "2023-06-29T16:35:37+02:00",
+    "startDate": "2023-06-29T17:34:52+02:00",
+    "expiresDate": "2023-06-29T23:34:52+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Durch einen Gebäudebrand in Quelkhorn kommt es zu erheblicher Rauchentwicklung - Quelkhorn Flecken Ottersberg"
+      "de": "Entwarnung: Durch einen Gebäudebrand in Quelkhorn kommt es zu erheblicher Rauchent - Quelkhorn Flecken Ottersberg"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MS-SE043-20230629-43-001",
+    "version": 5,
+    "startDate": "2023-06-29T17:40:51+02:00",
+    "expiresDate": "2023-06-29T23:40:51+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund - Münster - Mauritz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
