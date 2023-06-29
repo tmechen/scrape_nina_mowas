@@ -91,5 +91,18 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-BY-WUE-W164-20230629-001",
+    "version": 5,
+    "startDate": "2023-06-29T17:57:04+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Abkochgebot für Trinkwasser - Versorgungsgebiet Wachengrund / Wassergruppe Marktheidenfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
