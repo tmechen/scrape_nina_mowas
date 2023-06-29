@@ -50,5 +50,18 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NW-MS-SE043-20230629-43-000",
+    "version": 5,
+    "startDate": "2023-06-29T13:07:43+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund - Münster - Mauritz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
