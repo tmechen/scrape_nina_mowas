@@ -52,26 +52,28 @@
     }
   },
   {
-    "id": "mow.DE-RP-WW-SE116-20230628-123-000",
+    "id": "mow.DE-RP-WW-SE116-20230629-123-000",
     "version": 5,
-    "startDate": "2023-06-29T01:50:43+02:00",
+    "startDate": "2023-06-29T05:17:34+02:00",
+    "expiresDate": "2023-06-29T11:17:34+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand Linz am Rhein - Stadt Linz"
+      "de": "Entwarnung: Brand Linz am Rhein - Stadt Linz"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE113-20230628-113-000",
+    "id": "mow.DE-RP-KO-SE113-20230629-113-000",
     "version": 5,
-    "startDate": "2023-06-29T01:56:45+02:00",
+    "startDate": "2023-06-29T05:19:31+02:00",
+    "expiresDate": "2023-06-29T11:19:31+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand Linz am Rhein - Stadt Linz"
+      "de": "Entwarnung: Brand Linz am Rhein - Stadt Linz"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
