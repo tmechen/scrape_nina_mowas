@@ -39,19 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WUE-W164-20230629-001",
-    "version": 5,
-    "startDate": "2023-06-29T17:57:04+02:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Abkochgebot für Trinkwasser - Versorgungsgebiet Wachengrund / Wassergruppe Marktheidenfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-KA-W138-20230630-000",
     "version": 5,
     "startDate": "2023-06-30T08:00:23+02:00",
@@ -73,6 +60,19 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Aktualisierung Abkochgebot für das Trinkwasser  - Teile des Versorgungsbereichs Wasserzweckverband Burgheimer Gruppe"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-WUE-W164-20230630-000",
+    "version": 5,
+    "startDate": "2023-06-30T10:38:42+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Abkochgebot für Trinkwasser - Versorgungsgebiet Wachengrund / Wassergruppe Marktheidenfeld"
     },
     "transKeys": {
       "event": "BBK-EVC-069"
