@@ -79,19 +79,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MS-SE043-20230630-43-000",
-    "version": 5,
-    "startDate": "2023-06-30T10:54:02+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenen - Probealarm - Münster"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20230630-28-001",
     "version": 5,
     "startDate": "2023-06-30T12:29:58+02:00",
@@ -103,6 +90,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MS-SE043-20230630-43-001",
+    "version": 5,
+    "startDate": "2023-06-30T14:09:58+02:00",
+    "expiresDate": "2023-06-30T20:09:58+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen - Probealarm - Münster"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
     }
   }
 ]
