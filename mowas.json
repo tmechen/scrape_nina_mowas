@@ -39,19 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20230630-000",
-    "version": 5,
-    "startDate": "2023-06-30T08:00:23+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Blindgängerverdacht - Karlsruhe (Südtangente, Bereich Schwarzwaldkreuz)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BY-WUE-W164-20230630-000",
     "version": 5,
     "startDate": "2023-06-30T10:38:42+02:00",
@@ -76,6 +63,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20230630-001",
+    "version": 5,
+    "startDate": "2023-07-01T00:08:38+02:00",
+    "expiresDate": "2023-07-01T06:08:38+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Blindgängerverdacht nicht bestätigt – keine Evakuierung notwendig - Karlsruhe (Südtangente, Bereich Schwarzwaldkreuz)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
