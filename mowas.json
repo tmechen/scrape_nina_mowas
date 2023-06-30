@@ -52,20 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20230630-000",
-    "version": 5,
-    "startDate": "2023-06-30T09:39:31+02:00",
-    "expiresDate": "2023-06-30T15:39:31+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Aktualisierung Abkochgebot für das Trinkwasser  - Teile des Versorgungsbereichs Wasserzweckverband Burgheimer Gruppe"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-WUE-W164-20230630-000",
     "version": 5,
     "startDate": "2023-06-30T10:38:42+02:00",
