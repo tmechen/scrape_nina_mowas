@@ -66,19 +66,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20230701-82-000",
-    "version": 5,
-    "startDate": "2023-07-01T18:02:50+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand / Rauchentwicklung einer Scheune - Dabergotz und BAB 24 AS Neuruppin und Ortslage Neuruppin"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BY-WUE-W164-20230701-001",
     "version": 5,
     "startDate": "2023-07-01T20:00:01+02:00",
@@ -90,6 +77,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20230701-82-001",
+    "version": 5,
+    "startDate": "2023-07-01T20:58:06+02:00",
+    "expiresDate": "2023-07-02T02:58:06+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand / Rauchentwicklung einer Scheune - Dabergotz und BAB 24 AS Neuruppin und Ortslage Neuruppin"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
