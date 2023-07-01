@@ -107,19 +107,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-EL-W089-20230701-000",
-    "version": 5,
-    "startDate": "2023-07-01T12:00:10+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Esterwegen, OT Breddenberg, OT Heidbrücken"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20230701-003",
     "version": 5,
     "startDate": "2023-07-01T12:02:56+02:00",
@@ -156,6 +143,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Probealarm im Kreis Kleve - Kreis Kleve"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NI-EL-W089-20230701-001",
+    "version": 5,
+    "startDate": "2023-07-01T14:26:53+02:00",
+    "expiresDate": "2023-07-01T20:26:53+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung - Esterwegen, OT Breddenberg, OT Heidbrücken"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
