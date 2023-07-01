@@ -52,20 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230701-50-004",
-    "version": 5,
-    "startDate": "2023-07-01T15:50:58+02:00",
-    "expiresDate": "2023-07-01T21:50:58+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung (infolge Schadenfeuer) - Gemeindegebiet Kehl, Rheinau, Lichtenau, Rheinmünster und Hügelsheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-WUE-W164-20230701-001",
     "version": 5,
     "startDate": "2023-07-01T20:00:01+02:00",
