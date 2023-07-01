@@ -91,5 +91,18 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-BY-WUE-W164-20230701-000",
+    "version": 5,
+    "startDate": "2023-07-01T19:29:43+02:00",
+    "severity": "Extreme",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung - Würzburg, Versbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
