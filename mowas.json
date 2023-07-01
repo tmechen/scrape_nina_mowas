@@ -52,33 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-AP-W115-20230701-001",
-    "version": 5,
-    "startDate": "2023-07-01T10:05:41+02:00",
-    "expiresDate": "2023-07-01T16:05:41+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenenprobealarm - Landkreis Weimarer Land"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RT-SE050-20230701-50-003",
-    "version": 5,
-    "startDate": "2023-07-01T10:24:04+02:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung (infolge Schadenfeuer) - Gemeindegebiet Kehl, Rheinau, Lichtenau, Rheinmünster und Hügelsheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20230701-001",
     "version": 5,
     "startDate": "2023-07-01T11:03:14+02:00",
@@ -160,6 +133,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230701-50-004",
+    "version": 5,
+    "startDate": "2023-07-01T15:50:58+02:00",
+    "expiresDate": "2023-07-01T21:50:58+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung (infolge Schadenfeuer) - Gemeindegebiet Kehl, Rheinau, Lichtenau, Rheinmünster und Hügelsheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
