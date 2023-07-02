@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-EW-SE079-20230702-79-001",
-    "version": 5,
-    "startDate": "2023-07-02T09:31:43+02:00",
-    "expiresDate": "2023-07-02T15:31:43+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Durch einen Brand kommt es zu einer Ausbreitung von Brandrauch - Ortslage Melchow (im Amt Biesenthal)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-KL-SE112-20230702-112-001",
     "version": 5,
     "startDate": "2023-07-02T11:42:00+02:00",
