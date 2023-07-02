@@ -52,34 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WUE-W164-20230701-001",
-    "version": 5,
-    "startDate": "2023-07-01T20:00:01+02:00",
-    "expiresDate": "2023-07-02T02:00:01+02:00",
-    "severity": "Extreme",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung - Würzburg, Versbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BB-P-SE082-20230701-82-001",
-    "version": 5,
-    "startDate": "2023-07-01T20:58:06+02:00",
-    "expiresDate": "2023-07-02T02:58:06+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand / Rauchentwicklung einer Scheune - Dabergotz und BAB 24 AS Neuruppin und Ortslage Neuruppin"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-AC-SE090-20230701-90-000",
     "version": 5,
     "startDate": "2023-07-02T00:02:54+02:00",
