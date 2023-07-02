@@ -65,5 +65,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20230702-000",
+    "version": 5,
+    "startDate": "2023-07-02T21:01:49+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Giftige Rauchwolke durch Brand einer Lagerhalle - Gennach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
