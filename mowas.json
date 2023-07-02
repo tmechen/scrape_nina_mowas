@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20230702-90-000",
-    "version": 5,
-    "startDate": "2023-07-02T08:57:30+02:00",
-    "expiresDate": "2023-07-02T14:57:30+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase - Monschau Höfen Richtung Dreiborn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BB-EW-SE079-20230702-79-001",
     "version": 5,
     "startDate": "2023-07-02T09:31:43+02:00",
@@ -105,6 +91,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20230702-100-000",
+    "version": 5,
+    "startDate": "2023-07-02T15:17:18+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand mit starker Rauchentwicklung - Tetenhusen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
