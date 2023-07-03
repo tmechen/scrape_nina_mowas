@@ -39,13 +39,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-OF-W106-20230703-000",
+    "id": "mow.DE-HE-OF-W106-20230703-001",
     "version": 5,
-    "startDate": "2023-07-03T13:21:05+02:00",
+    "startDate": "2023-07-03T18:29:05+02:00",
+    "expiresDate": "2023-07-04T00:29:05+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund im Waldgebiet zwischen Heusenstamm und Offenbach - Offenbach am Main"
+      "de": "Entwarnung: Kampfmittelfund im Waldgebiet zwischen Heusenstamm und Offenbach - Offenbach am Main"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
