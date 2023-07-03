@@ -53,13 +53,14 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20230703-12-001",
+    "id": "mow.DE-TH-EF-SE012-20230703-12-002",
     "version": 5,
-    "startDate": "2023-07-03T20:13:25+02:00",
+    "startDate": "2023-07-03T21:18:32+02:00",
+    "expiresDate": "2023-07-04T03:18:32+02:00",
     "severity": "Minor",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Nordhausen - Salza - Kantstraße"
+      "de": "Entwarnung: Starke Rauchentwicklung - Nordhausen - Salza - Kantstraße"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
