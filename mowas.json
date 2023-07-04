@@ -52,13 +52,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-F-SE119-20230704-128-001",
+    "id": "mow.DE-HE-F-SE119-20230704-128-002",
     "version": 5,
-    "startDate": "2023-07-04T03:34:12+02:00",
+    "startDate": "2023-07-04T10:27:57+02:00",
+    "expiresDate": "2023-07-04T16:27:57+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase durch Brandereignis - Frankfurt-Ostend"
+      "de": "Entwarnung: Rauchgase durch Brandereignis - Frankfurt-Ostend"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
