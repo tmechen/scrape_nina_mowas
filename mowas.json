@@ -80,5 +80,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20230704-000",
+    "version": 5,
+    "startDate": "2023-07-04T18:03:28+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Wahrnehmbar Geräuschbelästigung - Bad Homburg - Dornholzhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
