@@ -82,13 +82,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20230704-000",
+    "id": "mow.DE-HE-HG-W103-20230704-001",
     "version": 5,
-    "startDate": "2023-07-04T18:03:28+02:00",
+    "startDate": "2023-07-04T18:27:14+02:00",
+    "expiresDate": "2023-07-05T00:27:14+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Wahrnehmbar Geräuschbelästigung - Bad Homburg - Dornholzhausen"
+      "de": "Entwarnung: Wahrnehmbar Geräuschbelästigung - Bad Homburg - Dornholzhausen"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
