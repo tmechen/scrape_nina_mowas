@@ -65,5 +65,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BB-EW-SE079-20230704-79-000",
+    "version": 5,
+    "startDate": "2023-07-04T15:31:02+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand in Löwenberg - Löwenberg richtung Zehdenick"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
