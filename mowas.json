@@ -24,5 +24,18 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-HE-DA-W184-20230705-000",
+    "version": 5,
+    "startDate": "2023-07-05T08:54:27+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenenprobe heute ab 10:00 Uhr  - Darmstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
