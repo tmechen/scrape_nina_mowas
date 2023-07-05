@@ -26,34 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-DA-W184-20230705-002",
-    "version": 5,
-    "startDate": "2023-07-05T10:21:37+02:00",
-    "expiresDate": "2023-07-05T16:21:37+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenenprobe heute ab 10:00 Uhr  - Darmstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-HE-KS-SE106-20230705-106-001",
-    "version": 5,
-    "startDate": "2023-07-05T10:22:52+02:00",
-    "expiresDate": "2023-07-05T16:22:52+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenenprobe in Darmstadt  - Darmstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-HE-OF-SE098-20230705-98-000",
     "version": 5,
     "startDate": "2023-07-05T10:46:04+02:00",
