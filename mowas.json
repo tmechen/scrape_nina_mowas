@@ -65,5 +65,18 @@
     "transKeys": {
       "event": "BBK-EVC-023"
     }
+  },
+  {
+    "id": "mow.DE-NI-HK-W223-20230705-000",
+    "version": 5,
+    "startDate": "2023-07-05T11:23:13+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "WARNUNG vor SCHWEREN STURMBÖEN - Landkreis Heidekreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-064"
+    }
   }
 ]
