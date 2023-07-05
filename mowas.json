@@ -106,19 +106,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20230705-29-003",
-    "version": 5,
-    "startDate": "2023-07-05T17:08:46+02:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Anlassbezogene (Warn-)Meldungen - Landkreis Ammerland, Stadt Oldenburg, Stadt Delmenhorst, Stadt Friesoythe,"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-064"
-    }
-  },
-  {
     "id": "mow.DE-NW-ERK-SE056-20230705-56-000",
     "version": 5,
     "startDate": "2023-07-05T17:28:04+02:00",
@@ -182,6 +169,33 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20230705-29-004",
+    "version": 5,
+    "startDate": "2023-07-05T19:50:00+02:00",
+    "expiresDate": "2023-07-06T01:50:00+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Anlassbezogene (Warn-)Meldungen - Landkreis Ammerland, Stadt Oldenburg, Stadt Delmenhorst, Stadt Friesoythe,"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-064"
+    }
+  },
+  {
+    "id": "mow.DE-SN-L-W093-20230705-000",
+    "version": 5,
+    "startDate": "2023-07-05T20:11:21+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand im Landkreis Leipzig - Parthenstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
