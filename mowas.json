@@ -94,19 +94,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20230705-29-000",
-    "version": 5,
-    "startDate": "2023-07-05T14:55:29+02:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Anlassbezogene (Warn-)Meldungen - Landkreis Ammerland, Stadt Oldenburg, Stadt Delmenhorst, Stadt Friesoythe,"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-064"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20230705-125-001",
     "version": 5,
     "startDate": "2023-07-05T14:59:09+02:00",
@@ -118,6 +105,45 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20230705-67-000",
+    "version": 5,
+    "startDate": "2023-07-05T15:17:47+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Blindgänger in der Innenstadt gefunden - 2400 Menschen müssen evakuiert werden - Dortmund"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230705-125-002",
+    "version": 5,
+    "startDate": "2023-07-05T15:25:33+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brandereignis in Gau-Algesheim, Laurenziberg - Verbandsgemeinde Gau-Algesheim, Bingen, Ingelheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20230705-29-001",
+    "version": 5,
+    "startDate": "2023-07-05T15:30:59+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Anlassbezogene (Warn-)Meldungen - Landkreis Ammerland, Stadt Oldenburg, Stadt Delmenhorst, Stadt Friesoythe,"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-064"
     }
   }
 ]
