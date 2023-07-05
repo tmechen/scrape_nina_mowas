@@ -143,5 +143,18 @@
     "transKeys": {
       "event": "BBK-EVC-064"
     }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20230705-56-000",
+    "version": 5,
+    "startDate": "2023-07-05T17:28:04+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in WGB-Venn - Wegberg Venn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
