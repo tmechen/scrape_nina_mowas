@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230705-125-001",
-    "version": 5,
-    "startDate": "2023-07-05T14:59:09+02:00",
-    "expiresDate": "2023-07-05T20:59:09+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandgeruch durch Flächenbrand - Mainz-Ebersheim, Zornheim, Nieder-Olm"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-DO-SE067-20230705-67-000",
     "version": 5,
     "startDate": "2023-07-05T15:17:47+02:00",
@@ -172,13 +158,14 @@
     }
   },
   {
-    "id": "mow.DE-SN-L-W093-20230705-000",
+    "id": "mow.DE-SN-L-W093-20230705-001",
     "version": 5,
-    "startDate": "2023-07-05T20:11:21+02:00",
+    "startDate": "2023-07-05T21:06:53+02:00",
+    "expiresDate": "2023-07-06T03:06:53+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand im Landkreis Leipzig - Parthenstein"
+      "de": "Entwarnung: Großbrand im Landkreis Leipzig - Parthenstein"
     },
     "transKeys": {
       "event": "BBK-EVC-077"
