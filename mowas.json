@@ -26,19 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20230705-33-000",
-    "version": 5,
-    "startDate": "2023-07-05T17:48:29+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "1000 Pfund-Bombe / Munition in Hamburg [Wilhelmsburg] gefunden  - Hamburg-Wilhelmsburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-HE-OF-SE098-20230705-98-001",
     "version": 5,
     "startDate": "2023-07-05T18:05:45+02:00",
@@ -175,6 +162,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20230705-33-001",
+    "version": 5,
+    "startDate": "2023-07-05T22:40:29+02:00",
+    "expiresDate": "2023-07-06T04:40:29+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: 1000 Pfund-Bombe in Hamburg [Wilhelmsburg] gefunden und entschärft - Hamburg-Wilhelmsburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
