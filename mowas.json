@@ -80,19 +80,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230705-125-000",
-    "version": 5,
-    "startDate": "2023-07-05T14:10:09+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brandgeruch durch Flächenbrand - Mainz-Ebersheim, Zornheim, Nieder-Olm"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-TH-NDH-W019-20230705-001",
     "version": 5,
     "startDate": "2023-07-05T14:12:18+02:00",
@@ -107,16 +94,30 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20230705-129-001",
+    "id": "mow.DE-NI-STD-SE029-20230705-29-000",
     "version": 5,
-    "startDate": "2023-07-05T14:19:00+02:00",
+    "startDate": "2023-07-05T14:55:29+02:00",
     "severity": "Minor",
     "type": "Update",
     "i18nTitle": {
-      "de": "Anlassbezogene (Warn-)Meldungen - Landkreis Ammerland, Stadt Oldenburg, Stadt Delmenhorst, Stadt Friesoythe"
+      "de": "Anlassbezogene (Warn-)Meldungen - Landkreis Ammerland, Stadt Oldenburg, Stadt Delmenhorst, Stadt Friesoythe,"
     },
     "transKeys": {
       "event": "BBK-EVC-064"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230705-125-001",
+    "version": 5,
+    "startDate": "2023-07-05T14:59:09+02:00",
+    "expiresDate": "2023-07-05T20:59:09+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandgeruch durch Flächenbrand - Mainz-Ebersheim, Zornheim, Nieder-Olm"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
