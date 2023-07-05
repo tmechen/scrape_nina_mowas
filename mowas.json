@@ -26,19 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-OF-SE098-20230705-98-000",
-    "version": 5,
-    "startDate": "2023-07-05T10:46:04+02:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Orkanböen - Nördliches Emsland und Ostfriesland bis zum Jadebusen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-023"
-    }
-  },
-  {
     "id": "mow.DE-NI-HK-W223-20230705-000",
     "version": 5,
     "startDate": "2023-07-05T11:23:13+02:00",
@@ -155,6 +142,46 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20230705-33-000",
+    "version": 5,
+    "startDate": "2023-07-05T17:48:29+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "1000 Pfund-Bombe / Munition in Hamburg [Wilhelmsburg] gefunden  - Hamburg-Wilhelmsburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-VIE-SE074-20230705-74-000",
+    "version": 5,
+    "startDate": "2023-07-05T17:59:24+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in WGB-Venn - Wegberg Venn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-OF-SE098-20230705-98-001",
+    "version": 5,
+    "startDate": "2023-07-05T18:05:45+02:00",
+    "expiresDate": "2023-07-06T00:05:45+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Orkanböen - Nördliches Emsland und Ostfriesland bis zum Jadebusen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-023"
     }
   }
 ]
