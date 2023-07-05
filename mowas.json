@@ -52,5 +52,18 @@
     "transKeys": {
       "event": "BBK-EVC-050"
     }
+  },
+  {
+    "id": "mow.DE-HE-OF-SE098-20230705-98-000",
+    "version": 5,
+    "startDate": "2023-07-05T10:46:04+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Orkanböen - Nördliches Emsland und Ostfriesland bis zum Jadebusen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-023"
+    }
   }
 ]
