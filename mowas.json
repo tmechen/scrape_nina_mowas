@@ -26,32 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-HK-W223-20230705-000",
-    "version": 5,
-    "startDate": "2023-07-05T11:23:13+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "WARNUNG vor SCHWEREN STURMBÖEN - Landkreis Heidekreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-064"
-    }
-  },
-  {
-    "id": "mow.DE-NW-DO-SE067-20230705-67-000",
-    "version": 5,
-    "startDate": "2023-07-05T15:17:47+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Blindgänger in der Innenstadt gefunden - 2400 Menschen müssen evakuiert werden - Dortmund"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20230705-125-002",
     "version": 5,
     "startDate": "2023-07-05T15:25:33+02:00",
@@ -62,19 +36,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-BR-B-SE017-20230705-17-000",
-    "version": 5,
-    "startDate": "2023-07-05T16:10:58+02:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bombenentschärfung Landsberger Allee in Alt-Hohenschönhausen - Berlin - Landsberger Allee 317 - Sperrkreis von 500 m"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
     }
   },
   {
@@ -169,6 +130,48 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-BR-B-SE017-20230705-17-001",
+    "version": 5,
+    "startDate": "2023-07-05T21:17:46+02:00",
+    "expiresDate": "2023-07-06T03:17:46+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenentschärfung Landsberger Allee in Alt-Hohenschönhausen - Berlin - Landsberger Allee 317 - Sperrkreis von 500 m"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20230705-67-001",
+    "version": 5,
+    "startDate": "2023-07-05T21:18:03+02:00",
+    "expiresDate": "2023-07-06T03:18:03+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Blindgänger in der Innenstadt gefunden - 2400 Menschen müssen evakuier - Dortmund"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NI-HK-W223-20230705-001",
+    "version": 5,
+    "startDate": "2023-07-05T21:19:23+02:00",
+    "expiresDate": "2023-07-06T03:19:23+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: WARNUNG vor SCHWEREN STURMBÖEN - Landkreis Heidekreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-064"
     }
   }
 ]
