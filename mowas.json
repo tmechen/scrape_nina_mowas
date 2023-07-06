@@ -39,76 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20230705-29-004",
-    "version": 5,
-    "startDate": "2023-07-05T19:50:00+02:00",
-    "expiresDate": "2023-07-06T01:50:00+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Anlassbezogene (Warn-)Meldungen - Landkreis Ammerland, Stadt Oldenburg, Stadt Delmenhorst, Stadt Friesoythe,"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-064"
-    }
-  },
-  {
-    "id": "mow.DE-SN-L-W093-20230705-001",
-    "version": 5,
-    "startDate": "2023-07-05T21:06:53+02:00",
-    "expiresDate": "2023-07-06T03:06:53+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand im Landkreis Leipzig - Parthenstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-BR-B-SE017-20230705-17-001",
-    "version": 5,
-    "startDate": "2023-07-05T21:17:46+02:00",
-    "expiresDate": "2023-07-06T03:17:46+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenentschärfung Landsberger Allee in Alt-Hohenschönhausen - Berlin - Landsberger Allee 317 - Sperrkreis von 500 m"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NW-DO-SE067-20230705-67-001",
-    "version": 5,
-    "startDate": "2023-07-05T21:18:03+02:00",
-    "expiresDate": "2023-07-06T03:18:03+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Blindgänger in der Innenstadt gefunden - 2400 Menschen müssen evakuier - Dortmund"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NI-HK-W223-20230705-001",
-    "version": 5,
-    "startDate": "2023-07-05T21:19:23+02:00",
-    "expiresDate": "2023-07-06T03:19:23+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: WARNUNG vor SCHWEREN STURMBÖEN - Landkreis Heidekreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-064"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20230705-125-003",
     "version": 5,
     "startDate": "2023-07-05T21:59:46+02:00",
@@ -165,13 +95,14 @@
     }
   },
   {
-    "id": "mow.DE-NI-VEC-W078-20230705-000",
+    "id": "mow.DE-NI-VEC-W078-20230706-000",
     "version": 5,
-    "startDate": "2023-07-06T00:11:14+02:00",
+    "startDate": "2023-07-06T02:30:19+02:00",
+    "expiresDate": "2023-07-06T08:30:19+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand  - Lohne/Meyerfelde"
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand  - Lohne/Meyerfelde"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
