@@ -51,5 +51,18 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-TH-ARN-W014-20230706-000",
+    "version": 5,
+    "startDate": "2023-07-06T13:16:26+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gasaustritt nach Erdarbeiten - Ilmenau Oberpörlitz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
