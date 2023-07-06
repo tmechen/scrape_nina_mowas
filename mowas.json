@@ -26,20 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MS-SE043-20230706-43-001",
-    "version": 5,
-    "startDate": "2023-07-06T17:15:44+02:00",
-    "expiresDate": "2023-07-06T23:15:44+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandausbruch - Münster"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-E-SE052-20230706-52-001",
     "version": 5,
     "startDate": "2023-07-06T18:47:40+02:00",
