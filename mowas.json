@@ -26,20 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20230706-000",
-    "version": 5,
-    "startDate": "2023-07-06T07:49:29+02:00",
-    "expiresDate": "2023-07-06T13:49:29+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wasserrohrbruch - Eichstätter Berggruppe  - Hirnstetten, Furthof, Hegelohe, Sornhüll, Rapperszell"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-E-SE052-20230706-52-000",
     "version": 5,
     "startDate": "2023-07-06T12:55:23+02:00",
