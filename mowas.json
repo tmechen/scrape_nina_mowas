@@ -51,5 +51,18 @@
     "transKeys": {
       "event": "BBK-EVC-027"
     }
+  },
+  {
+    "id": "mow.DE-NW-MS-SE043-20230706-43-000",
+    "version": 5,
+    "startDate": "2023-07-06T16:34:51+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brandausbruch - Münster"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
