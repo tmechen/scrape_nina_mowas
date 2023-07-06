@@ -40,13 +40,28 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20230706-106-000",
+    "id": "mow.DE-HE-KS-SE106-20230706-106-001",
     "version": 5,
-    "startDate": "2023-07-06T23:31:17+02:00",
+    "startDate": "2023-07-07T00:35:34+02:00",
+    "expiresDate": "2023-07-07T06:35:34+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Einsatz der Feuerwehr - Darmstadt"
+      "de": "Entwarnung: Einsatz der Feuerwehr - Darmstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HE-WI-SE025-20230706-25-000",
+    "version": 5,
+    "startDate": "2023-07-07T00:35:35+02:00",
+    "expiresDate": "2023-07-07T06:35:35+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Einsatz der Feuerwehr - Darmstadt"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
