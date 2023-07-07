@@ -26,20 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-NE-SE044-20230707-44-001",
-    "version": 5,
-    "startDate": "2023-07-07T08:30:15+02:00",
-    "expiresDate": "2023-07-07T14:30:15+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Stadt Neuss"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20230707-31-000",
     "version": 5,
     "startDate": "2023-07-07T13:15:53+02:00",
