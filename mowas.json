@@ -26,20 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-ERB-W191-20230707-001",
-    "version": 5,
-    "startDate": "2023-07-07T18:02:30+02:00",
-    "expiresDate": "2023-07-08T00:02:30+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung/Geruchsbelästigung  - Zwischen Mümling-Grumbach und Höchst im Odw."
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20230707-31-001",
     "version": 5,
     "startDate": "2023-07-07T19:52:49+02:00",
