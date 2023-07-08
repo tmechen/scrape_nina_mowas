@@ -26,19 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20230708-121-003",
-    "version": 5,
-    "startDate": "2023-07-08T12:41:55+02:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Warnbereich nach Brand Autohaus wird weiter reduziert - Landau - Nahbereich Brandstelle Autohaus"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20230708-18-000",
     "version": 5,
     "startDate": "2023-07-08T16:10:53+02:00",
@@ -46,6 +33,20 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Starke Rauchentwicklung im Ortsgebiet Ersingen durch Brand - Ersingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LD-SE117-20230708-121-004",
+    "version": 5,
+    "startDate": "2023-07-08T18:00:43+02:00",
+    "expiresDate": "2023-07-09T00:00:43+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnbereich nach Brand Autohaus wird weiter reduziert - Landau - Nahbereich Brandstelle Autohaus"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
