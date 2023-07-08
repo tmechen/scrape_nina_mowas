@@ -26,13 +26,13 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20230708-121-001",
+    "id": "mow.DE-RP-LD-SE117-20230708-121-002",
     "version": 5,
-    "startDate": "2023-07-08T03:02:01+02:00",
-    "severity": "Severe",
+    "startDate": "2023-07-08T07:11:53+02:00",
+    "severity": "Minor",
     "type": "Update",
     "i18nTitle": {
-      "de": "Mögliche Gesundheitsgefährdung durch Asbestfasern im Brandrauch - Landau - Innenstadt"
+      "de": "Brand Autohaus unter Kontrolle - weitere Hinweise der Stadtverwaltung - Landau - Nahbereich Brandstelle Autohaus"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
