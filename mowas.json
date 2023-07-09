@@ -40,13 +40,14 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20230709-99-000",
+    "id": "mow.DE-SH-KI-SE099-20230709-99-001",
     "version": 5,
-    "startDate": "2023-07-09T13:07:20+02:00",
+    "startDate": "2023-07-09T13:20:54+02:00",
+    "expiresDate": "2023-07-09T19:20:54+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gefahreninformation Feuerwehreinsatz - Kreis Plön, Rantzau"
+      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Kreis Plön, Rantzau"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
