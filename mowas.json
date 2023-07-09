@@ -26,20 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20230709-18-000",
-    "version": 5,
-    "startDate": "2023-07-09T09:52:56+02:00",
-    "expiresDate": "2023-07-09T15:52:56+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung im Ortsgebiet Ersingen durch Brand - Ersingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20230709-99-001",
     "version": 5,
     "startDate": "2023-07-09T13:20:54+02:00",
