@@ -106,5 +106,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NI-ROW-W225-20230709-000",
+    "version": 5,
+    "startDate": "2023-07-09T22:39:31+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Austritt Chlorgas Freibad Bothel - Bothel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
