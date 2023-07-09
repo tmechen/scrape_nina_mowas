@@ -40,19 +40,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20230709-105-000",
-    "version": 5,
-    "startDate": "2023-07-09T17:10:04+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Röbel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-NE-SE044-20230709-44-000",
     "version": 5,
     "startDate": "2023-07-09T18:19:33+02:00",
@@ -63,6 +50,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20230709-105-001",
+    "version": 5,
+    "startDate": "2023-07-09T18:43:08+02:00",
+    "expiresDate": "2023-07-10T00:43:08+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Röbel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
