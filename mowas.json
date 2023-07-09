@@ -81,19 +81,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-HK-W223-20230709-000",
-    "version": 5,
-    "startDate": "2023-07-09T20:50:15+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "WARNUNG vor STARKEM GEWITTER - Landkreis Heidekreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-031"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20230709-35-002",
     "version": 5,
     "startDate": "2023-07-09T21:41:04+02:00",
@@ -108,19 +95,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-ROW-W225-20230709-000",
-    "version": 5,
-    "startDate": "2023-07-09T22:39:31+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Austritt Chlorgas Freibad Bothel - Bothel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-HE-FB-W193-20230709-000",
     "version": 5,
     "startDate": "2023-07-09T23:12:02+02:00",
@@ -131,6 +105,33 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-NI-ROW-W225-20230709-001",
+    "version": 5,
+    "startDate": "2023-07-09T23:31:18+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Austritt Chlorgas Freibad Bothel - Bothel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-NI-HK-W223-20230709-001",
+    "version": 5,
+    "startDate": "2023-07-09T23:34:58+02:00",
+    "expiresDate": "2023-07-10T05:34:58+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: WARNUNG vor STARKEM GEWITTER - Landkreis Heidekreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-031"
     }
   }
 ]
