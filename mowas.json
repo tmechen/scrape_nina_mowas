@@ -81,19 +81,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-ROW-W225-20230709-001",
-    "version": 5,
-    "startDate": "2023-07-09T23:31:18+02:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Austritt Chlorgas Freibad Bothel - Bothel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-NI-HK-W223-20230709-001",
     "version": 5,
     "startDate": "2023-07-09T23:34:58+02:00",
@@ -119,6 +106,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-082"
+    }
+  },
+  {
+    "id": "mow.DE-NI-ROW-W225-20230709-002",
+    "version": 5,
+    "startDate": "2023-07-10T01:17:08+02:00",
+    "expiresDate": "2023-07-10T07:17:08+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Austritt Chlorgas Freibad Bothel - Bothel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
     }
   }
 ]
