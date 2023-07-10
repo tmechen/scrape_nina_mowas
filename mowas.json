@@ -78,19 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20230710-105-000",
-    "version": 5,
-    "startDate": "2023-07-10T23:48:12+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Glinde"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-SU-SE057-20230710-57-000",
     "version": 5,
     "startDate": "2023-07-11T00:03:02+02:00",
@@ -101,6 +88,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20230710-105-001",
+    "version": 5,
+    "startDate": "2023-07-11T01:21:33+02:00",
+    "expiresDate": "2023-07-11T07:21:33+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Glinde"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
