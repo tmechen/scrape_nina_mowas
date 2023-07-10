@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20230710-28-003",
-    "version": 5,
-    "startDate": "2023-07-10T12:51:01+02:00",
-    "expiresDate": "2023-07-10T18:51:01+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung - Pahlen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20230710-28-004",
     "version": 5,
     "startDate": "2023-07-10T13:10:29+02:00",
