@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20230709-129-001",
-    "version": 5,
-    "startDate": "2023-07-10T00:03:02+02:00",
-    "expiresDate": "2023-07-10T06:03:02+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Allgemeine Information der Großleitstelle Oldenburg - LK Cloppenburg, LK Ammerland, LK Wesermarsch, LK Oldenburg, Stadt Oldenburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-082"
-    }
-  },
-  {
     "id": "mow.DE-NI-ROW-W225-20230709-002",
     "version": 5,
     "startDate": "2023-07-10T01:17:08+02:00",
