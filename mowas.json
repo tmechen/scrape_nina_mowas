@@ -39,34 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230710-125-001",
-    "version": 5,
-    "startDate": "2023-07-10T14:48:14+02:00",
-    "expiresDate": "2023-07-10T20:48:14+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Vegetationsbrand - Gau-Algesheim und Ingelheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-RP-TR-SE004-20230710-4-001",
-    "version": 5,
-    "startDate": "2023-07-10T14:55:38+02:00",
-    "expiresDate": "2023-07-10T20:55:38+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand in einem Industriebetrieb - Wittlich"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-HD-W086-20230710-003",
     "version": 5,
     "startDate": "2023-07-10T18:30:19+02:00",
