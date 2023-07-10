@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-HK-W223-20230709-001",
-    "version": 5,
-    "startDate": "2023-07-09T23:34:58+02:00",
-    "expiresDate": "2023-07-10T05:34:58+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: WARNUNG vor STARKEM GEWITTER - Landkreis Heidekreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-031"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20230709-129-001",
     "version": 5,
     "startDate": "2023-07-10T00:03:02+02:00",
