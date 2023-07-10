@@ -39,19 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20230710-000",
-    "version": 5,
-    "startDate": "2023-07-10T21:45:30+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Freisetzung einer Rauchwolke durch Brand - Oberderdingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-PF-W024-20230710-000",
     "version": 5,
     "startDate": "2023-07-10T22:17:30+02:00",
@@ -102,6 +89,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20230710-001",
+    "version": 5,
+    "startDate": "2023-07-11T01:34:00+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Freisetzung einer Rauchwolke durch Brand - Oberderdingen und Kraichtal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
