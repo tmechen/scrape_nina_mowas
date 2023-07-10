@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-LOE-W023-20230710-002",
-    "version": 5,
-    "startDate": "2023-07-10T04:58:38+02:00",
-    "expiresDate": "2023-07-10T10:58:38+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Todtnau, Aftersteg , Muggenbrunn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20230710-28-001",
     "version": 5,
     "startDate": "2023-07-10T09:48:46+02:00",
