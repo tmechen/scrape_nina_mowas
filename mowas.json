@@ -120,13 +120,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20230711-000",
+    "id": "mow.DE-BW-HD-W086-20230711-001",
     "version": 5,
-    "startDate": "2023-07-11T04:45:24+02:00",
+    "startDate": "2023-07-11T05:40:53+02:00",
+    "expiresDate": "2023-07-11T11:40:53+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauch- und Geruchsbelästigung aufgrund eines Brandes - Plankstadt und Eppelheim"
+      "de": "Entwarnung: Rauch- und Geruchsbelästigung aufgrund eines Brandes - Plankstadt und Eppelheim"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
