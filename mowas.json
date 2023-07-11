@@ -92,5 +92,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230711-50-002",
+    "version": 5,
+    "startDate": "2023-07-12T00:45:30+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Extreme Unwetterlage: umgestürzte Bäume im gesamten Landkreis - Gesamter Landkreis Sigmaringen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-064"
+    }
   }
 ]
