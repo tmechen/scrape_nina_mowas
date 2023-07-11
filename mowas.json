@@ -66,19 +66,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20230711-000",
-    "version": 5,
-    "startDate": "2023-07-11T02:39:31+02:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Freisetzung einer Rauchwolke durch Brand - Oberderdingen und östlicher Landkreis Karlsruhe"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-GL-SE063-20230711-63-000",
     "version": 5,
     "startDate": "2023-07-11T03:29:56+02:00",
@@ -128,6 +115,19 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Rauch- und Geruchsbelästigung aufgrund eines Brandes - Plankstadt und Eppelheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20230711-001",
+    "version": 5,
+    "startDate": "2023-07-11T05:48:19+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Freisetzung einer Rauchwolke durch Brand - Oberderdingen, nördlicher und östlicher Landkreis Karlsruhe"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
