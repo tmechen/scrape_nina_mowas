@@ -52,32 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GL-SE063-20230710-63-000",
-    "version": 5,
-    "startDate": "2023-07-10T22:19:35+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase im Stadtgebiet Overath - Stadt Overath, Teile von Rösrath"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NW-SU-SE057-20230710-57-000",
-    "version": 5,
-    "startDate": "2023-07-11T00:03:02+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand (Ausbreitung Brandrauch) - Lohmar, Much, Neunkirchen-Seelscheid"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20230710-105-001",
     "version": 5,
     "startDate": "2023-07-11T01:21:33+02:00",
@@ -92,13 +66,41 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20230710-001",
+    "id": "mow.DE-BW-KA-W138-20230711-000",
     "version": 5,
-    "startDate": "2023-07-11T01:34:00+02:00",
+    "startDate": "2023-07-11T02:39:31+02:00",
     "severity": "Minor",
     "type": "Update",
     "i18nTitle": {
-      "de": "Freisetzung einer Rauchwolke durch Brand - Oberderdingen und Kraichtal"
+      "de": "Freisetzung einer Rauchwolke durch Brand - Oberderdingen und östlicher Landkreis Karlsruhe"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-GL-SE063-20230711-63-000",
+    "version": 5,
+    "startDate": "2023-07-11T03:29:56+02:00",
+    "expiresDate": "2023-07-11T09:29:56+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase im Stadtgebiet Overath - Stadt Overath, Teile von Rösrath"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SU-SE057-20230711-57-000",
+    "version": 5,
+    "startDate": "2023-07-11T03:31:05+02:00",
+    "expiresDate": "2023-07-11T09:31:05+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand (Ausbreitung Brandrauch) - Lohmar, Much, Neunkirchen-Seelscheid"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
