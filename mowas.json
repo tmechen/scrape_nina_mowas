@@ -81,19 +81,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20230711-106-002",
-    "version": 5,
-    "startDate": "2023-07-11T17:53:36+02:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand (Weiterstadt) – halten sie vorsorglich Fenster und Türen geschlossen  - Weiterstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-HE-WI-W097-20230711-001",
     "version": 5,
     "startDate": "2023-07-11T19:05:38+02:00",
@@ -105,6 +92,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20230711-106-003",
+    "version": 5,
+    "startDate": "2023-07-11T19:58:30+02:00",
+    "expiresDate": "2023-07-12T01:58:30+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand (Weiterstadt) – halten sie vorsorglich Fenster und Türen geschlo - Weiterstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
