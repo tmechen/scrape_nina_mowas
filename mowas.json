@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230711-50-001",
-    "version": 5,
-    "startDate": "2023-07-11T16:12:06+02:00",
-    "expiresDate": "2023-07-11T22:12:06+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand Robert-Bosch-Ring - Oberderdingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20230711-106-001",
     "version": 5,
     "startDate": "2023-07-11T16:38:13+02:00",
@@ -105,6 +91,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20230711-84-000",
+    "version": 5,
+    "startDate": "2023-07-11T22:22:39+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vorabinformation vor schwerem Gewitter - Landkreis Landshut"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-031"
     }
   }
 ]
