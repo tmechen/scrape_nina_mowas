@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20230711-106-001",
-    "version": 5,
-    "startDate": "2023-07-11T16:38:13+02:00",
-    "expiresDate": "2023-07-11T22:38:13+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Bad Schwalbach - Lindschied"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-WI-W097-20230711-001",
     "version": 5,
     "startDate": "2023-07-11T19:05:38+02:00",
