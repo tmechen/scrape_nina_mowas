@@ -105,5 +105,18 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-ST-SK-W070-20230712-001",
+    "version": 5,
+    "startDate": "2023-07-12T17:00:57+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brandereignis - Gemeinde Schkopau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
