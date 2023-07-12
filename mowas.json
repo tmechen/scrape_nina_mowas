@@ -52,20 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-SK-W070-20230712-002",
-    "version": 5,
-    "startDate": "2023-07-12T17:38:16+02:00",
-    "expiresDate": "2023-07-12T23:38:16+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brandereignis - Gemeinde Schkopau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20230712-001",
     "version": 5,
     "startDate": "2023-07-12T20:07:30+02:00",
