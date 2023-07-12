@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20230711-106-003",
-    "version": 5,
-    "startDate": "2023-07-11T19:58:30+02:00",
-    "expiresDate": "2023-07-12T01:58:30+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand (Weiterstadt) – halten sie vorsorglich Fenster und Türen geschlo - Weiterstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20230711-84-000",
     "version": 5,
     "startDate": "2023-07-11T22:22:39+02:00",
@@ -90,6 +76,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-064"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20230712-000",
+    "version": 5,
+    "startDate": "2023-07-12T02:25:24+02:00",
+    "severity": "Extreme",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Beeinträchtigung des Notrufs 112 und 110 wegen Stromausfall  - Landkreis Pfaffenhofen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
     }
   }
 ]
