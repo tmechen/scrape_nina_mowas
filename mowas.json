@@ -78,13 +78,27 @@
     }
   },
   {
-    "id": "mow.DE-HE-SWA-W096-20230713-000",
+    "id": "mow.DE-BY-CO-W141-20230713-000",
     "version": 5,
-    "startDate": "2023-07-13T13:39:18+02:00",
+    "startDate": "2023-07-13T14:05:28+02:00",
     "severity": "Minor",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Geminden Hohenstein - Bad Schwlbach- Heidenrod"
+      "de": "Rauchgase / Rauchsäule in [Ortsangabe] - Schwürbitz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-SWA-W096-20230713-001",
+    "version": 5,
+    "startDate": "2023-07-13T14:13:42+02:00",
+    "expiresDate": "2023-07-13T20:13:42+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Geminden Hohenstein - Bad Schwlbach- Heidenrod"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
