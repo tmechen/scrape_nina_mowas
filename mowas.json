@@ -39,34 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230713-50-000",
-    "version": 5,
-    "startDate": "2023-07-13T16:53:03+02:00",
-    "expiresDate": "2023-07-13T22:53:03+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Extreme Unwetterlage: umgestürzte Bäume im gesamten Landkreis - Gesamter Landkreis Sigmaringen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-064"
-    }
-  },
-  {
-    "id": "mow.DE-BY-CO-W141-20230713-001",
-    "version": 5,
-    "startDate": "2023-07-13T16:55:18+02:00",
-    "expiresDate": "2023-07-13T22:55:18+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase / Rauchsäule in [Ortsangabe] - Schwürbitz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-DA-W184-20230713-001",
     "version": 5,
     "startDate": "2023-07-13T18:02:29+02:00",
