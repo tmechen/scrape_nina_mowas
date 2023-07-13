@@ -53,19 +53,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-L-W093-20230713-000",
-    "version": 5,
-    "startDate": "2023-07-13T15:05:25+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand in der Stadt Leipzig - Leipzig"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20230713-33-000",
     "version": 5,
     "startDate": "2023-07-13T16:03:27+02:00",
@@ -160,6 +147,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SN-L-W093-20230713-001",
+    "version": 5,
+    "startDate": "2023-07-13T19:18:56+02:00",
+    "expiresDate": "2023-07-14T01:18:56+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand in der Stadt Leipzig - Leipzig"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
