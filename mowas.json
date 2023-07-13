@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-SWA-W096-20230713-001",
-    "version": 5,
-    "startDate": "2023-07-13T14:13:42+02:00",
-    "expiresDate": "2023-07-13T20:13:42+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Geminden Hohenstein - Bad Schwlbach- Heidenrod"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20230713-33-000",
     "version": 5,
     "startDate": "2023-07-13T16:03:27+02:00",
