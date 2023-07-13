@@ -148,5 +148,18 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20230713-4-000",
+    "version": 5,
+    "startDate": "2023-07-13T18:51:46+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Brandereignis - Trier Kürenz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
