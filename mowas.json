@@ -134,13 +134,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-DA-W184-20230713-000",
+    "id": "mow.DE-HE-DA-W184-20230713-001",
     "version": 5,
-    "startDate": "2023-07-13T17:45:10+02:00",
+    "startDate": "2023-07-13T18:02:29+02:00",
+    "expiresDate": "2023-07-14T00:02:29+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Technische Arbeiten an einer Sirene - Darmstadt"
+      "de": "Entwarnung: Technische Arbeiten an einer Sirene - Darmstadt"
     },
     "transKeys": {
       "event": "BBK-EVC-060"
