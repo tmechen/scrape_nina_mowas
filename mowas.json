@@ -26,19 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-SE016-20230713-16-000",
-    "version": 5,
-    "startDate": "2023-07-13T09:32:32+02:00",
-    "severity": "Severe",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Entschärfung einer Weltkriegsbombe in Marzahn - Berlin-Marzahn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-BY-LA-W144-20230713-000",
     "version": 5,
     "startDate": "2023-07-13T12:41:33+02:00",
@@ -143,6 +130,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: 1.2 Bombenfund Warnung  - Recklinghausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-BR-B-SE016-20230713-16-001",
+    "version": 5,
+    "startDate": "2023-07-13T18:42:50+02:00",
+    "expiresDate": "2023-07-14T00:42:50+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Die Weltkriegsbombe in Marzahn ist entschärft - Berlin-Marzahn"
     },
     "transKeys": {
       "event": "BBK-EVC-009"
