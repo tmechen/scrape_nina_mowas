@@ -149,5 +149,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BB-BRB-SE081-20230713-81-000",
+    "version": 5,
+    "startDate": "2023-07-13T21:41:44+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand einer Lagerhalle, Rauchentwicklung/Geruchsbelästigung - Ludwigsfelde und Umgebung"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
