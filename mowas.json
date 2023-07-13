@@ -13,19 +13,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20230417-33-000",
-    "version": 5,
-    "startDate": "2023-04-17T19:56:45+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor Kontakt mit Wasser der Bille - Hamburg, Rothenburgsort, Bille bis Mündung in die Elbe"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230711-50-002",
     "version": 5,
     "startDate": "2023-07-12T00:45:30+02:00",
@@ -128,6 +115,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20230713-33-000",
+    "version": 5,
+    "startDate": "2023-07-13T16:03:27+02:00",
+    "expiresDate": "2023-07-13T22:03:27+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor Kontakt mit Wasser der Bille - Hamburg, Rothenburgsort, Bille bis Mündung in die Elbe"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
