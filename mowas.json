@@ -63,5 +63,18 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-BY-LA-W144-20230713-000",
+    "version": 5,
+    "startDate": "2023-07-13T12:41:33+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bakterielle Verkeimung im Trinkwasser in einzelnen Ortsteilen von Neustadt a.d. Do - Neustadt a.d. Donau - Ortsteile Arresting, Hienheim, Irnsing und Marching"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
