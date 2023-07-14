@@ -65,5 +65,31 @@
     "transKeys": {
       "event": "BBK-EVC-027"
     }
+  },
+  {
+    "id": "mow.DE-BW-LB-W026-20230714-000",
+    "version": 5,
+    "startDate": "2023-07-14T16:59:18+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abkochgebot Trinkwasser in Mundelsheim - Mundelsheim gesamtes Ortsgebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230714-125-000",
+    "version": 5,
+    "startDate": "2023-07-14T17:02:07+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brennende LKW-Ladung  - A 61 Höhe Bornheim, LK AZ Worms"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
