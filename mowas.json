@@ -40,11 +40,37 @@
     }
   },
   {
-    "id": "mow.DE-HE-FB-W193-20230714-001",
+    "id": "mow.DE-NW-SO-SE089-20230714-89-000",
     "version": 5,
-    "startDate": "2023-07-14T15:01:54+02:00",
+    "startDate": "2023-07-14T15:02:38+02:00",
     "severity": "Minor",
     "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung  - Geseke"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-MV-LRO-W007-20230714-000",
+    "version": 5,
+    "startDate": "2023-07-14T15:04:55+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gasaustritt, Türen und Fenster geschlossen halten im Bereich Heuweg und Uferstraße - Graal-Müritz Campingplatz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-HE-FB-W193-20230714-002",
+    "version": 5,
+    "startDate": "2023-07-14T15:08:50+02:00",
+    "severity": "Minor",
+    "type": "Update",
     "i18nTitle": {
       "de": "Explosionsgefahr Stadtwald Butzbach - Stadtwald Butzbach"
     },
