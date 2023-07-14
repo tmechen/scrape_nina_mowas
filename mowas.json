@@ -80,19 +80,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230714-125-000",
-    "version": 5,
-    "startDate": "2023-07-14T17:02:07+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brennende LKW-Ladung  - A 61 Höhe Bornheim, LK AZ Worms"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-HD-W086-20230714-001",
     "version": 5,
     "startDate": "2023-07-14T18:20:17+02:00",
@@ -104,6 +91,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230714-125-001",
+    "version": 5,
+    "startDate": "2023-07-14T19:34:08+02:00",
+    "expiresDate": "2023-07-15T01:34:08+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brennende LKW-Ladung  - A 61 Höhe Bornheim, LK AZ Worms"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
