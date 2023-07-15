@@ -106,13 +106,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-DN-SE054-20230715-54-000",
+    "id": "mow.DE-NW-DN-SE054-20230715-54-001",
     "version": 5,
-    "startDate": "2023-07-15T19:05:02+02:00",
+    "startDate": "2023-07-15T19:18:48+02:00",
+    "expiresDate": "2023-07-16T01:18:48+02:00",
     "severity": "Extreme",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung in Gürzenich und Derichsweiler - Gürzenich und Derichsweiler"
+      "de": "Entwarnung: Geruchsbelästigung in Gürzenich und Derichsweiler - Gürzenich und Derichsweiler"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
