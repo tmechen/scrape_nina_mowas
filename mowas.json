@@ -52,20 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-HIG-W111-20230715-001",
-    "version": 5,
-    "startDate": "2023-07-15T12:07:22+02:00",
-    "expiresDate": "2023-07-15T18:07:22+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenen-Funktionsprobe VG „Eichsfeld-Wipperaue“, Am Ohmberg und Sonnen - „Eichsfeld-Wipperaue“, Am Ohmberg und Sonnenstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-SN-HY-SE048-20230715-122-001",
     "version": 5,
     "startDate": "2023-07-15T14:19:44+02:00",
