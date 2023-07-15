@@ -66,19 +66,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20230715-84-000",
-    "version": 5,
-    "startDate": "2023-07-15T18:47:29+02:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand- und Rauchentwicklung - Wiesau Stadtgebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-DN-SE054-20230715-54-001",
     "version": 5,
     "startDate": "2023-07-15T19:18:48+02:00",
@@ -104,6 +91,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20230715-84-001",
+    "version": 5,
+    "startDate": "2023-07-15T20:51:27+02:00",
+    "expiresDate": "2023-07-16T02:51:27+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand- und Rauchentwicklung - Wiesau Stadtgebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
