@@ -91,5 +91,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-EU-SE091-20230715-109-000",
+    "version": 5,
+    "startDate": "2023-07-15T15:46:16+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall in Teilen von der Stadt Mechernich und Stadt Bad Münstereifel - Stadt Mechernich und Stadt Bad Münstereifel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
