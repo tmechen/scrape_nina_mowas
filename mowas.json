@@ -52,20 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20230715-105-001",
-    "version": 5,
-    "startDate": "2023-07-15T16:48:55+02:00",
-    "expiresDate": "2023-07-15T22:48:55+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Niendorf / Ostsee"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-DN-SE054-20230715-54-001",
     "version": 5,
     "startDate": "2023-07-15T19:18:48+02:00",
