@@ -94,13 +94,14 @@
     }
   },
   {
-    "id": "mow.DE-TH-UH-W116-20230715-000",
+    "id": "mow.DE-TH-UH-W116-20230715-001",
     "version": 5,
-    "startDate": "2023-07-15T22:06:43+02:00",
+    "startDate": "2023-07-15T23:23:48+02:00",
+    "expiresDate": "2023-07-16T05:23:48+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung in Ortslage - Oberdorla"
+      "de": "Entwarnung: Starke Rauchentwicklung in Ortslage - Oberdorla"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
