@@ -78,5 +78,18 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-TH-HIG-W111-20230715-000",
+    "version": 5,
+    "startDate": "2023-07-15T11:43:11+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenen-Funktionsprobe VG „Eichsfeld-Wipperaue“, Am Ohmberg und Sonnenstein - „Eichsfeld-Wipperaue“, Am Ohmberg und Sonnenstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
