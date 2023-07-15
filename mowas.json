@@ -91,5 +91,31 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20230715-84-000",
+    "version": 5,
+    "startDate": "2023-07-15T18:47:29+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand- und Rauchentwicklung - Wiesau Stadtgebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20230715-54-000",
+    "version": 5,
+    "startDate": "2023-07-15T19:05:02+02:00",
+    "severity": "Extreme",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in Gürzenich und Derichsweiler - Gürzenich und Derichsweiler"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
