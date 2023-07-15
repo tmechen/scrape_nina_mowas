@@ -77,5 +77,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20230715-001",
+    "version": 5,
+    "startDate": "2023-07-15T05:09:17+02:00",
+    "severity": "Severe",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Großbrand im Stadtgebiet Günzburg - Stadtgebiet Günzburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
