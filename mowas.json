@@ -80,13 +80,14 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20230715-122-000",
+    "id": "mow.DE-SN-HY-SE048-20230715-122-001",
     "version": 5,
-    "startDate": "2023-07-15T12:13:37+02:00",
+    "startDate": "2023-07-15T14:19:44+02:00",
+    "expiresDate": "2023-07-15T20:19:44+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Feldbrand - Seehausen und Podelwitz"
+      "de": "Entwarnung: Rauchentwicklung durch Feldbrand - Seehausen und Podelwitz"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
