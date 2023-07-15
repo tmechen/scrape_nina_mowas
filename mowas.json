@@ -52,19 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20230715-001",
-    "version": 5,
-    "startDate": "2023-07-15T05:09:17+02:00",
-    "severity": "Severe",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Großbrand im Stadtgebiet Günzburg - Stadtgebiet Günzburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SH-FL-SE100-20230715-100-001",
     "version": 5,
     "startDate": "2023-07-15T06:22:37+02:00",
@@ -76,6 +63,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20230715-002",
+    "version": 5,
+    "startDate": "2023-07-15T08:57:52+02:00",
+    "expiresDate": "2023-07-15T14:57:52+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand im Stadtgebiet Günzburg - Stadtgebiet Günzburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
