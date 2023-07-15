@@ -92,5 +92,18 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20230715-105-000",
+    "version": 5,
+    "startDate": "2023-07-15T14:35:24+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Niendorf / Ostsee"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
