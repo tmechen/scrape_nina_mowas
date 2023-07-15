@@ -52,13 +52,14 @@
     }
   },
   {
-    "id": "mow.DE-RP-KH-SE111-20230714-114-000",
+    "id": "mow.DE-RP-KH-SE111-20230714-114-001",
     "version": 5,
-    "startDate": "2023-07-14T23:52:18+02:00",
+    "startDate": "2023-07-15T01:59:16+02:00",
+    "expiresDate": "2023-07-15T07:59:16+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung und Geruchsbelästigung durch Vegetationsbrand/Unrat - Simmern, Ortsteil Schmiedel, im Bereich Bikepark"
+      "de": "Entwarnung: Rauchentwicklung und Geruchsbelästigung durch Vegetationsbrand/Unrat - Simmern, Ortsteil Schmiedel, im Bereich Bikepark"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
