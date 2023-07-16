@@ -52,13 +52,14 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20230716-28-000",
+    "id": "mow.DE-SH-EH-SE028-20230716-28-001",
     "version": 5,
-    "startDate": "2023-07-16T15:35:54+02:00",
+    "startDate": "2023-07-16T16:17:30+02:00",
+    "expiresDate": "2023-07-16T22:17:30+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gefahreninformation Feuerwehreinsatz - Nettelsee"
+      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Nettelsee"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
