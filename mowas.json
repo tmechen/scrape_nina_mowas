@@ -64,5 +64,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-TH-UH-W116-20230716-001",
+    "version": 5,
+    "startDate": "2023-07-16T21:44:14+02:00",
+    "expiresDate": "2023-07-17T03:44:14+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: starke Rauchentwicklung Bad Langensalza - Bad Langensalza"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
