@@ -103,5 +103,18 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20230717-4-000",
+    "version": 5,
+    "startDate": "2023-07-17T17:38:00+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand von Strohballen - Salmtal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
