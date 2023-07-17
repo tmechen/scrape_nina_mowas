@@ -64,5 +64,18 @@
     "transKeys": {
       "event": "BBK-EVC-029"
     }
+  },
+  {
+    "id": "mow.DE-TH-EF-W108-20230717-000",
+    "version": 5,
+    "startDate": "2023-07-17T13:31:46+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand in Erfurt, Ortsteil Erfurt-Schwerborn/ Bereich Deponie - Stadt Erfurt, Ortsteil Schwerborn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
