@@ -78,19 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20230717-33-000",
-    "version": 5,
-    "startDate": "2023-07-17T17:24:16+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "225 kg-Bombe gefunden - Hamburg- Sternschanze"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-SE004-20230717-4-001",
     "version": 5,
     "startDate": "2023-07-17T20:34:29+02:00",
@@ -116,6 +103,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20230717-33-001",
+    "version": 5,
+    "startDate": "2023-07-17T21:09:01+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "225 kg-Bombe gefunden - Hamburg- Sternschanze"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
