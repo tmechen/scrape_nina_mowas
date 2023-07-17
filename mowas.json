@@ -50,5 +50,18 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20230717-106-000",
+    "version": 5,
+    "startDate": "2023-07-17T11:14:28+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahrgutaustritt - Niedernhausen-Königshofen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-029"
+    }
   }
 ]
