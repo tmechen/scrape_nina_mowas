@@ -52,13 +52,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20230717-106-000",
+    "id": "mow.DE-HE-KS-SE106-20230717-106-001",
     "version": 5,
-    "startDate": "2023-07-17T11:14:28+02:00",
+    "startDate": "2023-07-17T13:14:16+02:00",
+    "expiresDate": "2023-07-17T19:14:16+02:00",
     "severity": "Severe",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gefahrgutaustritt - Niedernhausen-Königshofen"
+      "de": "Entwarnung: Gefahrgutaustritt - Niedernhausen-Königshofen"
     },
     "transKeys": {
       "event": "BBK-EVC-029"
