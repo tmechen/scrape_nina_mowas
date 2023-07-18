@@ -119,19 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-BRB-SE081-20230718-81-000",
-    "version": 5,
-    "startDate": "2023-07-18T15:36:55+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in/im [Kreis/Stadtteil] - Gewerbe Gebiet Brück"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-HER-SE083-20230718-83-001",
     "version": 5,
     "startDate": "2023-07-18T15:42:50+02:00",
@@ -142,6 +129,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BB-BRB-SE081-20230718-81-001",
+    "version": 5,
+    "startDate": "2023-07-18T16:57:29+02:00",
+    "expiresDate": "2023-07-18T22:57:29+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung in/im [Kreis/Stadtteil] - Gewerbe Gebiet Brück"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
