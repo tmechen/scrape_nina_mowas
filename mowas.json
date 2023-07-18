@@ -79,19 +79,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-HIG-W111-20230718-001",
-    "version": 5,
-    "startDate": "2023-07-18T14:11:37+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gasaustritt - Dingelstädt/Eichsfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-SN-HY-SE048-20230718-122-001",
     "version": 5,
     "startDate": "2023-07-18T14:52:23+02:00",
@@ -143,6 +130,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-TH-HIG-W111-20230718-002",
+    "version": 5,
+    "startDate": "2023-07-18T17:54:39+02:00",
+    "expiresDate": "2023-07-18T23:54:39+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gasaustritt - Dingelstädt/Eichsfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
     }
   }
 ]
