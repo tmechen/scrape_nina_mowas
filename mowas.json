@@ -79,19 +79,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20230718-35-000",
-    "version": 5,
-    "startDate": "2023-07-18T15:25:18+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Brandereignis - Wadern-Krettnich"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BB-BRB-SE081-20230718-81-001",
     "version": 5,
     "startDate": "2023-07-18T16:57:29+02:00",
@@ -145,6 +132,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-047"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20230718-35-001",
+    "version": 5,
+    "startDate": "2023-07-18T20:27:34+02:00",
+    "expiresDate": "2023-07-19T02:27:34+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Brandereignis - Wadern-Krettnich"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
