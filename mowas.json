@@ -63,19 +63,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-HH-HH-SE033-20230718-33-000",
-    "version": 5,
-    "startDate": "2023-07-18T04:33:40+02:00",
-    "expiresDate": "2023-07-18T10:33:40+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 225 kg-Bombe erfolgreich entschärft - Hamburg- Sternschanze"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
   }
 ]
