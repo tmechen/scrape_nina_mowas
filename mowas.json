@@ -146,5 +146,18 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20230718-000",
+    "version": 5,
+    "startDate": "2023-07-18T19:25:00+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "starke rauchentwicklung feldbrand - daßlitz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-047"
+    }
   }
 ]
