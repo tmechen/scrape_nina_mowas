@@ -65,20 +65,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-SK-W070-20230719-002",
-    "version": 5,
-    "startDate": "2023-07-19T17:28:21+02:00",
-    "expiresDate": "2023-07-19T23:28:21+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Feldbrand - Bereich Bad Dürrenberg/Tollwitz sowie BAB 9"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230719-50-001",
     "version": 5,
     "startDate": "2023-07-19T18:41:02+02:00",
