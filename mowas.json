@@ -76,5 +76,18 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-BR-B-SE017-20230719-17-000",
+    "version": 5,
+    "startDate": "2023-07-20T01:41:43+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor einem frei laufenden gefährlichen Wildtier. - Berlin-Nikolassee"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
