@@ -91,46 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20230720-003",
-    "version": 5,
-    "startDate": "2023-07-20T07:45:08+02:00",
-    "expiresDate": "2023-07-20T13:45:08+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Egerer - Chieming"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20230720-84-000",
-    "version": 5,
-    "startDate": "2023-07-20T10:36:10+02:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung - Stadt Cham"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20230720-84-001",
-    "version": 5,
-    "startDate": "2023-07-20T11:10:34+02:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung - Thalmassing"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-M-SE010-20230720-10-002",
     "version": 5,
     "startDate": "2023-07-20T11:16:45+02:00",
@@ -142,6 +102,47 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20230720-84-002",
+    "version": 5,
+    "startDate": "2023-07-20T14:02:56+02:00",
+    "expiresDate": "2023-07-20T20:02:56+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung - Stadt Cham"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20230720-19-000",
+    "version": 5,
+    "startDate": "2023-07-20T14:10:56+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch einen Dachstuhlbrand - Bremerhaven Stadtteile Geestemünde/Wulsdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20230720-84-003",
+    "version": 5,
+    "startDate": "2023-07-20T14:30:30+02:00",
+    "expiresDate": "2023-07-20T20:30:30+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung - Thalmassing"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
