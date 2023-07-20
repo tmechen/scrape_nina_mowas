@@ -78,20 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20230720-84-002",
-    "version": 5,
-    "startDate": "2023-07-20T14:02:56+02:00",
-    "expiresDate": "2023-07-20T20:02:56+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung - Stadt Cham"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20230720-84-003",
     "version": 5,
     "startDate": "2023-07-20T14:30:30+02:00",
