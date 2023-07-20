@@ -105,19 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-M-SE010-20230720-10-001",
-    "version": 5,
-    "startDate": "2023-07-20T07:48:35+02:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Chieming"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20230720-84-000",
     "version": 5,
     "startDate": "2023-07-20T10:36:10+02:00",
@@ -141,6 +128,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-M-SE010-20230720-10-002",
+    "version": 5,
+    "startDate": "2023-07-20T11:16:45+02:00",
+    "expiresDate": "2023-07-20T17:16:45+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Chieming"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
