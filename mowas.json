@@ -119,19 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20230720-19-000",
-    "version": 5,
-    "startDate": "2023-07-20T14:10:56+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch einen Dachstuhlbrand - Bremerhaven Stadtteile Geestemünde/Wulsdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20230720-84-003",
     "version": 5,
     "startDate": "2023-07-20T14:30:30+02:00",
@@ -143,6 +130,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20230720-19-001",
+    "version": 5,
+    "startDate": "2023-07-20T15:37:50+02:00",
+    "expiresDate": "2023-07-20T21:37:50+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch einen Dachstuhlbrand - Bremerhaven Stadtteile Geestemünde/Wulsdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
