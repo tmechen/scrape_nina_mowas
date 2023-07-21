@@ -184,19 +184,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20230721-100-000",
-    "version": 5,
-    "startDate": "2023-07-21T16:48:57+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Husum, Am Hasselberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-EU-SE091-20230721-109-000",
     "version": 5,
     "startDate": "2023-07-21T17:22:05+02:00",
@@ -204,6 +191,20 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Großbrand in Zülpich - Zülpich"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20230721-100-001",
+    "version": 5,
+    "startDate": "2023-07-21T17:31:20+02:00",
+    "expiresDate": "2023-07-21T23:31:20+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung - Husum, Am Hasselberg"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
