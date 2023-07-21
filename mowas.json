@@ -78,19 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE049-20230721-49-000",
-    "version": 5,
-    "startDate": "2023-07-21T12:09:26+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brand - Schwerin"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-TBB-W028-20230721-001",
     "version": 5,
     "startDate": "2023-07-21T12:39:32+02:00",
@@ -208,6 +195,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE049-20230721-49-001",
+    "version": 5,
+    "startDate": "2023-07-21T18:29:14+02:00",
+    "expiresDate": "2023-07-22T00:29:14+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brand - Schwerin"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
