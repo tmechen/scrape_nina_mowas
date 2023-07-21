@@ -78,19 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HX-SE092-20230720-92-000",
-    "version": 5,
-    "startDate": "2023-07-20T21:58:48+02:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung  - Deutschland"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-RS-SE072-20230720-72-001",
     "version": 5,
     "startDate": "2023-07-20T22:30:39+02:00",
@@ -115,6 +102,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HX-SE092-20230721-92-000",
+    "version": 5,
+    "startDate": "2023-07-21T03:06:08+02:00",
+    "expiresDate": "2023-07-21T09:06:08+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung  - Deutschland"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
