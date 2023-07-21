@@ -104,20 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE049-20230721-49-001",
-    "version": 5,
-    "startDate": "2023-07-21T18:29:14+02:00",
-    "expiresDate": "2023-07-22T00:29:14+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brand - Schwerin"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-SU-SE057-20230721-57-000",
     "version": 5,
     "startDate": "2023-07-21T19:00:01+02:00",
