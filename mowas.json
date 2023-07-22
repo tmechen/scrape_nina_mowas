@@ -117,20 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20230722-35-001",
-    "version": 5,
-    "startDate": "2023-07-22T16:49:53+02:00",
-    "expiresDate": "2023-07-22T22:49:53+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brand - Saarbrücken-Malstatt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230722-50-002",
     "version": 5,
     "startDate": "2023-07-22T21:48:32+02:00",
