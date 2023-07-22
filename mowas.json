@@ -115,5 +115,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20230722-001",
+    "version": 5,
+    "startDate": "2023-07-22T12:11:14+02:00",
+    "expiresDate": "2023-07-22T18:11:14+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenentest im Stadtgebiet - Oberursel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
