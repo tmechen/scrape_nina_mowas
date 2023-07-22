@@ -105,19 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20230722-35-000",
-    "version": 5,
-    "startDate": "2023-07-22T14:23:04+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Brand - Saarbrücken-Malstatt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-SU-SE057-20230722-57-000",
     "version": 5,
     "startDate": "2023-07-22T14:58:32+02:00",
@@ -141,6 +128,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20230722-35-001",
+    "version": 5,
+    "startDate": "2023-07-22T16:49:53+02:00",
+    "expiresDate": "2023-07-22T22:49:53+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Brand - Saarbrücken-Malstatt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
