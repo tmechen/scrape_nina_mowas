@@ -117,32 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230722-50-002",
-    "version": 5,
-    "startDate": "2023-07-22T21:48:32+02:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Brand einer Lagerhalle in Lauffen am Neckar - Lauffen am Neckar, Untergruppenbach, Talheim, Flein, Heilbronn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NW-OB-SE055-20230722-55-000",
-    "version": 5,
-    "startDate": "2023-07-22T23:40:20+02:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall der Stromversorgung  in Oberhausen - Stadtmitte - Oberhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230722-50-004",
     "version": 5,
     "startDate": "2023-07-22T23:42:23+02:00",
@@ -154,6 +128,47 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20230722-56-000",
+    "version": 5,
+    "startDate": "2023-07-23T00:39:45+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in Oberbruch - Oberbruch"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230722-50-005",
+    "version": 5,
+    "startDate": "2023-07-23T00:45:18+02:00",
+    "expiresDate": "2023-07-23T06:45:18+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand einer Lagerhalle in Lauffen am Neckar - Lauffen am Neckar, Untergruppenbach, Talheim, Flein, Heilbronn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-OB-SE055-20230722-55-001",
+    "version": 5,
+    "startDate": "2023-07-23T00:45:57+02:00",
+    "expiresDate": "2023-07-23T06:45:57+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall der Stromversorgung  in Oberhausen - Stadtmitte - Oberhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
