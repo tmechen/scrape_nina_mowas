@@ -130,13 +130,27 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230722-50-003",
+    "id": "mow.DE-NW-OB-SE055-20230722-55-000",
     "version": 5,
-    "startDate": "2023-07-22T21:57:54+02:00",
-    "severity": "Minor",
+    "startDate": "2023-07-22T23:40:20+02:00",
+    "severity": "Severe",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Brand einer Lagerhalle in Lauffen am Neckar - Bretzfeld, Öhringen, Neuenstein, Pfedelbach, Waldenburg, Zweiflingen, Kupfe"
+      "de": "Ausfall der Stromversorgung  in Oberhausen - Stadtmitte - Oberhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230722-50-004",
+    "version": 5,
+    "startDate": "2023-07-22T23:42:23+02:00",
+    "expiresDate": "2023-07-23T05:42:23+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand einer Lagerhalle in Lauffen am Neckar - Bretzfeld, Öhringen, Neuenstein, Pfedelbach, Waldenburg, Zweiflingen, Kupfe"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
