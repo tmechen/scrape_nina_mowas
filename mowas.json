@@ -104,20 +104,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20230723-56-000",
-    "version": 5,
-    "startDate": "2023-07-23T04:56:02+02:00",
-    "expiresDate": "2023-07-23T10:56:02+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Oberbruch - Oberbruch"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20230723-35-000",
     "version": 5,
     "startDate": "2023-07-23T07:46:10+02:00",
