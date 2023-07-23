@@ -78,19 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20230722-57-000",
-    "version": 5,
-    "startDate": "2023-07-22T14:58:32+02:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Großbrand in Zülpich - Swisttal, Rheinbach, Meckenheim, Wachtberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-EU-SE091-20230722-109-002",
     "version": 5,
     "startDate": "2023-07-22T15:17:54+02:00",
@@ -104,19 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20230723-29-000",
-    "version": 5,
-    "startDate": "2023-07-23T07:59:05+02:00",
-    "severity": "Severe",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bombenentschärfung - Stadtteile Gartlage, Schinkel, Sonnenhügel, Widukindland - Osnabrück Stadtteile Gartlage, Schinkel, Sonnenhügel, Widukindland"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20230723-35-001",
     "version": 5,
     "startDate": "2023-07-23T14:23:33+02:00",
@@ -125,6 +99,34 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Bombenentschärfung HEUTE erfolgreich - Saarbrücken Malstatt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SU-SE057-20230723-57-000",
+    "version": 5,
+    "startDate": "2023-07-23T14:30:20+02:00",
+    "expiresDate": "2023-07-23T20:30:20+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand in Zülpich - Swisttal, Rheinbach, Meckenheim, Wachtberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20230723-29-001",
+    "version": 5,
+    "startDate": "2023-07-23T14:47:08+02:00",
+    "expiresDate": "2023-07-23T20:47:08+02:00",
+    "severity": "Severe",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenentschärfung - Stadtteile Gartlage, Schinkel, Sonnenhügel, Widuk - Osnabrück Stadtteile Gartlage, Schinkel, Sonnenhügel, Widukindland"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
