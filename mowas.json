@@ -117,20 +117,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230722-50-004",
-    "version": 5,
-    "startDate": "2023-07-22T23:42:23+02:00",
-    "expiresDate": "2023-07-23T05:42:23+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand einer Lagerhalle in Lauffen am Neckar - Bretzfeld, Öhringen, Neuenstein, Pfedelbach, Waldenburg, Zweiflingen, Kupfe"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230722-50-005",
     "version": 5,
     "startDate": "2023-07-23T00:45:18+02:00",
