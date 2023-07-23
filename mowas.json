@@ -52,19 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20230721-35-000",
-    "version": 5,
-    "startDate": "2023-07-21T11:39:19+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bombenentschärfung am Sonntag - Saarbrücken Malstatt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BW-TBB-W028-20230721-001",
     "version": 5,
     "startDate": "2023-07-21T12:39:32+02:00",
@@ -128,6 +115,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20230723-35-000",
+    "version": 5,
+    "startDate": "2023-07-23T07:46:10+02:00",
+    "severity": "Severe",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Bombenentschärfung HEUTE - Saarbrücken Malstatt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
