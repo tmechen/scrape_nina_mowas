@@ -131,19 +131,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20230722-56-000",
-    "version": 5,
-    "startDate": "2023-07-23T00:39:45+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in Oberbruch - Oberbruch"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230722-50-005",
     "version": 5,
     "startDate": "2023-07-23T00:45:18+02:00",
@@ -169,6 +156,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20230723-56-000",
+    "version": 5,
+    "startDate": "2023-07-23T04:56:02+02:00",
+    "expiresDate": "2023-07-23T10:56:02+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung in Oberbruch - Oberbruch"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
