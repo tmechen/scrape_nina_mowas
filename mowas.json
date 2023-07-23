@@ -78,20 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20230723-29-001",
-    "version": 5,
-    "startDate": "2023-07-23T14:47:08+02:00",
-    "expiresDate": "2023-07-23T20:47:08+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenentschärfung - Stadtteile Gartlage, Schinkel, Sonnenhügel, Widuk - Osnabrück Stadtteile Gartlage, Schinkel, Sonnenhügel, Widukindland"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-ST-MSH-W058-20230723-001",
     "version": 5,
     "startDate": "2023-07-23T15:24:28+02:00",
