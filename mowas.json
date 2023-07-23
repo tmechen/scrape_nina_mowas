@@ -78,20 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20230723-001",
-    "version": 5,
-    "startDate": "2023-07-23T15:24:28+02:00",
-    "expiresDate": "2023-07-23T21:24:28+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in Lutherstadt Eisleben, Bereich Helbraer Straße - Lutherstadt Eisleben"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20230723-99-000",
     "version": 5,
     "startDate": "2023-07-23T16:00:32+02:00",
