@@ -76,19 +76,5 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029-20230724-29-001",
-    "version": 5,
-    "startDate": "2023-07-24T18:36:40+02:00",
-    "expiresDate": "2023-07-25T00:36:40+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung nach Brand - Stadtbereich Osterholz-Scharmbeck"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
