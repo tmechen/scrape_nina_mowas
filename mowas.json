@@ -90,5 +90,18 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-NW-EU-SE091-20230724-109-000",
+    "version": 5,
+    "startDate": "2023-07-24T13:32:02+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund Euskirchen - Euskirchen, Innenstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-059"
+    }
   }
 ]
