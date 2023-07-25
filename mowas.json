@@ -78,13 +78,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-AA-W035-20230725-001",
+    "id": "mow.DE-BW-AA-W035-20230725-002",
     "version": 5,
-    "startDate": "2023-07-25T04:49:00+02:00",
+    "startDate": "2023-07-25T06:36:13+02:00",
+    "expiresDate": "2023-07-25T12:36:13+02:00",
     "severity": "Minor",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand eines Betriebes - Hermaringen, Hohweiher"
+      "de": "Entwarnung: Brand eines Betriebes - Hermaringen, Hohweiher"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
