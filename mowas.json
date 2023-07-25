@@ -63,19 +63,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20230725-28-001",
-    "version": 5,
-    "startDate": "2023-07-25T18:18:34+02:00",
-    "expiresDate": "2023-07-26T00:18:34+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Meldorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
