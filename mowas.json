@@ -91,13 +91,14 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20230725-29-000",
+    "id": "mow.DE-NI-STD-SE029-20230725-29-001",
     "version": 5,
-    "startDate": "2023-07-25T16:53:42+02:00",
+    "startDate": "2023-07-25T17:31:53+02:00",
+    "expiresDate": "2023-07-25T23:31:53+02:00",
     "severity": "Severe",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Feuer - Aurich"
+      "de": "Entwarnung: Rauchentwicklung durch Feuer - Aurich"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
