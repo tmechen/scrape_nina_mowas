@@ -78,11 +78,11 @@
     }
   },
   {
-    "id": "mow.DE-BW-AA-W035-20230725-000",
+    "id": "mow.DE-BW-AA-W035-20230725-001",
     "version": 5,
-    "startDate": "2023-07-25T03:50:37+02:00",
+    "startDate": "2023-07-25T04:49:00+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Brand eines Betriebes - Hermaringen, Hohweiher"
     },
