@@ -52,19 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-GF-W216-20230721-000",
-    "version": 5,
-    "startDate": "2023-07-21T12:41:23+02:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Verunreinigung des Trinkwassers in Teilen des Landkreises Gifhorn mit E. Coli Keim - Landkreis Gifhorn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NW-EU-SE091-20230722-109-002",
     "version": 5,
     "startDate": "2023-07-22T15:17:54+02:00",
@@ -89,6 +76,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NI-GF-W216-20230725-000",
+    "version": 5,
+    "startDate": "2023-07-25T10:57:26+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Verunreinigung des Trinkwassers in Teilen des Landkreises Gifhorn mit E. Coli Keim - Landkreis Gifhorn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
