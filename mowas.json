@@ -53,13 +53,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20230727-000",
+    "id": "mow.DE-BW-KA-W138-20230727-001",
     "version": 5,
-    "startDate": "2023-07-27T22:19:36+02:00",
+    "startDate": "2023-07-27T23:26:17+02:00",
+    "expiresDate": "2023-07-28T05:26:17+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Brand - Ettlingen / Bruchhausen"
+      "de": "Entwarnung: Rauchentwicklung durch Brand - Ettlingen / Bruchhausen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
