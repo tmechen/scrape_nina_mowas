@@ -39,13 +39,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-ME-SE071-20230727-71-002",
+    "id": "mow.DE-NW-ME-SE071-20230727-71-003",
     "version": 5,
-    "startDate": "2023-07-27T08:40:34+02:00",
+    "startDate": "2023-07-27T14:46:29+02:00",
+    "expiresDate": "2023-07-27T20:46:29+02:00",
     "severity": "Minor",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung allgemein - Stadt Mettmann/Stadt Ratingen/Stadt Heiligenhaus"
+      "de": "Entwarnung: Geruchsbelästigung allgemein - Stadt Mettmann/Stadt Ratingen/Stadt Heiligenhaus"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
