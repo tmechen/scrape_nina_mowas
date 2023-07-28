@@ -50,5 +50,18 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20230728-19-000",
+    "version": 5,
+    "startDate": "2023-07-28T23:38:53+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuer in einem Industriegebäude - Bremen Hemelingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
