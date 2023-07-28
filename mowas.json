@@ -51,5 +51,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-EU-SE091-20230728-109-000",
+    "version": 5,
+    "startDate": "2023-07-28T14:51:00+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Wasserverunreinigung (Abkochgebot) Gemeinde Blankenheim - Gemeinde Blankenheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
