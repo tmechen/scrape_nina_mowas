@@ -39,20 +39,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-PB-SE093-20230728-93-002",
-    "version": 5,
-    "startDate": "2023-07-28T12:51:18+02:00",
-    "expiresDate": "2023-07-28T18:51:18+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brand im Industriegebiet Salzkotten - Salzkotten"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-EU-SE091-20230728-109-000",
     "version": 5,
     "startDate": "2023-07-28T14:51:00+02:00",
