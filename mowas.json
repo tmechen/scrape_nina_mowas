@@ -65,13 +65,14 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20230729-000",
+    "id": "mow.DE-BY-KRU-W174-20230729-001",
     "version": 5,
-    "startDate": "2023-07-29T10:46:12+02:00",
+    "startDate": "2023-07-29T12:19:18+02:00",
+    "expiresDate": "2023-07-29T18:19:18+02:00",
     "severity": "Minor",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenen-Probealarm \"Warnung der Bevölkerung\" im gesamten Landkreis Günzburg  - Landkreis Günzburg"
+      "de": "Entwarnung: Sirenen-Probealarm \"Warnung der Bevölkerung\" im gesamten Landkreis Gün - Landkreis Günzburg"
     },
     "transKeys": {
       "event": "BBK-EVC-050"
