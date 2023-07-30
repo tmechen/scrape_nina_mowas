@@ -63,5 +63,18 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20230730-12-001",
+    "version": 5,
+    "startDate": "2023-07-30T10:51:01+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Ausfall Telefonanlage der Polizeiinspektionen Erfurt Nord und Erfurt Süd - Thüringen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
+    }
   }
 ]
