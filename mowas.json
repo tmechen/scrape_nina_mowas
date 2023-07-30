@@ -76,5 +76,18 @@
     "transKeys": {
       "event": "BBK-EVC-006"
     }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20230730-100-000",
+    "version": 5,
+    "startDate": "2023-07-30T12:36:47+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung  - Husum, Neustadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
