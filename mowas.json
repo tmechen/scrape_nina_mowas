@@ -65,20 +65,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-RO-W136-20230729-001",
-    "version": 5,
-    "startDate": "2023-07-29T21:38:24+02:00",
-    "expiresDate": "2023-07-30T03:38:24+02:00",
-    "severity": "Severe",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Großbrand - Aschau im Chiemgau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-EN-SE069-20230729-69-001",
     "version": 5,
     "startDate": "2023-07-30T01:51:11+02:00",
