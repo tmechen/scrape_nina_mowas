@@ -65,20 +65,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20230730-100-001",
-    "version": 5,
-    "startDate": "2023-07-30T14:45:26+02:00",
-    "expiresDate": "2023-07-30T20:45:26+02:00",
-    "severity": "Minor",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung  - Husum, Neustadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20230730-12-002",
     "version": 5,
     "startDate": "2023-07-30T20:30:55+02:00",
