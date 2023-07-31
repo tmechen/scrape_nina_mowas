@@ -63,5 +63,18 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-NI-HM-W214-20230731-000",
+    "version": 5,
+    "startDate": "2023-07-31T09:41:13+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall - Stadt Hameln / Ortsteil Hilligsfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
