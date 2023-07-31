@@ -93,19 +93,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20230731-105-000",
-    "version": 5,
-    "startDate": "2023-07-31T14:40:45+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Brunstorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230731-50-002",
     "version": 5,
     "startDate": "2023-07-31T14:51:02+02:00",
@@ -116,6 +103,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20230731-105-001",
+    "version": 5,
+    "startDate": "2023-07-31T18:36:07+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Brunstorf und Schwarzenbek"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
