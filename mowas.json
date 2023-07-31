@@ -52,19 +52,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20230731-28-000",
-    "version": 5,
-    "startDate": "2023-07-31T07:58:08+02:00",
-    "severity": "Minor",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Störung der Frischwasserversorgung,  - Hartenholm"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230731-50-002",
     "version": 5,
     "startDate": "2023-07-31T14:51:02+02:00",
@@ -101,6 +88,19 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20230731-28-001",
+    "version": 5,
+    "startDate": "2023-07-31T20:49:50+02:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Störung der Frischwasserversorgung,  - Hartenholm"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
