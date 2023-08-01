@@ -90,5 +90,18 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20230801-31-003",
+    "version": 5,
+    "startDate": "2023-08-01T14:08:54+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bombenfund - Köln Bayenthal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
