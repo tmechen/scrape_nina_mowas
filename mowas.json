@@ -90,5 +90,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE024-20230802-24-000",
+    "version": 5,
+    "startDate": "2023-08-02T13:33:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brand Lagerhalle - Friedland, Pleetzer Weg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
