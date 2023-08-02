@@ -76,20 +76,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-NW-K-SE031-20230801-31-004",
-    "version": 5,
-    "startDate": "2023-08-01T21:19:01+02:00",
-    "expiresDate": "2023-08-02T03:19:01+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenfund - Köln Bayenthal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
   }
 ]
