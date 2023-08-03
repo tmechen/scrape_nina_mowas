@@ -13,19 +13,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-ED-W186-20230717-000",
-    "version": 5,
-    "startDate": "2023-07-17T15:22:30+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Verunreinigung des Trinkwassers mit Keimen in der Stadt Moosburg a.d. Isar - Stadt Moosburg; Thonstetten; Grünseiboldsdorf; Ober-Niederhummel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-TBB-W028-20230721-001",
     "version": 5,
     "startDate": "2023-07-21T12:39:32+02:00",
@@ -75,6 +62,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-ED-W186-20230803-000",
+    "version": 5,
+    "startDate": "2023-08-03T07:52:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Verunreinigung des Trinkwassers mit Keimen in der Stadt Moosburg a.d. Isar - Stadt Moosburg;"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
