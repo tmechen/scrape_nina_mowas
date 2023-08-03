@@ -79,5 +79,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20230803-000",
+    "version": 5,
+    "startDate": "2023-08-03T15:34:26+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Verunreinigtes Trinkwasser - Königstein Mitte, Mammolshain und Schneidhain"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
