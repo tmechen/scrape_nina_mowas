@@ -96,5 +96,19 @@
     "transKeys": {
       "event": "BBK-EVC-062"
     }
+  },
+  {
+    "id": "mow.DE-MV-HGW-W005-20230804-000",
+    "version": 5,
+    "startDate": "2023-08-04T21:45:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "FEUERWEHREINSATZ - Wolgast"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
