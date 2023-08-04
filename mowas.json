@@ -40,21 +40,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-TBB-W028-20230804-000",
-    "version": 5,
-    "startDate": "2023-08-04T11:28:27+02:00",
-    "expiresDate": "2023-08-04T17:28:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserverunreinigung in Niederstetten - Niederstetten (nur Kernstadt)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-HD-W086-20230804-000",
     "version": 5,
     "startDate": "2023-08-04T13:28:51+02:00",
