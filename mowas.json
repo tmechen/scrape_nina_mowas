@@ -83,14 +83,15 @@
     }
   },
   {
-    "id": "mow.DE-MV-HGW-W005-20230804-000",
+    "id": "mow.DE-MV-HGW-W005-20230804-001",
     "version": 5,
-    "startDate": "2023-08-04T21:45:57+02:00",
+    "startDate": "2023-08-05T01:18:52+02:00",
+    "expiresDate": "2023-08-05T07:18:52+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "FEUERWEHREINSATZ - Wolgast"
+      "de": "Entwarnung: FEUERWEHREINSATZ - Wolgast"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
