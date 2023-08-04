@@ -78,20 +78,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20230803-84-001",
-    "version": 5,
-    "startDate": "2023-08-03T20:20:11+02:00",
-    "expiresDate": "2023-08-04T02:20:11+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase / Rauchsäule - Stadt Weißenhorn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
