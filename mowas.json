@@ -97,5 +97,33 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20230804-000",
+    "version": 5,
+    "startDate": "2023-08-04T13:28:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Wasserverunreinigung im gesamten Stadtgebiet 69250 Schönau - Schönau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20230804-12-001",
+    "version": 5,
+    "startDate": "2023-08-04T13:41:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Ausfall Telefonanlage des SRH Waldklinikums Gera - Thüringen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
+    }
   }
 ]
