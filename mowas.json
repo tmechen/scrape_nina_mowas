@@ -68,20 +68,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230804-50-000",
-    "version": 5,
-    "startDate": "2023-08-04T17:22:03+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Verkehrsbehinderungen nach Hagel und Überflutungen - Reutlingen Innenstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20230804-12-002",
     "version": 5,
     "startDate": "2023-08-04T17:26:15+02:00",
@@ -94,6 +80,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-006"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230804-50-001",
+    "version": 5,
+    "startDate": "2023-08-04T19:56:12+02:00",
+    "expiresDate": "2023-08-05T01:56:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Verkehrsbehinderungen nach Hagel und Überflutungen - Reutlingen Innenstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
     }
   }
 ]
