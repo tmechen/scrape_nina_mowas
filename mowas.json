@@ -26,19 +26,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-EU-SE091-20230728-109-000",
-    "version": 5,
-    "startDate": "2023-07-28T14:51:00+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Wasserverunreinigung (Abkochgebot) Gemeinde Blankenheim - Gemeinde Blankenheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230731-50-002",
     "version": 5,
     "startDate": "2023-07-31T14:51:02+02:00",
@@ -92,6 +79,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-006"
+    }
+  },
+  {
+    "id": "mow.DE-NW-EU-SE091-20230804-109-000",
+    "version": 5,
+    "startDate": "2023-08-04T10:56:36+02:00",
+    "expiresDate": "2023-08-04T16:56:36+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Wasserverunreinigung (Abkochgebot) Gemeinde Blankenheim - Gemeinde Blankenheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
