@@ -199,5 +199,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20230805-82-000",
+    "version": 5,
+    "startDate": "2023-08-05T15:59:16+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Es kommt zu einer starken Rauchentwicklung im Bereich \"alter Landtag\" - Potsdam Südliche Innenstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
