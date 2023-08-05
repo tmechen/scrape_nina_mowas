@@ -82,20 +82,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-PB-SE093-20230805-93-000",
-    "version": 5,
-    "startDate": "2023-08-05T09:21:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großübung der Feuerwehr - Hövelhof"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-035"
-    }
-  },
-  {
     "id": "mow.DE-TH-AP-W115-20230805-001",
     "version": 5,
     "startDate": "2023-08-05T10:01:43+02:00",
@@ -182,6 +168,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-NW-PB-SE093-20230805-93-001",
+    "version": 5,
+    "startDate": "2023-08-05T12:46:30+02:00",
+    "expiresDate": "2023-08-05T18:46:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großübung der Feuerwehr - Hövelhof"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-035"
     }
   }
 ]
