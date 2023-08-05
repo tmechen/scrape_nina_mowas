@@ -184,5 +184,19 @@
     "transKeys": {
       "event": "BBK-EVC-035"
     }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20230805-000",
+    "version": 5,
+    "startDate": "2023-08-05T13:59:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Verunreinigtes Trinkwasser - Kronberg und Schönberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
