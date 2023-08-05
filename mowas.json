@@ -109,5 +109,19 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20230805-99-000",
+    "version": 5,
+    "startDate": "2023-08-05T10:33:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gesundheitsgefährdung durch Trinkwasser - Gemeinde Stöfs"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-081"
+    }
   }
 ]
