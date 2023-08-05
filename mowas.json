@@ -109,5 +109,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-RP-LD-SE117-20230805-121-000",
+    "version": 5,
+    "startDate": "2023-08-06T00:12:05+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand in Rhodter Str. verursacht Geruchsbelästigung und teils Stromausfall - Stadt Edenkoben"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
