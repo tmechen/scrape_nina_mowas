@@ -138,5 +138,19 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-NW-VIE-SE074-20230805-74-000",
+    "version": 5,
+    "startDate": "2023-08-05T11:45:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Probealarm im Kreis Viersen (Monatlich) - Kreis Viersen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
