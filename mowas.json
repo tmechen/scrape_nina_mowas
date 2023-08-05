@@ -66,5 +66,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20230805-100-000",
+    "version": 5,
+    "startDate": "2023-08-05T08:05:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brandrauch durch Hausbrand - Flensburg Bereich Friesischer Berg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
