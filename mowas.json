@@ -96,21 +96,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20230805-100-001",
-    "version": 5,
-    "startDate": "2023-08-05T15:05:52+02:00",
-    "expiresDate": "2023-08-05T21:05:52+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandrauch durch Hausbrand - Flensburg Bereich Friesischer Berg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BB-P-SE082-20230805-82-001",
     "version": 5,
     "startDate": "2023-08-05T19:28:38+02:00",
