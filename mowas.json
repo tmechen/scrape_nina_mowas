@@ -83,21 +83,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20230807-29-001",
-    "version": 5,
-    "startDate": "2023-08-07T12:20:44+02:00",
-    "expiresDate": "2023-08-07T18:20:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brand - Salzgitter"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20230807-000",
     "version": 5,
     "startDate": "2023-08-07T13:40:30+02:00",
