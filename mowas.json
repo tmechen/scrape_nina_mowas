@@ -166,5 +166,19 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20230807-33-000",
+    "version": 5,
+    "startDate": "2023-08-07T14:05:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sturmflut am 07.08.2023 gegen 21:44 Uhr mit ca. +3,62 Metern über Normalhöhennull - Hamburger Elbgebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
   }
 ]
