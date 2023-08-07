@@ -13,19 +13,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230731-50-002",
-    "version": 5,
-    "startDate": "2023-07-31T14:51:02+02:00",
-    "severity": "Minor",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserverunreinigung Gemeinde Willstätt - Abkochgebot - Gemeinde Willstätt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20230803-000",
     "version": 5,
     "startDate": "2023-08-03T15:34:26+02:00",
@@ -179,6 +166,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230807-50-000",
+    "version": 5,
+    "startDate": "2023-08-07T16:20:55+02:00",
+    "expiresDate": "2023-08-07T22:20:55+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasserverunreinigung Gemeinde Willstätt - Abkochgebot aufgehoben! - Gemeinde Willstätt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
