@@ -96,14 +96,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20230807-57-000",
+    "id": "mow.DE-NW-SU-SE057-20230807-57-001",
     "version": 5,
-    "startDate": "2023-08-07T04:53:17+02:00",
+    "startDate": "2023-08-07T11:14:47+02:00",
+    "expiresDate": "2023-08-07T17:14:47+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand (Ausbreitung Brandrauch) - Gemeinde Swisttal"
+      "de": "Entwarnung: Brand (Ausbreitung Brandrauch) - Gemeinde Swisttal"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
