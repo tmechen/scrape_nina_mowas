@@ -109,5 +109,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20230807-29-000",
+    "version": 5,
+    "startDate": "2023-08-07T11:55:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brand - Salzgitter"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
