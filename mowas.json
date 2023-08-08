@@ -97,14 +97,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-SWA-W096-20230808-000",
+    "id": "mow.DE-HE-SWA-W096-20230808-001",
     "version": 5,
-    "startDate": "2023-08-08T14:44:53+02:00",
+    "startDate": "2023-08-08T19:33:13+02:00",
+    "expiresDate": "2023-08-09T01:33:13+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Fund von Weltkriegsbomben - Rüdesheim am Rhein"
+      "de": "Entwarnung: Fund von Weltkriegsbomben - Rüdesheim am Rhein"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
