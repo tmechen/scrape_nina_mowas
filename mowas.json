@@ -83,36 +83,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20230807-33-001",
-    "version": 5,
-    "startDate": "2023-08-07T21:48:00+02:00",
-    "expiresDate": "2023-08-08T03:48:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sturmflut am 07.08.2023 gegen 21:44 Uhr mit ca. +3,62 Metern über Norm - Hamburger Elbgebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-W240-20230807-005",
-    "version": 5,
-    "startDate": "2023-08-07T21:50:55+02:00",
-    "expiresDate": "2023-08-08T03:50:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut im Hamburger Elbegebiet - Hamburger Elbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-NW-RE-SE078-20230807-78-003",
     "version": 5,
     "startDate": "2023-08-08T00:25:40+02:00",
