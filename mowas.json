@@ -112,14 +112,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20230808-001",
+    "id": "mow.DE-BY-IN-W139-20230808-002",
     "version": 5,
-    "startDate": "2023-08-08T21:35:05+02:00",
+    "startDate": "2023-08-09T01:05:13+02:00",
+    "expiresDate": "2023-08-09T07:05:13+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand Denkendorf - Denkendorf"
+      "de": "Entwarnung: Großbrand Denkendorf - Denkendorf"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
