@@ -95,5 +95,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20230808-000",
+    "version": 5,
+    "startDate": "2023-08-08T10:45:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand in Burgörner/Hettstedt - Burgörner"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
