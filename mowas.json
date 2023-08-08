@@ -110,5 +110,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-HE-SWA-W096-20230808-000",
+    "version": 5,
+    "startDate": "2023-08-08T14:44:53+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Fund von Weltkriegsbomben - Rüdesheim am Rhein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
