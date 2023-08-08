@@ -97,21 +97,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20230808-001",
-    "version": 5,
-    "startDate": "2023-08-08T11:24:08+02:00",
-    "expiresDate": "2023-08-08T17:24:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in Burgörner/Hettstedt - Burgörner"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-SWA-W096-20230808-000",
     "version": 5,
     "startDate": "2023-08-08T14:44:53+02:00",
