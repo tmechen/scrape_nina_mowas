@@ -83,21 +83,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-RE-SE078-20230807-78-003",
-    "version": 5,
-    "startDate": "2023-08-08T00:25:40+02:00",
-    "expiresDate": "2023-08-08T06:25:40+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor Rauchgasen - Marl"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-D-SE047-20230808-47-000",
     "version": 5,
     "startDate": "2023-08-08T02:47:11+02:00",
