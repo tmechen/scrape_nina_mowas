@@ -55,21 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20230809-000",
-    "version": 5,
-    "startDate": "2023-08-09T17:36:13+02:00",
-    "expiresDate": "2023-08-09T23:36:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Verunreinigtes Trinkwasser - Königstein Mitte, Mammolshain und Schneidhain"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20230809-84-001",
     "version": 5,
     "startDate": "2023-08-09T18:08:24+02:00",
