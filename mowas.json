@@ -112,5 +112,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20230809-84-000",
+    "version": 5,
+    "startDate": "2023-08-09T16:45:58+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Räumung Stadt Traunstein - Traunstein, Lerchenstraße - 100 Meter Radius"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
