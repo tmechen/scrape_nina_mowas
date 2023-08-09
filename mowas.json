@@ -55,20 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20230805-99-000",
-    "version": 5,
-    "startDate": "2023-08-05T10:33:29+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gesundheitsgefährdung durch Trinkwasser - Gemeinde Stöfs"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-081"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20230805-000",
     "version": 5,
     "startDate": "2023-08-05T13:59:05+02:00",
@@ -108,6 +94,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20230809-99-000",
+    "version": 5,
+    "startDate": "2023-08-09T12:05:57+02:00",
+    "expiresDate": "2023-08-09T18:05:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gesundheitsgefährdung durch Trinkwasser - Gemeinde Stöfs"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-081"
     }
   }
 ]
