@@ -55,21 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20230809-99-000",
-    "version": 5,
-    "startDate": "2023-08-09T12:05:57+02:00",
-    "expiresDate": "2023-08-09T18:05:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gesundheitsgefährdung durch Trinkwasser - Gemeinde Stöfs"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-081"
-    }
-  },
-  {
     "id": "mow.DE-NW-BI-SE070-20230809-70-001",
     "version": 5,
     "startDate": "2023-08-09T12:47:13+02:00",
@@ -100,20 +85,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20230809-84-000",
-    "version": 5,
-    "startDate": "2023-08-09T16:45:58+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Räumung Stadt Traunstein - Traunstein, Lerchenstraße - 100 Meter Radius"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20230809-000",
     "version": 5,
     "startDate": "2023-08-09T17:36:13+02:00",
@@ -126,6 +97,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20230809-84-001",
+    "version": 5,
+    "startDate": "2023-08-09T18:08:24+02:00",
+    "expiresDate": "2023-08-10T00:08:24+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Räumung Stadt Traunstein - Traunstein, Lerchenstraße - 100 Meter Radius"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
