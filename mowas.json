@@ -69,20 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-SE011-20230809-11-000",
-    "version": 5,
-    "startDate": "2023-08-10T01:07:45+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchwolke durch Brand einer Lagerhalle - Dresden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SH-FL-SE100-20230810-100-001",
     "version": 5,
     "startDate": "2023-08-10T06:11:38+02:00",
@@ -154,12 +140,27 @@
     }
   },
   {
-    "id": "mow.DE-NW-D-SE047-20230810-47-000",
+    "id": "mow.DE-SN-HY-SE048-20230810-122-000",
     "version": 5,
-    "startDate": "2023-08-10T10:41:38+02:00",
+    "startDate": "2023-08-10T11:21:38+02:00",
+    "expiresDate": "2023-08-10T17:21:38+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchwolke durch Brand einer Lagerhalle - Dresden"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-D-SE047-20230810-47-001",
+    "version": 5,
+    "startDate": "2023-08-10T11:32:48+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
     "i18nTitle": {
       "de": "Geruchsbelästigung durch Brand - Düsseldorf"
     },
@@ -168,10 +169,10 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20230810-122-000",
+    "id": "mow.DE-SN-HY-SE048-20230810-122-001",
     "version": 5,
-    "startDate": "2023-08-10T11:21:38+02:00",
-    "expiresDate": "2023-08-10T17:21:38+02:00",
+    "startDate": "2023-08-10T11:43:59+02:00",
+    "expiresDate": "2023-08-10T17:43:59+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
     "type": "Cancel",
