@@ -69,21 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MH-SE065-20230810-65-002",
-    "version": 5,
-    "startDate": "2023-08-10T18:01:38+02:00",
-    "expiresDate": "2023-08-11T00:01:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Anscheinsgefahr - Rauchwolke und Geruchsbelästigung - Mülheim an der Ruhr"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20230810-001",
     "version": 5,
     "startDate": "2023-08-10T18:07:34+02:00",
