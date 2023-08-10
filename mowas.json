@@ -69,21 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DU-SE038-20230810-38-001",
-    "version": 5,
-    "startDate": "2023-08-10T17:05:20+02:00",
-    "expiresDate": "2023-08-10T23:05:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Anscheinsgefahr - Rauchwolke und Geruchsbelästigung - Duisburg-Ruhrort"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-MH-SE065-20230810-65-002",
     "version": 5,
     "startDate": "2023-08-10T18:01:38+02:00",
