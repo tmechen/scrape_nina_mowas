@@ -83,20 +83,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20230809-122-000",
-    "version": 5,
-    "startDate": "2023-08-10T01:10:29+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchwolke durch Brand einer Lagerhalle - Dresden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SH-FL-SE100-20230810-100-001",
     "version": 5,
     "startDate": "2023-08-10T06:11:38+02:00",
@@ -179,6 +165,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20230810-122-000",
+    "version": 5,
+    "startDate": "2023-08-10T11:21:38+02:00",
+    "expiresDate": "2023-08-10T17:21:38+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchwolke durch Brand einer Lagerhalle - Dresden"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
