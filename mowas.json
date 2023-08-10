@@ -95,5 +95,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20230810-100-000",
+    "version": 5,
+    "startDate": "2023-08-10T03:22:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Risum-Lindholm"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
