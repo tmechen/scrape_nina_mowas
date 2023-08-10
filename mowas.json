@@ -69,21 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-D-SE047-20230810-47-002",
-    "version": 5,
-    "startDate": "2023-08-10T16:38:07+02:00",
-    "expiresDate": "2023-08-10T22:38:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brand - Düsseldorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-DU-SE038-20230810-38-001",
     "version": 5,
     "startDate": "2023-08-10T17:05:20+02:00",
