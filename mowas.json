@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MH-SE065-20230810-65-000",
-    "version": 5,
-    "startDate": "2023-08-10T08:31:10+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Anscheinsgefahr - Rauchwolke und Geruchsbelästigung - Mülheim an der Ruhr"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-OB-SE055-20230810-55-001",
     "version": 5,
     "startDate": "2023-08-10T09:25:50+02:00",
@@ -181,6 +167,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MH-SE065-20230810-65-001",
+    "version": 5,
+    "startDate": "2023-08-10T12:12:10+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Anscheinsgefahr - Rauchwolke und Geruchsbelästigung - Mülheim an der Ruhr"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
