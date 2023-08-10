@@ -69,20 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HAM-SE085-20230810-85-000",
-    "version": 5,
-    "startDate": "2023-08-10T13:15:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in der Stadt Hamm - HAMM - Westtünnen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NW-OB-SE055-20230810-55-002",
     "version": 5,
     "startDate": "2023-08-10T13:28:31+02:00",
@@ -183,6 +169,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HAM-SE085-20230810-85-001",
+    "version": 5,
+    "startDate": "2023-08-10T18:28:01+02:00",
+    "expiresDate": "2023-08-11T00:28:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in der Stadt Hamm - HAMM - Westtünnen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
