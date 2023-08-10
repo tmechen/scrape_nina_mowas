@@ -69,35 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20230810-122-001",
-    "version": 5,
-    "startDate": "2023-08-10T11:43:59+02:00",
-    "expiresDate": "2023-08-10T17:43:59+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Brand einer Lagerhalle - Dresden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-NW-MH-SE065-20230810-65-001",
-    "version": 5,
-    "startDate": "2023-08-10T12:12:10+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Anscheinsgefahr - Rauchwolke und Geruchsbelästigung - Mülheim an der Ruhr"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-HAM-SE085-20230810-85-000",
     "version": 5,
     "startDate": "2023-08-10T13:15:41+02:00",
@@ -182,6 +153,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MH-SE065-20230810-65-002",
+    "version": 5,
+    "startDate": "2023-08-10T18:01:38+02:00",
+    "expiresDate": "2023-08-11T00:01:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Anscheinsgefahr - Rauchwolke und Geruchsbelästigung - Mülheim an der Ruhr"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20230810-001",
+    "version": 5,
+    "startDate": "2023-08-10T18:07:34+02:00",
+    "expiresDate": "2023-08-11T00:07:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Probealarm - Au am Rhein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
     }
   }
 ]
