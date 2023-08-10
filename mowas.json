@@ -110,5 +110,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-NW-DU-SE038-20230810-38-000",
+    "version": 5,
+    "startDate": "2023-08-10T08:15:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Anscheinsgefahr - Rauchwolke und Geruchsbelästigung - Duisburg-Ruhrort"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
