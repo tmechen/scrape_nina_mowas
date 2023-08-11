@@ -69,21 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-NE-SE044-20230811-44-001",
-    "version": 5,
-    "startDate": "2023-08-11T16:33:44+02:00",
-    "expiresDate": "2023-08-11T22:33:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Grevenbroich"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20230811-000",
     "version": 5,
     "startDate": "2023-08-11T19:02:23+02:00",
