@@ -13,20 +13,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20230805-000",
-    "version": 5,
-    "startDate": "2023-08-05T13:59:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Verunreinigtes Trinkwasser - Kronberg und Schönberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-WUE-W164-20230808-000",
     "version": 5,
     "startDate": "2023-08-08T09:46:00+02:00",
@@ -109,6 +95,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20230811-000",
+    "version": 5,
+    "startDate": "2023-08-11T19:02:23+02:00",
+    "expiresDate": "2023-08-12T01:02:23+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Verunreinigtes Trinkwasser - Kronberg und Schönberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
