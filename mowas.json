@@ -13,20 +13,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20230804-000",
-    "version": 5,
-    "startDate": "2023-08-04T13:28:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Wasserverunreinigung im gesamten Stadtgebiet 69250 Schönau - Schönau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20230805-000",
     "version": 5,
     "startDate": "2023-08-05T13:59:05+02:00",
@@ -94,6 +80,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20230811-001",
+    "version": 5,
+    "startDate": "2023-08-11T13:21:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Wasserverunreinigung im gesamten Stadtgebiet 69250 Schönau - Schönau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
