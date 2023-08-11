@@ -81,5 +81,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20230811-106-000",
+    "version": 5,
+    "startDate": "2023-08-11T08:48:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Evakuierung wegen Kampfmittel-Fund - Kassel-Nordstadt, Jungfernkopf, Rothenditmold,Kirchditmold"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
