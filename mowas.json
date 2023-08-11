@@ -69,21 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-OB-SE055-20230810-55-003",
-    "version": 5,
-    "startDate": "2023-08-10T19:46:45+02:00",
-    "expiresDate": "2023-08-11T01:46:45+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Anscheinsgefahr - Rauchwolke und Geruchsbelästigung - Oberhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20230810-106-000",
     "version": 5,
     "startDate": "2023-08-10T22:02:47+02:00",
