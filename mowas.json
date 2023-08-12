@@ -83,20 +83,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20230812-35-000",
-    "version": 5,
-    "startDate": "2023-08-12T18:38:56+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brandrauch - Wadern-Krettnich"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20230812-12-003",
     "version": 5,
     "startDate": "2023-08-12T19:54:54+02:00",
@@ -109,6 +95,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-082"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20230812-35-001",
+    "version": 5,
+    "startDate": "2023-08-12T23:08:54+02:00",
+    "expiresDate": "2023-08-13T05:08:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandrauch - Wadern-Krettnich"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
