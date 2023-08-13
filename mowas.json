@@ -84,34 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-W-SE061-20230813-61-000",
-    "version": 5,
-    "startDate": "2023-08-13T15:37:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brandereignis in Leverkusen - Solingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NW-ME-SE071-20230813-71-000",
-    "version": 5,
-    "startDate": "2023-08-13T15:44:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch einen Brand - Langenfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-TS-W135-20230813-002",
     "version": 5,
     "startDate": "2023-08-13T17:25:20+02:00",
@@ -168,6 +140,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-W-SE061-20230813-61-001",
+    "version": 5,
+    "startDate": "2023-08-13T19:43:37+02:00",
+    "expiresDate": "2023-08-14T01:43:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brandereignis in Leverkusen - Solingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ME-SE071-20230813-71-001",
+    "version": 5,
+    "startDate": "2023-08-13T19:45:13+02:00",
+    "expiresDate": "2023-08-14T01:45:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch einen Brand - Langenfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
