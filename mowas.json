@@ -69,21 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-HO-W142-20230813-000",
-    "version": 5,
-    "startDate": "2023-08-13T15:06:28+02:00",
-    "expiresDate": "2023-08-13T21:06:28+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geänderte Abkochempfehlung für Trinkwasser Aktualisierung 11.08.2023 - Stadtgebiet Hof/Saale (inklusive Ortsteil Erlalohe)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-TS-W135-20230813-002",
     "version": 5,
     "startDate": "2023-08-13T17:25:20+02:00",
