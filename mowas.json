@@ -69,50 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20230813-002",
-    "version": 5,
-    "startDate": "2023-08-13T17:25:20+02:00",
-    "expiresDate": "2023-08-13T23:25:20+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Traunstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20230813-84-001",
-    "version": 5,
-    "startDate": "2023-08-13T17:26:13+02:00",
-    "expiresDate": "2023-08-13T23:26:13+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Traunstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NW-LEV-SE046-20230813-46-003",
-    "version": 5,
-    "startDate": "2023-08-13T17:51:22+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Brand in Leverkusen - Bürrig, Küppersteg,Rheindorf, Opladen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-GL-SE063-20230813-63-001",
     "version": 5,
     "startDate": "2023-08-13T18:08:26+02:00",
@@ -155,6 +111,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-LEV-SE046-20230813-46-004",
+    "version": 5,
+    "startDate": "2023-08-13T23:33:41+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Brand in Leverkusen - Bürrig, Küppersteg, Rheindorf, Opladen, Bergisch Neukirchen, Quettingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
