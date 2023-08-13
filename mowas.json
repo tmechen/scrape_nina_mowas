@@ -83,14 +83,15 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20230813-35-000",
+    "id": "mow.DE-SL-SB-SE035-20230813-35-001",
     "version": 5,
-    "startDate": "2023-08-13T08:10:37+02:00",
+    "startDate": "2023-08-13T11:43:21+02:00",
+    "expiresDate": "2023-08-13T17:43:21+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Brandereignis - Krettnich und Umgebung"
+      "de": "Entwarnung: Starke Rauchentwicklung durch Brandereignis - Krettnich und Umgebung"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
