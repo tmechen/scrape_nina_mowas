@@ -128,34 +128,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20230813-000",
-    "version": 5,
-    "startDate": "2023-08-13T15:17:52+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Traunstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20230813-84-000",
-    "version": 5,
-    "startDate": "2023-08-13T15:20:58+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Traunstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-W-SE061-20230813-61-000",
     "version": 5,
     "startDate": "2023-08-13T15:37:32+02:00",
@@ -195,6 +167,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BY-TS-W135-20230813-002",
+    "version": 5,
+    "startDate": "2023-08-13T17:25:20+02:00",
+    "expiresDate": "2023-08-13T23:25:20+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Traunstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20230813-84-001",
+    "version": 5,
+    "startDate": "2023-08-13T17:26:13+02:00",
+    "expiresDate": "2023-08-13T23:26:13+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Traunstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
