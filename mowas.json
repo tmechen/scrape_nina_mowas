@@ -99,20 +99,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-LEV-SE046-20230813-46-001",
-    "version": 5,
-    "startDate": "2023-08-13T15:04:34+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Brand in Leverkusen - Bürrig, Küppersteg,Rheindorf, Opladen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BY-HO-W142-20230813-000",
     "version": 5,
     "startDate": "2023-08-13T15:06:28+02:00",
@@ -195,6 +181,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-LEV-SE046-20230813-46-002",
+    "version": 5,
+    "startDate": "2023-08-13T16:44:02+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Brand in Leverkusen - Bürrig, Küppersteg,Rheindorf, Opladen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
