@@ -140,5 +140,33 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-BY-TS-W135-20230813-000",
+    "version": 5,
+    "startDate": "2023-08-13T15:17:52+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Traunstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20230813-84-000",
+    "version": 5,
+    "startDate": "2023-08-13T15:20:58+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Traunstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
