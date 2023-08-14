@@ -55,5 +55,19 @@
     "transKeys": {
       "event": "BBK-EVC-005"
     }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20230814-106-001",
+    "version": 5,
+    "startDate": "2023-08-14T21:24:35+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahrstoffaustritt - Mainz-Kostheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-029"
+    }
   }
 ]
