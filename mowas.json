@@ -69,14 +69,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-LEV-SE046-20230813-46-004",
+    "id": "mow.DE-NW-LEV-SE046-20230814-46-000",
     "version": 5,
-    "startDate": "2023-08-13T23:33:41+02:00",
-    "severity": "Severe",
+    "startDate": "2023-08-14T08:37:53+02:00",
+    "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
     "i18nTitle": {
-      "de": "Brand in Leverkusen - Bürrig, Küppersteg, Rheindorf, Opladen, Bergisch Neukirchen, Quettingen"
+      "de": "Brand in Leverkusen - Opladen, Quettingen"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
