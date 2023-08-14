@@ -70,20 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20230814-000",
-    "version": 5,
-    "startDate": "2023-08-14T11:44:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Störung der Notrufnummer 112 - Schwarzach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-005"
-    }
-  },
-  {
     "id": "mow.DE-BW-HD-W086-20230814-000",
     "version": 5,
     "startDate": "2023-08-14T11:49:49+02:00",
@@ -96,6 +82,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20230814-001",
+    "version": 5,
+    "startDate": "2023-08-14T13:10:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Störung der Notrufnummer 112 - Schwarzach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
     }
   }
 ]
