@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20230814-000",
-    "version": 5,
-    "startDate": "2023-08-14T11:49:49+02:00",
-    "expiresDate": "2023-08-14T17:49:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wasserverunreinigung im gesamten Stadtgebiet 69250 Schönau - Schönau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20230814-001",
     "version": 5,
     "startDate": "2023-08-14T13:10:54+02:00",
