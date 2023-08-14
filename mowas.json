@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE024-20230814-24-000",
-    "version": 5,
-    "startDate": "2023-08-14T14:17:25+02:00",
-    "expiresDate": "2023-08-14T20:17:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brand - Lk Ludwigslust-Parchim, Umkreis Klinken"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-WUE-W164-20230814-000",
     "version": 5,
     "startDate": "2023-08-14T14:47:57+02:00",
