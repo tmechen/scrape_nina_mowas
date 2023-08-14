@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230814-125-001",
-    "version": 5,
-    "startDate": "2023-08-14T16:36:49+02:00",
-    "expiresDate": "2023-08-14T22:36:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gasaustritt Münster-Sarmsheim durch Bauarbeiten - Münster-Sarmsheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20230814-002",
     "version": 5,
     "startDate": "2023-08-14T19:01:04+02:00",
