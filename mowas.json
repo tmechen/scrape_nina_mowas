@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WUE-W164-20230814-000",
-    "version": 5,
-    "startDate": "2023-08-14T14:47:57+02:00",
-    "expiresDate": "2023-08-14T20:47:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Abkochgebot für Trinkwasser für den Ortsteil Binsfeld in der Stadt Arn - Binsfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20230814-125-001",
     "version": 5,
     "startDate": "2023-08-14T16:36:49+02:00",
