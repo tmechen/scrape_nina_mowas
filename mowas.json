@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20230814-002",
-    "version": 5,
-    "startDate": "2023-08-14T19:01:04+02:00",
-    "expiresDate": "2023-08-15T01:01:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Störung der Notrufnummer 112 - Schwarzach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-005"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20230814-106-001",
     "version": 5,
     "startDate": "2023-08-14T21:24:35+02:00",
