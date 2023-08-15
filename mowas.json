@@ -41,14 +41,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-NMS-SE101-20230815-101-000",
+    "id": "mow.DE-SH-NMS-SE101-20230815-101-001",
     "version": 5,
-    "startDate": "2023-08-15T12:59:30+02:00",
+    "startDate": "2023-08-15T14:08:04+02:00",
+    "expiresDate": "2023-08-15T20:08:04+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Leinestraße, Neumünster"
+      "de": "Entwarnung: Feuerwehreinsatz - Leinestraße, Neumünster"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
