@@ -27,20 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20230814-106-001",
-    "version": 5,
-    "startDate": "2023-08-14T21:24:35+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahrstoffaustritt - Mainz-Kostheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-029"
-    }
-  },
-  {
     "id": "mow.DE-NW-LIP-SE041-20230814-41-002",
     "version": 5,
     "startDate": "2023-08-14T22:42:45+02:00",
@@ -52,6 +38,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20230815-106-000",
+    "version": 5,
+    "startDate": "2023-08-15T02:00:58+02:00",
+    "expiresDate": "2023-08-15T08:00:58+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahrstoffaustritt - Mainz-Kostheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-029"
     }
   }
 ]
