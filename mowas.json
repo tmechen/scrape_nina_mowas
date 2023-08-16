@@ -70,20 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20230816-125-000",
-    "version": 5,
-    "startDate": "2023-08-16T21:09:01+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Erhöhtes Notrufaufkommen aufgrund Unwetterlage - Stadt Mainz, Landkreise Mainz-Bingen und Alzey-Worms"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-HE-GG-W222-20230816-000",
     "version": 5,
     "startDate": "2023-08-16T22:18:12+02:00",
@@ -95,6 +81,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-021"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20230816-125-001",
+    "version": 5,
+    "startDate": "2023-08-16T22:54:35+02:00",
+    "expiresDate": "2023-08-17T04:54:35+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Erhöhtes Notrufaufkommen aufgrund Unwetterlage - Stadt Mainz, Landkreise Mainz-Bingen und Alzey-Worms"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
