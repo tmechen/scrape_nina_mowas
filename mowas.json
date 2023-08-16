@@ -82,5 +82,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-HE-GG-W222-20230816-000",
+    "version": 5,
+    "startDate": "2023-08-16T22:18:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Unwetterlage - Kreis Groß-Gerau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-021"
+    }
   }
 ]
