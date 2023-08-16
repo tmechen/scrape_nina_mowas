@@ -41,14 +41,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-BT-W082-20230815-000",
+    "id": "mow.DE-BY-BT-W082-20230816-000",
     "version": 5,
-    "startDate": "2023-08-15T22:09:50+02:00",
+    "startDate": "2023-08-16T02:40:52+02:00",
+    "expiresDate": "2023-08-16T08:40:52+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke durch größeren Gebäudebrand - Bayreuth Stadtgebiet"
+      "de": "Entwarnung: Rauchwolke durch größeren Gebäudebrand - Bayreuth Stadtgebiet"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
