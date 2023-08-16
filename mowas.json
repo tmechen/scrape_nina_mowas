@@ -41,35 +41,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-BT-W082-20230816-000",
-    "version": 5,
-    "startDate": "2023-08-16T02:40:52+02:00",
-    "expiresDate": "2023-08-16T08:40:52+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch größeren Gebäudebrand - Bayreuth Stadtgebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-BB-BRB-SE081-20230816-81-000",
-    "version": 5,
-    "startDate": "2023-08-16T03:23:46+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Einschränkung nach Unwetter. - Brandenburg an der Havel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-SN-DD-W094-20230816-001",
     "version": 5,
     "startDate": "2023-08-16T07:50:35+02:00",
@@ -82,6 +53,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BB-BRB-SE081-20230816-81-001",
+    "version": 5,
+    "startDate": "2023-08-16T08:51:04+02:00",
+    "expiresDate": "2023-08-16T14:51:04+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Einschränkung nach Unwetter. - Brandenburg an der Havel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
