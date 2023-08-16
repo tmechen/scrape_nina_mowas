@@ -69,5 +69,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-BB-BRB-SE081-20230816-81-002",
+    "version": 5,
+    "startDate": "2023-08-16T09:28:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Folgebeeinträchtigung durch Unwetterereignis  - Stadt Brandenburg an der Havel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-031"
+    }
   }
 ]
