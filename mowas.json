@@ -41,21 +41,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-BRB-SE081-20230816-81-001",
-    "version": 5,
-    "startDate": "2023-08-16T08:51:04+02:00",
-    "expiresDate": "2023-08-16T14:51:04+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Einschränkung nach Unwetter. - Brandenburg an der Havel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BB-BRB-SE081-20230816-81-003",
     "version": 5,
     "startDate": "2023-08-16T14:10:31+02:00",
