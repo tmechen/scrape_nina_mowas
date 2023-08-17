@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20230817-28-001",
-    "version": 5,
-    "startDate": "2023-08-17T17:47:01+02:00",
-    "expiresDate": "2023-08-17T23:47:01+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Pinneberg Waldenau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230817-50-000",
     "version": 5,
     "startDate": "2023-08-17T21:04:00+02:00",
@@ -56,14 +41,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20230817-12-003",
+    "id": "mow.DE-TH-EF-SE012-20230817-12-004",
     "version": 5,
-    "startDate": "2023-08-17T21:53:38+02:00",
+    "startDate": "2023-08-17T23:53:05+02:00",
+    "expiresDate": "2023-08-18T05:53:05+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Verkehrsbehinderung aufgrund Unwetterereignis  - Stadt Stadtroda, Gemeinde Geisenhain, Gemeinde Tröbnitz"
+      "de": "Entwarnung: Verkehrsbehinderung aufgrund Unwetterereignis  - Stadt Stadtroda, Gemeinde Geisenhain, Gemeinde Tröbnitz"
     },
     "transKeys": {
       "event": "BBK-EVC-062"
