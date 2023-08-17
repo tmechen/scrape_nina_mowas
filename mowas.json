@@ -53,20 +53,5 @@
     "transKeys": {
       "event": "BBK-EVC-031"
     }
-  },
-  {
-    "id": "mow.DE-HE-GG-W222-20230816-001",
-    "version": 5,
-    "startDate": "2023-08-17T00:09:24+02:00",
-    "expiresDate": "2023-08-17T06:09:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Unwetterlage - Kreis Groß-Gerau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-021"
-    }
   }
 ]
