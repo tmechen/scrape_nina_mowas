@@ -27,20 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20230817-28-000",
-    "version": 5,
-    "startDate": "2023-08-17T14:48:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Pinneberg Waldenau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-GT-W112-20230817-001",
     "version": 5,
     "startDate": "2023-08-17T16:22:40+02:00",
@@ -83,6 +69,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20230817-28-001",
+    "version": 5,
+    "startDate": "2023-08-17T17:47:01+02:00",
+    "expiresDate": "2023-08-17T23:47:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Pinneberg Waldenau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20230817-12-002",
+    "version": 5,
+    "startDate": "2023-08-17T18:07:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwassergefahr durch Starkregen - Stadtroda und umliegende Gemeinden"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
     }
   }
 ]
