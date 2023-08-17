@@ -87,20 +87,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20230817-12-002",
-    "version": 5,
-    "startDate": "2023-08-17T18:07:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwassergefahr durch Starkregen - Stadtroda und umliegende Gemeinden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230817-50-000",
     "version": 5,
     "startDate": "2023-08-17T21:04:00+02:00",
@@ -112,6 +98,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20230817-12-003",
+    "version": 5,
+    "startDate": "2023-08-17T21:53:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Verkehrsbehinderung aufgrund Unwetterereignis  - Stadt Stadtroda, Gemeinde Geisenhain, Gemeinde Tröbnitz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
     }
   }
 ]
