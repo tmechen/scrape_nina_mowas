@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-GT-W112-20230817-001",
-    "version": 5,
-    "startDate": "2023-08-17T16:22:40+02:00",
-    "expiresDate": "2023-08-17T22:22:40+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung nach Brandereignis - Georgenthal Ortsteil Leina"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-SE004-20230817-4-001",
     "version": 5,
     "startDate": "2023-08-17T17:09:17+02:00",
