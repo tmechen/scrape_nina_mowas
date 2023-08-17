@@ -13,20 +13,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-LEV-SE046-20230815-46-000",
-    "version": 5,
-    "startDate": "2023-08-15T10:33:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Brand in Leverkusen - Opladen, Quettingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-LIP-SE041-20230815-41-000",
     "version": 5,
     "startDate": "2023-08-15T19:45:27+02:00",
@@ -53,6 +39,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-031"
+    }
+  },
+  {
+    "id": "mow.DE-NW-LEV-SE046-20230817-46-000",
+    "version": 5,
+    "startDate": "2023-08-17T10:29:24+02:00",
+    "expiresDate": "2023-08-17T16:29:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand in Leverkusen - Opladen, Quettingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
