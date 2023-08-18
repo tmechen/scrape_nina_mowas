@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230818-50-000",
-    "version": 5,
-    "startDate": "2023-08-18T11:37:10+02:00",
-    "expiresDate": "2023-08-18T17:37:10+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand Lagerhalle / Müll-Umladestation - Sander Straße -  Appenweiher"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-W-SE061-20230818-61-001",
     "version": 5,
     "startDate": "2023-08-18T15:25:10+02:00",
