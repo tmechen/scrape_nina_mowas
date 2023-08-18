@@ -57,14 +57,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-W-SE061-20230818-61-000",
+    "id": "mow.DE-NW-W-SE061-20230818-61-001",
     "version": 5,
-    "startDate": "2023-08-18T14:22:00+02:00",
+    "startDate": "2023-08-18T15:25:10+02:00",
+    "expiresDate": "2023-08-18T21:25:10+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "(1) Rauchgase - Solingen / Wuppertaler Straße"
+      "de": "Entwarnung: (1) Rauchgase - Solingen / Wuppertaler Straße"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
