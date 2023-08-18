@@ -39,5 +39,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BR-B-SE017-20230818-17-000",
+    "version": 5,
+    "startDate": "2023-08-18T06:32:52+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung und Geruchsbelästigung durch einen Brand in einer Lagerhalle - Berlin"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
