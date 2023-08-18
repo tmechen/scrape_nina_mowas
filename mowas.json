@@ -41,14 +41,15 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-SE017-20230818-17-000",
+    "id": "mow.DE-BR-B-SE017-20230818-17-001",
     "version": 5,
-    "startDate": "2023-08-18T06:32:52+02:00",
+    "startDate": "2023-08-18T10:39:08+02:00",
+    "expiresDate": "2023-08-18T16:39:08+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung und Geruchsbelästigung durch einen Brand in einer Lagerhalle - Berlin"
+      "de": "Entwarnung: Die heutige Warnmeldung der Berliner Feuerwehr wird aufgehoben. - Berlin"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
