@@ -54,5 +54,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20230819-84-000",
+    "version": 5,
+    "startDate": "2023-08-19T04:48:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Mühldorf am Inn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
