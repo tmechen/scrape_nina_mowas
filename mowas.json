@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-UE-W072-20230819-000",
-    "version": 5,
-    "startDate": "2023-08-19T06:57:41+02:00",
-    "expiresDate": "2023-08-19T12:57:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Bad Bevensen - Bad Bevensen und Umgebung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20230819-129-001",
     "version": 5,
     "startDate": "2023-08-19T09:21:32+02:00",
