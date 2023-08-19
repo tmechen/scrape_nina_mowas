@@ -84,5 +84,19 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-MV-HRO-W006-20230819-001",
+    "version": 5,
+    "startDate": "2023-08-19T12:09:44+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Bramow Carl-Hopp-Str. 4a ,  Bahnhof Bramow"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
