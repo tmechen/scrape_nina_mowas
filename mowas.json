@@ -70,5 +70,20 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-BY-AB-W169-20230819-001",
+    "version": 5,
+    "startDate": "2023-08-19T14:21:56+02:00",
+    "expiresDate": "2023-08-19T20:21:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall aufgrund technischer Störung - Aschaffenburg, Stadtteil Damm"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
