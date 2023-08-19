@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20230819-129-001",
-    "version": 5,
-    "startDate": "2023-08-19T09:21:32+02:00",
-    "expiresDate": "2023-08-19T15:21:32+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung - Südkreis Nienburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-HIG-W111-20230819-001",
     "version": 5,
     "startDate": "2023-08-19T12:17:52+02:00",
