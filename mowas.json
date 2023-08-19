@@ -72,20 +72,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-HIG-W111-20230819-000",
-    "version": 5,
-    "startDate": "2023-08-19T11:26:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenen-Funktionsprobe Landgemeinde Dingelstädt und VG Hanstein-Rusteberg - LG Stadt Dingelstädt und VG Hanstein-Rusteberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-MV-HRO-W006-20230819-001",
     "version": 5,
     "startDate": "2023-08-19T12:09:44+02:00",
@@ -97,6 +83,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-TH-HIG-W111-20230819-001",
+    "version": 5,
+    "startDate": "2023-08-19T12:17:52+02:00",
+    "expiresDate": "2023-08-19T18:17:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Funktionsprobe Landgemeinde Dingelstädt und VG Hanstein-Rusteb - LG Stadt Dingelstädt und VG Hanstein-Rusteberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
     }
   }
 ]
