@@ -27,20 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-UE-W072-20230818-000",
-    "version": 5,
-    "startDate": "2023-08-18T21:51:42+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in Bad Bevensen - Bad Bevensen und Umgebung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-MI-SE073-20230818-73-001",
     "version": 5,
     "startDate": "2023-08-19T01:35:35+02:00",
@@ -82,6 +68,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NI-UE-W072-20230819-000",
+    "version": 5,
+    "startDate": "2023-08-19T06:57:41+02:00",
+    "expiresDate": "2023-08-19T12:57:41+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung in Bad Bevensen - Bad Bevensen und Umgebung"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
