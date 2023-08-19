@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20230819-84-001",
-    "version": 5,
-    "startDate": "2023-08-19T06:34:15+02:00",
-    "expiresDate": "2023-08-19T12:34:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Mühldorf am Inn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-UE-W072-20230819-000",
     "version": 5,
     "startDate": "2023-08-19T06:57:41+02:00",
