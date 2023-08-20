@@ -54,5 +54,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-TH-UH-W116-20230820-000",
+    "version": 5,
+    "startDate": "2023-08-20T22:35:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung - Mühlhausen/Thür"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
