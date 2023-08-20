@@ -27,20 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE049-20230820-49-000",
-    "version": 5,
-    "startDate": "2023-08-20T17:41:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brand - Neustadt-Glewe"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-OF-W106-20230820-000",
     "version": 5,
     "startDate": "2023-08-20T21:08:30+02:00",
@@ -52,6 +38,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE049-20230820-49-001",
+    "version": 5,
+    "startDate": "2023-08-20T21:36:51+02:00",
+    "expiresDate": "2023-08-21T03:36:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brand - Neustadt-Glewe"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
