@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-RE-SE078-20230820-78-001",
-    "version": 5,
-    "startDate": "2023-08-20T15:17:45+02:00",
-    "expiresDate": "2023-08-20T21:17:45+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandereignis Herten-Süd Information - Herten"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE049-20230820-49-000",
     "version": 5,
     "startDate": "2023-08-20T17:41:50+02:00",
