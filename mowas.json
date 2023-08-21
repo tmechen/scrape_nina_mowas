@@ -27,14 +27,15 @@
     }
   },
   {
-    "id": "mow.DE-MV-LRO-W007-20230821-000",
+    "id": "mow.DE-MV-LRO-W007-20230821-001",
     "version": 5,
-    "startDate": "2023-08-21T07:02:28+02:00",
+    "startDate": "2023-08-21T17:17:23+02:00",
+    "expiresDate": "2023-08-21T23:17:23+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "starken Rauchentwicklung und Geruchsbelästigung - Lalendorf"
+      "de": "Entwarnung: starken Rauchentwicklung und Geruchsbelästigung - Lalendorf"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
