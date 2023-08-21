@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-UH-W116-20230820-001",
-    "version": 5,
-    "startDate": "2023-08-20T23:39:56+02:00",
-    "expiresDate": "2023-08-21T05:39:56+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung - Mühlhausen/Thür"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-OF-W106-20230821-000",
     "version": 5,
     "startDate": "2023-08-21T03:00:50+02:00",
