@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-EW-SE079-20230822-79-001",
-    "version": 5,
-    "startDate": "2023-08-22T16:58:49+02:00",
-    "expiresDate": "2023-08-22T22:58:49+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Munitionsfund im bewohnten Gebiet - Borgsdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-KE-W173-20230822-002",
     "version": 5,
     "startDate": "2023-08-22T17:14:20+02:00",
