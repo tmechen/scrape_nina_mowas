@@ -27,20 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KE-W173-20230822-001",
-    "version": 5,
-    "startDate": "2023-08-22T10:47:01+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz Brand - Durach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-RE-SE078-20230822-78-001",
     "version": 5,
     "startDate": "2023-08-22T12:52:39+02:00",
@@ -50,20 +36,6 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: 1.1 Standard Warnung   - Oer-Erkenschwick"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BB-EW-SE079-20230822-79-000",
-    "version": 5,
-    "startDate": "2023-08-22T13:12:02+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Munitionsfund im bewohnten Gebiet - Borgsdorf"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
@@ -82,6 +54,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BB-EW-SE079-20230822-79-001",
+    "version": 5,
+    "startDate": "2023-08-22T16:58:49+02:00",
+    "expiresDate": "2023-08-22T22:58:49+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Munitionsfund im bewohnten Gebiet - Borgsdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KE-W173-20230822-002",
+    "version": 5,
+    "startDate": "2023-08-22T17:14:20+02:00",
+    "expiresDate": "2023-08-22T23:14:20+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz Brand - Durach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
