@@ -68,5 +68,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-BB-EW-SE079-20230822-79-000",
+    "version": 5,
+    "startDate": "2023-08-22T13:12:02+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Munitionsfund im bewohnten Gebiet - Borgsdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
