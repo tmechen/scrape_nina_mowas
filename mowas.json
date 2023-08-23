@@ -39,5 +39,19 @@
     "transKeys": {
       "event": "BBK-EVC-027"
     }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20230823-56-000",
+    "version": 5,
+    "startDate": "2023-08-23T10:49:45+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung im kompletten Kreis Heinsberg - Kreis Heinsberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
