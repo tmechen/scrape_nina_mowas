@@ -25,20 +25,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-BY-HO-W142-20230822-001",
-    "version": 5,
-    "startDate": "2023-08-22T20:38:50+02:00",
-    "expiresDate": "2023-08-23T02:38:50+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rehau, Gefahrstoffunfall in einem Betrieb  - 95111 Rehau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-029"
-    }
   }
 ]
