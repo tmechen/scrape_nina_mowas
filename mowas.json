@@ -27,20 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-GT-W112-20230823-000",
-    "version": 5,
-    "startDate": "2023-08-23T09:54:56+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gasaustritt - Ortslage Dachwig"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-NW-ERK-SE056-20230823-56-000",
     "version": 5,
     "startDate": "2023-08-23T10:49:45+02:00",
@@ -52,6 +38,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20230823-19-000",
+    "version": 5,
+    "startDate": "2023-08-23T11:29:08+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Entschärfung einer Weltkriegsbombe - Bremen Hemelinger Hafendamm"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-TH-GT-W112-20230823-001",
+    "version": 5,
+    "startDate": "2023-08-23T11:35:02+02:00",
+    "expiresDate": "2023-08-23T17:35:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gasaustritt - Ortslage Dachwig"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
     }
   }
 ]
