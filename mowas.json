@@ -82,5 +82,19 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-HE-DA-W184-20230824-000",
+    "version": 5,
+    "startDate": "2023-08-24T11:25:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall - Darmstadt Nord"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
