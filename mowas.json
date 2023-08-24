@@ -27,51 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20230824-001",
-    "version": 5,
-    "startDate": "2023-08-24T11:43:24+02:00",
-    "expiresDate": "2023-08-24T17:43:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm des Sirenenwarnsystems Stadt Rheinstetten mit Stadtteilen - 76282 Rheinstetten"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20230824-84-001",
-    "version": 5,
-    "startDate": "2023-08-24T11:44:13+02:00",
-    "expiresDate": "2023-08-24T17:44:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand Hotel in der Altstadt von Dinkelsbühl - Dinkelsbühl, Altstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-HE-DA-W184-20230824-001",
-    "version": 5,
-    "startDate": "2023-08-24T11:44:53+02:00",
-    "expiresDate": "2023-08-24T17:44:53+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall - Darmstadt Nord"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-NW-PB-SE093-20230824-93-001",
     "version": 5,
     "startDate": "2023-08-24T12:34:24+02:00",
