@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20230824-56-003",
-    "version": 5,
-    "startDate": "2023-08-24T08:52:18+02:00",
-    "expiresDate": "2023-08-24T14:52:18+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Wegberg - Wegberg, Wassenberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-KA-W138-20230824-001",
     "version": 5,
     "startDate": "2023-08-24T11:43:24+02:00",
@@ -102,14 +87,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-EU-SE091-20230824-109-000",
+    "id": "mow.DE-NW-EU-SE091-20230824-109-001",
     "version": 5,
-    "startDate": "2023-08-24T13:50:10+02:00",
+    "startDate": "2023-08-24T14:46:58+02:00",
+    "expiresDate": "2023-08-24T20:46:58+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Stromversorgung in Teilbereich des Stadtgebietes von Euskirchen - Stadtgebiet Euskirchen"
+      "de": "Entwarnung: Ausfall Stromversorgung in Teilbereich des Stadtgebietes von Euskirche - Stadtgebiet Euskirchen"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
