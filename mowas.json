@@ -72,14 +72,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-W108-20230825-000",
+    "id": "mow.DE-TH-EF-W108-20230825-001",
     "version": 5,
-    "startDate": "2023-08-25T14:33:09+02:00",
+    "startDate": "2023-08-25T15:09:33+02:00",
+    "expiresDate": "2023-08-25T21:09:33+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Fund von Weltkriegsmunition in Erfurt, Ortsteil Daberstedt - Stadt Erfurt, Bereich Daberstedt"
+      "de": "Entwarnung: Fund von Weltkriegsmunition in Erfurt, Ortsteil Daberstedt - Stadt Erfurt, Bereich Daberstedt"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
