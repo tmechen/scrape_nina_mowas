@@ -56,5 +56,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-BY-WUE-W164-20230825-000",
+    "version": 5,
+    "startDate": "2023-08-25T13:05:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abkochgebot für Trinkwasser im Versorgungsgebiet  Krommenthal, Landkreis MSP  - Krommenthal der Verwaltungsgemeinschaft Partenstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
