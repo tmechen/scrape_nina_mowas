@@ -54,5 +54,19 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230825-50-000",
+    "version": 5,
+    "startDate": "2023-08-25T02:58:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand eines landwirtschaftlichen Anwesens - Litzelbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
