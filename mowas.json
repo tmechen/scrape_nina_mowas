@@ -13,21 +13,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20230825-121-002",
-    "version": 5,
-    "startDate": "2023-08-25T12:41:25+02:00",
-    "expiresDate": "2023-08-25T18:41:25+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandereignis - Fenster und Türen geschlossen halten - Queichhambach und Gräfenhausen (Annweiler)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BY-WUE-W164-20230825-000",
     "version": 5,
     "startDate": "2023-08-25T13:05:42+02:00",
