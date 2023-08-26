@@ -57,14 +57,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-HIG-W111-20230826-001",
+    "id": "mow.DE-TH-HIG-W111-20230826-002",
     "version": 5,
-    "startDate": "2023-08-26T21:25:18+02:00",
+    "startDate": "2023-08-26T21:38:57+02:00",
+    "expiresDate": "2023-08-27T03:38:57+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gasaustritt (Kohlenstoffdioxid) - Landkreis Eichsfeld Stadt Leinefelde- Worbis"
+      "de": "Entwarnung: Gasaustritt (Kohlenstoffdioxid) - Landkreis Eichsfeld Stadt Leinefelde- Worbis"
     },
     "transKeys": {
       "event": "BBK-EVC-027"
