@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20230826-122-000",
+    "id": "mow.DE-SN-HY-SE048-20230826-122-001",
     "version": 5,
-    "startDate": "2023-08-26T17:27:38+02:00",
+    "startDate": "2023-08-26T18:09:47+02:00",
+    "expiresDate": "2023-08-27T00:09:47+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Dachstuhlbrand - Stadt Colditz"
+      "de": "Entwarnung: Rauchentwicklung durch Dachstuhlbrand  - Stadt Colditz"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
