@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20230825-36-001",
-    "version": 5,
-    "startDate": "2023-08-26T01:27:53+02:00",
-    "expiresDate": "2023-08-26T07:27:53+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung aufgrund eines Großbrandes - Doberlug Kirchhain"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NI-HK-W223-20230826-001",
     "version": 5,
     "startDate": "2023-08-26T04:39:41+02:00",
@@ -57,14 +42,29 @@
     }
   },
   {
-    "id": "mow.DE-NW-GL-SE063-20230826-63-000",
+    "id": "mow.DE-NW-GL-SE063-20230826-63-001",
     "version": 5,
-    "startDate": "2023-08-26T04:42:33+02:00",
+    "startDate": "2023-08-26T07:29:20+02:00",
+    "expiresDate": "2023-08-26T13:29:20+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in Bergisch Gladbach Refrath Auf der Kaule - Bergisch Gladbach"
+      "de": "Entwarnung: Brand in Bergisch Gladbach Refrath Auf der Kaule - Bergisch Gladbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-BT-W082-20230826-000",
+    "version": 5,
+    "startDate": "2023-08-26T07:46:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "starke Rauchentwicklung nach Brand eines Sägewerks  - Losau - Prebitz"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
