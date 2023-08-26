@@ -55,5 +55,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-TH-HIG-W111-20230826-001",
+    "version": 5,
+    "startDate": "2023-08-26T21:25:18+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Gasaustritt (Kohlenstoffdioxid) - Landkreis Eichsfeld Stadt Leinefelde- Worbis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
