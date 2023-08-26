@@ -54,5 +54,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NI-HK-W223-20230826-000",
+    "version": 5,
+    "startDate": "2023-08-26T02:08:22+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall - Munster"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
