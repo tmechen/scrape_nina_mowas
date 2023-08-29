@@ -67,5 +67,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20230829-143-001",
+    "version": 5,
+    "startDate": "2023-08-29T13:23:07+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "brand von Gefahrgut auf BAB2 - Bundesautobahn 2"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-014"
+    }
   }
 ]
