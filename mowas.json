@@ -53,5 +53,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20230829-28-001",
+    "version": 5,
+    "startDate": "2023-08-29T12:17:50+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Evakuierung / Räumung - Wesselburen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
