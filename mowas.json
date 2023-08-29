@@ -27,20 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-SWA-W096-20230829-000",
-    "version": 5,
-    "startDate": "2023-08-29T14:03:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund - Rüdesheim am Rhein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE049-20230829-49-000",
     "version": 5,
     "startDate": "2023-08-29T14:17:49+02:00",
@@ -98,6 +84,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-014"
+    }
+  },
+  {
+    "id": "mow.DE-HE-SWA-W096-20230829-001",
+    "version": 5,
+    "startDate": "2023-08-29T19:26:39+02:00",
+    "expiresDate": "2023-08-30T01:26:39+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund - Rüdesheim am Rhein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
