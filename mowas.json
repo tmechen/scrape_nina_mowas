@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE049-20230829-49-000",
-    "version": 5,
-    "startDate": "2023-08-29T14:17:49+02:00",
-    "expiresDate": "2023-08-29T20:17:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Domsühl"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20230829-28-002",
     "version": 5,
     "startDate": "2023-08-29T16:36:48+02:00",
