@@ -40,5 +40,33 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BY-LA-W144-20230830-000",
+    "version": 5,
+    "startDate": "2023-08-30T15:36:55+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bakterielle Verkeimung im Trinkwasser in einzelnen Ortsteilen von Neustadt/Do. - Neustadt/Do. - Ortsteile Arresting, Hienheim, Irnsing, Eining und Marching"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20230830-18-000",
+    "version": 5,
+    "startDate": "2023-08-30T15:44:31+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasserverunreinigung - Abkochgebot - Böblingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
