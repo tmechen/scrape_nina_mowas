@@ -27,14 +27,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-WN-W053-20230830-000",
+    "id": "mow.DE-BW-WN-W053-20230830-001",
     "version": 5,
-    "startDate": "2023-08-30T11:17:53+02:00",
+    "startDate": "2023-08-30T12:53:41+02:00",
+    "expiresDate": "2023-08-30T18:53:41+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in Auenwald-Mittelbrüden - Auenwald-Mittelbrüden"
+      "de": "Entwarnung: Brand in Auenwald-Mittelbrüden - Auenwald-Mittelbrüden"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
