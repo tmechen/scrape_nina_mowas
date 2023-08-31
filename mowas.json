@@ -95,5 +95,19 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20230831-106-000",
+    "version": 5,
+    "startDate": "2023-08-31T15:46:56+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchwolke aufgrund eines Werkstattbrandes - Zierenberg Oelshausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
