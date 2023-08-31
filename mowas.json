@@ -81,5 +81,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-BB-BRB-SE081-20230831-81-000",
+    "version": 5,
+    "startDate": "2023-08-31T14:26:50+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Evakuierungsanordnung in Beelitz/Heilstätten - Beelitz/Heilstätten / Waldseeallee"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
