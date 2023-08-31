@@ -55,20 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-SE017-20230831-17-000",
-    "version": 5,
-    "startDate": "2023-08-31T06:39:22+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase durch Großbrand in einer Lagerhalle - Berlin Marzahn, Wolfener Straße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-ERK-SE056-20230831-56-000",
     "version": 5,
     "startDate": "2023-08-31T08:59:34+02:00",
@@ -80,20 +66,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-HE-KS-SE106-20230831-106-000",
-    "version": 5,
-    "startDate": "2023-08-31T15:46:56+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchwolke aufgrund eines Werkstattbrandes - Zierenberg Oelshausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
     }
   },
   {
@@ -109,6 +81,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20230831-106-001",
+    "version": 5,
+    "startDate": "2023-08-31T16:51:21+02:00",
+    "expiresDate": "2023-08-31T22:51:21+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchwolke aufgrund eines Werkstattbrandes - Zierenberg Oelshausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BR-B-SE017-20230831-17-001",
+    "version": 5,
+    "startDate": "2023-08-31T16:52:20+02:00",
+    "expiresDate": "2023-08-31T22:52:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase durch Großbrand in einer Lagerhalle - Berlin Marzahn, Wolfener Straße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
