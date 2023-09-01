@@ -67,5 +67,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-TH-EA-W114-20230901-000",
+    "version": 5,
+    "startDate": "2023-09-01T10:13:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall der Zentralen Einwahl zur Leitstelle Wartburgkreis über 03691-7220 - Wartburgkreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
+    }
   }
 ]
