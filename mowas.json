@@ -55,21 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EA-W114-20230901-001",
-    "version": 5,
-    "startDate": "2023-09-01T11:51:39+02:00",
-    "expiresDate": "2023-09-01T17:51:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall der Zentralen Einwahl zur Leitstelle Wartburgkreis - Wartburgkreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-006"
-    }
-  },
-  {
     "id": "mow.DE-NW-ERK-SE056-20230901-56-000",
     "version": 5,
     "startDate": "2023-09-01T13:25:34+02:00",
@@ -96,6 +81,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20230901-12-000",
+    "version": 5,
+    "startDate": "2023-09-01T17:57:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Fund von Weltkriegsmunition in Erfurt, Ortsteil Daberstedt - Stadt Erfurt, Bereich Daberstedt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
