@@ -55,21 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20230901-56-001",
-    "version": 5,
-    "startDate": "2023-09-01T19:11:00+02:00",
-    "expiresDate": "2023-09-02T01:11:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Evakuierung und Bombenentschärfung am heutigen Freitag, 01.09.2023 - Heinsberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20230901-12-001",
     "version": 5,
     "startDate": "2023-09-01T22:34:04+02:00",
