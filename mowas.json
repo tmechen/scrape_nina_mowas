@@ -69,14 +69,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20230831-001",
+    "id": "mow.DE-BY-IN-W139-20230901-000",
     "version": 5,
-    "startDate": "2023-09-01T01:06:36+02:00",
+    "startDate": "2023-09-01T02:01:43+02:00",
+    "expiresDate": "2023-09-01T08:01:43+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke durch Brand einer Lagerhalle - Ingolstadt Gewerbegebiet Manchinger Straße, Rothenturm und Niederfeld"
+      "de": "Entwarnung: Rauchwolke durch Brand einer Lagerhalle - Ingolstadt Gewerbegebiet Manchinger Straße, Rothenturm und Niederfeld"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
