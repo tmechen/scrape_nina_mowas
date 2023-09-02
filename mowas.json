@@ -53,5 +53,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NW-EN-SE069-20230902-69-000",
+    "version": 5,
+    "startDate": "2023-09-02T09:02:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall der Telefonverbindung (Amtsleitung) zur Kreisleitstelle Ennepe-Ruhr-Kreis - Gemeinden des Ennepe-Ruhr-Kreises"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
