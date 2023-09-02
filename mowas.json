@@ -55,21 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-EN-SE069-20230902-69-001",
-    "version": 5,
-    "startDate": "2023-09-02T11:20:19+02:00",
-    "expiresDate": "2023-09-02T17:20:19+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall der Telefonverbindung (Amtsleitung) zur Kreisleitstelle Ennepe - Gemeinden des Ennepe-Ruhr-Kreises"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20230902-001",
     "version": 5,
     "startDate": "2023-09-02T12:05:53+02:00",
