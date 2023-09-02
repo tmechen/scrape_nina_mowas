@@ -55,21 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20230902-001",
-    "version": 5,
-    "startDate": "2023-09-02T12:05:53+02:00",
-    "expiresDate": "2023-09-02T18:05:53+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenen-Probealarm - Loffenau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-NW-KLE-SE058-20230902-58-001",
     "version": 5,
     "startDate": "2023-09-02T12:12:52+02:00",
