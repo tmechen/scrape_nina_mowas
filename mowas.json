@@ -53,5 +53,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BY-WEN-W130-20230902-000",
+    "version": 5,
+    "startDate": "2023-09-02T21:53:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall Stadtgebiet Weiden - Weiden"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
