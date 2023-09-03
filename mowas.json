@@ -53,5 +53,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-RP-WW-SE116-20230903-123-000",
+    "version": 5,
+    "startDate": "2023-09-03T18:49:44+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand in der Altstadt Diez - Stadtgebiet Diez"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
