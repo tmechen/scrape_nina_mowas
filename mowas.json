@@ -67,5 +67,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-NW-LIP-SE041-20230903-41-000",
+    "version": 5,
+    "startDate": "2023-09-03T19:41:10+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brand - Detmold"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
