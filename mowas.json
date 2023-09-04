@@ -67,20 +67,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-NW-LIP-SE041-20230903-41-001",
-    "version": 5,
-    "startDate": "2023-09-03T21:56:33+02:00",
-    "expiresDate": "2023-09-04T03:56:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brand - Detmold"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
