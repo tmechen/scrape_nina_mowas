@@ -53,20 +53,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-RP-WW-SE116-20230904-123-000",
-    "version": 5,
-    "startDate": "2023-09-04T05:53:32+02:00",
-    "expiresDate": "2023-09-04T11:53:32+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in der Altstadt Diez - Stadtgebiet Diez"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
   }
 ]
