@@ -55,21 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20230905-001",
-    "version": 5,
-    "startDate": "2023-09-05T13:05:38+02:00",
-    "expiresDate": "2023-09-05T19:05:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenentest in der Stadt Rheinstetten - Stadt Rheinstetten"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE049-20230905-49-000",
     "version": 5,
     "startDate": "2023-09-05T16:55:24+02:00",
