@@ -83,5 +83,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-ME-SE071-20230906-71-000",
+    "version": 5,
+    "startDate": "2023-09-06T22:25:53+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hinweis zur Trinkwasserqualität - Stadt Velbert, Stadt Wülfrath"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-081"
+    }
   }
 ]
