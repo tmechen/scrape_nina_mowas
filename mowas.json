@@ -69,14 +69,15 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20230906-36-000",
+    "id": "mow.DE-BB-CB-SE036-20230906-36-001",
     "version": 5,
-    "startDate": "2023-09-06T08:24:01+02:00",
+    "startDate": "2023-09-06T12:00:30+02:00",
+    "expiresDate": "2023-09-06T18:00:30+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Brand einer Lagerhalle  - 03185 Turnow-Preilack / OT Turnow"
+      "de": "Entwarnung: Rauchentwicklung durch Brand einer Lagerhalle  - 03185 Turnow-Preilack / OT Turnow"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
