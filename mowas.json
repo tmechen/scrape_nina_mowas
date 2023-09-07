@@ -55,36 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20230907-001",
-    "version": 5,
-    "startDate": "2023-09-07T14:24:08+02:00",
-    "expiresDate": "2023-09-07T20:24:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand mit starker Rauchentwicklung - Lichtenau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BY-LA-W144-20230907-000",
-    "version": 5,
-    "startDate": "2023-09-07T14:32:57+02:00",
-    "expiresDate": "2023-09-07T20:32:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bakterielle Verkeimung im Trinkwasser in einzelnen Ortsteilen von Neus - Neustadt/Do. - Ortsteile Arresting, Hienheim, Irnsing, Eining und Marching"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230907-50-001",
     "version": 5,
     "startDate": "2023-09-07T19:18:27+02:00",
