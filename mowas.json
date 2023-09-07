@@ -84,14 +84,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20230907-000",
+    "id": "mow.DE-BW-RA-W025-20230907-001",
     "version": 5,
-    "startDate": "2023-09-07T13:02:17+02:00",
+    "startDate": "2023-09-07T14:24:08+02:00",
+    "expiresDate": "2023-09-07T20:24:08+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand mit starker Rauchentwicklung - Lichtenau"
+      "de": "Entwarnung: Brand mit starker Rauchentwicklung - Lichtenau"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
