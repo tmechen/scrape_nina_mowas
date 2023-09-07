@@ -55,21 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ME-SE071-20230907-71-000",
-    "version": 5,
-    "startDate": "2023-09-07T12:10:51+02:00",
-    "expiresDate": "2023-09-07T18:10:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hinweis zur Trinkwasserqualität - Stadt Velbert, Stadt Wülfrath"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-081"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20230907-001",
     "version": 5,
     "startDate": "2023-09-07T14:24:08+02:00",
