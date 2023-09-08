@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20230908-129-000",
-    "version": 5,
-    "startDate": "2023-09-08T16:28:34+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Giftige Rauchwolke durch Großbrand - Wolfenbüttel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-D-SE047-20230908-47-001",
     "version": 5,
     "startDate": "2023-09-08T16:50:14+02:00",
@@ -79,6 +65,35 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Feuerwehreinsatz - Trittau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20230908-129-001",
+    "version": 5,
+    "startDate": "2023-09-08T18:14:07+02:00",
+    "expiresDate": "2023-09-09T00:14:07+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Giftige Rauchwolke durch Großbrand - Wolfenbüttel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-OB-SE055-20230908-55-000",
+    "version": 5,
+    "startDate": "2023-09-08T18:17:43+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand mit starker Rauchentwicklung in Oberhausen - (Ortsteil) - Stadt Oberhausen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
