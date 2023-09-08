@@ -27,20 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-D-SE047-20230908-47-000",
-    "version": 5,
-    "startDate": "2023-09-08T11:49:40+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bombenfund - Düsseldorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20230908-18-000",
     "version": 5,
     "startDate": "2023-09-08T14:03:00+02:00",
@@ -67,6 +53,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-D-SE047-20230908-47-001",
+    "version": 5,
+    "startDate": "2023-09-08T16:50:14+02:00",
+    "expiresDate": "2023-09-08T22:50:14+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenfund - Düsseldorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
