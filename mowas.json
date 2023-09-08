@@ -54,5 +54,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20230908-129-000",
+    "version": 5,
+    "startDate": "2023-09-08T16:28:34+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Giftige Rauchwolke durch Großbrand - Wolfenbüttel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
