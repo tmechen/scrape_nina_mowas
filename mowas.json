@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WUE-W164-20230908-000",
-    "version": 5,
-    "startDate": "2023-09-08T09:54:58+02:00",
-    "expiresDate": "2023-09-08T15:54:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Abkochgebot für Trinkwasser im Versorgungsgebiet  Krommenthal, Landkre - Krommenthal der Verwaltungsgemeinschaft Partenstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NW-D-SE047-20230908-47-000",
     "version": 5,
     "startDate": "2023-09-08T11:49:40+02:00",
