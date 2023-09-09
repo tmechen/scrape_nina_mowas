@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-OB-SE055-20230908-55-002",
-    "version": 5,
-    "startDate": "2023-09-09T00:05:09+02:00",
-    "expiresDate": "2023-09-09T06:05:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Oberhausen - Bermersfeld - Stadt Oberhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-OB-SE055-20230908-55-003",
     "version": 5,
     "startDate": "2023-09-09T00:10:16+02:00",
