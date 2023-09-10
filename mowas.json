@@ -54,5 +54,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20230910-4-000",
+    "version": 5,
+    "startDate": "2023-09-10T04:00:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand mit starker Rauchentwicklung im Industriegebiet - Trierweiler"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
