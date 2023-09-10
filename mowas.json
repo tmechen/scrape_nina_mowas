@@ -56,20 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20230910-57-000",
-    "version": 5,
-    "startDate": "2023-09-10T20:37:27+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausbreitung von Brandrauch im Stadtgebiet Troisdorf - Stadt Troisdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-BO-SE077-20230910-77-001",
     "version": 5,
     "startDate": "2023-09-10T21:38:00+02:00",
@@ -79,6 +65,21 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Brandereignis in Bochum Werne - Bochum-Hiltrop"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SU-SE057-20230910-57-001",
+    "version": 5,
+    "startDate": "2023-09-10T22:00:28+02:00",
+    "expiresDate": "2023-09-11T04:00:28+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausbreitung von Brandrauch im Stadtgebiet Troisdorf - Stadt Troisdorf"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
