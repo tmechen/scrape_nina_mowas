@@ -13,21 +13,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20230909-106-002",
-    "version": 5,
-    "startDate": "2023-09-09T23:49:03+02:00",
-    "expiresDate": "2023-09-10T05:49:03+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand mit Rauchwolke - Kassel-[Nordshausen und Brasselsberg]"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20230909-84-000",
     "version": 5,
     "startDate": "2023-09-10T00:13:54+02:00",
