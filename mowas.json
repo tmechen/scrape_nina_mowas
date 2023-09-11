@@ -27,14 +27,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-EN-SE069-20230911-69-000",
+    "id": "mow.DE-NW-EN-SE069-20230911-69-001",
     "version": 5,
-    "startDate": "2023-09-11T06:55:13+02:00",
+    "startDate": "2023-09-11T12:33:53+02:00",
+    "expiresDate": "2023-09-11T18:33:53+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung in Wetter (Ruhr) und Witten - Wetter (Ruhr) und Witten"
+      "de": "Entwarnung: Geruchsbelästigung in Wetter (Ruhr) und Witten - Wetter (Ruhr) und Witten"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
