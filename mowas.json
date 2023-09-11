@@ -56,20 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20230911-100-001",
-    "version": 5,
-    "startDate": "2023-09-11T14:28:56+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "B5 Kreisverkehr - Niebüll"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-DO-SE067-20230911-67-001",
     "version": 5,
     "startDate": "2023-09-11T15:29:04+02:00",
@@ -82,6 +68,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20230911-100-002",
+    "version": 5,
+    "startDate": "2023-09-11T16:07:26+02:00",
+    "expiresDate": "2023-09-11T22:07:26+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: B5 Kreisverkehr - Niebüll"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
