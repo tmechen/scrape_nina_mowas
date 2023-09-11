@@ -41,21 +41,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BO-SE077-20230910-77-001",
-    "version": 5,
-    "startDate": "2023-09-10T21:38:00+02:00",
-    "expiresDate": "2023-09-11T03:38:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandereignis in Bochum Werne - Bochum-Hiltrop"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-SU-SE057-20230910-57-001",
     "version": 5,
     "startDate": "2023-09-10T22:00:28+02:00",
