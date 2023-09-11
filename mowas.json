@@ -27,21 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20230911-28-000",
-    "version": 5,
-    "startDate": "2023-09-11T04:37:44+02:00",
-    "expiresDate": "2023-09-11T10:37:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Kleve"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-EN-SE069-20230911-69-000",
     "version": 5,
     "startDate": "2023-09-11T06:55:13+02:00",
