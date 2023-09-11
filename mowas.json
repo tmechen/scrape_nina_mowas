@@ -39,20 +39,5 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
-  },
-  {
-    "id": "mow.DE-NW-SU-SE057-20230910-57-001",
-    "version": 5,
-    "startDate": "2023-09-10T22:00:28+02:00",
-    "expiresDate": "2023-09-11T04:00:28+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausbreitung von Brandrauch im Stadtgebiet Troisdorf - Stadt Troisdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
