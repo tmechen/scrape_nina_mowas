@@ -41,21 +41,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-DI-W104-20230912-000",
-    "version": 5,
-    "startDate": "2023-09-12T02:57:36+02:00",
-    "expiresDate": "2023-09-12T08:57:36+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand in Groß-Umstadt – halten sie vorsorglich Fenster und Türen g - Groß-Umstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20230912-99-000",
     "version": 5,
     "startDate": "2023-09-12T05:51:51+02:00",
