@@ -83,21 +83,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20230912-84-000",
-    "version": 5,
-    "startDate": "2023-09-12T08:29:08+02:00",
-    "expiresDate": "2023-09-12T14:29:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Gersthofen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-RP-KO-SE113-20230912-113-001",
     "version": 5,
     "startDate": "2023-09-12T10:11:14+02:00",
