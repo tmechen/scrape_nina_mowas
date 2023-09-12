@@ -41,21 +41,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20230912-99-000",
-    "version": 5,
-    "startDate": "2023-09-12T05:51:51+02:00",
-    "expiresDate": "2023-09-12T11:51:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Wankendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230912-50-000",
     "version": 5,
     "startDate": "2023-09-12T06:32:37+02:00",
@@ -154,6 +139,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NI-WTM-W213-20230912-000",
+    "version": 5,
+    "startDate": "2023-09-12T11:53:59+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung Großbrand, starke Rauchentwicklung - 26629 Großefehn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
