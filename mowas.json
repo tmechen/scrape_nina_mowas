@@ -55,34 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-LOE-W023-20230912-009",
-    "version": 5,
-    "startDate": "2023-09-12T07:58:54+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung - Schliengen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BW-FR-W022-20230912-000",
-    "version": 5,
-    "startDate": "2023-09-12T08:10:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung - Schliengen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-BOR-SE059-20230912-59-001",
     "version": 5,
     "startDate": "2023-09-12T12:25:29+02:00",
@@ -137,6 +109,36 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Rauchgase in Gelsenkirchen-Rotthausen - GE-Rotthausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-LOE-W023-20230912-010",
+    "version": 5,
+    "startDate": "2023-09-12T16:40:54+02:00",
+    "expiresDate": "2023-09-12T22:40:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung - Schliengen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-FR-W022-20230912-001",
+    "version": 5,
+    "startDate": "2023-09-12T16:41:54+02:00",
+    "expiresDate": "2023-09-12T22:41:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung - Schliengen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
