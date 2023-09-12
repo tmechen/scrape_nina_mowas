@@ -111,5 +111,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230912-50-000",
+    "version": 5,
+    "startDate": "2023-09-12T06:32:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand Schliengen - 79379 Müllheim, 79395 Neuenburg, 79395 Steinenhstadt, 79424 Auggen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
