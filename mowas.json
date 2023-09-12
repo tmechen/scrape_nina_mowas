@@ -55,21 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BOR-SE059-20230912-59-001",
-    "version": 5,
-    "startDate": "2023-09-12T12:25:29+02:00",
-    "expiresDate": "2023-09-12T18:25:29+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Schadstofffreisetzung in Ahaus Industriegebiet Nord - Ahaus Industriegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-WTM-W213-20230912-001",
     "version": 5,
     "startDate": "2023-09-12T12:58:43+02:00",
