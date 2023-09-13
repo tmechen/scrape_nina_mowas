@@ -69,5 +69,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20230913-106-001",
+    "version": 5,
+    "startDate": "2023-09-13T12:11:55+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Abkochgebot des Trinkwassers in Espenau - Mönchehof - Espenau - Mönchehof"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
