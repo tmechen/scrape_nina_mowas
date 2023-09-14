@@ -95,5 +95,19 @@
     "transKeys": {
       "event": "BBK-EVC-050"
     }
+  },
+  {
+    "id": "mow.DE-NW-BN-SE030-20230914-30-002",
+    "version": 5,
+    "startDate": "2023-09-14T10:59:07+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bundesweiter Warntag 2023 - Probewarnung - Deutschland"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
