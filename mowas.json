@@ -100,20 +100,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-OF-W106-20230914-000",
-    "version": 5,
-    "startDate": "2023-09-14T12:00:12+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand in Maintal - starke Rauchentwicklung - Offenbach a.M. - Stadtteile: Rumpenheim, Bürgel, Waldheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-WAF-SE045-20230914-45-000",
     "version": 5,
     "startDate": "2023-09-14T12:52:00+02:00",
@@ -126,6 +112,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-HE-OF-W106-20230914-001",
+    "version": 5,
+    "startDate": "2023-09-14T13:16:00+02:00",
+    "expiresDate": "2023-09-14T19:16:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand in Maintal - starke Rauchentwicklung - Offenbach a.M. - Stadtteile: Rumpenheim, Bürgel, Waldheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
