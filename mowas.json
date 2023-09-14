@@ -55,21 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BOT-SE062-20230914-62-001",
-    "version": 5,
-    "startDate": "2023-09-14T16:13:09+02:00",
-    "expiresDate": "2023-09-14T22:13:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgas durch Großbrand einer Lagerhalle - Bottrop Kirchhellen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20230914-106-000",
     "version": 5,
     "startDate": "2023-09-14T17:02:00+02:00",
