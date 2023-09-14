@@ -69,20 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-WES-SE097-20230914-97-001",
-    "version": 5,
-    "startDate": "2023-09-14T06:57:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgas durch Großbrand einer Lagerhalle - Bottrop Kirchhellen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE013-20230914-120-001",
     "version": 5,
     "startDate": "2023-09-14T11:30:03+02:00",
@@ -110,6 +96,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-NW-WES-SE097-20230914-97-002",
+    "version": 5,
+    "startDate": "2023-09-14T11:52:58+02:00",
+    "expiresDate": "2023-09-14T17:52:58+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgas durch Großbrand einer Lagerhalle - Bottrop Kirchhellen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HE-OF-W106-20230914-000",
+    "version": 5,
+    "startDate": "2023-09-14T12:00:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand in Maintal - starke Rauchentwicklung - Offenbach a.M. - Stadtteile: Rumpenheim, Bürgel, Waldheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
