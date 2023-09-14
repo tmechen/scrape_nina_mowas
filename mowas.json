@@ -81,5 +81,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE013-20230914-120-000",
+    "version": 5,
+    "startDate": "2023-09-14T10:44:54+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bundesweiter Warntag und Sirenentest vor Beginn der Sturmflutsaison - Hamburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
