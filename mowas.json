@@ -84,14 +84,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-RS-SE072-20230916-72-000",
+    "id": "mow.DE-NW-RS-SE072-20230916-72-001",
     "version": 5,
-    "startDate": "2023-09-16T08:35:57+02:00",
+    "startDate": "2023-09-16T09:23:44+02:00",
+    "expiresDate": "2023-09-16T15:23:44+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase - Remscheid, Stadtteil Innenstadt / Steinberg"
+      "de": "Entwarnung: Rauchgase - Remscheid, Stadtteil Innenstadt / Steinberg"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
