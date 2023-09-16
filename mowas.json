@@ -69,21 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-HIG-W111-20230916-001",
-    "version": 5,
-    "startDate": "2023-09-16T12:08:15+02:00",
-    "expiresDate": "2023-09-16T18:08:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenen-Funktionsprobe Stadt Heiligenstadt und VG Lindenberg/Eichsfeld - Heilbad Heiligenstadt und VG Lindenberg-Eichsfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20230916-99-001",
     "version": 5,
     "startDate": "2023-09-16T13:44:20+02:00",
