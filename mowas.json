@@ -99,14 +99,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20230916-99-000",
+    "id": "mow.DE-SH-KI-SE099-20230916-99-001",
     "version": 5,
-    "startDate": "2023-09-16T12:20:38+02:00",
+    "startDate": "2023-09-16T13:44:20+02:00",
+    "expiresDate": "2023-09-16T19:44:20+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gefahreninformation Feuerwehreinsatz - Stoltenberg - Fahren"
+      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Stoltenberg - Fahren"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
