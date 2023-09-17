@@ -67,5 +67,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20230917-89-000",
+    "version": 5,
+    "startDate": "2023-09-17T09:33:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund im Soester Westen - Stadt Soest"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
