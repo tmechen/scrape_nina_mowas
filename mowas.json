@@ -96,5 +96,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NW-MI-SE073-20230918-73-000",
+    "version": 5,
+    "startDate": "2023-09-18T16:20:48+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "In Teilen von Hüllhorst und Lübbecke - Hüllhorst und Lübbecke"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
