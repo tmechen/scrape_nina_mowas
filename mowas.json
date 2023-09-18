@@ -55,21 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20230918-129-001",
-    "version": 5,
-    "startDate": "2023-09-18T12:01:57+02:00",
-    "expiresDate": "2023-09-18T18:01:57+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Landkreis Helmstedt BAB A2 starke Rauchentwicklung durch brennenden LK - Landkreis Helmstedt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-MK-SE095-20230918-95-000",
     "version": 5,
     "startDate": "2023-09-18T13:16:24+02:00",
