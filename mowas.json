@@ -67,5 +67,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20230918-129-000",
+    "version": 5,
+    "startDate": "2023-09-18T10:03:24+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Landkreis Helmstedt BAB A2 starke Rauchentwicklung durch brennenden LKW - Landkreis Helmstedt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
