@@ -82,5 +82,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20230919-33-000",
+    "version": 5,
+    "startDate": "2023-09-19T20:16:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "500 kg-Bombe gefunden - Hamburg-Steinwerder"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
