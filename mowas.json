@@ -97,5 +97,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20230919-106-000",
+    "version": 5,
+    "startDate": "2023-09-19T14:48:07+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchwolke durch Großbrand einer Lagerhalle in Hohenahr Ortsteil Erda - Hohenahr Ortsteil Erda"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
