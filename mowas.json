@@ -69,21 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20230920-19-001",
-    "version": 5,
-    "startDate": "2023-09-20T15:12:24+02:00",
-    "expiresDate": "2023-09-20T21:12:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand auf einem Recyclingbetrieb - Bremen - Blockland"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230920-50-000",
     "version": 5,
     "startDate": "2023-09-20T15:54:42+02:00",
