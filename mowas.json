@@ -84,20 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-KLE-SE058-20230920-58-000",
-    "version": 5,
-    "startDate": "2023-09-20T10:56:30+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Goch - Goch"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-HB-HB-SE019-20230920-19-000",
     "version": 5,
     "startDate": "2023-09-20T12:07:14+02:00",
@@ -109,6 +95,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-KLE-SE058-20230920-58-001",
+    "version": 5,
+    "startDate": "2023-09-20T13:46:31+02:00",
+    "expiresDate": "2023-09-20T19:46:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Goch - Goch"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
