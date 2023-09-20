@@ -97,5 +97,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230920-50-000",
+    "version": 5,
+    "startDate": "2023-09-20T15:54:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Mikrobiologische Verunreinigung des Trinkwassers im Ortsteil Meßbach der Gemeinde - Gemeinde Dörzbach Ortsteil Meßbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
