@@ -69,14 +69,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-LIP-SE041-20230920-41-000",
+    "id": "mow.DE-NW-LIP-SE041-20230920-41-001",
     "version": 5,
-    "startDate": "2023-09-20T06:38:46+02:00",
+    "startDate": "2023-09-20T08:10:57+02:00",
+    "expiresDate": "2023-09-20T14:10:57+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand - Bad Salzuflen"
+      "de": "Entwarnung: Großbrand - Bad Salzuflen"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
