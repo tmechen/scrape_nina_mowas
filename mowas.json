@@ -67,5 +67,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NW-LIP-SE041-20230920-41-000",
+    "version": 5,
+    "startDate": "2023-09-20T06:38:46+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand - Bad Salzuflen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
