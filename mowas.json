@@ -83,21 +83,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20230921-106-000",
-    "version": 5,
-    "startDate": "2023-09-21T14:52:38+02:00",
-    "expiresDate": "2023-09-21T20:52:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Verunreinigung des Trinkwassers - Abkochgebot - Trendelburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NW-D-SE047-20230921-47-001",
     "version": 5,
     "startDate": "2023-09-21T16:21:43+02:00",
