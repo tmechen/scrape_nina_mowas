@@ -83,14 +83,15 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20230922-33-000",
+    "id": "mow.DE-HH-HH-SE033-20230922-33-001",
     "version": 5,
-    "startDate": "2023-09-22T03:13:31+02:00",
+    "startDate": "2023-09-22T05:54:47+02:00",
+    "expiresDate": "2023-09-22T11:54:47+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Hamburg-Hohenfelde"
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Hamburg-Hohenfelde"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
