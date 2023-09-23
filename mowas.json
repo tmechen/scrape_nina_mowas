@@ -27,20 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-LIP-SE041-20230917-41-000",
-    "version": 5,
-    "startDate": "2023-09-17T16:02:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Trinkwasserverunreinigung Abkochgebot - Bad Salzuflen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NW-MK-SE095-20230918-95-000",
     "version": 5,
     "startDate": "2023-09-18T13:16:24+02:00",
@@ -94,6 +80,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-NW-LIP-SE041-20230923-41-000",
+    "version": 5,
+    "startDate": "2023-09-23T13:49:13+02:00",
+    "expiresDate": "2023-09-23T19:49:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasserverunreinigung Abkochgebot - Bad Salzuflen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
