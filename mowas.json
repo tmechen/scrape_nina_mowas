@@ -67,20 +67,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-RP-MZ-SE114-20230924-125-000",
-    "version": 5,
-    "startDate": "2023-09-24T09:34:14+02:00",
-    "expiresDate": "2023-09-24T15:34:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Die Übung des Brand- und Katastrophenschutzes ist beendet! - Landkreis Alzey-Worms"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
   }
 ]
