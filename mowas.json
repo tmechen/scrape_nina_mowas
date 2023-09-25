@@ -27,20 +27,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MK-SE095-20230918-95-000",
-    "version": 5,
-    "startDate": "2023-09-18T13:16:24+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserverunreinigung Abkochgebot  - Neuenrade-Affeln und Altenaffeln"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230920-50-000",
     "version": 5,
     "startDate": "2023-09-20T15:54:42+02:00",
@@ -80,6 +66,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MK-SE095-20230925-95-000",
+    "version": 5,
+    "startDate": "2023-09-25T11:25:50+02:00",
+    "expiresDate": "2023-09-25T17:25:50+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasserverunreinigung Abkochgebot  - Neuenrade-Affeln und Altenaffeln"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
