@@ -82,5 +82,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20230925-000",
+    "version": 5,
+    "startDate": "2023-09-25T12:49:10+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vollsperrung Kreisverkehr B180, L72, L159 - Kreisverkehr B180, L72, L159"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-074"
+    }
   }
 ]
