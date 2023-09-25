@@ -55,20 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20230925-50-000",
-    "version": 5,
-    "startDate": "2023-09-25T07:43:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand von ca. 200 Strohballen - Offenburg-Windschläg / Offenburg-Griesheim / BAB 5"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-MK-SE095-20230925-95-000",
     "version": 5,
     "startDate": "2023-09-25T11:25:50+02:00",
@@ -95,6 +81,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-074"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230925-50-001",
+    "version": 5,
+    "startDate": "2023-09-25T13:44:25+02:00",
+    "expiresDate": "2023-09-25T19:44:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand von ca. 200 Strohballen - Offenburg-Windschläg / Offenburg-Griesheim / BAB 5"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
