@@ -55,20 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20230925-000",
-    "version": 5,
-    "startDate": "2023-09-25T12:49:10+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vollsperrung Kreisverkehr B180, L72, L159 - Kreisverkehr B180, L72, L159"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-074"
-    }
-  },
-  {
     "id": "mow.DE-BB-BRB-SE081-20230926-81-000",
     "version": 5,
     "startDate": "2023-09-26T05:38:37+02:00",
@@ -80,6 +66,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20230926-000",
+    "version": 5,
+    "startDate": "2023-09-26T06:47:41+02:00",
+    "expiresDate": "2023-09-26T12:47:41+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Vollsperrung Kreisverkehr B180, L72, L159 - Kreisverkehr B180, L72, L159"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-074"
     }
   }
 ]
