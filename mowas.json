@@ -68,5 +68,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20230927-105-000",
+    "version": 5,
+    "startDate": "2023-09-27T09:43:47+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Allgemeiner Schadensfall - Bad Malente"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
