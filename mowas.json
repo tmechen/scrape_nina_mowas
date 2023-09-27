@@ -55,14 +55,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-NE-SE044-20230927-44-000",
+    "id": "mow.DE-NW-NE-SE044-20230927-44-001",
     "version": 5,
-    "startDate": "2023-09-27T03:58:28+02:00",
+    "startDate": "2023-09-27T06:22:09+02:00",
+    "expiresDate": "2023-09-27T12:22:09+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung in Jüchen - Jüchen"
+      "de": "Entwarnung: Geruchsbelästigung in Jüchen - Jüchen"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
