@@ -69,20 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-WB-W056-20230927-001",
-    "version": 5,
-    "startDate": "2023-09-27T11:25:17+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Lutherstadt Wittenberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20230927-105-001",
     "version": 5,
     "startDate": "2023-09-27T16:03:28+02:00",
@@ -92,6 +78,21 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Allgemeiner Schadensfall - Bad Malente"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-ST-WB-W056-20230927-002",
+    "version": 5,
+    "startDate": "2023-09-27T17:13:51+02:00",
+    "expiresDate": "2023-09-27T23:13:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Lutherstadt Wittenberg"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
