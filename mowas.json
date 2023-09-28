@@ -67,5 +67,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NI-H-SE110-20230928-110-000",
+    "version": 5,
+    "startDate": "2023-09-28T10:15:04+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Fenster und Türen im Bereich geschlossen halten, Rauchentwicklung d. Feuer  - Neustadt am Rübenberge , Bereich Gewerbegebiet Ost"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
