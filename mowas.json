@@ -83,20 +83,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20230928-28-000",
-    "version": 5,
-    "startDate": "2023-09-28T18:42:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Halstenbek"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-TH-J-W110-20230928-001",
     "version": 5,
     "startDate": "2023-09-28T20:35:11+02:00",
@@ -109,6 +95,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20230928-28-001",
+    "version": 5,
+    "startDate": "2023-09-28T21:26:12+02:00",
+    "expiresDate": "2023-09-29T03:26:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Halstenbek"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
