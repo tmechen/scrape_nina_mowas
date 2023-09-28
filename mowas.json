@@ -97,14 +97,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-J-W110-20230928-000",
+    "id": "mow.DE-TH-J-W110-20230928-001",
     "version": 5,
-    "startDate": "2023-09-28T19:05:55+02:00",
+    "startDate": "2023-09-28T20:35:11+02:00",
+    "expiresDate": "2023-09-29T02:35:11+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Belästigung durch Brandgase - Serba / B 7 zwischen Hainspitz und Bürgel"
+      "de": "Entwarnung: Belästigung durch Brandgase - Serba / B 7 zwischen Hainspitz und Bürgel"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
