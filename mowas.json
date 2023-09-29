@@ -83,14 +83,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20230929-105-000",
+    "id": "mow.DE-SH-OD-SE105-20230929-105-001",
     "version": 5,
-    "startDate": "2023-09-29T14:03:48+02:00",
+    "startDate": "2023-09-29T14:53:08+02:00",
+    "expiresDate": "2023-09-29T20:53:08+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Stromversorgung in Neustadt in Holstein - Neustadt in Holstein"
+      "de": "Entwarnung: Ausfall Stromversorgung in Neustadt in Holstein - Neustadt in Holstein"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
