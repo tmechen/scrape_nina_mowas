@@ -112,5 +112,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20230929-50-000",
+    "version": 5,
+    "startDate": "2023-09-29T22:09:36+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Großbrand - Stadt Offenburg (Südstadt), Gemeinde Ortenberg (Landkreis Ortenaukreis)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
