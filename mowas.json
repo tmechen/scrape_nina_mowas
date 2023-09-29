@@ -113,28 +113,30 @@
     }
   },
   {
-    "id": "mow.DE-NW-KLE-SE058-20230929-58-000",
+    "id": "mow.DE-NW-KLE-SE058-20230929-58-002",
     "version": 5,
-    "startDate": "2023-09-29T16:21:08+02:00",
+    "startDate": "2023-09-29T20:07:31+02:00",
+    "expiresDate": "2023-09-30T02:07:31+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund Stadt Kleve - Stadt Kleve Hoffmannallee"
+      "de": "Entwarnung: Kampfmittelfund Stadt Kleve - Stadt Kleve Hoffmannallee"
     },
     "transKeys": {
       "event": "BBK-EVC-009"
     }
   },
   {
-    "id": "mow.DE-NW-KLE-SE058-20230929-58-001",
+    "id": "mow.DE-NW-KLE-SE058-20230929-58-003",
     "version": 5,
-    "startDate": "2023-09-29T16:29:45+02:00",
+    "startDate": "2023-09-29T20:07:37+02:00",
+    "expiresDate": "2023-09-30T02:07:37+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund Stadt Kleve - Stadt Kleve Hoffmannallee"
+      "de": "Entwarnung: Kampfmittelfund Stadt Kleve - Stadt Kleve Hoffmannallee"
     },
     "transKeys": {
       "event": "BBK-EVC-009"
