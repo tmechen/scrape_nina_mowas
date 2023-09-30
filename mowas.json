@@ -69,29 +69,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20230930-106-001",
+    "id": "mow.DE-NW-HF-SE039-20230930-39-001",
     "version": 5,
-    "startDate": "2023-09-30T14:26:22+02:00",
-    "expiresDate": "2023-09-30T20:26:22+02:00",
+    "startDate": "2023-09-30T20:34:01+02:00",
+    "expiresDate": "2023-10-01T02:34:01+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Katastrophenschutzübung Kreis Groß-Gerau - Groß-Gerau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-NW-HF-SE039-20230930-39-000",
-    "version": 5,
-    "startDate": "2023-09-30T15:51:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase in Herford - Stadt Herford"
+      "de": "Entwarnung: Rauchgase in Herford - Stadt Herford"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
