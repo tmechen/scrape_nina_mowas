@@ -69,51 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-KLE-SE058-20230929-58-002",
-    "version": 5,
-    "startDate": "2023-09-29T20:07:31+02:00",
-    "expiresDate": "2023-09-30T02:07:31+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund Stadt Kleve - Stadt Kleve Hoffmannallee"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
-    "id": "mow.DE-NW-KLE-SE058-20230929-58-003",
-    "version": 5,
-    "startDate": "2023-09-29T20:07:37+02:00",
-    "expiresDate": "2023-09-30T02:07:37+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund Stadt Kleve - Stadt Kleve Hoffmannallee"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20230929-84-001",
-    "version": 5,
-    "startDate": "2023-09-29T20:31:43+02:00",
-    "expiresDate": "2023-09-30T02:31:43+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenfund Cham - Stadtgebiet Cham, westlich Weiherhausstraße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20230929-50-000",
     "version": 5,
     "startDate": "2023-09-29T22:09:36+02:00",
