@@ -69,14 +69,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20230930-106-000",
+    "id": "mow.DE-HE-KS-SE106-20230930-106-001",
     "version": 5,
-    "startDate": "2023-09-30T08:10:38+02:00",
+    "startDate": "2023-09-30T14:26:22+02:00",
+    "expiresDate": "2023-09-30T20:26:22+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Katastrophenschutzübung Kreis Groß-Gerau - Groß-Gerau"
+      "de": "Entwarnung: Katastrophenschutzübung Kreis Groß-Gerau - Groß-Gerau"
     },
     "transKeys": {
       "event": "BBK-EVC-077"
