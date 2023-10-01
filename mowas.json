@@ -81,20 +81,5 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029-20231001-29-001",
-    "version": 5,
-    "startDate": "2023-10-01T10:49:32+02:00",
-    "expiresDate": "2023-10-01T16:49:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand im Landkreis Ammerland \" Entwarnung\" - Landkreis Ammerland in der Stadt Westerstede"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
