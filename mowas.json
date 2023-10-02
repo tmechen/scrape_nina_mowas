@@ -69,14 +69,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-KL-SE112-20231001-112-001",
+    "id": "mow.DE-RP-KL-SE112-20231002-112-000",
     "version": 5,
-    "startDate": "2023-10-01T20:17:30+02:00",
+    "startDate": "2023-10-02T05:16:34+02:00",
+    "expiresDate": "2023-10-02T11:16:34+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand bei Kompostwerk Weilerbach - Rodenbach, Weilerbach, Siegelbach, KL E-Hof, Landstuhl, Ramstein, Kindsbach"
+      "de": "Entwarnung: Brand bei Kompostwerk Weilerbach gelöscht! - Rodenbach, Weilerbach, Siegelbach, KL E-Hof, Landstuhl, Ramstein, Kindsbach"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
