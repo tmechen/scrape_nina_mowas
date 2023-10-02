@@ -69,21 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-NMS-SE101-20231002-101-001",
-    "version": 5,
-    "startDate": "2023-10-02T14:27:04+02:00",
-    "expiresDate": "2023-10-02T20:27:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuer - Neumünster"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HB-HB-SE019-20231002-19-001",
     "version": 5,
     "startDate": "2023-10-02T16:17:51+02:00",
