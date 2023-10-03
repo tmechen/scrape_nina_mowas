@@ -83,14 +83,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20231003-000",
+    "id": "mow.DE-BW-HD-W086-20231003-001",
     "version": 5,
-    "startDate": "2023-10-03T17:13:34+02:00",
+    "startDate": "2023-10-03T20:04:28+02:00",
+    "expiresDate": "2023-10-04T02:04:28+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand im Industriegebiet - Walldorf Wiesloch Nußloch"
+      "de": "Entwarnung: Großbrand im Industriegebiet - Walldorf Wiesloch Nußloch"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
