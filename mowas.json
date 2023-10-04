@@ -69,21 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GE-SE064-20231004-64-001",
-    "version": 5,
-    "startDate": "2023-10-04T10:13:38+02:00",
-    "expiresDate": "2023-10-04T16:13:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauch- und Geruchsbelästigung durch einen Strohballenbrand - Gelsenkirchen Scholven"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HB-HB-SE019-20231004-19-000",
     "version": 5,
     "startDate": "2023-10-04T10:27:04+02:00",
