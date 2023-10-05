@@ -69,18 +69,17 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20231004-33-001",
+    "id": "mow.DE-NW-EN-SE069-20231005-69-000",
     "version": 5,
-    "startDate": "2023-10-04T20:39:53+02:00",
-    "expiresDate": "2023-10-05T02:39:53+02:00",
+    "startDate": "2023-10-05T02:41:26+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: 1000lbs-Bombe entschärft! - Hamburg-Wilhelmsburg / Neuhof"
+      "de": "Geruchsbelästigung in Gevelsberg Haufe - Gevelsberg"
     },
     "transKeys": {
-      "event": "BBK-EVC-079"
+      "event": "BBK-EVC-030"
     }
   }
 ]
