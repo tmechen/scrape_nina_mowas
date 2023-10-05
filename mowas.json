@@ -83,14 +83,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20231005-84-000",
+    "id": "mow.DE-BY-R-SE084-20231005-84-001",
     "version": 5,
-    "startDate": "2023-10-05T12:29:17+02:00",
+    "startDate": "2023-10-05T14:14:35+02:00",
+    "expiresDate": "2023-10-05T20:14:35+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Amberg Stadtteil Ammersricht"
+      "de": "Entwarnung: Starke Rauchentwicklung - Amberg Stadtteil Ammersricht"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
