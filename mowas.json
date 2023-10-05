@@ -125,5 +125,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NW-HAM-SE085-20231005-85-000",
+    "version": 5,
+    "startDate": "2023-10-06T00:16:51+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Belästigung durch Rauchgase in der Stadt Hamm - HAMM - Mitte"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
