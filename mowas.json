@@ -69,20 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20231005-31-000",
-    "version": 5,
-    "startDate": "2023-10-05T16:20:02+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Fund einer Weltkriegsbombe - Köln - Innenstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BY-TS-W135-20231005-000",
     "version": 5,
     "startDate": "2023-10-05T17:18:02+02:00",
@@ -94,21 +80,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20231005-84-003",
-    "version": 5,
-    "startDate": "2023-10-05T17:22:41+02:00",
-    "expiresDate": "2023-10-05T23:22:41+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung - Willmering, Ortsteil Brennet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
     }
   },
   {
@@ -138,6 +109,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20231005-31-001",
+    "version": 5,
+    "startDate": "2023-10-05T23:44:17+02:00",
+    "expiresDate": "2023-10-06T05:44:17+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Fund einer Weltkriegsbombe - Köln - Innenstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
