@@ -83,20 +83,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DU-SE038-20231005-38-000",
-    "version": 5,
-    "startDate": "2023-10-05T18:36:46+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Wichtige Information der Stadt Duisburg (Kampfmittelfund) - Duisburg-Duissern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-HE-GG-W222-20231005-001",
     "version": 5,
     "startDate": "2023-10-05T20:30:06+02:00",
@@ -138,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DU-SE038-20231005-38-001",
+    "version": 5,
+    "startDate": "2023-10-06T01:16:33+02:00",
+    "expiresDate": "2023-10-06T07:16:33+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Wichtige Information der Stadt Duisburg (Kampfmittelfund) - Duisburg-Duissern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
