@@ -55,21 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-EN-SE069-20231005-69-001",
-    "version": 5,
-    "startDate": "2023-10-05T04:11:24+02:00",
-    "expiresDate": "2023-10-05T10:11:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Gevelsberg Haufe - Gevelsberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-MV-HST-W239-20231005-000",
     "version": 5,
     "startDate": "2023-10-05T09:02:00+02:00",
