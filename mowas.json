@@ -55,20 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-BA-W140-20230929-000",
-    "version": 5,
-    "startDate": "2023-09-29T08:53:37+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Trinkwasserverunreinigung - Ortsteile Kälberberg, Hochstall, Tiefenhöchstadt und Frankendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NW-EN-SE069-20231005-69-001",
     "version": 5,
     "startDate": "2023-10-05T04:11:24+02:00",
@@ -95,6 +81,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-BA-W140-20231005-000",
+    "version": 5,
+    "startDate": "2023-10-05T10:08:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Trinkwasserverunreinigung - Kontrollierte Chlordosierung - Ortsteile Kälberberg, Hochstall, Tiefenhöchstadt und Frankendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
