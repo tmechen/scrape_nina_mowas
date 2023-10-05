@@ -69,21 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20231005-84-001",
-    "version": 5,
-    "startDate": "2023-10-05T14:14:35+02:00",
-    "expiresDate": "2023-10-05T20:14:35+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung - Amberg Stadtteil Ammersricht"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20231005-31-000",
     "version": 5,
     "startDate": "2023-10-05T16:20:02+02:00",
@@ -156,14 +141,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-GG-W222-20231005-000",
+    "id": "mow.DE-HE-GG-W222-20231005-001",
     "version": 5,
-    "startDate": "2023-10-05T19:38:13+02:00",
+    "startDate": "2023-10-05T20:30:06+02:00",
+    "expiresDate": "2023-10-06T02:30:06+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung - Rüsselsheim am Main"
+      "de": "Entwarnung: Geruchsbelästigung - Rüsselsheim am Main"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
