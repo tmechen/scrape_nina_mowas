@@ -83,20 +83,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HAM-SE085-20231005-85-000",
-    "version": 5,
-    "startDate": "2023-10-06T00:16:51+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Belästigung durch Rauchgase in der Stadt Hamm - HAMM - Mitte"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-DU-SE038-20231005-38-001",
     "version": 5,
     "startDate": "2023-10-06T01:16:33+02:00",
@@ -109,6 +95,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HAM-SE085-20231006-85-000",
+    "version": 5,
+    "startDate": "2023-10-06T06:54:42+02:00",
+    "expiresDate": "2023-10-06T12:54:42+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Belästigung durch Rauchgase in der Stadt Hamm - HAMM - Mitte"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LU-SE005-20231006-5-000",
+    "version": 5,
+    "startDate": "2023-10-06T06:59:36+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand - Heuchelheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HAM-SE085-20231006-85-001",
+    "version": 5,
+    "startDate": "2023-10-06T07:09:22+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Russniederschlag durch Großbrand im Stadtgebiet - Hamm-Mitte"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
