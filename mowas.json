@@ -124,5 +124,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20231006-4-001",
+    "version": 5,
+    "startDate": "2023-10-06T19:13:58+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brandeinsatz in Gondorf - Gemeinde Gondorf und Gemeinde Dudeldorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
