@@ -97,21 +97,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HAM-SE085-20231006-85-002",
-    "version": 5,
-    "startDate": "2023-10-06T18:48:04+02:00",
-    "expiresDate": "2023-10-07T00:48:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Russniederschlag durch Großbrand im Stadtgebiet - Hamm-Mitte"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-SE004-20231006-4-002",
     "version": 5,
     "startDate": "2023-10-06T20:48:36+02:00",
