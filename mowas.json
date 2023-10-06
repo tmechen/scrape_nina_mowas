@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LU-SE005-20231006-5-000",
-    "version": 5,
-    "startDate": "2023-10-06T06:59:36+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand - Heuchelheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-HAM-SE085-20231006-85-001",
     "version": 5,
     "startDate": "2023-10-06T07:09:22+02:00",
@@ -123,6 +109,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LU-SE005-20231006-5-001",
+    "version": 5,
+    "startDate": "2023-10-06T09:49:35+02:00",
+    "expiresDate": "2023-10-06T15:49:35+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand - Heuchelheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
