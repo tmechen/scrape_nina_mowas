@@ -97,18 +97,17 @@
     }
   },
   {
-    "id": "mow.DE-RP-LU-SE005-20231006-5-001",
+    "id": "mow.DE-SH-EH-SE028-20231006-28-000",
     "version": 5,
-    "startDate": "2023-10-06T09:49:35+02:00",
-    "expiresDate": "2023-10-06T15:49:35+02:00",
+    "startDate": "2023-10-06T15:49:32+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Großbrand - Heuchelheim"
+      "de": "Großbrand - Risum Lindholm"
     },
     "transKeys": {
-      "event": "BBK-EVC-010"
+      "event": "BBK-EVC-034"
     }
   }
 ]
