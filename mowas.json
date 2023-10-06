@@ -83,21 +83,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-GG-W222-20231005-001",
-    "version": 5,
-    "startDate": "2023-10-05T20:30:06+02:00",
-    "expiresDate": "2023-10-06T02:30:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Rüsselsheim am Main"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20231005-31-001",
     "version": 5,
     "startDate": "2023-10-05T23:44:17+02:00",
