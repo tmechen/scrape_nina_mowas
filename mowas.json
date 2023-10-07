@@ -97,36 +97,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-EW-SE079-20231007-79-001",
-    "version": 5,
-    "startDate": "2023-10-07T11:02:23+02:00",
-    "expiresDate": "2023-10-07T17:02:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Birkenwerder"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RA-W025-20231007-001",
-    "version": 5,
-    "startDate": "2023-10-07T11:05:10+02:00",
-    "expiresDate": "2023-10-07T17:05:10+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenen-Probealarm - Durmersheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-TH-UH-W116-20231007-001",
     "version": 5,
     "startDate": "2023-10-07T11:09:28+02:00",
