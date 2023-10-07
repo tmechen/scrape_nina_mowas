@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-VER-W077-20231007-000",
-    "version": 5,
-    "startDate": "2023-10-07T08:53:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Der Landkreis Verden führt im Bereich Thedinghausen eine Großübung durch - Samtgemeinde Thedinghausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-035"
-    }
-  },
-  {
     "id": "mow.DE-TH-AP-W115-20231007-001",
     "version": 5,
     "startDate": "2023-10-07T10:01:24+02:00",
@@ -186,14 +172,30 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20231007-000",
+    "id": "mow.DE-NI-VER-W077-20231007-001",
     "version": 5,
-    "startDate": "2023-10-07T11:18:18+02:00",
+    "startDate": "2023-10-07T11:26:46+02:00",
+    "expiresDate": "2023-10-07T17:26:46+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Probealarm Feuerwehr Landkreis Neuburg - Schrobenhausen - Neuburg-Schrobenhausen"
+      "de": "Entwarnung: Der Landkreis Verden führt im Bereich Thedinghausen eine Großübung dur - Samtgemeinde Thedinghausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-035"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20231007-001",
+    "version": 5,
+    "startDate": "2023-10-07T11:35:17+02:00",
+    "expiresDate": "2023-10-07T17:35:17+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Probealarm Feuerwehr Landkreis Neuburg - Schrobenhausen - Neuburg-Schrobenhausen"
     },
     "transKeys": {
       "event": "BBK-EVC-060"
