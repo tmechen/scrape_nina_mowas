@@ -110,5 +110,19 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-NI-VER-W077-20231007-000",
+    "version": 5,
+    "startDate": "2023-10-07T08:53:09+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Der Landkreis Verden führt im Bereich Thedinghausen eine Großübung durch - Samtgemeinde Thedinghausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-035"
+    }
   }
 ]
