@@ -109,5 +109,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-HE-DI-W104-20231008-001",
+    "version": 5,
+    "startDate": "2023-10-08T06:27:58+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand Modautal-Lützelbach - Fischbachtal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
