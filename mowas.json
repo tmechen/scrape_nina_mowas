@@ -111,14 +111,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20231008-4-000",
+    "id": "mow.DE-RP-TR-SE004-20231008-4-001",
     "version": 5,
-    "startDate": "2023-10-08T07:35:29+02:00",
+    "startDate": "2023-10-08T10:32:57+02:00",
+    "expiresDate": "2023-10-08T16:32:57+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Fund von 2 Fliegerbomben - Industriegebiet Wittlich-Wengerohr Süd"
+      "de": "Entwarnung: Fund von 2 Fliegerbomben - Industriegebiet Wittlich-Wengerohr Süd"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
