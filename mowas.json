@@ -83,36 +83,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-DI-W104-20231008-002",
-    "version": 5,
-    "startDate": "2023-10-08T10:59:18+02:00",
-    "expiresDate": "2023-10-08T16:59:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand Modautal-Lützelbach - Fischbachtal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-HE-KS-SE106-20231008-106-001",
-    "version": 5,
-    "startDate": "2023-10-08T11:00:41+02:00",
-    "expiresDate": "2023-10-08T17:00:41+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand Lützelbach– halten sie vorsorglich Fenster und Türen geschlo - Modautal-Lützelbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-TH-GT-W112-20231008-000",
     "version": 5,
     "startDate": "2023-10-08T14:01:47+02:00",
