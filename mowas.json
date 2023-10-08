@@ -113,14 +113,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-UN-SE068-20231008-68-000",
+    "id": "mow.DE-NW-UN-SE068-20231008-68-001",
     "version": 5,
-    "startDate": "2023-10-08T19:23:14+02:00",
+    "startDate": "2023-10-08T21:06:27+02:00",
+    "expiresDate": "2023-10-09T03:06:27+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase - Stadtgebiet Lünen"
+      "de": "Entwarnung: Rauchgase - Stadtgebiet Lünen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
