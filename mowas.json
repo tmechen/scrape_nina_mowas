@@ -140,5 +140,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-EN-SE069-20231008-69-000",
+    "version": 5,
+    "startDate": "2023-10-08T15:17:46+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Ennepetal (Milspe) - Stadt Ennepetal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
