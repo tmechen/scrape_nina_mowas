@@ -69,21 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-BA-W140-20231009-000",
-    "version": 5,
-    "startDate": "2023-10-09T09:26:25+02:00",
-    "expiresDate": "2023-10-09T15:26:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserverunreinigung in Strullendorf - Gemeindegebiet Strullendorf (Kernort und alle Ortsteile)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20231009-12-003",
     "version": 5,
     "startDate": "2023-10-09T11:29:49+02:00",
