@@ -55,21 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20231009-000",
-    "version": 5,
-    "startDate": "2023-10-09T16:26:23+02:00",
-    "expiresDate": "2023-10-09T22:26:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Entwarnung Trinkwasserverunreinigung - Gemeindegebiet Marquartstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NW-DO-SE067-20231009-67-000",
     "version": 5,
     "startDate": "2023-10-09T17:20:35+02:00",
