@@ -41,20 +41,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-BA-W140-20230927-000",
-    "version": 5,
-    "startDate": "2023-09-27T11:22:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserverunreinigung in Strullendorf - Gemeindegebiet Strullendorf (Kernort und alle Ortsteile)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-BA-W140-20231005-000",
     "version": 5,
     "startDate": "2023-10-05T10:08:54+02:00",
@@ -77,6 +63,21 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Trinkwasserverunreinigung - Gemeindegebiet Marquartstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-BA-W140-20231009-000",
+    "version": 5,
+    "startDate": "2023-10-09T09:26:25+02:00",
+    "expiresDate": "2023-10-09T15:26:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasserverunreinigung in Strullendorf - Gemeindegebiet Strullendorf (Kernort und alle Ortsteile)"
     },
     "transKeys": {
       "event": "BBK-EVC-069"
