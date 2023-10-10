@@ -55,18 +55,17 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20231010-67-000",
+    "id": "mow.DE-BW-S-SE018-20231010-18-000",
     "version": 5,
-    "startDate": "2023-10-10T07:40:49+02:00",
-    "expiresDate": "2023-10-10T13:40:49+02:00",
+    "startDate": "2023-10-10T13:55:49+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Ausfall Telefonleitung Krankentransport 19222 / Amtsleitung 0231 845-0 - Dortmund"
+      "de": "Störung der Trinkwasserversorgung - Erlenbach (inklusive Teilorte)"
     },
     "transKeys": {
-      "event": "BBK-EVC-006"
+      "event": "BBK-EVC-069"
     }
   }
 ]
