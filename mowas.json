@@ -67,5 +67,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20231010-18-001",
+    "version": 5,
+    "startDate": "2023-10-10T15:46:17+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Störung der Hauptwasserleitung - Bitte Wasser sparen - Sulmtal / Mittleres Neckartal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
