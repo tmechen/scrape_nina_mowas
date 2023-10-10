@@ -55,20 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20231009-67-000",
-    "version": 5,
-    "startDate": "2023-10-09T17:20:35+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall Telefonleitung Krankentransport 19222 / Amtsleitung 0231 845-0   - Dortmund"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-006"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20231010-28-001",
     "version": 5,
     "startDate": "2023-10-10T04:14:33+02:00",
@@ -81,6 +67,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20231010-67-000",
+    "version": 5,
+    "startDate": "2023-10-10T07:40:49+02:00",
+    "expiresDate": "2023-10-10T13:40:49+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall Telefonleitung Krankentransport 19222 / Amtsleitung 0231 845-0 - Dortmund"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
     }
   }
 ]
