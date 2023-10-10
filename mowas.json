@@ -69,14 +69,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20231010-28-000",
+    "id": "mow.DE-SH-EH-SE028-20231010-28-001",
     "version": 5,
-    "startDate": "2023-10-10T02:38:00+02:00",
+    "startDate": "2023-10-10T04:14:33+02:00",
+    "expiresDate": "2023-10-10T10:14:33+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Henstedt-Ulzburg"
+      "de": "Entwarnung: Feuerwehreinsatz - Henstedt-Ulzburg"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
