@@ -123,5 +123,19 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-HE-FD-W183-20231010-000",
+    "version": 5,
+    "startDate": "2023-10-10T22:58:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand in Großenlüder - Großenlüder"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
