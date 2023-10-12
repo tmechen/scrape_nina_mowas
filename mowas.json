@@ -126,14 +126,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20231012-4-000",
+    "id": "mow.DE-RP-TR-SE004-20231012-4-001",
     "version": 5,
-    "startDate": "2023-10-12T08:12:54+02:00",
+    "startDate": "2023-10-12T09:25:04+02:00",
+    "expiresDate": "2023-10-12T15:25:04+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand von Strohballen - Stadtgebiet Trier"
+      "de": "Entwarnung: Brand von Strohballen - Stadtgebiet Trier"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
