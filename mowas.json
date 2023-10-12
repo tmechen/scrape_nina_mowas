@@ -139,5 +139,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20231012-99-000",
+    "version": 5,
+    "startDate": "2023-10-12T11:40:03+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahreninformation Feuerwehreinsatz - Kreis Plön"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
