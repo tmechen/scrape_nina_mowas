@@ -111,14 +111,15 @@
     }
   },
   {
-    "id": "mow.DE-BB-BRB-SE081-20231011-81-000",
+    "id": "mow.DE-BB-BRB-SE081-20231012-81-000",
     "version": 5,
-    "startDate": "2023-10-11T19:33:17+02:00",
+    "startDate": "2023-10-12T06:40:52+02:00",
+    "expiresDate": "2023-10-12T12:40:52+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand im Landkreis Teltow-Fläming, Gemeinde Niedergörsdorf, Ortsteil Rohrbeck - Rohrbeck"
+      "de": "Entwarnung: Brand im Landkreis Teltow-Fläming, Gemeinde Niedergörsdorf, Ortsteil R - Rohrbeck"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
