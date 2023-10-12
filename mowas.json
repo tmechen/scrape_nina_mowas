@@ -111,21 +111,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20231012-99-001",
-    "version": 5,
-    "startDate": "2023-10-12T13:02:56+02:00",
-    "expiresDate": "2023-10-12T19:02:56+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Kreis Plön"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BB-BRB-SE081-20231012-81-001",
     "version": 5,
     "startDate": "2023-10-12T13:32:33+02:00",
