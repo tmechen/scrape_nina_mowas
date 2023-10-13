@@ -110,5 +110,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BY-N-W163-20231013-000",
+    "version": 5,
+    "startDate": "2023-10-13T16:18:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Verunreinigung des Trinkwassers im Ortsteil Großgründlach - Nürnberg - Großgründlach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
