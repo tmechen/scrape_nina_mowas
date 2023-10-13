@@ -141,5 +141,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NI-H-SE110-20231013-110-000",
+    "version": 5,
+    "startDate": "2023-10-13T11:20:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästung aufgrund eines Großbrandes in Ronnenberg - OT Empelde - Stadt Ronnenberg - OT Empelde und Teile der Landeshauptstadt Hannover"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
