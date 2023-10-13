@@ -125,14 +125,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-J-W110-20231013-000",
+    "id": "mow.DE-TH-J-W110-20231013-001",
     "version": 5,
-    "startDate": "2023-10-13T03:24:09+02:00",
+    "startDate": "2023-10-13T09:08:01+02:00",
+    "expiresDate": "2023-10-13T15:08:01+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "GROSSBRAND IN SILBITZ - Gemeinde/Stadt: Gemeinde Silbitz, Gemeinde Hartmannsdorf, Gemeinde Crossen"
+      "de": "Entwarnung: GROSSBRAND IN SILBITZ - Gemeinde/Stadt: Gemeinde Silbitz, Gemeinde Hartmannsdorf, Gemeinde Crossen"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
