@@ -181,5 +181,19 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20231013-33-000",
+    "version": 5,
+    "startDate": "2023-10-14T00:04:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sturmflut heute gegen 17:33 Uhr mit 3,37 bis 3,87 Metern über Normalhöhennull - Hamburger Elbgebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
   }
 ]
