@@ -55,34 +55,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20231010-18-000",
-    "version": 5,
-    "startDate": "2023-10-10T13:55:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Störung der Trinkwasserversorgung - Erlenbach (inklusive Teilorte)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20231010-18-001",
-    "version": 5,
-    "startDate": "2023-10-10T15:46:17+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Störung der Hauptwasserleitung - Bitte Wasser sparen - Sulmtal / Mittleres Neckartal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-HO-W142-20231010-000",
     "version": 5,
     "startDate": "2023-10-10T16:36:04+02:00",
@@ -137,6 +109,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20231013-18-000",
+    "version": 5,
+    "startDate": "2023-10-13T09:18:31+02:00",
+    "expiresDate": "2023-10-13T15:18:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Störung der Hauptwasserleitung - Bitte Wasser sparen - Sulmtal / Mittleres Neckartal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20231013-18-001",
+    "version": 5,
+    "startDate": "2023-10-13T09:19:13+02:00",
+    "expiresDate": "2023-10-13T15:19:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Störung der Trinkwasserversorgung - Erlenbach (inklusive Teilorte)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
