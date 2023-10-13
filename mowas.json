@@ -83,20 +83,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-BRB-SE081-20231012-81-001",
-    "version": 5,
-    "startDate": "2023-10-12T13:32:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung - Niedergörsdorf Ortsteil Rohrbeck und Umgebung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-TH-J-W110-20231013-001",
     "version": 5,
     "startDate": "2023-10-13T09:08:01+02:00",
@@ -139,6 +125,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BB-BRB-SE081-20231013-81-000",
+    "version": 5,
+    "startDate": "2023-10-13T11:09:37+02:00",
+    "expiresDate": "2023-10-13T17:09:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung - Niedergörsdorf Ortsteil Rohrbeck und Umgebung"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
