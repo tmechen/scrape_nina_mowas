@@ -97,20 +97,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HER-SE083-20231013-83-000",
-    "version": 5,
-    "startDate": "2023-10-13T19:20:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall Notruffax in Herne - Stadtgebiet Herne"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-004"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20231013-000",
     "version": 5,
     "startDate": "2023-10-13T21:14:19+02:00",
@@ -164,6 +150,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HER-SE083-20231014-83-000",
+    "version": 5,
+    "startDate": "2023-10-14T11:40:55+02:00",
+    "expiresDate": "2023-10-14T17:40:55+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall Notruffax in Herne - Stadtgebiet Herne"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-004"
     }
   }
 ]
