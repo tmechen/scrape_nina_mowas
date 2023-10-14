@@ -111,21 +111,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20231014-001",
-    "version": 5,
-    "startDate": "2023-10-14T15:52:33+02:00",
-    "expiresDate": "2023-10-14T21:52:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut an der nordfriesischen Küste - Nordfriesische Küste"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20231014-002",
     "version": 5,
     "startDate": "2023-10-14T17:42:10+02:00",
