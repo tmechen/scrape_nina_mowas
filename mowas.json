@@ -111,21 +111,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20231014-003",
-    "version": 5,
-    "startDate": "2023-10-14T18:58:31+02:00",
-    "expiresDate": "2023-10-15T00:58:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut im Hamburger Elbegebiet - Hamburger Elbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20231014-001",
     "version": 5,
     "startDate": "2023-10-14T19:26:44+02:00",
@@ -167,6 +152,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20231014-33-001",
+    "version": 5,
+    "startDate": "2023-10-15T00:53:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sturmflut am 15.10.2023 um 05:54 Uhr mit ca. +3,62 Metern über Normalhöhennull - Hamburger Elbegebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
     }
   }
 ]
