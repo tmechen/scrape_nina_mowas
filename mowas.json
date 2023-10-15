@@ -142,14 +142,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-ERB-W191-20231015-000",
+    "id": "mow.DE-HE-ERB-W191-20231015-001",
     "version": 5,
-    "startDate": "2023-10-15T14:20:34+02:00",
+    "startDate": "2023-10-15T15:53:52+02:00",
+    "expiresDate": "2023-10-15T21:53:52+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall der Stromversorgung im Bereich Oberzent, Mossautal, Erbach  - Oberzent, Mossautal, Erbach"
+      "de": "Entwarnung: Ausfall der Stromversorgung im Bereich Oberzent, Mossautal, Erbach  - Oberzent, Mossautal, Erbach"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
