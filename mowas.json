@@ -97,21 +97,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-DA-W184-20231015-001",
-    "version": 5,
-    "startDate": "2023-10-15T13:53:24+02:00",
-    "expiresDate": "2023-10-15T19:53:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Übung-Rauchentwicklung - Darmstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-059"
-    }
-  },
-  {
     "id": "mow.DE-HE-ERB-W191-20231015-001",
     "version": 5,
     "startDate": "2023-10-15T15:53:52+02:00",
