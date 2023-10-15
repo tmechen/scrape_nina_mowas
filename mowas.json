@@ -97,21 +97,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20231015-33-001",
-    "version": 5,
-    "startDate": "2023-10-15T11:22:18+02:00",
-    "expiresDate": "2023-10-15T17:22:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sturmflut am 15.10.2023 um 05:54 Uhr mit ca. +3,62 Metern über Normalh - Hamburger Elbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-NW-AC-SE090-20231015-90-001",
     "version": 5,
     "startDate": "2023-10-15T11:53:34+02:00",
