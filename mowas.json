@@ -97,20 +97,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-DA-W184-20231015-000",
-    "version": 5,
-    "startDate": "2023-10-15T09:04:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Übung-Rauchentwicklung - Darmstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-059"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20231015-33-001",
     "version": 5,
     "startDate": "2023-10-15T11:22:18+02:00",
@@ -138,6 +124,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-DA-W184-20231015-001",
+    "version": 5,
+    "startDate": "2023-10-15T13:53:24+02:00",
+    "expiresDate": "2023-10-15T19:53:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Übung-Rauchentwicklung - Darmstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-059"
+    }
+  },
+  {
+    "id": "mow.DE-HE-ERB-W191-20231015-000",
+    "version": 5,
+    "startDate": "2023-10-15T14:20:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall der Stromversorgung im Bereich Oberzent, Mossautal, Erbach  - Oberzent, Mossautal, Erbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
