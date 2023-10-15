@@ -111,21 +111,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20231014-50-003",
-    "version": 5,
-    "startDate": "2023-10-15T00:32:05+02:00",
-    "expiresDate": "2023-10-15T06:32:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand Industriegebäude in Bad Friedrichshall - Kochendorf - Oedheim, Bad Wimpfen, Offenau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20231014-33-001",
     "version": 5,
     "startDate": "2023-10-15T00:53:24+02:00",
