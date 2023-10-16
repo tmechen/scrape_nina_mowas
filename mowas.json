@@ -111,21 +111,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE113-20231016-113-001",
-    "version": 5,
-    "startDate": "2023-10-16T13:10:52+02:00",
-    "expiresDate": "2023-10-16T19:10:52+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Entwarnung: Geruchsbelästigung aufgrund eines Brandes - Bad Neuenahr -Ahrweiler / Stadtteil Kirchdaun"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-HN-W045-20231016-001",
     "version": 5,
     "startDate": "2023-10-16T15:26:22+02:00",
