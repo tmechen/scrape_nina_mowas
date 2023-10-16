@@ -95,5 +95,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NW-LIP-SE041-20231016-41-000",
+    "version": 5,
+    "startDate": "2023-10-16T10:46:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abkochgebot für Trinkwasser - Kalletal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
