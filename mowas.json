@@ -124,5 +124,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-HN-W045-20231016-000",
+    "version": 5,
+    "startDate": "2023-10-16T14:47:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Test der Sirenenanlage in der Stadt Leingarten - Stadt Leingarten"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
