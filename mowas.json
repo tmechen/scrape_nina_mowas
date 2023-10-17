@@ -111,20 +111,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20231017-121-000",
-    "version": 5,
-    "startDate": "2023-10-17T07:38:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bombenentschärfung, Evakuierung im Bereich der Berufsbildenden Schule - Zweibrücken"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BW-HD-W086-20231017-000",
     "version": 5,
     "startDate": "2023-10-17T08:20:34+02:00",
@@ -179,6 +165,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LD-SE117-20231017-121-001",
+    "version": 5,
+    "startDate": "2023-10-17T12:44:37+02:00",
+    "expiresDate": "2023-10-17T18:44:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenentschärfung, Der Bereich ist wieder zugänglich! - Zweibrücken"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
