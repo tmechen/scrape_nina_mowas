@@ -137,5 +137,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20231017-000",
+    "version": 5,
+    "startDate": "2023-10-17T08:20:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand in Wiesloch - Wiesloch, Walldorf, Nußloch"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
