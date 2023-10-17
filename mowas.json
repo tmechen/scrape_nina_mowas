@@ -109,20 +109,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-RP-LU-SE005-20231016-5-001",
-    "version": 5,
-    "startDate": "2023-10-16T22:44:50+02:00",
-    "expiresDate": "2023-10-17T04:44:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserausfall - Bobenheim-Roxheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
   }
 ]
