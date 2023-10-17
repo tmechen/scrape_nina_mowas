@@ -125,20 +125,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-W-SE061-20231017-61-000",
-    "version": 5,
-    "startDate": "2023-10-17T08:00:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "(1) Rauchgase - Wuppertal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-HD-W086-20231017-000",
     "version": 5,
     "startDate": "2023-10-17T08:20:34+02:00",
@@ -150,6 +136,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-W-SE061-20231017-61-001",
+    "version": 5,
+    "startDate": "2023-10-17T09:35:23+02:00",
+    "expiresDate": "2023-10-17T15:35:23+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: (1) Rauchgase - Wuppertal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
