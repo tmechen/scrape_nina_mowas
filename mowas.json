@@ -139,36 +139,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20231017-121-001",
-    "version": 5,
-    "startDate": "2023-10-17T12:44:37+02:00",
-    "expiresDate": "2023-10-17T18:44:37+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenentschärfung, Der Bereich ist wieder zugänglich! - Zweibrücken"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-BW-HD-W086-20231017-001",
-    "version": 5,
-    "startDate": "2023-10-17T12:48:46+02:00",
-    "expiresDate": "2023-10-17T18:48:46+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand in Wiesloch - Wiesloch, Walldorf, Nußloch"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HE-WI-W097-20231017-001",
     "version": 5,
     "startDate": "2023-10-17T14:53:27+02:00",
