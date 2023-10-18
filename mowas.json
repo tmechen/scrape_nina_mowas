@@ -142,9 +142,9 @@
     }
   },
   {
-    "id": "mow.DE-MV-HST-W239-20231018-001",
+    "id": "mow.DE-MV-HST-W239-20231018-002",
     "version": 5,
-    "startDate": "2023-10-18T17:56:08+02:00",
+    "startDate": "2023-10-18T18:52:00+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
