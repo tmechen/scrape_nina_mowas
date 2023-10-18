@@ -123,20 +123,5 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
-  },
-  {
-    "id": "mow.DE-NI-ROW-W225-20231017-001",
-    "version": 5,
-    "startDate": "2023-10-18T01:54:32+02:00",
-    "expiresDate": "2023-10-18T07:54:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenfund Gewerbegebiet Elsdorf - Elsdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
   }
 ]
