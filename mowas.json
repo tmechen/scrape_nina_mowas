@@ -140,5 +140,19 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-MV-HST-W239-20231018-001",
+    "version": 5,
+    "startDate": "2023-10-18T17:56:08+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Vorsorgliche Information - Amtsbereich Mönchgut-Granitz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
   }
 ]
