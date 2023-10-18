@@ -109,5 +109,19 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-BW-AA-W035-20231018-000",
+    "version": 5,
+    "startDate": "2023-10-19T00:29:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brand Landwirtschaftliches Anwesen - Dorfmerkingen, Unterriffingen, Oberriffingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
