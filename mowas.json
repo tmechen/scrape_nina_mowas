@@ -97,20 +97,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-W054-20231017-000",
-    "version": 5,
-    "startDate": "2023-10-17T09:54:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stadt Saarbrücken testet heute und morgen neue Sirenen - Stadtgebiet Saarbrücken"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-NW-GL-SE063-20231018-63-001",
     "version": 5,
     "startDate": "2023-10-18T13:12:41+02:00",
@@ -138,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-W054-20231018-000",
+    "version": 5,
+    "startDate": "2023-10-18T15:06:42+02:00",
+    "expiresDate": "2023-10-18T21:06:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stadt Saarbrücken testet heute und morgen neue Sirenen - Stadtgebiet Saarbrücken"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
     }
   }
 ]
