@@ -137,5 +137,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20231019-000",
+    "version": 5,
+    "startDate": "2023-10-19T10:21:43+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Funktionsprüfung der Sirenen - Dettenheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
