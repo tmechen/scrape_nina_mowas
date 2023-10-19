@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-AA-W035-20231019-000",
-    "version": 5,
-    "startDate": "2023-10-19T12:00:37+02:00",
-    "expiresDate": "2023-10-19T18:00:37+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brand Landwirtschaftliches Anwesen - Dorfmerkingen, Unterriffingen, Oberriffingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-FL-SE100-20231019-100-000",
     "version": 5,
     "startDate": "2023-10-19T12:57:15+02:00",
@@ -208,6 +193,20 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Verunreinigung des Trink- / Leitungswassers - Karlsruhe Stadtteil Wolfartsweier"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-045"
+    }
+  },
+  {
+    "id": "mow.DE-BY-AB-W169-20231019-000",
+    "version": 5,
+    "startDate": "2023-10-19T17:46:46+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasser-Verunreinigung - Mönchberg"
     },
     "transKeys": {
       "event": "BBK-EVC-045"
