@@ -199,12 +199,12 @@
     }
   },
   {
-    "id": "mow.DE-BY-AB-W169-20231019-000",
+    "id": "mow.DE-BY-AB-W169-20231019-001",
     "version": 5,
-    "startDate": "2023-10-19T17:46:46+02:00",
-    "severity": "Minor",
+    "startDate": "2023-10-19T18:20:53+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Trinkwasser-Verunreinigung - Mönchberg"
     },
