@@ -139,14 +139,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20231019-000",
+    "id": "mow.DE-BW-KA-W138-20231019-001",
     "version": 5,
-    "startDate": "2023-10-19T10:21:43+02:00",
+    "startDate": "2023-10-19T11:17:21+02:00",
+    "expiresDate": "2023-10-19T17:17:21+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Funktionsprüfung der Sirenen - Dettenheim"
+      "de": "Entwarnung: Funktionsprüfung der Sirenen - Dettenheim"
     },
     "transKeys": {
       "event": "BBK-EVC-050"
