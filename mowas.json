@@ -181,5 +181,19 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-BY-BA-W140-20231019-000",
+    "version": 5,
+    "startDate": "2023-10-19T23:52:51+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand in Königsfeld - Königsfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
