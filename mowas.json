@@ -168,14 +168,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-BA-W140-20231019-000",
+    "id": "mow.DE-BY-BA-W140-20231019-001",
     "version": 5,
-    "startDate": "2023-10-19T23:52:51+02:00",
+    "startDate": "2023-10-20T00:57:10+02:00",
+    "expiresDate": "2023-10-20T06:57:10+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand in Königsfeld - Königsfeld"
+      "de": "Entwarnung: Großbrand in Königsfeld - Königsfeld"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
