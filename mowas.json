@@ -69,20 +69,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-W163-20231013-000",
-    "version": 5,
-    "startDate": "2023-10-13T16:18:29+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Verunreinigung des Trinkwassers im Ortsteil Großgründlach - Nürnberg - Großgründlach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NW-LIP-SE041-20231016-41-001",
     "version": 5,
     "startDate": "2023-10-16T11:27:50+02:00",
@@ -140,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20231019-36-000",
-    "version": 5,
-    "startDate": "2023-10-19T11:52:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand Windkraftanlage - Schlieben"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-AA-W035-20231019-000",
     "version": 5,
     "startDate": "2023-10-19T12:00:37+02:00",
@@ -194,6 +166,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-BB-CB-SE036-20231019-36-001",
+    "version": 5,
+    "startDate": "2023-10-19T13:20:13+02:00",
+    "expiresDate": "2023-10-19T19:20:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand Windkraftanlage - Schlieben"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-N-W163-20231019-000",
+    "version": 5,
+    "startDate": "2023-10-19T13:21:31+02:00",
+    "expiresDate": "2023-10-19T19:21:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Verunreinigung des Trinkwassers im Ortsteil Großgründlach - Nürnberg - Großgründlach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
