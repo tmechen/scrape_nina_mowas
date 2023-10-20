@@ -182,14 +182,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20231020-100-001",
+    "id": "mow.DE-SH-FL-SE100-20231020-100-002",
     "version": 5,
-    "startDate": "2023-10-20T09:29:13+02:00",
+    "startDate": "2023-10-20T09:53:22+02:00",
+    "expiresDate": "2023-10-20T15:53:22+02:00",
     "severity": "Extreme",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gebäudebrand, starke Rauchentwicklung - Sylt Ortsteil Westerland (Lilicronweg)"
+      "de": "Entwarnung: Gebäudebrand, starke Rauchentwicklung - Sylt Ortsteil Westerland (Lilicronweg)"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
