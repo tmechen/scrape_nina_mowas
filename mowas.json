@@ -266,17 +266,31 @@
     }
   },
   {
-    "id": "mow.DE-MV-HST-W239-20231020-001",
+    "id": "mow.DE-MV-HST-W239-20231020-002",
     "version": 5,
-    "startDate": "2023-10-20T18:45:42+02:00",
+    "startDate": "2023-10-20T18:54:30+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Extremwetterlage - Mönchgut - Granitz"
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20231020-105-001",
+    "version": 5,
+    "startDate": "2023-10-20T19:02:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sturmflutwarnung + Unwetter Ostsee - Insel Fehmarn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
