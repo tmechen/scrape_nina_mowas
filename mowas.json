@@ -209,5 +209,33 @@
     "transKeys": {
       "event": "BBK-EVC-045"
     }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE014-20231020-14-000",
+    "version": 5,
+    "startDate": "2023-10-20T14:03:40+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Amtliche Warnung vor schwerer Sturmflut an der Ostseeküste Schleswig-Holsteins - Schleswig-Holsteinische Ostseeküste und Schleiregion"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20231020-99-000",
+    "version": 5,
+    "startDate": "2023-10-20T14:22:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sturmflutwarnung Ostsee - Küstengebiet Kreis Rendsburg-Eckernförde"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
   }
 ]
