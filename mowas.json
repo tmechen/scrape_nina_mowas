@@ -236,5 +236,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20231020-100-005",
+    "version": 5,
+    "startDate": "2023-10-20T17:47:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromabschaltung / Netzabschaltung aufgrund der Sturmflut - Bereich der Flensburger Strassenzüge Norderhofenden, Schiffbrücke"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
   }
 ]
