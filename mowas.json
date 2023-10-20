@@ -350,12 +350,12 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20231020-99-002",
+    "id": "mow.DE-SH-KI-SE099-20231020-99-003",
     "version": 5,
-    "startDate": "2023-10-20T23:13:35+02:00",
+    "startDate": "2023-10-20T23:33:04+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Evakuierung/Räumung - Eckernförde"
     },
