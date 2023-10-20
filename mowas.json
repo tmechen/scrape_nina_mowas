@@ -320,5 +320,33 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20231020-100-006",
+    "version": 5,
+    "startDate": "2023-10-20T22:30:35+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Evakuierung der Gemeinde Maasholm Kreis Schleswig-Flensburg - Maasholm"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-MV-HRO-W006-20231020-000",
+    "version": 5,
+    "startDate": "2023-10-20T22:37:26+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Straßensperrung L 22 ( Am Strande )  - Rostock"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-075"
+    }
   }
 ]
