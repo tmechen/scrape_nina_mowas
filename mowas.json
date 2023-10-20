@@ -306,5 +306,19 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20231020-99-001",
+    "version": 5,
+    "startDate": "2023-10-20T22:20:37+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Evakuierung/Räumung - Gemeinde Brodersby, Ortsteil Schönhagen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
   }
 ]
