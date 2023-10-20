@@ -264,5 +264,19 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-MV-HST-W239-20231020-001",
+    "version": 5,
+    "startDate": "2023-10-20T18:45:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Extremwetterlage - Mönchgut - Granitz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
   }
 ]
