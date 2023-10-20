@@ -181,5 +181,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20231020-100-000",
+    "version": 5,
+    "startDate": "2023-10-20T05:54:58+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser mit steigenden Pegelständen - Stadtbereich Schleswig nähe Schlei"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
