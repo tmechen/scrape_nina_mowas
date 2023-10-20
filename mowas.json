@@ -250,5 +250,19 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20231020-105-000",
+    "version": 5,
+    "startDate": "2023-10-20T18:26:28+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sturmflutwarnung Ostsee - Neustadt in Holstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
   }
 ]
