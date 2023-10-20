@@ -252,20 +252,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20231020-105-000",
-    "version": 5,
-    "startDate": "2023-10-20T18:26:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sturmflutwarnung Ostsee - Neustadt in Holstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-MV-HST-W239-20231020-002",
     "version": 5,
     "startDate": "2023-10-20T18:54:30+02:00",
@@ -274,34 +260,6 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Extremwetterlage - Mönchgut - Granitz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
-    "id": "mow.DE-SH-OD-SE105-20231020-105-003",
-    "version": 5,
-    "startDate": "2023-10-20T20:12:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Unwetterwarnung  - Insel Fehmarn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-SH-OD-SE105-20231020-105-004",
-    "version": 5,
-    "startDate": "2023-10-20T20:18:04+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sturmflutwarnung Ostsee - Gemeinde Heringsdorf , Landkreis Ostholstein"
     },
     "transKeys": {
       "event": "BBK-EVC-065"
@@ -358,6 +316,51 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Evakuierung/Räumung - Eckernförde"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20231020-105-005",
+    "version": 5,
+    "startDate": "2023-10-21T01:03:03+02:00",
+    "expiresDate": "2023-10-21T07:03:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sturmflutwarnung Ostsee - Neustadt in Holstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20231020-105-006",
+    "version": 5,
+    "startDate": "2023-10-21T01:08:33+02:00",
+    "expiresDate": "2023-10-21T07:08:33+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Unwetterwarnung  - Insel Fehmarn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20231020-105-007",
+    "version": 5,
+    "startDate": "2023-10-21T01:08:43+02:00",
+    "expiresDate": "2023-10-21T07:08:43+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sturmflutwarnung Ostsee - Gemeinde Heringsdorf , Landkreis Ostholstein"
     },
     "transKeys": {
       "event": "BBK-EVC-065"
