@@ -195,5 +195,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-MV-HST-W239-20231020-000",
+    "version": 5,
+    "startDate": "2023-10-20T12:18:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vorsorgliche Information - Gemeinde Sundhagen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
