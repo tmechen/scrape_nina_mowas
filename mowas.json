@@ -222,5 +222,19 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-MV-HGW-W005-20231020-000",
+    "version": 5,
+    "startDate": "2023-10-20T17:31:28+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserereignis - Landkreis Vorpommern-Greifswald"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
