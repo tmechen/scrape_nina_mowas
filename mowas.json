@@ -365,5 +365,19 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-NW-WAF-SE045-20231021-45-000",
+    "version": 5,
+    "startDate": "2023-10-21T04:28:04+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase im Nordosten Ostbevern - Nordosten von Ostbevern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
