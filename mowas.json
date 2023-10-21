@@ -140,20 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20231019-100-002",
-    "version": 5,
-    "startDate": "2023-10-19T21:32:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasser im Bereich der Flensburger Förde - Flensburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-SH-FL-SE100-20231020-100-000",
     "version": 5,
     "startDate": "2023-10-20T05:54:58+02:00",
@@ -323,6 +309,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-075"
+    }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20231021-100-001",
+    "version": 5,
+    "startDate": "2023-10-21T14:03:28+02:00",
+    "expiresDate": "2023-10-21T20:03:28+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser im Bereich der Flensburger Förde - Flensburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
     }
   }
 ]
