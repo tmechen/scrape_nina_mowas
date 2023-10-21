@@ -182,21 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-EW-SE079-20231021-79-001",
-    "version": 5,
-    "startDate": "2023-10-21T16:20:40+02:00",
-    "expiresDate": "2023-10-21T22:20:40+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Katastrophenschutzübung im nördlichen Barnim - nördlicher Barnim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-074"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20231021-106-001",
     "version": 5,
     "startDate": "2023-10-21T21:27:50+02:00",
