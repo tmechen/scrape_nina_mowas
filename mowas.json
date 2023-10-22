@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20231022-99-000",
-    "version": 5,
-    "startDate": "2023-10-22T18:24:20+02:00",
-    "expiresDate": "2023-10-23T00:24:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelentschärfung im Kieler Stadtgebiet - Kiel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-RP-NR-W245-20231022-000",
     "version": 5,
     "startDate": "2023-10-22T22:20:14+02:00",
