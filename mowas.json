@@ -126,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20231020-100-000",
-    "version": 5,
-    "startDate": "2023-10-20T05:54:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser mit steigenden Pegelständen - Stadtbereich Schleswig nähe Schlei"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20231020-84-000",
     "version": 5,
     "startDate": "2023-10-20T13:24:07+02:00",
@@ -195,6 +181,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20231022-100-000",
+    "version": 5,
+    "startDate": "2023-10-22T18:14:54+02:00",
+    "expiresDate": "2023-10-23T00:14:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser mit steigenden Pegelständen - Stadtbereich Schleswig nähe Schlei"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
