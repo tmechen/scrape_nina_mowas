@@ -168,21 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-HST-W239-20231022-000",
-    "version": 5,
-    "startDate": "2023-10-22T09:26:22+02:00",
-    "expiresDate": "2023-10-22T15:26:22+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Extremwetterlage - Wieck auf dem Darß"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-016"
-    }
-  },
-  {
     "id": "mow.DE-BW-HN-W045-20231022-001",
     "version": 5,
     "startDate": "2023-10-22T14:38:14+02:00",
