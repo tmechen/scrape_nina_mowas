@@ -183,14 +183,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-HN-W045-20231022-000",
+    "id": "mow.DE-BW-HN-W045-20231022-001",
     "version": 5,
-    "startDate": "2023-10-22T10:17:40+02:00",
+    "startDate": "2023-10-22T14:38:14+02:00",
+    "expiresDate": "2023-10-22T20:38:14+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Störung der Trinkwasserzufuhr im Schozachtal - Untergruppenbach, Abstatt & Ilsf.- Auenst., Helfenb., Wüstenh., Abstetterh."
+      "de": "Entwarnung: Störung der Trinkwasserzufuhr im Schozachtal - Untergruppenbach, Abstatt & Ilsf.- Auenst., Helfenb., Wüstenh., Abstetterh."
     },
     "transKeys": {
       "event": "BBK-EVC-078"
