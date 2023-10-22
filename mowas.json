@@ -183,14 +183,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-BC-W124-20231022-000",
+    "id": "mow.DE-BW-BC-W124-20231022-001",
     "version": 5,
-    "startDate": "2023-10-22T15:56:25+02:00",
+    "startDate": "2023-10-22T17:40:14+02:00",
+    "expiresDate": "2023-10-22T23:40:14+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in Bußmannshausen / Schwendi. - Gemeinde Schwendi, Ortsteil Bußmannshausen"
+      "de": "Entwarnung: Brand in Bußmannshausen / Schwendi. - Gemeinde Schwendi, Ortsteil Bußmannshausen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
