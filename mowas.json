@@ -126,36 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20231022-100-000",
-    "version": 5,
-    "startDate": "2023-10-22T18:14:54+02:00",
-    "expiresDate": "2023-10-23T00:14:54+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser mit steigenden Pegelständen - Stadtbereich Schleswig nähe Schlei"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-SH-FL-SE100-20231022-100-001",
-    "version": 5,
-    "startDate": "2023-10-22T18:18:51+02:00",
-    "expiresDate": "2023-10-23T00:18:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromabschaltung / Netzabschaltung aufgrund der Sturmflut - Bereich der Flensburger Strassenzüge Norderhofenden, Schiffbrücke"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20231022-99-000",
     "version": 5,
     "startDate": "2023-10-22T18:24:20+02:00",
