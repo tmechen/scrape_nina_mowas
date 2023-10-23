@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20231023-31-001",
-    "version": 5,
-    "startDate": "2023-10-23T16:40:44+02:00",
-    "expiresDate": "2023-10-23T22:40:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandereignis in Bochum Querenburg - Bochum"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20231023-84-002",
     "version": 5,
     "startDate": "2023-10-23T21:11:23+02:00",
