@@ -84,20 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20231019-002",
-    "version": 5,
-    "startDate": "2023-10-19T15:35:02+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Verunreinigung des Trink- / Leitungswassers - Karlsruhe Stadtteil Wolfartsweier"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-045"
-    }
-  },
-  {
     "id": "mow.DE-BY-AB-W169-20231019-001",
     "version": 5,
     "startDate": "2023-10-19T18:20:53+02:00",
@@ -126,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-NR-W245-20231022-000",
-    "version": 5,
-    "startDate": "2023-10-22T22:20:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefährdung durch Rauchgase nach Großbrand in Unkel  - Unkel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20231023-50-002",
     "version": 5,
     "startDate": "2023-10-23T10:38:06+02:00",
@@ -152,6 +124,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-RP-NR-W245-20231023-000",
+    "version": 5,
+    "startDate": "2023-10-23T12:44:18+02:00",
+    "expiresDate": "2023-10-23T18:44:18+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefährdung durch Rauchgase nach Großbrand in Unkel  - Unkel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20231023-000",
+    "version": 5,
+    "startDate": "2023-10-23T12:45:30+02:00",
+    "expiresDate": "2023-10-23T18:45:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Verunreinigung des Trink- / Leitungswassers - Karlsruhe Stadtteil Wolfartsweier"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-045"
     }
   }
 ]
