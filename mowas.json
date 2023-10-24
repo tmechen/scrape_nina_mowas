@@ -82,20 +82,5 @@
     "transKeys": {
       "event": "BBK-EVC-045"
     }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20231024-18-001",
-    "version": 5,
-    "startDate": "2023-10-24T14:16:48+02:00",
-    "expiresDate": "2023-10-24T20:16:48+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenenprobealarm Nordheim - Nordheim mit Teilorten"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
   }
 ]
