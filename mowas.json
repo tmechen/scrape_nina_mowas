@@ -96,20 +96,5 @@
     "transKeys": {
       "event": "BBK-EVC-045"
     }
-  },
-  {
-    "id": "mow.DE-SH-HL-SE103-20231024-103-000",
-    "version": 5,
-    "startDate": "2023-10-24T06:41:56+02:00",
-    "expiresDate": "2023-10-24T12:41:56+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser Innenstadt, Travemünde und Priwall - Lübeck"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
   }
 ]
