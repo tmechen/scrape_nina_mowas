@@ -84,21 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-BA-W140-20231024-000",
-    "version": 5,
-    "startDate": "2023-10-24T13:50:42+02:00",
-    "expiresDate": "2023-10-24T19:50:42+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserverunreinigung - Abkochanordnung aufgehoben - Ortsteile Kälberberg, Hochstall, Tiefenhöchstadt und Frankendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20231024-18-001",
     "version": 5,
     "startDate": "2023-10-24T14:16:48+02:00",
