@@ -82,5 +82,19 @@
     "transKeys": {
       "event": "BBK-EVC-045"
     }
+  },
+  {
+    "id": "mow.DE-NW-BM-SE042-20231025-42-000",
+    "version": 5,
+    "startDate": "2023-10-25T18:54:44+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase - Stadt Frechen / Stadt Pulheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
