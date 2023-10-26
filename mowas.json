@@ -86,14 +86,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-HF-SE039-20231026-39-000",
+    "id": "mow.DE-NW-HF-SE039-20231026-39-001",
     "version": 5,
-    "startDate": "2023-10-26T13:08:26+02:00",
+    "startDate": "2023-10-26T15:18:01+02:00",
+    "expiresDate": "2023-10-26T21:18:01+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung in Bünde Innenstadt - Bünde"
+      "de": "Entwarnung: Geruchsbelästigung in Bünde Innenstadt - Bünde"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
