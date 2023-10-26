@@ -84,5 +84,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-BW-LB-W026-20231026-000",
+    "version": 5,
+    "startDate": "2023-10-26T20:05:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall der Gasversorgung - Teile von Bissingen und der Ortsteil Untermberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-003"
+    }
   }
 ]
