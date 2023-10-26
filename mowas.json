@@ -42,36 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-LIP-SE041-20231026-41-000",
-    "version": 5,
-    "startDate": "2023-10-26T11:52:49+02:00",
-    "expiresDate": "2023-10-26T17:52:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Abkochgebot für Trinkwasser - Stemmen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-NW-PB-SE093-20231026-93-000",
-    "version": 5,
-    "startDate": "2023-10-26T11:59:48+02:00",
-    "expiresDate": "2023-10-26T17:59:48+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Blaualgen im Lippesee - Lippesee"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-081"
-    }
-  },
-  {
     "id": "mow.DE-NW-HF-SE039-20231026-39-001",
     "version": 5,
     "startDate": "2023-10-26T15:18:01+02:00",
@@ -99,6 +69,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-NW-D-SE047-20231026-47-000",
+    "version": 5,
+    "startDate": "2023-10-26T18:11:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bombenfund - Düsseldorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
