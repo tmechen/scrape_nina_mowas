@@ -71,5 +71,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-LB-W026-20231027-000",
+    "version": 5,
+    "startDate": "2023-10-27T17:35:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasser-Abkochgebot! - Stadt Korntal-Münchingen, Ortsteil Münchingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
