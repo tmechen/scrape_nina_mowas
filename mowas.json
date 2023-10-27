@@ -14,34 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-AB-W169-20231019-001",
-    "version": 5,
-    "startDate": "2023-10-19T18:20:53+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Trinkwasser-Verunreinigung - Mönchberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-045"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20231020-84-000",
-    "version": 5,
-    "startDate": "2023-10-20T13:24:07+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Trinkwasser-Verunreinigung - Mönchberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-045"
-    }
-  },
-  {
     "id": "mow.DE-BW-LB-W026-20231026-000",
     "version": 5,
     "startDate": "2023-10-26T20:05:32+02:00",
@@ -53,6 +25,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-003"
+    }
+  },
+  {
+    "id": "mow.DE-BY-AB-W169-20231027-000",
+    "version": 5,
+    "startDate": "2023-10-27T12:39:59+02:00",
+    "expiresDate": "2023-10-27T18:39:59+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasser-Verunreinigung - Mönchberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-045"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20231027-84-000",
+    "version": 5,
+    "startDate": "2023-10-27T12:41:30+02:00",
+    "expiresDate": "2023-10-27T18:41:30+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasser-Verunreinigung - Mönchberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-045"
     }
   }
 ]
