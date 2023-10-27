@@ -56,5 +56,19 @@
     "transKeys": {
       "event": "BBK-EVC-045"
     }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20231027-31-000",
+    "version": 5,
+    "startDate": "2023-10-27T13:15:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "großräumige Rauchausbreitung - Köln Ehrenfeld/Bickendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
