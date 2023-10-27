@@ -56,14 +56,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20231027-29-000",
+    "id": "mow.DE-NI-STD-SE029-20231027-29-001",
     "version": 5,
-    "startDate": "2023-10-27T02:05:37+02:00",
+    "startDate": "2023-10-27T04:47:04+02:00",
+    "expiresDate": "2023-10-27T10:47:04+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "starke Rauchentwicklung durch Brand eines Landwirtschaftlichen Betriebes - Landkreis Vechta"
+      "de": "Entwarnung: starke Rauchentwicklung durch Brand eines Landwirtschaftlichen Betrieb - Landkreis Vechta"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
