@@ -70,5 +70,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20231028-50-003",
+    "version": 5,
+    "startDate": "2023-10-28T13:02:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand Schulgebäude - Künzelsau-Taläcker, Max-Beckmann-Straße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
