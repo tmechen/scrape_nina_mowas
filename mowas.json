@@ -42,21 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20231028-50-002",
-    "version": 5,
-    "startDate": "2023-10-28T12:26:58+02:00",
-    "expiresDate": "2023-10-28T18:26:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Lagerhallenbrand im Gewerbepark Haid - Engstingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20231028-50-004",
     "version": 5,
     "startDate": "2023-10-28T13:22:48+02:00",
