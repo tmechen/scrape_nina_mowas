@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-EN-SE069-20231028-69-000",
+    "id": "mow.DE-NW-EN-SE069-20231029-69-000",
     "version": 5,
-    "startDate": "2023-10-29T00:01:05+02:00",
+    "startDate": "2023-10-29T03:45:01+01:00",
+    "expiresDate": "2023-10-29T09:45:01+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall  - Herdecke Westende/Kirchende"
+      "de": "Entwarnung: Stromausfall  - Herdecke Westende/Kirchende"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
