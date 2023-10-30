@@ -57,14 +57,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-BT-W082-20231030-000",
+    "id": "mow.DE-BY-BT-W082-20231030-001",
     "version": 5,
-    "startDate": "2023-10-30T09:49:44+01:00",
+    "startDate": "2023-10-30T11:33:47+01:00",
+    "expiresDate": "2023-10-30T17:33:47+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchsäule aufgrund eines Brandeinsatzes - Stadtgebiet Kulmbach"
+      "de": "Entwarnung: Rauchsäule aufgrund eines Brandeinsatzes - Stadtgebiet Kulmbach"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
