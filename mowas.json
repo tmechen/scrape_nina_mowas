@@ -55,5 +55,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BY-BT-W082-20231030-000",
+    "version": 5,
+    "startDate": "2023-10-30T09:49:44+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchsäule aufgrund eines Brandeinsatzes - Stadtgebiet Kulmbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
