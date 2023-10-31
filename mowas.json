@@ -55,5 +55,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20231031-56-000",
+    "version": 5,
+    "startDate": "2023-10-31T02:16:51+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in Erkelenz-Lövenich - Erkelenz-Lövenich"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
