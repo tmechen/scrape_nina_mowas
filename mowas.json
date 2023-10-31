@@ -26,20 +26,5 @@
     "transKeys": {
       "event": "BBK-EVC-003"
     }
-  },
-  {
-    "id": "mow.DE-SN-HY-SE048-20231031-122-001",
-    "version": 5,
-    "startDate": "2023-10-31T17:47:35+01:00",
-    "expiresDate": "2023-10-31T23:47:35+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Fund einer Weltkriegsbombe  - Gemeinde Ralbitz/Rosenthal, Ortsteile Schönau und Cunnewitz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
   }
 ]
