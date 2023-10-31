@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20231031-90-000",
+    "id": "mow.DE-NW-AC-SE090-20231031-90-001",
     "version": 5,
-    "startDate": "2023-10-31T15:10:19+01:00",
+    "startDate": "2023-10-31T17:00:54+01:00",
+    "expiresDate": "2023-10-31T23:00:54+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund - Eschweiler-Weisweiler"
+      "de": "Entwarnung: Kampfmittelfund - Eschweiler-Weisweiler"
     },
     "transKeys": {
       "event": "BBK-EVC-009"
