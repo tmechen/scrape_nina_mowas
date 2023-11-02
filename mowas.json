@@ -40,5 +40,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20231102-125-001",
+    "version": 5,
+    "startDate": "2023-11-02T16:36:48+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Brandereignis in Worms - VG Wonnegau, VG Eich, VG Rhein-Selz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
