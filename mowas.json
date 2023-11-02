@@ -26,5 +26,19 @@
     "transKeys": {
       "event": "BBK-EVC-003"
     }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20231102-125-000",
+    "version": 5,
+    "startDate": "2023-11-02T15:51:00+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Großbrand in Worms  - Worms"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
