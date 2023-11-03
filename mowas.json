@@ -26,5 +26,19 @@
     "transKeys": {
       "event": "BBK-EVC-003"
     }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20231103-122-000",
+    "version": 5,
+    "startDate": "2023-11-03T13:12:40+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahrstoffaustritt in der Stadt Leipzig - Leipzig, Reudnitz-Thonberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
