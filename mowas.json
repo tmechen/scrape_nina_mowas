@@ -26,35 +26,5 @@
     "transKeys": {
       "event": "BBK-EVC-003"
     }
-  },
-  {
-    "id": "mow.DE-NW-W-SE061-20231104-61-001",
-    "version": 5,
-    "startDate": "2023-11-04T13:11:59+01:00",
-    "expiresDate": "2023-11-04T19:11:59+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großfeuer im Müllheizkraftwerk Solingen - Solingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NW-RS-SE072-20231104-72-001",
-    "version": 5,
-    "startDate": "2023-11-04T13:16:18+01:00",
-    "expiresDate": "2023-11-04T19:16:18+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase - Remscheid West"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
