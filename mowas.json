@@ -55,5 +55,20 @@
     "transKeys": {
       "event": "BBK-EVC-050"
     }
+  },
+  {
+    "id": "mow.DE-TH-UH-W116-20231104-001",
+    "version": 5,
+    "startDate": "2023-11-04T11:09:03+01:00",
+    "expiresDate": "2023-11-04T17:09:03+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Funktionsprobe der Sirenen und Meldeempfänger im Unstrut-Hainich-Kreis - Unstrut-Hainich-Kreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
