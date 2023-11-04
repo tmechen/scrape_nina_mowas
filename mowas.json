@@ -70,5 +70,19 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-NW-W-SE061-20231104-61-000",
+    "version": 5,
+    "startDate": "2023-11-04T11:38:43+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großfeuer im Müllheizkraftwerk Solingen - Solingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
