@@ -84,5 +84,33 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-RS-SE072-20231104-72-000",
+    "version": 5,
+    "startDate": "2023-11-04T11:52:43+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase - Remscheid West"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20231104-001",
+    "version": 5,
+    "startDate": "2023-11-04T12:10:01+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenen-Probealarm - Loffenau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
