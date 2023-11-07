@@ -28,14 +28,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-F-SE119-20231107-128-000",
+    "id": "mow.DE-HE-F-SE119-20231107-128-001",
     "version": 5,
-    "startDate": "2023-11-07T19:20:19+01:00",
+    "startDate": "2023-11-07T21:15:10+01:00",
+    "expiresDate": "2023-11-08T03:15:10+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall der Trinkwasserversorgung - Butzbach-Ebersgöns"
+      "de": "Entwarnung: Ausfall der Trinkwasserversorgung - Butzbach-Ebersgöns"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
