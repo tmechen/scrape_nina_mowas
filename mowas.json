@@ -26,20 +26,5 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
-  },
-  {
-    "id": "mow.DE-MV-HST-W239-20231107-001",
-    "version": 5,
-    "startDate": "2023-11-07T10:25:26+01:00",
-    "expiresDate": "2023-11-07T16:25:26+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung - Grimmen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
