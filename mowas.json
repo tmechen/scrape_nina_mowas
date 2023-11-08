@@ -29,14 +29,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20231108-100-000",
+    "id": "mow.DE-SH-FL-SE100-20231108-100-001",
     "version": 5,
-    "startDate": "2023-11-08T14:21:55+01:00",
+    "startDate": "2023-11-08T16:07:52+01:00",
+    "expiresDate": "2023-11-08T22:07:52+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand im Bereich  - Hattstedt-Wobbenbüll"
+      "de": "Entwarnung: Großbrand im Bereich  - Hattstedt-Wobbenbüll"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
