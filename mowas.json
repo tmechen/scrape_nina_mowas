@@ -14,14 +14,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20231106-001",
+    "id": "mow.DE-BW-HD-W086-20231108-000",
     "version": 5,
-    "startDate": "2023-11-06T13:04:08+01:00",
+    "startDate": "2023-11-08T11:01:36+01:00",
+    "expiresDate": "2023-11-08T17:01:36+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand in Gaiberg - Gaiberg, Bammental und Leimen-Gauangelloch"
+      "de": "Entwarnung: Großbrand in Gaiberg - Gaiberg, Bammental und Leimen-Gauangelloch"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
