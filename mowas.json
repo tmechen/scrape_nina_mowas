@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BI-SE070-20231109-70-001",
-    "version": 5,
-    "startDate": "2023-11-09T13:53:35+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "---Geruchsbelästigung--- - Stadt Bielefeld Stadtteil Jöllenbeck"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20231109-28-001",
     "version": 5,
     "startDate": "2023-11-09T23:11:52+01:00",
@@ -37,6 +23,21 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Feuerwehreinsatz - Brunsbüttel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BI-SE070-20231109-70-002",
+    "version": 5,
+    "startDate": "2023-11-10T00:26:11+01:00",
+    "expiresDate": "2023-11-10T06:26:11+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: ---Geruchsbelästigung--- - Stadt Bielefeld Stadtteil Jöllenbeck"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
