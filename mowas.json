@@ -12,20 +12,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-NW-BI-SE070-20231109-70-002",
-    "version": 5,
-    "startDate": "2023-11-10T00:26:11+01:00",
-    "expiresDate": "2023-11-10T06:26:11+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: ---Geruchsbelästigung--- - Stadt Bielefeld Stadtteil Jöllenbeck"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
