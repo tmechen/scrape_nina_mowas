@@ -12,5 +12,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NW-BOT-SE062-20231111-62-000",
+    "version": 5,
+    "startDate": "2023-11-11T06:09:56+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gasaustritt  - Bottrop Eigen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-081"
+    }
   }
 ]
