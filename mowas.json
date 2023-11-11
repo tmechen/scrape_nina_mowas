@@ -12,20 +12,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-TH-EF-SE012-20231110-12-001",
-    "version": 5,
-    "startDate": "2023-11-10T20:35:25+01:00",
-    "expiresDate": "2023-11-11T02:35:25+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Fund einer Weltkriegsbombe - Nordhausen, Bereich Rothenburgstraße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
   }
 ]
