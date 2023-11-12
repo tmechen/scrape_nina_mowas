@@ -26,5 +26,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NW-AC-SE090-20231112-90-000",
+    "version": 5,
+    "startDate": "2023-11-12T11:14:55+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase - Stadt Alsdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
