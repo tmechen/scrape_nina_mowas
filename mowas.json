@@ -14,21 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20231113-001",
-    "version": 5,
-    "startDate": "2023-11-13T09:05:06+01:00",
-    "expiresDate": "2023-11-13T15:05:06+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Verkehrsunfall mit austretendem Flüssiggas - L 236 zwischen Auerberg und Breitenstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-029"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20231113-29-001",
     "version": 5,
     "startDate": "2023-11-13T14:28:46+01:00",
