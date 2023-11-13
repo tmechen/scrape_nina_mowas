@@ -29,14 +29,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-W262-20231113-000",
+    "id": "mow.DE-RP-TR-W262-20231113-001",
     "version": 5,
-    "startDate": "2023-11-13T17:50:49+01:00",
+    "startDate": "2023-11-13T19:25:43+01:00",
+    "expiresDate": "2023-11-14T01:25:43+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Brandereignis  - Ayl"
+      "de": "Entwarnung: Rauchentwicklung durch Brandereignis  - Ayl"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
