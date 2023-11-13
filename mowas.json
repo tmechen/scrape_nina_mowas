@@ -12,20 +12,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20231112-18-001",
-    "version": 5,
-    "startDate": "2023-11-12T22:08:27+01:00",
-    "expiresDate": "2023-11-13T04:08:27+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Fehlauslösung Sirenen - Bereich Nordstadt, Buckenberg, Eutingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
   }
 ]
