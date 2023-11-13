@@ -27,5 +27,19 @@
     "transKeys": {
       "event": "BBK-EVC-029"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20231113-29-000",
+    "version": 5,
+    "startDate": "2023-11-13T13:48:00+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung auf Grund eines Brandes in Sandstedt - in der Gemeinde Hagen im Bremischen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
