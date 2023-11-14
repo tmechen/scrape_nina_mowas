@@ -14,21 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-W262-20231113-001",
-    "version": 5,
-    "startDate": "2023-11-13T19:25:43+01:00",
-    "expiresDate": "2023-11-14T01:25:43+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brandereignis  - Ayl"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-FD-W183-20231113-001",
     "version": 5,
     "startDate": "2023-11-13T21:17:53+01:00",
@@ -44,14 +29,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20231113-57-000",
+    "id": "mow.DE-NW-SU-SE057-20231114-57-000",
     "version": 5,
-    "startDate": "2023-11-13T21:37:46+01:00",
+    "startDate": "2023-11-14T01:08:51+01:00",
+    "expiresDate": "2023-11-14T07:08:51+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Fliegerbombe (Evakuierung) - Stadt Rheinbach"
+      "de": "Entwarnung: Fliegerbombe (Evakuierung) - Stadt Rheinbach"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
