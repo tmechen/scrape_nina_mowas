@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20231114-84-000",
-    "version": 5,
-    "startDate": "2023-11-14T16:23:08+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Brand - 89407 Dillingen a.d. Donau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20231114-000",
     "version": 5,
     "startDate": "2023-11-14T19:58:41+01:00",
@@ -67,6 +53,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20231114-84-001",
+    "version": 5,
+    "startDate": "2023-11-14T23:02:31+01:00",
+    "expiresDate": "2023-11-15T05:02:31+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Brand - 89407 Dillingen a.d. Donau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
