@@ -54,5 +54,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BW-PF-W024-20231114-000",
+    "version": 5,
+    "startDate": "2023-11-14T20:10:18+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung  - Neuenbürg Stadtmitte"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
