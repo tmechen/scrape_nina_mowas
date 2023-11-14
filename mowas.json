@@ -40,5 +40,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20231114-000",
+    "version": 5,
+    "startDate": "2023-11-14T19:58:41+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasserverunreinigung - Durmersheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
