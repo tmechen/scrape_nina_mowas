@@ -26,5 +26,19 @@
     "transKeys": {
       "event": "BBK-EVC-021"
     }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20231114-84-000",
+    "version": 5,
+    "startDate": "2023-11-14T16:23:08+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brand - 89407 Dillingen a.d. Donau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
