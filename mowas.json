@@ -28,14 +28,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20231115-18-000",
+    "id": "mow.DE-BW-S-SE018-20231115-18-001",
     "version": 5,
-    "startDate": "2023-11-15T19:52:11+01:00",
+    "startDate": "2023-11-15T21:39:13+01:00",
+    "expiresDate": "2023-11-16T03:39:13+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand in Wehr - Stadt Wehr"
+      "de": "Entwarnung: Großbrand Wehr gelöscht - Stadt Wehr"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
