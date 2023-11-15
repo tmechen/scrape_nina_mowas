@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-FR-W022-20231114-000",
-    "version": 5,
-    "startDate": "2023-11-14T06:09:19+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser Dreisam - Stadt Freiburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-021"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20231114-000",
     "version": 5,
     "startDate": "2023-11-14T19:58:41+01:00",
@@ -54,6 +40,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BW-FR-W022-20231115-000",
+    "version": 5,
+    "startDate": "2023-11-15T13:09:15+01:00",
+    "expiresDate": "2023-11-15T19:09:15+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser Dreisam - Stadt Freiburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-021"
     }
   }
 ]
