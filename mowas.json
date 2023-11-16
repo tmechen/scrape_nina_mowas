@@ -54,5 +54,19 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20231116-125-000",
+    "version": 5,
+    "startDate": "2023-11-16T13:20:33+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gewässerverunreinigung und Geruchsbelästigung - Sprendlingen / Zotzenheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
