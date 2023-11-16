@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20231116-125-000",
-    "version": 5,
-    "startDate": "2023-11-16T13:20:33+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gewässerverunreinigung und Geruchsbelästigung - Sprendlingen / Zotzenheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-BM-SE042-20231116-42-001",
     "version": 5,
     "startDate": "2023-11-16T15:36:42+01:00",
@@ -97,6 +83,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20231116-125-001",
+    "version": 5,
+    "startDate": "2023-11-16T20:03:34+01:00",
+    "expiresDate": "2023-11-17T02:03:34+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gewässerverunreinigung und Geruchsbelästigung - Sprendlingen / Zotzenheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
