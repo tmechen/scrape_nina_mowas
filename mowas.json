@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20231116-50-002",
-    "version": 5,
-    "startDate": "2023-11-16T11:46:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Brand einer Lagerhalle - Gemeinde Neckartailfingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20231116-99-000",
     "version": 5,
     "startDate": "2023-11-16T12:10:44+01:00",
@@ -96,6 +82,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20231116-50-004",
+    "version": 5,
+    "startDate": "2023-11-16T17:08:01+01:00",
+    "expiresDate": "2023-11-16T23:08:01+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand einer Lagerhalle - Gemeinde Neckartailfingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
