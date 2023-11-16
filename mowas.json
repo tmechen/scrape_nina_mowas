@@ -70,17 +70,32 @@
     }
   },
   {
-    "id": "mow.DE-NW-BM-SE042-20231116-42-000",
+    "id": "mow.DE-NW-BM-SE042-20231116-42-001",
     "version": 5,
-    "startDate": "2023-11-16T15:21:27+01:00",
+    "startDate": "2023-11-16T15:36:42+01:00",
+    "expiresDate": "2023-11-16T21:36:42+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung und Geruchsbelästigung durch Brand einer Lagerhalle - Stadtgebiet Kerpen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20231116-50-003",
+    "version": 5,
+    "startDate": "2023-11-16T15:46:35+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Rauchentwicklung und Geruchsbelästigung durch Brand einer Lagerhalle - Stadtgebiet Kerpen"
+      "de": "Gefahr durch verunreinigtes Trinkwassers - 73092 Heiningen"
     },
     "transKeys": {
-      "event": "BBK-EVC-030"
+      "event": "BBK-EVC-078"
     }
   }
 ]
