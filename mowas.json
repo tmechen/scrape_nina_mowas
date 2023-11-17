@@ -82,5 +82,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BW-FR-W022-20231117-000",
+    "version": 5,
+    "startDate": "2023-11-17T11:26:28+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasserverunreinigung - Abkochanordnung - Lenzkirch mit Ortsteilen ohne Raitenbuch"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-040"
+    }
   }
 ]
