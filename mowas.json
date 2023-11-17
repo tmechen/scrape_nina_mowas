@@ -115,20 +115,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-PF-W024-20231117-000",
-    "version": 5,
-    "startDate": "2023-11-17T19:34:07+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Übung Warndurchsagen - Gemeindegebiet Maulbronn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-HA-SE087-20231117-149-001",
     "version": 5,
     "startDate": "2023-11-17T19:57:34+01:00",
@@ -156,6 +142,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BW-PF-W024-20231117-001",
+    "version": 5,
+    "startDate": "2023-11-17T20:41:26+01:00",
+    "expiresDate": "2023-11-18T02:41:26+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Übung Warndurchsagen - Gemeindegebiet Maulbronn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
