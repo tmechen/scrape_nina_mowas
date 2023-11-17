@@ -56,21 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-HZ-W050-20231117-002",
-    "version": 5,
-    "startDate": "2023-11-17T12:58:08+01:00",
-    "expiresDate": "2023-11-17T18:58:08+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuer/ starke Rauchentwicklung - Börnecke"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20231117-84-001",
     "version": 5,
     "startDate": "2023-11-17T15:27:23+01:00",
@@ -115,20 +100,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20231117-31-000",
-    "version": 5,
-    "startDate": "2023-11-17T17:09:29+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stadtteil Opladen in Leverkusen von Stromausfall betroffen  - Leverkusen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20231117-000",
     "version": 5,
     "startDate": "2023-11-17T18:05:08+01:00",
@@ -154,6 +125,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20231117-31-001",
+    "version": 5,
+    "startDate": "2023-11-17T18:48:42+01:00",
+    "expiresDate": "2023-11-18T00:48:42+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stadtteil Opladen in Leverkusen von Stromausfall betroffen  - Leverkusen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
