@@ -56,21 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20231117-84-001",
-    "version": 5,
-    "startDate": "2023-11-17T15:27:23+01:00",
-    "expiresDate": "2023-11-17T21:27:23+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung im Bereich des Kalkwerkes Regensburg - Regensburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-ST-HZ-W050-20231117-003",
     "version": 5,
     "startDate": "2023-11-17T16:15:47+01:00",
