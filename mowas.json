@@ -96,5 +96,19 @@
     "transKeys": {
       "event": "BBK-EVC-040"
     }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20231117-84-000",
+    "version": 5,
+    "startDate": "2023-11-17T11:53:35+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "starke Rauchentwicklung im Bereich des Kalkwerkes Regensburg - Regensburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
