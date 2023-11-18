@@ -70,36 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20231117-31-001",
-    "version": 5,
-    "startDate": "2023-11-17T18:48:42+01:00",
-    "expiresDate": "2023-11-18T00:48:42+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stadtteil Opladen in Leverkusen von Stromausfall betroffen  - Leverkusen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-NW-HA-SE087-20231117-149-001",
-    "version": 5,
-    "startDate": "2023-11-17T19:57:34+01:00",
-    "expiresDate": "2023-11-18T01:57:34+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Hagen-Boele. NOTRUF FREIHALTEN! - Hagen-Boele, Schwerter Straße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20231117-001",
     "version": 5,
     "startDate": "2023-11-17T20:17:45+01:00",
