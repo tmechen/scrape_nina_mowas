@@ -85,14 +85,15 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20231118-19-000",
+    "id": "mow.DE-HB-HB-SE019-20231118-19-001",
     "version": 5,
-    "startDate": "2023-11-18T08:04:50+01:00",
+    "startDate": "2023-11-18T09:43:41+01:00",
+    "expiresDate": "2023-11-18T15:43:41+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung durch Gebäudebrand - Stadtteile Hemelingen, Arbergen, Gewerbepark Hansalinie"
+      "de": "Entwarnung: Geruchsbelästigung durch Gebäudebrand - Stadtteile Hemelingen, Arbergen, Gewerbepark Hansalinie"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
