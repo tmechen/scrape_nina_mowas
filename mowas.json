@@ -54,20 +54,5 @@
     "transKeys": {
       "event": "BBK-EVC-040"
     }
-  },
-  {
-    "id": "mow.DE-HE-HG-W103-20231118-000",
-    "version": 5,
-    "startDate": "2023-11-18T18:22:57+01:00",
-    "expiresDate": "2023-11-19T00:22:57+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 24-Stunden-Simulationsübung zum Thema Blackout - Hochtaunuskreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
   }
 ]
