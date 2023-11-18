@@ -70,14 +70,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-MOS-W031-20231118-000",
+    "id": "mow.DE-BW-MOS-W031-20231118-001",
     "version": 5,
-    "startDate": "2023-11-18T03:13:24+01:00",
+    "startDate": "2023-11-18T06:23:39+01:00",
+    "expiresDate": "2023-11-18T12:23:39+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke durch Brandereigniss (Elztal)   - Elztal Ortsteil Rittersbach"
+      "de": "Entwarnung: Rauchwolke durch Brandereignis (Elztal)   - Elztal Ortsteil Rittersbach"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
