@@ -98,5 +98,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-TH-HIG-W111-20231118-000",
+    "version": 5,
+    "startDate": "2023-11-18T11:30:18+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenen-Funktionsprobe - Gemeinde Niederorschel und VG Ershausen/Geismar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
