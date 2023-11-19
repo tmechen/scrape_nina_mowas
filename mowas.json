@@ -54,20 +54,5 @@
     "transKeys": {
       "event": "BBK-EVC-040"
     }
-  },
-  {
-    "id": "mow.DE-BW-RT-SE050-20231119-50-001",
-    "version": 5,
-    "startDate": "2023-11-19T17:55:15+01:00",
-    "expiresDate": "2023-11-19T23:55:15+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand Landwirtschaftliche Lagerhalle - Eppingen Adelshofen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
