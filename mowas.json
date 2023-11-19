@@ -54,5 +54,19 @@
     "transKeys": {
       "event": "BBK-EVC-040"
     }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20231119-82-000",
+    "version": 5,
+    "startDate": "2023-11-19T01:29:55+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgeruch im Bereich Lichtenberg - Lichtenberg, Gnewikow, Wuthenow, Gildenhall"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
