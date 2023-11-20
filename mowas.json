@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BOT-SE062-20231120-62-001",
-    "version": 5,
-    "startDate": "2023-11-20T16:20:45+01:00",
-    "expiresDate": "2023-11-20T22:20:45+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelentschärfung - Stadt Bottrop"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BB-EW-SE079-20231120-79-001",
     "version": 5,
     "startDate": "2023-11-20T18:36:27+01:00",
