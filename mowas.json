@@ -54,5 +54,19 @@
     "transKeys": {
       "event": "BBK-EVC-040"
     }
+  },
+  {
+    "id": "mow.DE-SN-C-W092-20231120-000",
+    "version": 5,
+    "startDate": "2023-11-20T07:15:55+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Beräumung von Kampfmitteln - Gemeinde Lichtenau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
