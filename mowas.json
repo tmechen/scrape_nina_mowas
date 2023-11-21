@@ -26,20 +26,5 @@
     "transKeys": {
       "event": "BBK-EVC-040"
     }
-  },
-  {
-    "id": "mow.DE-BB-EW-SE079-20231120-79-001",
-    "version": 5,
-    "startDate": "2023-11-20T18:36:27+01:00",
-    "expiresDate": "2023-11-21T00:36:27+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Der Gasaustritt wurde behoben. Die Maßnahmen wurden beendet. - 16540 Hohen Neuendorf, Kurt-Tucholsky Str. und nähere Umgebung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
   }
 ]
