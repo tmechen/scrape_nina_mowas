@@ -26,20 +26,5 @@
     "transKeys": {
       "event": "BBK-EVC-040"
     }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20231122-18-001",
-    "version": 5,
-    "startDate": "2023-11-22T07:56:40+01:00",
-    "expiresDate": "2023-11-22T13:56:40+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in Laupheim - Laupheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
