@@ -26,5 +26,19 @@
     "transKeys": {
       "event": "BBK-EVC-040"
     }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20231122-000",
+    "version": 5,
+    "startDate": "2023-11-22T14:24:54+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasserverunreinigung Abkochgebot für die Stadt Eberbach und Ortsteile - Eberbach und Ortsteile"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
