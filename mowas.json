@@ -70,20 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20231123-89-000",
-    "version": 5,
-    "startDate": "2023-11-23T19:42:42+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "LKW Brand auf BAB 44 - Soest"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20231123-001",
     "version": 5,
     "startDate": "2023-11-23T20:20:10+01:00",
@@ -95,6 +81,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20231123-89-001",
+    "version": 5,
+    "startDate": "2023-11-23T21:08:57+01:00",
+    "expiresDate": "2023-11-24T03:08:57+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: LKW Brand auf BAB 44 - Soest"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
