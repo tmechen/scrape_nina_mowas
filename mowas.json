@@ -57,20 +57,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-LB-W026-20231123-000",
-    "version": 5,
-    "startDate": "2023-11-23T10:49:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenentest - Gemeinde Freudental"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20231123-28-001",
     "version": 5,
     "startDate": "2023-11-23T10:56:24+01:00",
@@ -83,6 +69,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-LB-W026-20231123-001",
+    "version": 5,
+    "startDate": "2023-11-23T12:04:28+01:00",
+    "expiresDate": "2023-11-23T18:04:28+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenentest - Gemeinde Freudental"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
     }
   }
 ]
