@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20231123-29-000",
-    "version": 5,
-    "startDate": "2023-11-23T08:40:36+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung nach Brand - Gemeinde Worpswede Ortsteil Hüttenbusch"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20231123-28-000",
     "version": 5,
     "startDate": "2023-11-23T10:09:05+01:00",
@@ -64,6 +50,21 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Feuerwehreinsatz - Lohe-Rickelshof"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20231123-29-001",
+    "version": 5,
+    "startDate": "2023-11-23T10:39:56+01:00",
+    "expiresDate": "2023-11-23T16:39:56+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung nach Brand - Gemeinde Worpswede Ortsteil Hüttenbusch"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
