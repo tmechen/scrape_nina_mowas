@@ -56,21 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20231123-89-001",
-    "version": 5,
-    "startDate": "2023-11-23T21:08:57+01:00",
-    "expiresDate": "2023-11-24T03:08:57+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: LKW Brand auf BAB 44 - Soest"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20231123-002",
     "version": 5,
     "startDate": "2023-11-23T23:19:45+01:00",
@@ -151,6 +136,20 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Warnung vor einer Sturmflut im Elbegebiet - Elbegebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20231124-33-000",
+    "version": 5,
+    "startDate": "2023-11-24T03:16:36+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sturmflut am 24.11.2023 um 13:39 Uhr mit 3,87 bis 4,37 Metern über Normalhöhennull - Hamburger Elbgebiet"
     },
     "transKeys": {
       "event": "BBK-EVC-065"
