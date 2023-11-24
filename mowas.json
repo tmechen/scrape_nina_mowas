@@ -84,20 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-C-W092-20231124-003",
-    "version": 5,
-    "startDate": "2023-11-24T05:56:34+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Stromausfall - Region Freiberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20231124-005",
     "version": 5,
     "startDate": "2023-11-24T07:52:20+01:00",
@@ -139,6 +125,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-SN-C-W092-20231124-004",
+    "version": 5,
+    "startDate": "2023-11-24T11:36:19+01:00",
+    "expiresDate": "2023-11-24T17:36:19+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall - Region Freiberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
