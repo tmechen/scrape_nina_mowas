@@ -28,35 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20231124-009",
-    "version": 5,
-    "startDate": "2023-11-24T14:09:22+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor einer Sturmflut im Emsgebiet bei Emden - Emsgebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
-    "id": "mow.DE-ST-MD-SE022-20231124-143-001",
-    "version": 5,
-    "startDate": "2023-11-24T15:21:43+01:00",
-    "expiresDate": "2023-11-24T21:21:43+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall Trinkwasser Versorgung - Beetzendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-KLE-SE058-20231124-58-001",
     "version": 5,
     "startDate": "2023-11-24T17:29:09+01:00",
@@ -83,6 +54,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20231124-011",
+    "version": 5,
+    "startDate": "2023-11-24T21:41:31+01:00",
+    "expiresDate": "2023-11-25T03:41:31+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einer Sturmflut im Emsgebiet bei Emden - Emsgebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
     }
   }
 ]
