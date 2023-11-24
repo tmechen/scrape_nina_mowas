@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-KLE-SE058-20231124-58-001",
-    "version": 5,
-    "startDate": "2023-11-24T17:29:09+01:00",
-    "expiresDate": "2023-11-24T23:29:09+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Wachtendonk - Gemeinde Wachtendonk"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20231124-011",
     "version": 5,
     "startDate": "2023-11-24T21:41:31+01:00",
