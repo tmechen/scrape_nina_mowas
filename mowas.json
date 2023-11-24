@@ -43,20 +43,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20231124-000",
-    "version": 5,
-    "startDate": "2023-11-24T20:19:54+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Lauingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20231124-011",
     "version": 5,
     "startDate": "2023-11-24T21:41:31+01:00",
@@ -69,6 +55,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20231124-001",
+    "version": 5,
+    "startDate": "2023-11-24T22:23:45+01:00",
+    "expiresDate": "2023-11-25T04:23:45+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung - Lauingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
