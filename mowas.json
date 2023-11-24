@@ -142,5 +142,19 @@
     "transKeys": {
       "event": "BBK-EVC-040"
     }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20231124-143-000",
+    "version": 5,
+    "startDate": "2023-11-24T12:42:48+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Trinkwasser Versorgung - Beetzendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
