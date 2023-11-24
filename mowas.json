@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-FR-W022-20231124-000",
-    "version": 5,
-    "startDate": "2023-11-24T12:23:49+01:00",
-    "expiresDate": "2023-11-24T18:23:49+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserverunreinigung - Abkochanordnung - Lenzkirch mit Ortsteilen ohne Raitenbuch"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-040"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20231124-33-002",
     "version": 5,
     "startDate": "2023-11-24T13:50:12+01:00",
