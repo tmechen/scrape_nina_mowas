@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20231123-33-000",
-    "version": 5,
-    "startDate": "2023-11-23T16:20:19+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sturmflut am 24.11.2023 um 01:17 Uhr mit ca. +3,62 Metern über Normalhöhennull - Hamburger Elbgebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20231124-001",
     "version": 5,
     "startDate": "2023-11-24T01:33:10+01:00",
@@ -134,6 +120,21 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Warnung vor einer Sturmflut im Wesergebiet - Wesergebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20231124-33-001",
+    "version": 5,
+    "startDate": "2023-11-24T08:24:09+01:00",
+    "expiresDate": "2023-11-24T14:24:09+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sturmflut am 24.11.2023 um 01:17 Uhr mit ca. +3,62 Metern über Normalh - Hamburger Elbgebiet"
     },
     "transKeys": {
       "event": "BBK-EVC-065"
