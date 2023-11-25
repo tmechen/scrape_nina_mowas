@@ -43,14 +43,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20231125-28-000",
+    "id": "mow.DE-SH-EH-SE028-20231125-28-001",
     "version": 5,
-    "startDate": "2023-11-25T16:57:32+01:00",
+    "startDate": "2023-11-25T17:56:17+01:00",
+    "expiresDate": "2023-11-25T23:56:17+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Brand einer Lagerhalle - Hemminstedt-Lieth"
+      "de": "Entwarnung: Rauchentwicklung durch Brand einer Lagerhalle - Hemminstedt-Lieth"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
