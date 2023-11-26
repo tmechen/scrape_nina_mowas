@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20231126-50-002",
-    "version": 5,
-    "startDate": "2023-11-26T22:11:56+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Dachstuhlbrand - Schapbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20231126-99-000",
     "version": 5,
     "startDate": "2023-11-26T22:52:37+01:00",
@@ -53,6 +39,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20231126-50-003",
+    "version": 5,
+    "startDate": "2023-11-26T23:28:29+01:00",
+    "expiresDate": "2023-11-27T05:28:29+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Dachstuhlbrand - Schapbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
