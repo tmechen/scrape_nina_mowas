@@ -26,20 +26,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-SH-KI-SE099-20231127-99-000",
-    "version": 5,
-    "startDate": "2023-11-27T01:26:10+01:00",
-    "expiresDate": "2023-11-27T07:26:10+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Melsdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
