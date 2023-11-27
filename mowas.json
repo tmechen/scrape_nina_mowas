@@ -40,5 +40,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20231127-50-000",
+    "version": 5,
+    "startDate": "2023-11-27T14:44:15+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vollbrand einer Schreinerei - Messkirch"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
