@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20231127-50-003",
-    "version": 5,
-    "startDate": "2023-11-27T18:05:39+01:00",
-    "expiresDate": "2023-11-28T00:05:39+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Mikrobiologische Verunreinigung des Trinkwassers im Ortsteil Meßbach d - Gemeinde Dörzbach Ortsteil Meßbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20231127-000",
     "version": 5,
     "startDate": "2023-11-27T18:47:47+01:00",
