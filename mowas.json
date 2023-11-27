@@ -85,5 +85,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20231127-001",
+    "version": 5,
+    "startDate": "2023-11-28T00:35:20+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Verkehrsbehinderungen / Schulunterricht in weiterführenden Schulen - Hochtaunuskreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
+    }
   }
 ]
