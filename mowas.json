@@ -83,5 +83,19 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20231128-54-000",
+    "version": 5,
+    "startDate": "2023-11-28T15:15:10+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung in der Gemeinde Kreuzau - Gemeinde Kreuzau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
