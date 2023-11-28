@@ -42,21 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20231127-82-001",
-    "version": 5,
-    "startDate": "2023-11-27T23:27:15+01:00",
-    "expiresDate": "2023-11-28T05:27:15+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Wusterhausen - Wusterhausen/Dosse"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20231127-001",
     "version": 5,
     "startDate": "2023-11-28T00:35:20+01:00",
