@@ -42,21 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WM-W167-20231128-001",
-    "version": 5,
-    "startDate": "2023-11-28T16:50:20+01:00",
-    "expiresDate": "2023-11-28T22:50:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: massive Rauchentwicklung - Bichl bei Bad Tölz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-SWA-W096-20231128-001",
     "version": 5,
     "startDate": "2023-11-28T17:03:56+01:00",
