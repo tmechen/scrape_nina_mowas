@@ -71,34 +71,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20231128-000",
-    "version": 5,
-    "startDate": "2023-11-28T13:51:52+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall - Weilrod-Winden, Weilrod-Emmershausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-NW-DN-SE054-20231128-54-000",
-    "version": 5,
-    "startDate": "2023-11-28T15:15:10+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall Stromversorgung in der Gemeinde Kreuzau - Gemeinde Kreuzau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BY-WM-W167-20231128-000",
     "version": 5,
     "startDate": "2023-11-28T15:38:31+01:00",
@@ -110,6 +82,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20231128-001",
+    "version": 5,
+    "startDate": "2023-11-28T15:48:35+01:00",
+    "expiresDate": "2023-11-28T21:48:35+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall - Weilrod-Winden, Weilrod-Emmershausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20231128-54-001",
+    "version": 5,
+    "startDate": "2023-11-28T16:04:06+01:00",
+    "expiresDate": "2023-11-28T22:04:06+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall Stromversorgung in der Gemeinde Kreuzau - Gemeinde Kreuzau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
