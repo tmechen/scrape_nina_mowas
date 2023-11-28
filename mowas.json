@@ -56,14 +56,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-HN-W045-20231128-000",
+    "id": "mow.DE-BW-HN-W045-20231128-001",
     "version": 5,
-    "startDate": "2023-11-28T10:30:46+01:00",
+    "startDate": "2023-11-28T12:21:05+01:00",
+    "expiresDate": "2023-11-28T18:21:05+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Test der Sirenenanlagen in der Stadt Eppingen - Stadt Eppingen mit allen Teilorten"
+      "de": "Entwarnung: Test der Sirenenanlagen in der Stadt Eppingen - Stadt Eppingen mit allen Teilorten"
     },
     "transKeys": {
       "event": "BBK-EVC-050"
