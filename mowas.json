@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-SWA-W096-20231128-000",
-    "version": 5,
-    "startDate": "2023-11-28T09:09:12+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Gefahren durch starke Schneefälle - Rheingau-Taunus Kreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
-  },
-  {
     "id": "mow.DE-BW-HN-W045-20231128-001",
     "version": 5,
     "startDate": "2023-11-28T12:21:05+01:00",
@@ -68,20 +54,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-WM-W167-20231128-000",
-    "version": 5,
-    "startDate": "2023-11-28T15:38:31+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "massive Rauchentwicklung - Bichl bei Bad Tölz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
     }
   },
   {
@@ -112,6 +84,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BY-WM-W167-20231128-001",
+    "version": 5,
+    "startDate": "2023-11-28T16:50:20+01:00",
+    "expiresDate": "2023-11-28T22:50:20+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: massive Rauchentwicklung - Bichl bei Bad Tölz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-SWA-W096-20231128-001",
+    "version": 5,
+    "startDate": "2023-11-28T17:03:56+01:00",
+    "expiresDate": "2023-11-28T23:03:56+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahren durch starke Schneefälle - Rheingau-Taunus Kreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
     }
   }
 ]
