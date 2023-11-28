@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-SWA-W096-20231127-000",
-    "version": 5,
-    "startDate": "2023-11-27T16:34:55+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahren durch starke Schneefälle - Rheingau-Taunus Kreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20231127-000",
     "version": 5,
     "startDate": "2023-11-27T18:47:47+01:00",
@@ -50,6 +36,20 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Verkehrsbehinderungen / Schulunterricht in weiterführenden Schulen - Hochtaunuskreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
+    }
+  },
+  {
+    "id": "mow.DE-HE-SWA-W096-20231128-000",
+    "version": 5,
+    "startDate": "2023-11-28T09:09:12+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Gefahren durch starke Schneefälle - Rheingau-Taunus Kreis"
     },
     "transKeys": {
       "event": "BBK-EVC-057"
