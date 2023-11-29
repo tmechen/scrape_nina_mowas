@@ -99,14 +99,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-SHL-W117-20231129-000",
+    "id": "mow.DE-TH-SHL-W117-20231129-001",
     "version": 5,
-    "startDate": "2023-11-29T14:44:10+01:00",
+    "startDate": "2023-11-29T15:24:50+01:00",
+    "expiresDate": "2023-11-29T21:24:50+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Amtsleitung Leitstelle Bereich Suhl, Hildburghausen, Sonneberg - Stadt Suhl, Landkreis Hildburghausen, Landkreis Sonneberg"
+      "de": "Entwarnung: Ausfall Amtsleitung Leitstelle Bereich Suhl, Hildburghausen, Sonneberg - Stadt Suhl, Landkreis Hildburghausen, Landkreis Sonneberg"
     },
     "transKeys": {
       "event": "BBK-EVC-006"
