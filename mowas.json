@@ -69,5 +69,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-PB-SE093-20231129-93-000",
+    "version": 5,
+    "startDate": "2023-11-29T01:02:03+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchwolke durch Großbrand in einem Matratzenlager - Paderborn Riemekeviertel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
