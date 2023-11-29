@@ -83,5 +83,33 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-BY-N-W163-20231129-000",
+    "version": 5,
+    "startDate": "2023-11-29T14:43:18+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch größeres Brandereignis - Nürnberg, Wilhelminenstraße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-TH-SHL-W117-20231129-000",
+    "version": 5,
+    "startDate": "2023-11-29T14:44:10+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Amtsleitung Leitstelle Bereich Suhl, Hildburghausen, Sonneberg - Stadt Suhl, Landkreis Hildburghausen, Landkreis Sonneberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
+    }
   }
 ]
