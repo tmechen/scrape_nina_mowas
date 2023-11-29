@@ -57,20 +57,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20231129-82-001",
-    "version": 5,
-    "startDate": "2023-11-29T14:17:10+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Information der Bevölkerung - Potsdam und Umgebung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-N-W163-20231129-000",
     "version": 5,
     "startDate": "2023-11-29T14:43:18+01:00",
@@ -112,6 +98,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20231129-82-002",
+    "version": 5,
+    "startDate": "2023-11-29T15:55:02+01:00",
+    "expiresDate": "2023-11-29T21:55:02+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Information der Bevölkerung - Potsdam und Umgebung"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-WAF-SE045-20231129-45-000",
+    "version": 5,
+    "startDate": "2023-11-29T16:04:55+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung in der Gemeinde Beelen - Gemeinde Beelen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
