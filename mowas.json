@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HSK-SE096-20231130-96-001",
-    "version": 5,
-    "startDate": "2023-11-30T18:28:22+01:00",
-    "expiresDate": "2023-12-01T00:28:22+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Giftige Rauchwolke durch Brandeinsatz - Arnsberg-Neheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-FFB-W143-20231130-001",
     "version": 5,
     "startDate": "2023-11-30T21:17:21+01:00",
