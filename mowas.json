@@ -1,33 +1,5 @@
 [
   {
-    "id": "mow.DE-HE-HG-W103-20231127-000",
-    "version": 5,
-    "startDate": "2023-11-27T18:47:47+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor Unwetter mit starkem Schneefall - Hochtaunuskreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
-  },
-  {
-    "id": "mow.DE-HE-HG-W103-20231127-001",
-    "version": 5,
-    "startDate": "2023-11-28T00:35:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Verkehrsbehinderungen / Schulunterricht in weiterführenden Schulen - Hochtaunuskreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20231128-29-000",
     "version": 5,
     "startDate": "2023-11-28T19:54:49+01:00",
@@ -39,6 +11,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-006"
+    }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20231130-000",
+    "version": 5,
+    "startDate": "2023-11-30T09:40:01+01:00",
+    "expiresDate": "2023-11-30T15:40:01+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor Unwetter mit starkem Schneefall - Hochtaunuskreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
+    }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20231130-001",
+    "version": 5,
+    "startDate": "2023-11-30T09:40:18+01:00",
+    "expiresDate": "2023-11-30T15:40:18+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Verkehrsbehinderungen / Schulunterricht in weiterführenden Schulen - Hochtaunuskreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
     }
   }
 ]
