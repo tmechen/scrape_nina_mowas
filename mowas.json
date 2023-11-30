@@ -69,5 +69,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20231130-003",
+    "version": 5,
+    "startDate": "2023-11-30T21:12:41+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Stromausfall - Bad Homburg Kirdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
