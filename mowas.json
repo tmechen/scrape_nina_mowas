@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-Z-SE122-20231130-154-001",
-    "version": 5,
-    "startDate": "2023-11-30T15:28:47+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Evakuierung wegen Kampfmittelentschärfung - Plauen/Vogtland"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BY-BT-W082-20231130-000",
     "version": 5,
     "startDate": "2023-11-30T18:00:10+01:00",
@@ -83,6 +69,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-SN-Z-SE122-20231130-154-002",
+    "version": 5,
+    "startDate": "2023-11-30T22:48:25+01:00",
+    "expiresDate": "2023-12-01T04:48:25+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Evakuierung wegen Kampfmittelentschärfung - Plauen/Vogtland"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
