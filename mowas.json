@@ -56,20 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KN-W131-20231202-000",
-    "version": 5,
-    "startDate": "2023-12-02T08:49:26+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor Schneebruch in Wäldern und auf den Straßen  - Landkreis Konstanz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
-  },
-  {
     "id": "mow.DE-BY-M-W231-20231202-000",
     "version": 5,
     "startDate": "2023-12-02T09:47:33+01:00",
@@ -81,21 +67,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-024"
-    }
-  },
-  {
-    "id": "mow.DE-TH-AP-W115-20231202-001",
-    "version": 5,
-    "startDate": "2023-12-02T10:00:30+01:00",
-    "expiresDate": "2023-12-02T16:00:30+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenenprobealarm - Landkreis Weimarer Land"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
     }
   },
   {
@@ -272,17 +243,32 @@
     }
   },
   {
-    "id": "mow.DE-NW-BOR-SE059-20231202-59-000",
+    "id": "mow.DE-NW-BOR-SE059-20231202-59-001",
     "version": 5,
-    "startDate": "2023-12-02T15:21:06+01:00",
+    "startDate": "2023-12-02T15:57:18+01:00",
+    "expiresDate": "2023-12-02T21:57:18+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in Stadtlohn - Kreis Borken / Stadtlohn"
+      "de": "Entwarnung: Rauchgase in Stadtlohn - Kreis Borken / Stadtlohn"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20231202-18-000",
+    "version": 5,
+    "startDate": "2023-12-02T16:00:17+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Warnung vor Schneebruch in Wäldern und auf den Straßen  - Landkreis Konstanz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
     }
   }
 ]
