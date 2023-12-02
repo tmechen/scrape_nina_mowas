@@ -168,21 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BOR-SE059-20231202-59-001",
-    "version": 5,
-    "startDate": "2023-12-02T15:57:18+01:00",
-    "expiresDate": "2023-12-02T21:57:18+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Stadtlohn - Kreis Borken / Stadtlohn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20231202-18-000",
     "version": 5,
     "startDate": "2023-12-02T16:00:17+01:00",
