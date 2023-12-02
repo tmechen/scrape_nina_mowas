@@ -56,20 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-RO-W136-20231202-000",
-    "version": 5,
-    "startDate": "2023-12-02T06:37:38+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahr durch starken Schneefall und Schneebruch - Landkreise Rosenheim und Miesbach, kreisfreie Stadt Rosenheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
-  },
-  {
     "id": "mow.DE-BY-LA-W144-20231202-000",
     "version": 5,
     "startDate": "2023-12-02T06:39:22+01:00",
@@ -184,34 +170,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20231202-31-000",
-    "version": 5,
-    "startDate": "2023-12-02T11:55:59+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Probealarm - Stadtgebiet Köln"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
-    "id": "mow.DE-NW-LEV-SE046-20231202-46-000",
-    "version": 5,
-    "startDate": "2023-12-02T12:02:48+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenen-Probealarm in Leverkusen - Leverkusen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20231202-001",
     "version": 5,
     "startDate": "2023-12-02T12:05:23+01:00",
@@ -227,17 +185,76 @@
     }
   },
   {
-    "id": "mow.DE-NW-GL-SE063-20231202-63-001",
+    "id": "mow.DE-NW-GL-SE063-20231202-63-002",
     "version": 5,
-    "startDate": "2023-12-02T12:06:24+01:00",
+    "startDate": "2023-12-02T12:12:41+01:00",
+    "expiresDate": "2023-12-02T18:12:41+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kreisweiter Warntag 2023- Probewarnung  - Rheinisch-Bergischer Kreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-NW-LEV-SE046-20231202-46-001",
+    "version": 5,
+    "startDate": "2023-12-02T12:13:54+01:00",
+    "expiresDate": "2023-12-02T18:13:54+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Probealarm in Leverkusen - Leverkusen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20231202-31-001",
+    "version": 5,
+    "startDate": "2023-12-02T12:15:05+01:00",
+    "expiresDate": "2023-12-02T18:15:05+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Probealarm - Stadtgebiet Köln"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-BY-SR-W159-20231202-001",
+    "version": 5,
+    "startDate": "2023-12-02T12:15:55+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Kreisweiter Warntag 2023- Probewarnung  - Rheinisch-Bergischer Kreis"
+      "de": "Warnmeldung vor Schneebruch - Stadt Straubing"
     },
     "transKeys": {
-      "event": "BBK-EVC-050"
+      "event": "BBK-EVC-057"
+    }
+  },
+  {
+    "id": "mow.DE-BY-RO-W136-20231202-001",
+    "version": 5,
+    "startDate": "2023-12-02T12:22:00+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Gefahr durch starken Schneefall und Schneebruch - Landkreise Rosenheim und Miesbach, kreisfreie Stadt Rosenheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
     }
   }
 ]
