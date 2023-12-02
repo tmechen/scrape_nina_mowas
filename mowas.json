@@ -140,5 +140,47 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20231202-84-000",
+    "version": 5,
+    "startDate": "2023-12-02T11:15:26+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "DEG_005_Schneefall - Landkreis Deggendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
+    }
+  },
+  {
+    "id": "mow.DE-BY-M-W168-20231202-000",
+    "version": 5,
+    "startDate": "2023-12-02T11:27:24+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Schneelage Großraum München - Landkreis München"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20231202-000",
+    "version": 5,
+    "startDate": "2023-12-02T11:28:03+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Schneebruchgefahr - Stadt Ingolstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
+    }
   }
 ]
