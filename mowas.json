@@ -209,5 +209,33 @@
     "transKeys": {
       "event": "BBK-EVC-057"
     }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20231202-84-002",
+    "version": 5,
+    "startDate": "2023-12-02T20:00:30+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sperrung Stadtwald  - Stadtwald Augsburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20231202-002",
+    "version": 5,
+    "startDate": "2023-12-02T20:11:47+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sperrung Gögginger Stadtwald - Stadtwald Göggingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
