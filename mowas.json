@@ -222,5 +222,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-BY-TS-W135-20231203-000",
+    "version": 5,
+    "startDate": "2023-12-03T13:30:04+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Unterrichtsausfall im Landkreis Mühldorf - Landkreis Mühldorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-058"
+    }
   }
 ]
