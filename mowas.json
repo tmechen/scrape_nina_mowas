@@ -56,20 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-M-W168-20231202-000",
-    "version": 5,
-    "startDate": "2023-12-02T11:27:24+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Schneelage Großraum München - Landkreis München"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20231202-000",
     "version": 5,
     "startDate": "2023-12-02T11:28:03+01:00",
@@ -168,48 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20231202-84-002",
-    "version": 5,
-    "startDate": "2023-12-02T20:00:30+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sperrung Stadtwald  - Stadtwald Augsburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20231202-002",
-    "version": 5,
-    "startDate": "2023-12-02T20:11:47+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sperrung Gögginger Stadtwald - Stadtwald Göggingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BY-TS-W135-20231203-000",
-    "version": 5,
-    "startDate": "2023-12-03T13:30:04+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Unterrichtsausfall im Landkreis Mühldorf - Landkreis Mühldorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-058"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20231204-84-000",
     "version": 5,
     "startDate": "2023-12-04T07:40:32+01:00",
@@ -252,6 +196,66 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20231204-000",
+    "version": 5,
+    "startDate": "2023-12-04T13:05:42+01:00",
+    "expiresDate": "2023-12-04T19:05:42+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sperrung Gögginger Stadtwald - Stadtwald Göggingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20231204-84-001",
+    "version": 5,
+    "startDate": "2023-12-04T13:06:12+01:00",
+    "expiresDate": "2023-12-04T19:06:12+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sperrung Stadtwald  - Stadtwald Augsburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-M-W168-20231204-000",
+    "version": 5,
+    "startDate": "2023-12-04T13:15:28+01:00",
+    "expiresDate": "2023-12-04T19:15:28+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Schneelage Großraum München - Landkreis München"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
+    }
+  },
+  {
+    "id": "mow.DE-BY-TS-W135-20231204-000",
+    "version": 5,
+    "startDate": "2023-12-04T13:19:33+01:00",
+    "expiresDate": "2023-12-04T19:19:33+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Unterrichtsausfall im Landkreis Mühldorf - Landkreis Mühldorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-058"
     }
   }
 ]
