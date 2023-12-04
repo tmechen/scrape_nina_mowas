@@ -236,5 +236,19 @@
     "transKeys": {
       "event": "BBK-EVC-058"
     }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20231204-125-000",
+    "version": 5,
+    "startDate": "2023-12-04T04:42:20+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand einer Lagerhalle in Weisenau - Mainz Weisenau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
