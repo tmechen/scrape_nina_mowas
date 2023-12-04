@@ -1,19 +1,5 @@
 [
   {
-    "id": "mow.DE-BY-BT-W082-20231130-000",
-    "version": 5,
-    "startDate": "2023-11-30T18:00:10+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Abkochanordnung für Trinkwasser für die Gemeinde Mistelbach - Mistelbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20231201-50-000",
     "version": 5,
     "startDate": "2023-12-01T16:53:42+01:00",
@@ -251,6 +237,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-BT-W082-20231204-000",
+    "version": 5,
+    "startDate": "2023-12-04T12:40:10+01:00",
+    "expiresDate": "2023-12-04T18:40:10+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Abkochanordnung für Trinkwasser für die Gemeinde Mistelbach - Mistelbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
