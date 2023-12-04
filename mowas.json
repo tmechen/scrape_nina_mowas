@@ -154,21 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20231204-000",
-    "version": 5,
-    "startDate": "2023-12-04T13:19:33+01:00",
-    "expiresDate": "2023-12-04T19:19:33+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Unterrichtsausfall im Landkreis Mühldorf - Landkreis Mühldorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-058"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20231204-106-001",
     "version": 5,
     "startDate": "2023-12-04T17:01:04+01:00",
