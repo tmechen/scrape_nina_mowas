@@ -154,21 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-W163-20231205-001",
-    "version": 5,
-    "startDate": "2023-12-05T14:02:09+01:00",
-    "expiresDate": "2023-12-05T20:02:09+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brand - Oberwellitzleiten"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20231205-12-001",
     "version": 5,
     "startDate": "2023-12-05T19:09:54+01:00",
