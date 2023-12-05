@@ -126,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-W163-20231205-000",
-    "version": 5,
-    "startDate": "2023-12-05T08:30:55+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Brand - Oberwellitzleiten"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HE-F-SE119-20231205-128-000",
     "version": 5,
     "startDate": "2023-12-05T09:13:29+01:00",
@@ -180,6 +166,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-057"
+    }
+  },
+  {
+    "id": "mow.DE-BY-N-W163-20231205-001",
+    "version": 5,
+    "startDate": "2023-12-05T14:02:09+01:00",
+    "expiresDate": "2023-12-05T20:02:09+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Brand - Oberwellitzleiten"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
