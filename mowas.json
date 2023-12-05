@@ -166,5 +166,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-BY-N-W163-20231205-000",
+    "version": 5,
+    "startDate": "2023-12-05T08:30:55+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brand - Oberwellitzleiten"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
