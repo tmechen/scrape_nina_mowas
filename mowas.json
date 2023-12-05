@@ -154,20 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20231204-106-001",
-    "version": 5,
-    "startDate": "2023-12-04T17:01:04+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Großbrand einer Lagerhalle in Offenbach am Main - Geruchsbelästigung - Offenbach aM"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BY-N-W163-20231205-000",
     "version": 5,
     "startDate": "2023-12-05T08:30:55+01:00",
@@ -176,6 +162,21 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Rauchentwicklung durch Brand - Oberwellitzleiten"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-HE-F-SE119-20231205-128-000",
+    "version": 5,
+    "startDate": "2023-12-05T09:13:29+01:00",
+    "expiresDate": "2023-12-05T15:13:29+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand einer Lagerhalle in Offenbach am Main - Geruchsbelästigung - Offenbach aM"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
