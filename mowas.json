@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-RO-W136-20231206-000",
-    "version": 5,
-    "startDate": "2023-12-06T11:09:56+01:00",
-    "expiresDate": "2023-12-06T17:09:56+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahr durch starken Schneefall und Schneebruch - Landkreise Rosenheim und Miesbach, kreisfreie Stadt Rosenheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
-  },
-  {
     "id": "mow.DE-BY-LA-W144-20231206-000",
     "version": 5,
     "startDate": "2023-12-06T11:35:00+01:00",
