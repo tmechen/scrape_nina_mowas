@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-BC-W124-20231206-000",
-    "version": 5,
-    "startDate": "2023-12-06T09:16:31+01:00",
-    "expiresDate": "2023-12-06T15:16:31+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahr durch Schneebruch,umgestürzte Bäume, - Landkreis Biberach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-084"
-    }
-  },
-  {
     "id": "mow.DE-BY-RO-W136-20231206-000",
     "version": 5,
     "startDate": "2023-12-06T11:09:56+01:00",
