@@ -110,20 +110,5 @@
     "transKeys": {
       "event": "BBK-EVC-057"
     }
-  },
-  {
-    "id": "mow.DE-BY-M-W231-20231206-001",
-    "version": 5,
-    "startDate": "2023-12-06T20:37:06+01:00",
-    "expiresDate": "2023-12-07T02:37:06+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Achtung Glatteis - Stadtgebiet München"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-032"
-    }
   }
 ]
