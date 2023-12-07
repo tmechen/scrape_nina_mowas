@@ -70,33 +70,17 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20231207-18-001",
+    "id": "mow.DE-NW-KR-SE075-20231207-75-001",
     "version": 5,
-    "startDate": "2023-12-07T14:50:21+01:00",
-    "expiresDate": "2023-12-07T20:50:21+01:00",
+    "startDate": "2023-12-07T21:01:49+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Warnung vor Schneebruch in Wäldern und auf den Straßen  - Landkreis Konstanz"
+      "de": "Vorsorgliche Information der Stadt Krefeld - Geruchsbelästigung durch Großbrand - Südliche Stadtteile Krefeld"
     },
     "transKeys": {
-      "event": "BBK-EVC-057"
-    }
-  },
-  {
-    "id": "mow.DE-BY-IN-W139-20231207-000",
-    "version": 5,
-    "startDate": "2023-12-07T14:57:34+01:00",
-    "expiresDate": "2023-12-07T20:57:34+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Schneebruchgefahr - Stadt Ingolstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
+      "event": "BBK-EVC-078"
     }
   }
 ]
