@@ -70,14 +70,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-OL-W015-20231208-000",
+    "id": "mow.DE-NI-OL-W015-20231208-001",
     "version": 5,
-    "startDate": "2023-12-08T18:23:34+01:00",
+    "startDate": "2023-12-08T19:06:24+01:00",
+    "expiresDate": "2023-12-09T01:06:24+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand einer Industriehalle mit starker Rauchentwicklung - Ganderkesee"
+      "de": "Entwarnung: Großbrand einer Industriehalle mit starker Rauchentwicklung - Ganderkesee"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
