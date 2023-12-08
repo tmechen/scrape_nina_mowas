@@ -54,5 +54,33 @@
     "transKeys": {
       "event": "BBK-EVC-032"
     }
+  },
+  {
+    "id": "mow.DE-NW-KLE-SE058-20231208-58-000",
+    "version": 5,
+    "startDate": "2023-12-08T18:15:21+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Rees - Rees"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-028"
+    }
+  },
+  {
+    "id": "mow.DE-NI-OL-W015-20231208-000",
+    "version": 5,
+    "startDate": "2023-12-08T18:23:34+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand einer Industriehalle mit starker Rauchentwicklung - Ganderkesee"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
