@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-SR-W159-20231202-001",
-    "version": 5,
-    "startDate": "2023-12-02T12:15:55+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnmeldung vor Schneebruch - Stadt Straubing"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20231202-84-001",
     "version": 5,
     "startDate": "2023-12-02T13:03:52+01:00",
@@ -81,6 +67,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-SR-W159-20231208-000",
+    "version": 5,
+    "startDate": "2023-12-08T09:30:36+01:00",
+    "expiresDate": "2023-12-08T15:30:36+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnmeldung vor Schneebruch - Stadt Straubing"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
     }
   }
 ]
