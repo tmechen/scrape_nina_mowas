@@ -54,20 +54,5 @@
     "transKeys": {
       "event": "BBK-EVC-032"
     }
-  },
-  {
-    "id": "mow.DE-NW-KR-SE075-20231208-75-000",
-    "version": 5,
-    "startDate": "2023-12-08T10:58:32+01:00",
-    "expiresDate": "2023-12-08T16:58:32+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Vorsorgliche Information der Stadt Krefeld - Geruchsbelästigung durch  - Südliche Stadtteile Krefeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
   }
 ]
