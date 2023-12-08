@@ -56,20 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-KLE-SE058-20231208-58-000",
-    "version": 5,
-    "startDate": "2023-12-08T18:15:21+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Rees - Rees"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-028"
-    }
-  },
-  {
     "id": "mow.DE-NI-OL-W015-20231208-001",
     "version": 5,
     "startDate": "2023-12-08T19:06:24+01:00",
@@ -82,6 +68,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-KLE-SE058-20231208-58-001",
+    "version": 5,
+    "startDate": "2023-12-08T19:34:31+01:00",
+    "expiresDate": "2023-12-09T01:34:31+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Rees - Rees"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-028"
     }
   }
 ]
