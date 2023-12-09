@@ -40,5 +40,19 @@
     "transKeys": {
       "event": "BBK-EVC-057"
     }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20231209-125-001",
+    "version": 5,
+    "startDate": "2023-12-09T13:00:06+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Stromausfall in der Innenstadt Mainz - Mainz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
