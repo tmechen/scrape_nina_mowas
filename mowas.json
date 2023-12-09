@@ -40,20 +40,5 @@
     "transKeys": {
       "event": "BBK-EVC-057"
     }
-  },
-  {
-    "id": "mow.DE-BW-RA-W025-20231209-001",
-    "version": 5,
-    "startDate": "2023-12-09T02:08:37+01:00",
-    "expiresDate": "2023-12-09T08:08:37+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: großflächiger Stromausfall - Au am Rhein / Durmersheim / Elchesheim Illingen und Steinmauern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
   }
 ]
