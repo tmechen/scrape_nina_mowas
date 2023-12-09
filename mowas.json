@@ -42,48 +42,18 @@
     }
   },
   {
-    "id": "mow.DE-NI-OL-W015-20231208-001",
+    "id": "mow.DE-BW-RA-W025-20231209-001",
     "version": 5,
-    "startDate": "2023-12-08T19:06:24+01:00",
-    "expiresDate": "2023-12-09T01:06:24+01:00",
+    "startDate": "2023-12-09T02:08:37+01:00",
+    "expiresDate": "2023-12-09T08:08:37+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Großbrand einer Industriehalle mit starker Rauchentwicklung - Ganderkesee"
+      "de": "Entwarnung: großflächiger Stromausfall - Au am Rhein / Durmersheim / Elchesheim Illingen und Steinmauern"
     },
     "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-NW-KLE-SE058-20231208-58-001",
-    "version": 5,
-    "startDate": "2023-12-08T19:34:31+01:00",
-    "expiresDate": "2023-12-09T01:34:31+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Rees - Rees"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-028"
-    }
-  },
-  {
-    "id": "mow.DE-BY-M-W231-20231208-000",
-    "version": 5,
-    "startDate": "2023-12-08T19:58:56+01:00",
-    "expiresDate": "2023-12-09T01:58:56+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Schneelage München - Stadtgebiet München"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-032"
+      "event": "BBK-EVC-063"
     }
   }
 ]
