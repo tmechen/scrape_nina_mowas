@@ -56,14 +56,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20231209-12-000",
+    "id": "mow.DE-TH-EF-SE012-20231209-12-001",
     "version": 5,
-    "startDate": "2023-12-09T16:39:53+01:00",
+    "startDate": "2023-12-09T17:59:50+01:00",
+    "expiresDate": "2023-12-09T23:59:50+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Sichtbehinderungen durch Nebel - BAB 71"
+      "de": "Entwarnung: Starke Sichtbehinderungen durch Nebel - BAB 71"
     },
     "transKeys": {
       "event": "BBK-EVC-075"
