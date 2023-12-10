@@ -40,5 +40,19 @@
     "transKeys": {
       "event": "BBK-EVC-057"
     }
+  },
+  {
+    "id": "mow.DE-BY-AN-W166-20231210-001",
+    "version": 5,
+    "startDate": "2023-12-10T09:12:14+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rezatparkplatz wegen Hochwasser gesperrt - Stadt Ansbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
