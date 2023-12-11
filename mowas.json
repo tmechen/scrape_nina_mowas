@@ -40,20 +40,5 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
-  },
-  {
-    "id": "mow.DE-BW-RT-SE050-20231210-50-002",
-    "version": 5,
-    "startDate": "2023-12-10T19:12:45+01:00",
-    "expiresDate": "2023-12-11T01:12:45+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Schadenfeuer - Gemeindegebiet Waldenburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
