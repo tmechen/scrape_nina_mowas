@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-GT-SE040-20231211-40-000",
+    "id": "mow.DE-NW-GT-SE040-20231211-40-001",
     "version": 5,
-    "startDate": "2023-12-11T08:13:28+01:00",
+    "startDate": "2023-12-11T09:26:24+01:00",
+    "expiresDate": "2023-12-11T15:26:24+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung in Borgholzhausen - Ortsteil Borgholzhausen Stadt"
+      "de": "Entwarnung: Geruchsbelästigung in Borgholzhausen - Ortsteil Borgholzhausen Stadt"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
