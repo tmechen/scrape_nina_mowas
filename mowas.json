@@ -26,20 +26,5 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20231211-000",
-    "version": 5,
-    "startDate": "2023-12-11T16:40:53+01:00",
-    "expiresDate": "2023-12-11T22:40:53+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahr durch Schneebruch und umgestürzte Bäume - Stadt Augsburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
   }
 ]
