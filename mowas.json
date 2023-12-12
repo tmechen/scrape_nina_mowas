@@ -26,5 +26,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-TH-ARN-W014-20231212-000",
+    "version": 5,
+    "startDate": "2023-12-12T17:52:03+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gasaustritt bei Bauarbeiten - Gräfinau-Angstedt, Wümbacher Straße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
