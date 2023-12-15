@@ -1,13 +1,14 @@
 [
   {
-    "id": "mow.DE-NW-AC-SE090-20231214-90-001",
+    "id": "mow.DE-NW-AC-SE090-20231215-90-000",
     "version": 5,
-    "startDate": "2023-12-14T18:38:11+01:00",
+    "startDate": "2023-12-15T13:32:43+01:00",
+    "expiresDate": "2023-12-15T19:32:43+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Festnetztelefonie und Internet - Gemeinde Simmerath"
+      "de": "Entwarnung: Ausfall Festnetztelefonie und Internet - Gemeinde Simmerath"
     },
     "transKeys": {
       "event": "BBK-EVC-006"
