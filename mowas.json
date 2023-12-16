@@ -28,5 +28,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-TH-HIG-W111-20231216-000",
+    "version": 5,
+    "startDate": "2023-12-16T11:07:35+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenen-Funktionsprobe VG Leinetal und VG Uder - Eichsfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
