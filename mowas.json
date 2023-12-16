@@ -1,20 +1,5 @@
 [
   {
-    "id": "mow.DE-TH-HIG-W111-20231216-001",
-    "version": 5,
-    "startDate": "2023-12-16T12:42:22+01:00",
-    "expiresDate": "2023-12-16T18:42:22+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenen-Funktionsprobe VG Leinetal und VG Uder - Eichsfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-BY-HO-W142-20231216-000",
     "version": 5,
     "startDate": "2023-12-16T15:37:07+01:00",
@@ -43,14 +28,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20231216-89-002",
+    "id": "mow.DE-NW-SO-SE089-20231216-89-003",
     "version": 5,
-    "startDate": "2023-12-16T17:05:02+01:00",
+    "startDate": "2023-12-16T19:04:41+01:00",
+    "expiresDate": "2023-12-17T01:04:41+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz  - Stadt Erwitte"
+      "de": "Entwarnung: Feuerwehreinsatz  - Stadt Erwitte"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
