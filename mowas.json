@@ -1,20 +1,5 @@
 [
   {
-    "id": "mow.DE-NW-SO-SE089-20231216-89-001",
-    "version": 5,
-    "startDate": "2023-12-16T06:23:01+01:00",
-    "expiresDate": "2023-12-16T12:23:01+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Bereich der BAB 44 Anschlußstelle Soest-Möhnesee - Kreis Soest, Autobahnabschnitt A44 Höhe Soest"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20231216-29-001",
     "version": 5,
     "startDate": "2023-12-16T07:23:28+01:00",
@@ -30,14 +15,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-HIG-W111-20231216-000",
+    "id": "mow.DE-TH-HIG-W111-20231216-001",
     "version": 5,
-    "startDate": "2023-12-16T11:07:35+01:00",
+    "startDate": "2023-12-16T12:42:22+01:00",
+    "expiresDate": "2023-12-16T18:42:22+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenen-Funktionsprobe VG Leinetal und VG Uder - Eichsfeld"
+      "de": "Entwarnung: Sirenen-Funktionsprobe VG Leinetal und VG Uder - Eichsfeld"
     },
     "transKeys": {
       "event": "BBK-EVC-060"
