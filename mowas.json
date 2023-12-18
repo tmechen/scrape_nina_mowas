@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HSK-SE096-20231218-96-001",
-    "version": 5,
-    "startDate": "2023-12-18T06:05:36+01:00",
-    "expiresDate": "2023-12-18T12:05:36+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Arnsberg-Hüsten - Arnsberg-Hüsten, Breloh"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20231218-143-002",
     "version": 5,
     "startDate": "2023-12-18T08:29:05+01:00",
