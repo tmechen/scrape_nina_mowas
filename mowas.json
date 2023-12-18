@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20231218-143-002",
-    "version": 5,
-    "startDate": "2023-12-18T08:29:05+01:00",
-    "expiresDate": "2023-12-18T14:29:05+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Teilweise Ausfall Notruf 112 im gesamten Harzkreis aus dem Mobilfunkne - Landkreis Harz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-004"
-    }
-  },
-  {
     "id": "mow.DE-TH-UH-W116-20231218-001",
     "version": 5,
     "startDate": "2023-12-18T08:47:00+01:00",
