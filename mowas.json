@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20231219-12-000",
+    "id": "mow.DE-TH-EF-SE012-20231219-12-001",
     "version": 5,
-    "startDate": "2023-12-19T06:11:16+01:00",
+    "startDate": "2023-12-19T10:09:00+01:00",
+    "expiresDate": "2023-12-19T16:09:00+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Ortslage Wernshausen"
+      "de": "Entwarnung: Starke Rauchentwicklung - Ortslage Wernshausen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
