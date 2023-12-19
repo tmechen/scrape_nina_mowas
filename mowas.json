@@ -54,5 +54,19 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-NW-NE-SE044-20231219-44-000",
+    "version": 5,
+    "startDate": "2023-12-19T20:47:16+01:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Angespannte Lage im Gesundheitswesen im Rhein-Kreis Neuss - Rhein-Kreis Neuss"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-059"
+    }
   }
 ]
