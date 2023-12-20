@@ -14,21 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-W108-20231220-002",
-    "version": 5,
-    "startDate": "2023-12-20T17:39:49+01:00",
-    "expiresDate": "2023-12-20T23:39:49+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in Erfurt, Ortsteil Krämpfervorstadt/ Bereich Greifswalder Straß - Stadt Erfurt, Ortsteil Krämpfervorstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-DU-SE038-20231220-38-002",
     "version": 5,
     "startDate": "2023-12-20T20:46:45+01:00",
