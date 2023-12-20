@@ -1,19 +1,5 @@
 [
   {
-    "id": "mow.DE-BY-HO-W142-20231216-000",
-    "version": 5,
-    "startDate": "2023-12-16T15:37:07+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rudolphstein - Moos - Sachsenvorwerk - Abkochgebot & Chlorung des Trinkwassers  - 95180 Rudolphstein, Sachsenvorwerk, Moos, Sparnberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20231216-000",
     "version": 5,
     "startDate": "2023-12-16T15:57:57+01:00",
@@ -53,6 +39,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-W108-20231220-000",
+    "version": 5,
+    "startDate": "2023-12-20T16:14:55+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand in Erfurt, Ortsteil Krämpfervorstadt/ Bereich Greifswalder Straße - Stadt Erfurt, Ortsteil Krämpfervorstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-HO-W142-20231220-000",
+    "version": 5,
+    "startDate": "2023-12-20T16:21:25+01:00",
+    "expiresDate": "2023-12-20T22:21:25+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rudolphstein - Moos - Sachsenvorwerk - Abkochgebot & Chlorung des Trin - 95180 Rudolphstein, Sachsenvorwerk, Moos, Sparnberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
