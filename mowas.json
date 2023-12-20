@@ -42,21 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-NE-SE044-20231219-44-001",
-    "version": 5,
-    "startDate": "2023-12-19T23:13:21+01:00",
-    "expiresDate": "2023-12-20T05:13:21+01:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Angespannte Lage im Gesundheitswesen im Rhein-Kreis Neuss - Rhein-Kreis Neuss"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-059"
-    }
-  },
-  {
     "id": "mow.DE-BY-AN-W166-20231220-001",
     "version": 5,
     "startDate": "2023-12-20T02:19:09+01:00",
