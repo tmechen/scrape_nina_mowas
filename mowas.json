@@ -72,14 +72,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-AN-W166-20231220-000",
+    "id": "mow.DE-BY-AN-W166-20231220-001",
     "version": 5,
-    "startDate": "2023-12-20T01:38:12+01:00",
+    "startDate": "2023-12-20T02:19:09+01:00",
+    "expiresDate": "2023-12-20T08:19:09+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Giftige Rauchwolke - Ortsgebiet Dinkelsbühl"
+      "de": "Entwarnung: Giftige Rauchwolke - Ortsgebiet Dinkelsbühl"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
