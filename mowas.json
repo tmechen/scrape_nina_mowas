@@ -126,5 +126,19 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20231221-008",
+    "version": 5,
+    "startDate": "2023-12-21T20:19:33+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor einer schweren Sturmflut an der ostfriesischen Küste - Ostfriesische Küste"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
   }
 ]
