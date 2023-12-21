@@ -114,20 +114,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20231221-000",
-    "version": 5,
-    "startDate": "2023-12-21T21:46:17+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall Königstein  - Königstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20231221-106-001",
     "version": 5,
     "startDate": "2023-12-21T21:59:55+01:00",
@@ -224,6 +210,63 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Störung Strom - und Trinkwassernetz - Bad Köstritz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20231221-19-000",
+    "version": 5,
+    "startDate": "2023-12-21T23:53:29+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser aufgrund von Sturmflut im Wesergebiet - Bremen - Stadtwerder/Pauliner Marsch/Suhrfelde"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20231221-19-001",
+    "version": 5,
+    "startDate": "2023-12-22T00:01:15+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser aufgrund Sturmflut im Wesergebiet  - Bremen - Rablinghausen (Hanseatenkampfbahn)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-RP-WW-SE116-20231221-123-002",
+    "version": 5,
+    "startDate": "2023-12-22T00:02:06+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Stromausfall Ortslage Bannberscheid - Bannberscheid"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20231221-002",
+    "version": 5,
+    "startDate": "2023-12-22T00:07:38+01:00",
+    "expiresDate": "2023-12-22T06:07:38+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall Königstein  - Königstein"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
