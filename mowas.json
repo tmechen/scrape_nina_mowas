@@ -140,5 +140,19 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20231221-000",
+    "version": 5,
+    "startDate": "2023-12-21T21:24:08+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Störung Strom - und Trinkwassernetz - Bad Köstritz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
