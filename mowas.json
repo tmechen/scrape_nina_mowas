@@ -82,5 +82,33 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20231221-33-000",
+    "version": 5,
+    "startDate": "2023-12-21T10:29:15+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sturmflut am 21.12.2023 um 23:25 Uhr zwischen +4,12 und +4,62 Metern über NHN - Hamburger Elbgebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-BW-HN-W045-20231221-000",
+    "version": 5,
+    "startDate": "2023-12-21T10:31:52+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kreisweiter Test der Warnsysteme - Landkreis Heilbronn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
