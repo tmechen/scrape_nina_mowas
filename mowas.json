@@ -112,14 +112,14 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20231221-33-001",
+    "id": "mow.DE-HH-HH-SE033-20231221-33-002",
     "version": 5,
-    "startDate": "2023-12-21T16:33:24+01:00",
-    "severity": "Severe",
+    "startDate": "2023-12-21T18:36:53+01:00",
+    "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
     "i18nTitle": {
-      "de": "Schwere Sturmflut am 21.12.2023 um 23:25 Uhr mit ca. +4,60 Metern über NHN - Hamburger Elbgebiet"
+      "de": "Schwere Sturmflut heute gegen 23:00 Uhr mit ca. +4,70 m über Normalhöhennull - Hamburger Elbgebiet"
     },
     "transKeys": {
       "event": "BBK-EVC-065"
