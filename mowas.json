@@ -154,5 +154,33 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20231221-106-000",
+    "version": 5,
+    "startDate": "2023-12-21T21:40:36+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall in Teilen von Wiesbaden - Kloppenheim, Hessloch"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20231221-000",
+    "version": 5,
+    "startDate": "2023-12-21T21:46:17+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall Königstein  - Königstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
