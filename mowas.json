@@ -56,20 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20231221-33-000",
-    "version": 5,
-    "startDate": "2023-12-21T10:29:15+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sturmflut am 21.12.2023 um 23:25 Uhr zwischen +4,12 und +4,62 Metern über NHN - Hamburger Elbgebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-BW-HN-W045-20231221-001",
     "version": 5,
     "startDate": "2023-12-21T11:56:45+01:00",
@@ -138,6 +124,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20231221-33-001",
+    "version": 5,
+    "startDate": "2023-12-21T16:33:24+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Schwere Sturmflut am 21.12.2023 um 23:25 Uhr mit ca. +4,60 Metern über NHN - Hamburger Elbgebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
     }
   }
 ]
