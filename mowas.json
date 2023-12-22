@@ -314,5 +314,33 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20231222-010",
+    "version": 5,
+    "startDate": "2023-12-22T15:04:10+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor einer Sturmflut im Wesergebiet - Wesergebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-NI-HK-W223-20231222-000",
+    "version": 5,
+    "startDate": "2023-12-22T15:05:24+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwassers im Bereich der Böhme - Gemeinde Bad Fallingbostel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
