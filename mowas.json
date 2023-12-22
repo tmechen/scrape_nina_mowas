@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20231221-005",
-    "version": 5,
-    "startDate": "2023-12-21T15:52:56+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Warnung vor einer schweren Sturmflut im Hamburger Elbegebiet - Hamburger Elbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20231221-006",
     "version": 5,
     "startDate": "2023-12-21T15:56:35+01:00",
@@ -53,35 +39,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-SE033-20231221-33-002",
-    "version": 5,
-    "startDate": "2023-12-21T18:36:53+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Schwere Sturmflut heute gegen 23:00 Uhr mit ca. +4,70 m über Normalhöhennull - Hamburger Elbgebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20231221-28-001",
-    "version": 5,
-    "startDate": "2023-12-21T19:21:06+01:00",
-    "expiresDate": "2023-12-22T01:21:06+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Weede"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
     }
   },
   {
@@ -270,6 +227,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20231222-33-000",
+    "version": 5,
+    "startDate": "2023-12-22T01:31:19+01:00",
+    "expiresDate": "2023-12-22T07:31:19+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Schwere Sturmflut heute gegen 23:00 Uhr mit ca. +4,70 m über Normalhöh - Hamburger Elbgebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20231222-000",
+    "version": 5,
+    "startDate": "2023-12-22T01:38:26+01:00",
+    "expiresDate": "2023-12-22T07:38:26+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einer schweren Sturmflut im Hamburger Elbegebiet - Hamburger Elbegebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
     }
   }
 ]
