@@ -224,5 +224,19 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-NW-MK-SE095-20231222-95-000",
+    "version": 5,
+    "startDate": "2023-12-22T09:47:06+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasserverkeimung - Balve-Mellen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
