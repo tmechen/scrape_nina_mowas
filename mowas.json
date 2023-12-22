@@ -284,5 +284,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20231222-89-000",
+    "version": 5,
+    "startDate": "2023-12-22T13:13:34+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser / Überflutung - Lippstadt Cappel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
