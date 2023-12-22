@@ -214,20 +214,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20231222-33-001",
-    "version": 5,
-    "startDate": "2023-12-22T02:50:48+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Schwere Sturmflut heute um 11:49 Uhr mit ca. +5,12 m über Normalhöhennull - Hamburger Elbgebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20231222-003",
     "version": 5,
     "startDate": "2023-12-22T03:31:17+01:00",
@@ -237,6 +223,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Warnung vor einer Sturmflut im Elbegebiet - Elbegebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20231222-33-002",
+    "version": 5,
+    "startDate": "2023-12-22T04:30:44+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Schwere Sturmflut heute gegen 11:00 Uhr mit ca. 5,20 m über Normalhöhennull - Hamburger Elbgebiet"
     },
     "transKeys": {
       "event": "BBK-EVC-065"
