@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20231221-001",
-    "version": 5,
-    "startDate": "2023-12-21T22:51:30+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall Wernborn  - Usingen-Wernborn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20231222-001",
     "version": 5,
     "startDate": "2023-12-22T02:28:36+01:00",
@@ -208,6 +194,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-BY-AN-W166-20231222-000",
+    "version": 5,
+    "startDate": "2023-12-22T09:06:38+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rezatparkplatz wegen Hochwasser gesperrt - Ansbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20231222-000",
+    "version": 5,
+    "startDate": "2023-12-22T09:07:02+01:00",
+    "expiresDate": "2023-12-22T15:07:02+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall Wernborn  - Usingen-Wernborn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
