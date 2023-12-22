@@ -226,5 +226,19 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-NW-E-SE052-20231222-52-001",
+    "version": 5,
+    "startDate": "2023-12-23T00:09:36+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasser / Überflutung  - Stadt Essen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
