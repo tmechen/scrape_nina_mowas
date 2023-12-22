@@ -84,34 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-WW-SE116-20231222-123-001",
-    "version": 5,
-    "startDate": "2023-12-22T08:28:26+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Stromausfall Ortslage Bannberscheid - Bannberscheid"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-SE033-20231222-33-003",
-    "version": 5,
-    "startDate": "2023-12-22T08:31:47+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Schwere Sturmflut heute gegen 11:00 Uhr mit ca. 5,40 m über Normalhöhennull - Hamburger Elbgebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-BY-AN-W166-20231222-000",
     "version": 5,
     "startDate": "2023-12-22T09:06:38+01:00",
@@ -294,6 +266,50 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Hochwasser / Überflutung - Lippstadt Cappel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20231222-33-004",
+    "version": 5,
+    "startDate": "2023-12-22T13:30:40+01:00",
+    "expiresDate": "2023-12-22T19:30:40+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Schwere Sturmflut heute gegen 11:00 Uhr mit ca. 5,40 m über Normalhöhe - Hamburger Elbgebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-RP-WW-SE116-20231222-123-002",
+    "version": 5,
+    "startDate": "2023-12-22T13:49:06+01:00",
+    "expiresDate": "2023-12-22T19:49:06+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall Ortslage Bannberscheid - Bannberscheid"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20231222-31-000",
+    "version": 5,
+    "startDate": "2023-12-22T13:51:46+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser / Überflutung - Wadersloh"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
