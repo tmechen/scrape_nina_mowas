@@ -168,21 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-ARN-W014-20231222-001",
-    "version": 5,
-    "startDate": "2023-12-22T18:32:25+01:00",
-    "expiresDate": "2023-12-23T00:32:25+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: übertreten von Gewässern - Stadtilm"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20231222-011",
     "version": 5,
     "startDate": "2023-12-22T22:31:55+01:00",
