@@ -84,34 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20231221-19-000",
-    "version": 5,
-    "startDate": "2023-12-21T23:53:29+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser aufgrund von Sturmflut im Wesergebiet - Bremen - Stadtwerder/Pauliner Marsch/Suhrfelde"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-HB-HB-SE019-20231221-19-001",
-    "version": 5,
-    "startDate": "2023-12-22T00:01:15+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser aufgrund Sturmflut im Wesergebiet  - Bremen - Rablinghausen (Hanseatenkampfbahn)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-RP-WW-SE116-20231221-123-002",
     "version": 5,
     "startDate": "2023-12-22T00:02:06+01:00",
@@ -221,6 +193,34 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Hochwasser im Uferbereichs des Holzbachs - Stadt Dierdorf, Marienhausen, Raubach, Puderbach, Reichenstein, Oberähren"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20231222-19-000",
+    "version": 5,
+    "startDate": "2023-12-22T06:35:01+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Räumung aufgrund von Sturmflut im Wesergebiet - Bremen - Stadtwerder/Pauliner Marsch/Suhrfelde"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20231222-19-001",
+    "version": 5,
+    "startDate": "2023-12-22T06:37:25+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Räumung aufgrund Sturmflut im Wesergebiet  - Bremen - Rablinghausen (Hanseatenkampfbahn)"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
