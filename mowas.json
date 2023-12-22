@@ -224,5 +224,19 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-NI-NOM-W210-20231222-000",
+    "version": 5,
+    "startDate": "2023-12-22T09:29:33+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserlage entlang der Ilme im Stadtgebiet Einbeck - Einbeck"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
