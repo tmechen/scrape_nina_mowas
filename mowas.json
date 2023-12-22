@@ -126,36 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20231222-008",
-    "version": 5,
-    "startDate": "2023-12-22T11:10:40+01:00",
-    "expiresDate": "2023-12-22T17:10:40+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer schweren Sturmflut an der nordfriesischen Küste - Nordfriesische Küste"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-W240-20231222-009",
-    "version": 5,
-    "startDate": "2023-12-22T11:12:01+01:00",
-    "expiresDate": "2023-12-22T17:12:01+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer schweren Sturmflut im Wesergebiet - Wesergebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HB-HB-SE019-20231222-19-002",
     "version": 5,
     "startDate": "2023-12-22T11:31:49+01:00",
