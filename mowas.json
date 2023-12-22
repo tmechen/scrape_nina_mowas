@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20231221-002",
-    "version": 5,
-    "startDate": "2023-12-22T00:07:38+01:00",
-    "expiresDate": "2023-12-22T06:07:38+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall Königstein  - Königstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20231222-33-000",
     "version": 5,
     "startDate": "2023-12-22T01:31:19+01:00",
