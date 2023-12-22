@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20231222-33-000",
-    "version": 5,
-    "startDate": "2023-12-22T01:31:19+01:00",
-    "expiresDate": "2023-12-22T07:31:19+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Schwere Sturmflut heute gegen 23:00 Uhr mit ca. +4,70 m über Normalhöh - Hamburger Elbgebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20231222-000",
     "version": 5,
     "startDate": "2023-12-22T01:38:26+01:00",
