@@ -84,20 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-HST-W239-20231222-000",
-    "version": 5,
-    "startDate": "2023-12-22T10:24:35+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Schadenereignis - Bergen/Rügen, Schulstraße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-WAF-SE045-20231222-45-000",
     "version": 5,
     "startDate": "2023-12-22T11:52:15+01:00",
@@ -190,6 +176,35 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Hochwasserfrühwarnung | Region Bergland Zwickauer Mulde  - Teile des Landkreises Zwickau und des Vogtlandkreises"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-MV-HST-W239-20231223-000",
+    "version": 5,
+    "startDate": "2023-12-23T11:50:17+01:00",
+    "expiresDate": "2023-12-23T17:50:17+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Schadenereignis - Bergen/Rügen, Schulstraße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20231223-29-000",
+    "version": 5,
+    "startDate": "2023-12-23T12:00:42+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Aktuelle Unwetter-Hochwasserlage im Landkreis Hameln-Pyrmont - Landkreis Hameln-Pyrmont"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
