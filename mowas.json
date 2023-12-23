@@ -223,5 +223,33 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-NI-GS-W211-20231223-000",
+    "version": 5,
+    "startDate": "2023-12-23T13:32:16+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Aktuelle Hochwasserlage im Landkreis Goslar - Landkreis Goslar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-KLE-SE058-20231223-58-000",
+    "version": 5,
+    "startDate": "2023-12-23T13:42:04+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Bedburg Hau - Bedburg Hau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
