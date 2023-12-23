@@ -392,5 +392,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-NW-HF-SE039-20231223-39-000",
+    "version": 5,
+    "startDate": "2023-12-23T22:48:19+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser / Überflutung in Bünde - Bünde im Bereich der Else"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
   }
 ]
