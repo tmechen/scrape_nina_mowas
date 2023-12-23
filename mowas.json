@@ -252,20 +252,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-W108-20231223-000",
-    "version": 5,
-    "startDate": "2023-12-23T18:01:49+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "steigender Pegelstand der \"Lossa\" - Rastenberg Hardisleben Mannstedt Guthmannshausen Olbersleben Ellersleben"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-SN-Z-SE122-20231223-154-001",
     "version": 5,
     "startDate": "2023-12-23T18:57:25+01:00",
@@ -373,6 +359,35 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Hochwassergefahr in der Kernstadt Hardegsen - Stadt Hardegsen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-W108-20231223-001",
+    "version": 5,
+    "startDate": "2023-12-23T22:27:07+01:00",
+    "expiresDate": "2023-12-24T04:27:07+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: steigender Pegelstand der \"Lossa\" - Rastenberg Hardisleben Mannstedt Guthmannshausen Olbersleben Ellersleben"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SN-Z-SE122-20231223-154-003",
+    "version": 5,
+    "startDate": "2023-12-23T22:45:49+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahr von Hochwasser im Bereich der Zwickauer Mulde + Lungwitzbach (Alarmstufe 1) - Gemeinde/Stadt: Landkreis Zwickau"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
