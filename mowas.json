@@ -168,9 +168,9 @@
     }
   },
   {
-    "id": "mow.DE-NW-E-SE052-20231222-52-001",
+    "id": "mow.DE-NW-E-SE052-20231223-52-000",
     "version": 5,
-    "startDate": "2023-12-23T00:09:36+01:00",
+    "startDate": "2023-12-23T08:07:11+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
