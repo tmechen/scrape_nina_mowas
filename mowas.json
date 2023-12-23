@@ -168,36 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20231222-012",
-    "version": 5,
-    "startDate": "2023-12-22T22:37:35+01:00",
-    "expiresDate": "2023-12-23T04:37:35+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer schweren Sturmflut im Elbegebiet - Elbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-W240-20231222-013",
-    "version": 5,
-    "startDate": "2023-12-22T22:38:24+01:00",
-    "expiresDate": "2023-12-23T04:38:24+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer schweren Sturmflut im Hamburger Elbegebiet - Hamburger Elbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-NW-E-SE052-20231222-52-001",
     "version": 5,
     "startDate": "2023-12-23T00:09:36+01:00",
