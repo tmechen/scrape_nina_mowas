@@ -406,5 +406,19 @@
     "transKeys": {
       "event": "BBK-EVC-071"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20231223-129-000",
+    "version": 5,
+    "startDate": "2023-12-24T00:42:20+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser / Überschwemmung - 31552 Rodenberg Stadtgebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
