@@ -197,12 +197,26 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20231223-29-000",
+    "id": "mow.DE-NW-BO-SE077-20231223-77-000",
     "version": 5,
-    "startDate": "2023-12-23T12:00:42+01:00",
-    "severity": "Severe",
+    "startDate": "2023-12-23T12:16:13+01:00",
+    "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser in Bochum Dahlhausen - Bochum Dahlhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20231223-29-001",
+    "version": 5,
+    "startDate": "2023-12-23T12:20:00+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
     "i18nTitle": {
       "de": "Aktuelle Unwetter-Hochwasserlage im Landkreis Hameln-Pyrmont - Landkreis Hameln-Pyrmont"
     },
