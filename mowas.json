@@ -180,5 +180,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-SN-Z-SE122-20231223-154-000",
+    "version": 5,
+    "startDate": "2023-12-23T09:37:02+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserfrühwarnung | Region Bergland Zwickauer Mulde  - Teile des Landkreises Zwickau und des Vogtlandkreises"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
