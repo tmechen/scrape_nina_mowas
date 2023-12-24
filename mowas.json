@@ -435,20 +435,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20231224-90-000",
-    "version": 5,
-    "startDate": "2023-12-24T09:41:14+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase - Würselen-Mitte"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-EMS-W248-20231224-000",
     "version": 5,
     "startDate": "2023-12-24T12:42:41+01:00",
@@ -502,6 +488,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-AC-SE090-20231224-90-001",
+    "version": 5,
+    "startDate": "2023-12-24T14:18:20+01:00",
+    "expiresDate": "2023-12-24T20:18:20+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase - Würselen-Mitte"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
