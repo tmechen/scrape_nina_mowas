@@ -447,5 +447,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-NW-AC-SE090-20231224-90-000",
+    "version": 5,
+    "startDate": "2023-12-24T09:41:14+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase - Würselen-Mitte"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
