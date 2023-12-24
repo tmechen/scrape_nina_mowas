@@ -196,20 +196,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-GS-W211-20231223-000",
-    "version": 5,
-    "startDate": "2023-12-23T13:32:16+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Aktuelle Hochwasserlage im Landkreis Goslar - Landkreis Goslar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-MH-SE065-20231223-65-000",
     "version": 5,
     "startDate": "2023-12-23T14:34:22+01:00",
@@ -485,6 +471,20 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Hochwasser / Überflutung in Verbandsgemeinde Linz - Stadt Linz, Kasbach, Leubsdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-GS-W211-20231224-000",
+    "version": 5,
+    "startDate": "2023-12-24T13:49:42+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Aktuelle Hochwasserlage im Landkreis Goslar - Landkreis Goslar"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
