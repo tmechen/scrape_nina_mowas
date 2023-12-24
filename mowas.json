@@ -558,5 +558,19 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20231224-002",
+    "version": 5,
+    "startDate": "2023-12-24T23:14:58+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor einer Sturmflut an der nordfriesischen Küste - Nordfriesische Küste"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
   }
 ]
