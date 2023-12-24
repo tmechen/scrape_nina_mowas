@@ -448,21 +448,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20231224-90-001",
-    "version": 5,
-    "startDate": "2023-12-24T14:18:20+01:00",
-    "expiresDate": "2023-12-24T20:18:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase - Würselen-Mitte"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NI-HK-W223-20231224-000",
     "version": 5,
     "startDate": "2023-12-24T14:49:29+01:00",
