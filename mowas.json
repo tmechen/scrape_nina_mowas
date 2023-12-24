@@ -126,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-HK-W223-20231222-000",
-    "version": 5,
-    "startDate": "2023-12-22T15:05:24+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwassers im Bereich der Böhme - Gemeinde Bad Fallingbostel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-E-SE052-20231223-52-000",
     "version": 5,
     "startDate": "2023-12-23T08:07:11+01:00",
@@ -503,6 +489,34 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-HK-W223-20231224-000",
+    "version": 5,
+    "startDate": "2023-12-24T14:49:29+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwassers im Bereich der Böhme - Gemeinde Bad Fallingbostel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-GS-W211-20231224-001",
+    "version": 5,
+    "startDate": "2023-12-24T14:52:24+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Aktuelle Hochwasserlage in der Stadt Goslar - Goslar, insbesondere Altstadt von Goslar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
