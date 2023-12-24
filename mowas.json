@@ -475,5 +475,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-RP-NR-W245-20231224-000",
+    "version": 5,
+    "startDate": "2023-12-24T13:04:50+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser / Überflutung in Verbandsgemeinde Linz - Stadt Linz, Kasbach, Leubsdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
