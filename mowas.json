@@ -420,20 +420,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-WTM-W213-20231224-000",
-    "version": 5,
-    "startDate": "2023-12-24T05:50:51+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung Großbrand - Bereich Krummhörn Upleward"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NI-H-SE110-20231224-110-000",
     "version": 5,
     "startDate": "2023-12-24T08:09:19+01:00",
@@ -445,6 +431,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NI-WTM-W213-20231224-001",
+    "version": 5,
+    "startDate": "2023-12-24T09:22:05+01:00",
+    "expiresDate": "2023-12-24T15:22:05+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung Großbrand - Bereich Krummhörn Upleward"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
