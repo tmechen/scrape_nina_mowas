@@ -687,5 +687,19 @@
     "transKeys": {
       "event": "BBK-EVC-027"
     }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20231225-000",
+    "version": 5,
+    "startDate": "2023-12-25T22:31:26+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserinformation für Helme - Gemeinden Südharz, Goldene Aue, Sangerhausen, Allstedt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
