@@ -126,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-Z-SE122-20231223-154-000",
-    "version": 5,
-    "startDate": "2023-12-23T09:37:02+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserfrühwarnung | Region Bergland Zwickauer Mulde  - Teile des Landkreises Zwickau und des Vogtlandkreises"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-BO-SE077-20231223-77-000",
     "version": 5,
     "startDate": "2023-12-23T12:16:13+01:00",
@@ -218,20 +204,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Gefahr von Hochwasser im Bereich der Zwickauer Mulde und Zwota (Alarmstufe 1)  - Gemeinde/Stadt: Stadt Klingenthal, Gemeinde Muldenhammer"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-SN-Z-SE122-20231223-154-002",
-    "version": 5,
-    "startDate": "2023-12-23T19:00:23+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahr von Hochwasser im Bereich  der Pleiße ( Alarmstufe 1) W_WO_04 - Landkreis/Stadt: Landkreis Zwickau"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
@@ -361,20 +333,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-062"
-    }
-  },
-  {
-    "id": "mow.DE-SN-Z-SE122-20231224-154-000",
-    "version": 5,
-    "startDate": "2023-12-24T03:39:34+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Akute Hochwassergefahr im Bereich der Zwickauer Mulde + Lungwitzbach AS 3 W_MU_04 - Landkreis / Stadt: Landkreis Zwickau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
     }
   },
   {
@@ -596,6 +554,79 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Warnung vor einer Sturmflut im Hamburger Elbegebiet - Hamburger Elbegebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-SN-Z-SE122-20231225-154-000",
+    "version": 5,
+    "startDate": "2023-12-25T08:56:39+01:00",
+    "expiresDate": "2023-12-25T14:56:39+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserfrühwarnung | Region Bergland Zwickauer Mulde  - Teile des Landkreises Zwickau und des Vogtlandkreises"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SN-Z-SE122-20231225-154-001",
+    "version": 5,
+    "startDate": "2023-12-25T09:01:19+01:00",
+    "expiresDate": "2023-12-25T15:01:19+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahr von Hochwasser im Bereich  der Pleiße ( Alarmstufe 1) W_WO_04 - Landkreis/Stadt: Landkreis Zwickau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SN-Z-SE122-20231225-154-002",
+    "version": 5,
+    "startDate": "2023-12-25T09:03:08+01:00",
+    "expiresDate": "2023-12-25T15:03:08+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Akute Hochwassergefahr im Bereich der Zwickauer Mulde + Lungwitzbach A - Landkreis / Stadt: Landkreis Zwickau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20231225-29-000",
+    "version": 5,
+    "startDate": "2023-12-25T09:11:11+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserlage - Landkreis Stade"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20231225-33-000",
+    "version": 5,
+    "startDate": "2023-12-25T09:12:37+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sturmflut heute gegen 15:08 Uhr mit ca. 3,62 bis 4,12  Metern über Normalhöhennull - Hamburger Elbgebiet"
     },
     "transKeys": {
       "event": "BBK-EVC-065"
