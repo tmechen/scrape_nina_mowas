@@ -350,20 +350,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-NR-W245-20231224-000",
-    "version": 5,
-    "startDate": "2023-12-24T13:04:50+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser / Überflutung in Verbandsgemeinde Linz - Stadt Linz, Kasbach, Leubsdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-GS-W211-20231224-000",
     "version": 5,
     "startDate": "2023-12-24T13:49:42+01:00",
@@ -673,6 +659,21 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Hochwasser / Überschwemmung - 31552 Rodenberg Stadtgebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-RP-NR-W245-20231225-000",
+    "version": 5,
+    "startDate": "2023-12-25T18:45:03+01:00",
+    "expiresDate": "2023-12-26T00:45:03+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser / Überflutung in Verbandsgemeinde Linz - Stadt Linz, Kasbach, Leubsdorf"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
