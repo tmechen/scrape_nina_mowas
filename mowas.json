@@ -647,5 +647,33 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20231225-12-004",
+    "version": 5,
+    "startDate": "2023-12-25T20:33:05+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor Hochwasser  - LK Hildburghausen in Thüringen Ortschaften Oberrod und Rappelsdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20231225-12-005",
+    "version": 5,
+    "startDate": "2023-12-25T20:41:51+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor Hochwasser  - LK Hildburghausen in Thüringen Ortschaften Henfstädt, Themar, Kloster Veßra"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
