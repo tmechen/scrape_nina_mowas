@@ -308,20 +308,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20231223-129-000",
-    "version": 5,
-    "startDate": "2023-12-24T00:42:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser / Überschwemmung - 31552 Rodenberg Stadtgebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-SO-SE089-20231224-89-000",
     "version": 5,
     "startDate": "2023-12-24T01:08:06+01:00",
@@ -675,6 +661,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20231225-129-000",
+    "version": 5,
+    "startDate": "2023-12-25T18:03:36+01:00",
+    "expiresDate": "2023-12-26T00:03:36+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser / Überschwemmung - 31552 Rodenberg Stadtgebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
