@@ -532,21 +532,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20231225-006",
-    "version": 5,
-    "startDate": "2023-12-25T15:30:11+01:00",
-    "expiresDate": "2023-12-25T21:30:11+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut im Hamburger Elbegebiet - Hamburger Elbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-NI-EL-W089-20231225-000",
     "version": 5,
     "startDate": "2023-12-25T16:33:21+01:00",
@@ -656,6 +641,20 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Warnung vor Hochwasser  - LK Hildburghausen in Thüringen Ortschaften Henfstädt, Themar, Kloster Veßra"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-H-SE110-20231225-110-000",
+    "version": 5,
+    "startDate": "2023-12-25T21:27:46+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserlage - Elze Wedemark"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
