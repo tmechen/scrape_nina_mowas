@@ -518,21 +518,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20231225-33-001",
-    "version": 5,
-    "startDate": "2023-12-25T15:21:44+01:00",
-    "expiresDate": "2023-12-25T21:21:44+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sturmflut heute gegen 15:08 Uhr mit ca. 3,62 bis 4,12  Metern über Nor - Hamburger Elbgebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20231225-12-003",
     "version": 5,
     "startDate": "2023-12-25T15:25:12+01:00",
