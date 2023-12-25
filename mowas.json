@@ -649,20 +649,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20231225-99-000",
-    "version": 5,
-    "startDate": "2023-12-25T16:52:45+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahreninformation Feuerwehreinsatz - Wasbek"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-GT-SE040-20231225-40-000",
     "version": 5,
     "startDate": "2023-12-25T17:10:25+01:00",
@@ -674,6 +660,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20231225-99-001",
+    "version": 5,
+    "startDate": "2023-12-25T17:37:10+01:00",
+    "expiresDate": "2023-12-25T23:37:10+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Wasbek"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
