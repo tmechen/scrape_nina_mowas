@@ -490,36 +490,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20231225-003",
-    "version": 5,
-    "startDate": "2023-12-25T13:03:36+01:00",
-    "expiresDate": "2023-12-25T19:03:36+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut an der nordfriesischen Küste - Nordfriesische Küste"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-W240-20231225-004",
-    "version": 5,
-    "startDate": "2023-12-25T13:04:39+01:00",
-    "expiresDate": "2023-12-25T19:04:39+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut im Wesergebiet - Wesergebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20231225-29-001",
     "version": 5,
     "startDate": "2023-12-25T13:22:58+01:00",
@@ -674,6 +644,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Hochwasser / Überflutung in Verbandsgemeinde Linz - Stadt Linz, Kasbach, Leubsdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-GT-SE040-20231225-40-001",
+    "version": 5,
+    "startDate": "2023-12-25T19:13:21+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser / Überflutung im Kreis Gütersloh - Kreis Gütersloh"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
