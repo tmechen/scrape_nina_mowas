@@ -504,21 +504,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20231225-002",
-    "version": 5,
-    "startDate": "2023-12-25T11:00:39+01:00",
-    "expiresDate": "2023-12-25T17:00:39+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut an der ostfriesischen Küste - Ostfriesische Küste"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-NI-GS-W211-20231225-000",
     "version": 5,
     "startDate": "2023-12-25T11:12:33+01:00",
@@ -658,6 +643,34 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Aktuelle Information zum Hochwasser - Landkreis Emsland"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20231225-99-000",
+    "version": 5,
+    "startDate": "2023-12-25T16:52:45+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahreninformation Feuerwehreinsatz - Wasbek"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-GT-SE040-20231225-40-000",
+    "version": 5,
+    "startDate": "2023-12-25T17:10:25+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser / Überflutung in der Stadt Gütersloh - Stadt Gütersloh"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
