@@ -476,34 +476,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20231224-001",
-    "version": 5,
-    "startDate": "2023-12-24T22:58:10+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor einer Sturmflut im Wesergebiet - Wesergebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-W240-20231224-002",
-    "version": 5,
-    "startDate": "2023-12-24T23:14:58+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor einer Sturmflut an der nordfriesischen Küste - Nordfriesische Küste"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20231225-000",
     "version": 5,
     "startDate": "2023-12-25T08:13:42+01:00",
@@ -642,6 +614,50 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Präventive Sicherung des Oker-Flusses - Stadt Goslar- Oker, Vienenburg und Wiedelah"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20231225-003",
+    "version": 5,
+    "startDate": "2023-12-25T13:03:36+01:00",
+    "expiresDate": "2023-12-25T19:03:36+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einer Sturmflut an der nordfriesischen Küste - Nordfriesische Küste"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20231225-004",
+    "version": 5,
+    "startDate": "2023-12-25T13:04:39+01:00",
+    "expiresDate": "2023-12-25T19:04:39+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einer Sturmflut im Wesergebiet - Wesergebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20231225-29-001",
+    "version": 5,
+    "startDate": "2023-12-25T13:22:58+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser in der Gemeinde Essen im Landkreis Cloppenburg - Essen"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
