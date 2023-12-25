@@ -675,20 +675,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BI-SE070-20231225-70-000",
-    "version": 5,
-    "startDate": "2023-12-25T22:05:49+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "---Schadstoffe--- - Hillegossen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-ST-MSH-W058-20231225-000",
     "version": 5,
     "startDate": "2023-12-25T22:31:26+01:00",
@@ -714,6 +700,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BI-SE070-20231225-70-001",
+    "version": 5,
+    "startDate": "2023-12-25T23:19:12+01:00",
+    "expiresDate": "2023-12-26T05:19:12+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: ---Schadstoffe--- - Hillegossen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
     }
   }
 ]
