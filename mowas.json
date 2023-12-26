@@ -350,20 +350,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-GS-W211-20231224-000",
-    "version": 5,
-    "startDate": "2023-12-24T13:49:42+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Aktuelle Hochwasserlage im Landkreis Goslar - Landkreis Goslar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-ST-SE032-20231224-32-000",
     "version": 5,
     "startDate": "2023-12-24T14:15:38+01:00",
@@ -560,21 +546,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-NR-W245-20231225-000",
-    "version": 5,
-    "startDate": "2023-12-25T18:45:03+01:00",
-    "expiresDate": "2023-12-26T00:45:03+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser / Überflutung in Verbandsgemeinde Linz - Stadt Linz, Kasbach, Leubsdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-GT-SE040-20231225-40-001",
     "version": 5,
     "startDate": "2023-12-25T19:13:21+01:00",
@@ -711,6 +682,20 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Verschärfung der Hochwasserlage - Stadt Goslar, Stadt Langelsheim, Gemeinde Liebenburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-GS-W211-20231225-002",
+    "version": 5,
+    "startDate": "2023-12-26T00:49:16+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Aktuelle Hochwasserlage im Landkreis Goslar - Landkreis Goslar"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
