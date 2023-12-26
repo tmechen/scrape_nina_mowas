@@ -574,21 +574,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-PF-W024-20231226-001",
-    "version": 5,
-    "startDate": "2023-12-26T15:41:45+01:00",
-    "expiresDate": "2023-12-26T21:41:45+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung in der Gemeide Niefern - Niefern-Vorort"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-EL-W089-20231226-000",
     "version": 5,
     "startDate": "2023-12-26T15:51:35+01:00",
