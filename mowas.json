@@ -224,34 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20231223-89-000",
-    "version": 5,
-    "startDate": "2023-12-23T20:31:58+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser / Überflutung in [Ortsangabe] - Geseke Störmede"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
-    "id": "mow.DE-NW-SO-SE089-20231223-89-001",
-    "version": 5,
-    "startDate": "2023-12-23T20:43:31+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser / Überflutung in Mönninghausen - Geseke Mönninghausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
     "id": "mow.DE-NW-SO-SE089-20231223-89-002",
     "version": 5,
     "startDate": "2023-12-23T20:53:56+01:00",
@@ -699,6 +671,50 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20231226-89-000",
+    "version": 5,
+    "startDate": "2023-12-26T09:33:13+01:00",
+    "expiresDate": "2023-12-26T15:33:13+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser / Überflutung in Mönninghausen - Geseke Mönninghausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20231226-89-001",
+    "version": 5,
+    "startDate": "2023-12-26T09:33:26+01:00",
+    "expiresDate": "2023-12-26T15:33:26+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser / Überflutung in [Ortsangabe] - Geseke Störmede"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20231226-31-000",
+    "version": 5,
+    "startDate": "2023-12-26T09:43:22+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "großräumige Rauchausbreitung - Köln - Junkersdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
