@@ -704,14 +704,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20231226-31-000",
+    "id": "mow.DE-NW-K-SE031-20231226-31-001",
     "version": 5,
-    "startDate": "2023-12-26T09:43:22+01:00",
+    "startDate": "2023-12-26T10:42:16+01:00",
+    "expiresDate": "2023-12-26T16:42:16+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "großräumige Rauchausbreitung - Köln - Junkersdorf"
+      "de": "Entwarnung: großräumige Rauchausbreitung - Köln - Junkersdorf"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
