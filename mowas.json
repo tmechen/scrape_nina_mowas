@@ -196,20 +196,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-Z-SE122-20231223-154-001",
-    "version": 5,
-    "startDate": "2023-12-23T18:57:25+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahr von Hochwasser im Bereich der Zwickauer Mulde und Zwota (Alarmstufe 1)  - Gemeinde/Stadt: Stadt Klingenthal, Gemeinde Muldenhammer"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-OB-SE055-20231223-55-000",
     "version": 5,
     "startDate": "2023-12-23T19:23:52+01:00",
@@ -732,6 +718,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-062"
+    }
+  },
+  {
+    "id": "mow.DE-TH-NDH-W019-20231226-000",
+    "version": 5,
+    "startDate": "2023-12-26T11:53:08+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Update: Hochwasserlage Ortslage Windehausen / Stadt Heringen/Helme - Ortslage Windehausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SN-Z-SE122-20231226-154-000",
+    "version": 5,
+    "startDate": "2023-12-26T12:11:49+01:00",
+    "expiresDate": "2023-12-26T18:11:49+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahr von Hochwasser im Bereich der Zwickauer Mulde und Zwota (Alarms - Gemeinde/Stadt: Stadt Klingenthal, Gemeinde Muldenhammer"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
