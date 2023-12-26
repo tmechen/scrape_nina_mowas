@@ -588,36 +588,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20231226-12-000",
-    "version": 5,
-    "startDate": "2023-12-26T08:44:09+01:00",
-    "expiresDate": "2023-12-26T14:44:09+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor Hochwasser  - LK Hildburghausen in Thüringen Ortschaften Oberrod und Rappelsdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-TH-EF-SE012-20231226-12-001",
-    "version": 5,
-    "startDate": "2023-12-26T08:48:42+01:00",
-    "expiresDate": "2023-12-26T14:48:42+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor Hochwasser  - LK Hildburghausen in Thüringen Ortschaften Henfstädt, Themar, Kloster Veßra"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-SO-SE089-20231226-89-000",
     "version": 5,
     "startDate": "2023-12-26T09:33:13+01:00",
@@ -776,6 +746,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BW-PF-W024-20231226-000",
+    "version": 5,
+    "startDate": "2023-12-26T14:53:02+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung in der Gemeide Niefern - Niefern-Vorort"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
