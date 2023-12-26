@@ -336,20 +336,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-HK-W223-20231224-000",
-    "version": 5,
-    "startDate": "2023-12-24T14:49:29+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwassers im Bereich der Böhme - Gemeinde Bad Fallingbostel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20231224-31-000",
     "version": 5,
     "startDate": "2023-12-24T15:16:18+01:00",
@@ -716,6 +702,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NI-HK-W223-20231226-000",
+    "version": 5,
+    "startDate": "2023-12-26T10:58:32+01:00",
+    "expiresDate": "2023-12-26T16:58:32+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwassers im Bereich der Böhme - Gemeinde Bad Fallingbostel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
