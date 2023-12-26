@@ -560,20 +560,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20231225-12-005",
-    "version": 5,
-    "startDate": "2023-12-25T20:41:51+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor Hochwasser  - LK Hildburghausen in Thüringen Ortschaften Henfstädt, Themar, Kloster Veßra"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-H-SE110-20231225-110-000",
     "version": 5,
     "startDate": "2023-12-25T21:27:46+01:00",
@@ -684,6 +670,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20231226-12-001",
+    "version": 5,
+    "startDate": "2023-12-26T08:48:42+01:00",
+    "expiresDate": "2023-12-26T14:48:42+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor Hochwasser  - LK Hildburghausen in Thüringen Ortschaften Henfstädt, Themar, Kloster Veßra"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20231226-100-000",
+    "version": 5,
+    "startDate": "2023-12-26T09:02:43+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Achtung: Giftige Rauchwolke durch Großbrand einer Lagerhalle - Niebüll"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
