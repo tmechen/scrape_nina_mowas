@@ -448,20 +448,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-EL-W089-20231225-000",
-    "version": 5,
-    "startDate": "2023-12-25T16:33:21+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Aktuelle Information zum Hochwasser - Landkreis Emsland"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-GT-SE040-20231225-40-000",
     "version": 5,
     "startDate": "2023-12-25T17:10:25+01:00",
@@ -731,6 +717,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NI-EL-W089-20231226-000",
+    "version": 5,
+    "startDate": "2023-12-26T15:51:35+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Aktuelle Information zum Hochwasser - Landkreis Emsland"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
