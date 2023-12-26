@@ -575,20 +575,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20231226-19-000",
-    "version": 5,
-    "startDate": "2023-12-26T13:21:15+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserinformation für den Bereich der Wümme - Lehesterdeich, Borgfeld, Timmersloh"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-HF-SE039-20231226-39-001",
     "version": 5,
     "startDate": "2023-12-26T13:38:10+01:00",
@@ -687,6 +673,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-062"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20231226-19-001",
+    "version": 5,
+    "startDate": "2023-12-26T18:27:11+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasserinformation für den Bereich der Wümme - Katrepel, Lehesterdeich, Timmersloh"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
