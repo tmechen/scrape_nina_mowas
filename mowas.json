@@ -210,34 +210,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20231223-89-002",
-    "version": 5,
-    "startDate": "2023-12-23T20:53:56+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser / Überflutung in Warstein/Belecke - Warstein/Belecke Unterm Haane"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
-    "id": "mow.DE-NW-SO-SE089-20231223-89-003",
-    "version": 5,
-    "startDate": "2023-12-23T20:58:14+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser / Überflutung in Warstein - Warstein-Sichtigvor und Warstein-Mülheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
     "id": "mow.DE-SN-Z-SE122-20231223-154-003",
     "version": 5,
     "startDate": "2023-12-23T22:45:49+01:00",
@@ -288,20 +260,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Hochwasserlage am Rhein - Stadt Lahnstein, Verbandsgemeinde Loreley"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-NW-ST-SE032-20231224-32-000",
-    "version": 5,
-    "startDate": "2023-12-24T14:15:38+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserinformation  - Kreis Steinfurt"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
@@ -574,36 +532,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20231226-31-001",
-    "version": 5,
-    "startDate": "2023-12-26T10:42:16+01:00",
-    "expiresDate": "2023-12-26T16:42:16+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: großräumige Rauchausbreitung - Köln - Junkersdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NI-HK-W223-20231226-000",
-    "version": 5,
-    "startDate": "2023-12-26T10:58:32+01:00",
-    "expiresDate": "2023-12-26T16:58:32+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwassers im Bereich der Böhme - Gemeinde Bad Fallingbostel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20231226-29-001",
     "version": 5,
     "startDate": "2023-12-26T11:17:28+01:00",
@@ -731,6 +659,64 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ST-SE032-20231226-32-000",
+    "version": 5,
+    "startDate": "2023-12-26T17:12:26+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasserlage im Kreis Steinfurt - Kreis Steinfurt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20231226-89-003",
+    "version": 5,
+    "startDate": "2023-12-26T17:18:21+01:00",
+    "expiresDate": "2023-12-26T23:18:21+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser / Überflutung in Warstein - Warstein-Sichtigvor und Warstein-Mülheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20231226-29-002",
+    "version": 5,
+    "startDate": "2023-12-26T17:18:36+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserlage - Samtgemeinde Flotwedel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20231226-89-004",
+    "version": 5,
+    "startDate": "2023-12-26T17:18:41+01:00",
+    "expiresDate": "2023-12-26T23:18:41+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser / Überflutung in Warstein/Belecke - Warstein/Belecke Unterm Haane"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
     }
   }
 ]
