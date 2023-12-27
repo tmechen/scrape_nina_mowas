@@ -504,20 +504,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20231226-129-001",
-    "version": 5,
-    "startDate": "2023-12-26T20:58:43+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasserinformation in der Gemeinde Lilienthal im Bereich der Wörpe - Gemeinde Lilienthal im Bereich der Wörpe"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20231227-29-000",
     "version": 5,
     "startDate": "2023-12-27T09:04:08+01:00",
@@ -718,6 +704,20 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Update: Hochwasserlage Ortslage Windehausen / Stadt Heringen/Helme - Ortslage Windehausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20231227-129-000",
+    "version": 5,
+    "startDate": "2023-12-27T13:56:49+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasserinformation in der Gemeinde Lilienthal im Bereich der Wörpe - Gemeinde Lilienthal im Bereich der Wörpe"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
