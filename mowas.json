@@ -518,21 +518,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GT-SE040-20231227-40-000",
-    "version": 5,
-    "startDate": "2023-12-27T09:16:00+01:00",
-    "expiresDate": "2023-12-27T15:16:00+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser / Überflutung im Kreis Gütersloh - Kreis Gütersloh"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-GS-W211-20231227-002",
     "version": 5,
     "startDate": "2023-12-27T09:46:52+01:00",
