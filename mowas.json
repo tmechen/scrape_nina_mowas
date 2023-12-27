@@ -280,20 +280,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20231225-29-000",
-    "version": 5,
-    "startDate": "2023-12-25T09:11:11+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserlage - Landkreis Stade"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20231225-12-001",
     "version": 5,
     "startDate": "2023-12-25T10:05:02+01:00",
@@ -518,51 +504,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-GS-W211-20231227-002",
-    "version": 5,
-    "startDate": "2023-12-27T09:46:52+01:00",
-    "expiresDate": "2023-12-27T15:46:52+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Präventive Sicherung des Oker-Flusses - Stadt Goslar- Oker, Vienenburg und Wiedelah"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-RP-WW-SE116-20231227-123-000",
-    "version": 5,
-    "startDate": "2023-12-27T09:56:24+01:00",
-    "expiresDate": "2023-12-27T15:56:24+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser im Uferbereichs des Holzbachs - Stadt Dierdorf, Marienhausen, Raubach, Puderbach, Reichenstein, Oberähren"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029-20231227-29-001",
-    "version": 5,
-    "startDate": "2023-12-27T10:00:18+01:00",
-    "expiresDate": "2023-12-27T16:00:18+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserinformation - Kapazitätsgrenze der Kanalisation erreicht - Ortschaften Neudorf-Platendorf und Triangel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20231227-143-001",
     "version": 5,
     "startDate": "2023-12-27T10:09:36+01:00",
@@ -688,6 +629,21 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Hochwasserinformation in der Gemeinde Lilienthal im Bereich der Wörpe - Gemeinde Lilienthal im Bereich der Wörpe"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20231227-29-002",
+    "version": 5,
+    "startDate": "2023-12-27T15:54:30+01:00",
+    "expiresDate": "2023-12-27T21:54:30+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserlage - Landkreis Stade"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
