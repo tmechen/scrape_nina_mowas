@@ -547,20 +547,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20231227-19-000",
-    "version": 5,
-    "startDate": "2023-12-27T19:28:48+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasserinformation für den Bereich der Wümme - Borgfeld, Lehesterdeich, Timmersloh, Warfer Landstr."
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-TH-NDH-W019-20231227-003",
     "version": 5,
     "startDate": "2023-12-27T20:19:53+01:00",
@@ -569,6 +555,20 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Update: Hochwasserlage Ortslage Windehausen / Stadt Heringen/Helme - Ortslage Windehausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20231227-19-001",
+    "version": 5,
+    "startDate": "2023-12-27T21:41:19+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasserinformation für den Bereich der Wümme - Borgfeld, Lehesterdeich, Timmersloh, Warfer Landstr."
     },
     "transKeys": {
       "event": "BBK-EVC-038"
