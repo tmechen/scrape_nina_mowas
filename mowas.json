@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-WW-SE116-20231222-123-000",
-    "version": 5,
-    "startDate": "2023-12-22T05:22:57+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser im Uferbereichs des Holzbachs - Stadt Dierdorf, Marienhausen, Raubach, Puderbach, Reichenstein, Oberähren"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-AN-W166-20231222-000",
     "version": 5,
     "startDate": "2023-12-22T09:06:38+01:00",
@@ -350,20 +336,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-GS-W211-20231225-000",
-    "version": 5,
-    "startDate": "2023-12-25T11:12:33+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Präventive Sicherung des Oker-Flusses - Stadt Goslar- Oker, Vienenburg und Wiedelah"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20231225-29-001",
     "version": 5,
     "startDate": "2023-12-25T13:22:58+01:00",
@@ -487,34 +459,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-071"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029-20231226-29-001",
-    "version": 5,
-    "startDate": "2023-12-26T11:17:28+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserinformation - Kapazitätsgrenze der Kanalisation erreicht - Ortschaften Neudorf-Platendorf und Triangel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-TH-NDH-W019-20231226-000",
-    "version": 5,
-    "startDate": "2023-12-26T11:53:08+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Update: Hochwasserlage Ortslage Windehausen / Stadt Heringen/Helme - Ortslage Windehausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
     }
   },
   {
@@ -668,6 +612,79 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Hochwasser / Überflutung im Kreis Gütersloh - Kreis Gütersloh"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-GS-W211-20231227-002",
+    "version": 5,
+    "startDate": "2023-12-27T09:46:52+01:00",
+    "expiresDate": "2023-12-27T15:46:52+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Präventive Sicherung des Oker-Flusses - Stadt Goslar- Oker, Vienenburg und Wiedelah"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-TH-NDH-W019-20231227-000",
+    "version": 5,
+    "startDate": "2023-12-27T09:56:23+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Update: Hochwasserlage Ortslage Windehausen / Stadt Heringen/Helme - Ortslage Windehausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-RP-WW-SE116-20231227-123-000",
+    "version": 5,
+    "startDate": "2023-12-27T09:56:24+01:00",
+    "expiresDate": "2023-12-27T15:56:24+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser im Uferbereichs des Holzbachs - Stadt Dierdorf, Marienhausen, Raubach, Puderbach, Reichenstein, Oberähren"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20231227-29-001",
+    "version": 5,
+    "startDate": "2023-12-27T10:00:18+01:00",
+    "expiresDate": "2023-12-27T16:00:18+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserinformation - Kapazitätsgrenze der Kanalisation erreicht - Ortschaften Neudorf-Platendorf und Triangel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20231227-143-001",
+    "version": 5,
+    "startDate": "2023-12-27T10:09:36+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserlage in MSH - Landkreis Mansfeld-Südharz"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
