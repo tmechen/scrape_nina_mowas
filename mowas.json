@@ -518,21 +518,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-EMS-W248-20231227-000",
-    "version": 5,
-    "startDate": "2023-12-27T11:23:50+01:00",
-    "expiresDate": "2023-12-27T17:23:50+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserlage am Rhein - Stadt Lahnstein, Verbandsgemeinde Loreley"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-KLE-SE058-20231227-58-001",
     "version": 5,
     "startDate": "2023-12-27T11:49:36+01:00",
