@@ -546,20 +546,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20231227-129-000",
-    "version": 5,
-    "startDate": "2023-12-27T13:56:49+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasserinformation in der Gemeinde Lilienthal im Bereich der Wörpe - Gemeinde Lilienthal im Bereich der Wörpe"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20231227-29-002",
     "version": 5,
     "startDate": "2023-12-27T15:54:30+01:00",
@@ -569,6 +555,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Hochwasserlage - Landkreis Stade"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20231227-129-001",
+    "version": 5,
+    "startDate": "2023-12-27T19:01:32+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Aktuelle Hochwasserinformation in der Gemeinde Lilienthal - Gemeinde Lilienthal"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
