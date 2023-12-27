@@ -518,21 +518,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HF-SE039-20231227-39-001",
-    "version": 5,
-    "startDate": "2023-12-27T12:09:58+01:00",
-    "expiresDate": "2023-12-27T18:09:58+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser/Überflutung Kreis Herford - Kreis Herford"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-HF-SE039-20231227-39-002",
     "version": 5,
     "startDate": "2023-12-27T12:44:36+01:00",
