@@ -518,21 +518,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HF-SE039-20231227-39-000",
-    "version": 5,
-    "startDate": "2023-12-27T10:31:21+01:00",
-    "expiresDate": "2023-12-27T16:31:21+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser / Überflutung in Bünde - Bünde im Bereich der Else"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-RP-EMS-W248-20231227-000",
     "version": 5,
     "startDate": "2023-12-27T11:23:50+01:00",
