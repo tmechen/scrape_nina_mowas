@@ -573,5 +573,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20231228-29-001",
+    "version": 5,
+    "startDate": "2023-12-28T12:27:10+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserinformation - Kapazitätsgrenze der Kanalisation erreicht - Ortschaften Müden (Aller), Flettmar, Gerstenbüttel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
