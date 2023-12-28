@@ -462,20 +462,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-GS-W211-20231227-001",
-    "version": 5,
-    "startDate": "2023-12-27T09:14:22+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Aktuelle Hochwasserlage im Landkreis Goslar - Landkreis Goslar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20231227-143-001",
     "version": 5,
     "startDate": "2023-12-27T10:09:36+01:00",
@@ -586,6 +572,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NI-GS-W211-20231228-000",
+    "version": 5,
+    "startDate": "2023-12-28T13:13:13+01:00",
+    "expiresDate": "2023-12-28T19:13:13+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Aktuelle Hochwasserlage im Landkreis Goslar - Landkreis Goslar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
