@@ -558,5 +558,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20231228-29-000",
+    "version": 5,
+    "startDate": "2023-12-28T05:31:47+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Überschwemmungsgefahr durch die Hochwasserlage - Meppen; östl. OT Esterfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
   }
 ]
