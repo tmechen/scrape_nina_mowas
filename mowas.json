@@ -591,14 +591,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20231228-105-000",
+    "id": "mow.DE-SH-OD-SE105-20231228-105-001",
     "version": 5,
-    "startDate": "2023-12-28T15:31:30+01:00",
+    "startDate": "2023-12-28T16:14:12+01:00",
+    "expiresDate": "2023-12-28T22:14:12+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall - Sereetz"
+      "de": "Entwarnung: Stromausfall - Sereetz"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
