@@ -518,51 +518,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-NDH-W019-20231229-000",
-    "version": 5,
-    "startDate": "2023-12-29T10:49:21+01:00",
-    "expiresDate": "2023-12-29T16:49:21+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Update: Hochwasserlage Ortslage Windehausen / Stadt Heringen/Helme - Ortslage Windehausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-TH-EF-SE012-20231229-12-000",
-    "version": 5,
-    "startDate": "2023-12-29T10:52:03+01:00",
-    "expiresDate": "2023-12-29T16:52:03+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserlage Ortslage Windehausen / Stadt Heringen/Helme - Ortslage Windehausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-TH-EF-SE012-20231229-12-001",
-    "version": 5,
-    "startDate": "2023-12-29T10:52:44+01:00",
-    "expiresDate": "2023-12-29T16:52:44+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserlage Ortslage Windehausen / Stadt Heringen/Helme - Ortslage Windehausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20231229-129-000",
     "version": 5,
     "startDate": "2023-12-29T11:27:22+01:00",
