@@ -605,5 +605,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-NW-MI-SE073-20231229-73-000",
+    "version": 5,
+    "startDate": "2023-12-29T13:28:00+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasser zum Teil mit Bakterien belastet - Stadt Minden - Mit Ausnahme der rechten Weserseite"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
