@@ -504,21 +504,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GT-SE040-20231229-40-000",
-    "version": 5,
-    "startDate": "2023-12-29T18:17:22+01:00",
-    "expiresDate": "2023-12-30T00:17:22+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser / Überflutung in der Stadt Gütersloh - Stadt Gütersloh"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20231229-129-001",
     "version": 5,
     "startDate": "2023-12-29T20:28:25+01:00",
