@@ -590,5 +590,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20231229-18-000",
+    "version": 5,
+    "startDate": "2023-12-29T22:54:36+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand/Großbrand in Bad Schussenried - Bad Schussenried"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
