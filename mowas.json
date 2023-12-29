@@ -576,5 +576,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20231229-129-001",
+    "version": 5,
+    "startDate": "2023-12-29T20:28:25+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserlage - Stadt Celle, Gemeinde Winsen/Aller"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
