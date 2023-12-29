@@ -591,5 +591,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-NI-VER-W077-20231229-001",
+    "version": 5,
+    "startDate": "2023-12-29T12:22:39+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stadt Achim weist Böllerverbotszone in der Innenstadt aus - Stadt Achim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
