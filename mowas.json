@@ -420,20 +420,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20231229-19-000",
-    "version": 5,
-    "startDate": "2023-12-29T13:54:22+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser mit erhöhtem Abfluss und Sturmflut im Wesergebiet - Bremen - Stadtwerder/Pauliner Marsch/Suhrfelde"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20231229-29-000",
     "version": 5,
     "startDate": "2023-12-29T14:21:49+01:00",
@@ -529,6 +515,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20231230-19-000",
+    "version": 5,
+    "startDate": "2023-12-30T17:58:48+01:00",
+    "expiresDate": "2023-12-30T23:58:48+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser mit erhöhtem Abfluss und Sturmflut im Wesergebiet - Bremen - Stadtwerder/Pauliner Marsch/Suhrfelde"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
