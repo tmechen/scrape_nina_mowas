@@ -168,20 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-NOM-W210-20231224-000",
-    "version": 5,
-    "startDate": "2023-12-24T16:22:01+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasserlage an der Rhume und der Leine - Gemeinde Katlenburg-Lindau und Städte Northeim sowie Einbeck"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20231224-29-000",
     "version": 5,
     "startDate": "2023-12-24T17:35:55+01:00",
@@ -527,6 +513,21 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Meiden sie die Nähe von Gewässern - Kreis Warendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-NOM-W210-20231230-000",
+    "version": 5,
+    "startDate": "2023-12-30T10:13:34+01:00",
+    "expiresDate": "2023-12-30T16:13:34+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserlage an der Rhume und der Leine - Gemeinde Katlenburg-Lindau und Städte Northeim sowie Einbeck"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
