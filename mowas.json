@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20231222-31-000",
-    "version": 5,
-    "startDate": "2023-12-22T13:51:46+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser / Überflutung - Wadersloh"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-E-SE052-20231223-52-000",
     "version": 5,
     "startDate": "2023-12-23T08:07:11+01:00",
@@ -528,6 +514,21 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Hochwasserlage an der Rhume und der Leine - Gemeinde Katlenburg-Lindau und Städte Northeim sowie Einbeck"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ST-SE032-20231230-32-000",
+    "version": 5,
+    "startDate": "2023-12-30T10:40:11+01:00",
+    "expiresDate": "2023-12-30T16:40:11+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser / Überflutung - Wadersloh"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
