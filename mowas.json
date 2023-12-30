@@ -476,21 +476,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-WAF-SE045-20231230-45-001",
-    "version": 5,
-    "startDate": "2023-12-30T10:03:15+01:00",
-    "expiresDate": "2023-12-30T16:03:15+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Meiden sie die Nähe von Gewässern - Kreis Warendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-NOM-W210-20231230-000",
     "version": 5,
     "startDate": "2023-12-30T10:13:34+01:00",
