@@ -532,20 +532,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20231229-000",
-    "version": 5,
-    "startDate": "2023-12-30T00:26:58+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand in Mansfeld - Bereich Flutgrabenstraße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20231229-18-001",
     "version": 5,
     "startDate": "2023-12-30T00:33:15+01:00",
@@ -558,6 +544,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20231230-000",
+    "version": 5,
+    "startDate": "2023-12-30T02:29:34+01:00",
+    "expiresDate": "2023-12-30T08:29:34+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand in Mansfeld - Bereich Flutgrabenstraße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
