@@ -476,21 +476,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-NOM-W210-20231230-000",
-    "version": 5,
-    "startDate": "2023-12-30T10:13:34+01:00",
-    "expiresDate": "2023-12-30T16:13:34+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserlage an der Rhume und der Leine - Gemeinde Katlenburg-Lindau und Städte Northeim sowie Einbeck"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-ST-SE032-20231230-32-000",
     "version": 5,
     "startDate": "2023-12-30T10:40:11+01:00",
