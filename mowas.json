@@ -518,20 +518,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20240101-89-000",
-    "version": 5,
-    "startDate": "2024-01-01T04:13:23+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor starker Rauchentwicklung - Welver Bereich Stocklarn, Huer"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-SU-SE057-20240101-57-003",
     "version": 5,
     "startDate": "2024-01-01T10:29:37+01:00",
@@ -572,6 +558,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20240101-89-001",
+    "version": 5,
+    "startDate": "2024-01-01T14:14:28+01:00",
+    "expiresDate": "2024-01-01T20:14:28+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor starker Rauchentwicklung !!! Warnung aufgehoben !!! - Welver Bereich Stocklarn, Huer"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
