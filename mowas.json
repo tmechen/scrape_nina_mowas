@@ -560,5 +560,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20240101-000",
+    "version": 5,
+    "startDate": "2024-01-01T10:57:34+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vollsperrung Kreisstraße zwischen Wallhausen und Brücken - Wallhausen-Brücken"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
