@@ -532,14 +532,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20240101-28-000",
+    "id": "mow.DE-SH-EH-SE028-20240101-28-001",
     "version": 5,
-    "startDate": "2024-01-01T04:56:32+01:00",
+    "startDate": "2024-01-01T06:25:45+01:00",
+    "expiresDate": "2024-01-01T12:25:45+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Heide, Kreis Dithmarschen"
+      "de": "Entwarnung: Feuerwehreinsatz - Heide, Kreis Dithmarschen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
