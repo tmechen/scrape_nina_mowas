@@ -294,20 +294,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HF-SE039-20231227-39-002",
-    "version": 5,
-    "startDate": "2023-12-27T12:44:36+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser/Überflutung Kreis Herford - Vlotho"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-HB-HB-SE019-20231227-19-001",
     "version": 5,
     "startDate": "2023-12-27T21:41:19+01:00",
@@ -573,6 +559,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HF-SE039-20240101-39-000",
+    "version": 5,
+    "startDate": "2024-01-01T15:09:33+01:00",
+    "expiresDate": "2024-01-01T21:09:33+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser/Überflutung Kreis Herford - Vlotho"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
