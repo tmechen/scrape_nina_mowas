@@ -1,19 +1,5 @@
 [
   {
-    "id": "mow.DE-BY-AN-W166-20231222-000",
-    "version": 5,
-    "startDate": "2023-12-22T09:06:38+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rezatparkplatz wegen Hochwasser gesperrt - Ansbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-MK-SE095-20231222-95-000",
     "version": 5,
     "startDate": "2023-12-22T09:47:06+01:00",
@@ -526,6 +512,21 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Bahnstrecke muss gesperrt werden - zwischen Oberröblingen und Artern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-AN-W166-20240102-000",
+    "version": 5,
+    "startDate": "2024-01-02T09:49:01+01:00",
+    "expiresDate": "2024-01-02T15:49:01+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rezatparkplatz wegen Hochwasser gesperrt - Ansbach"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
