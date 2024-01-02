@@ -462,21 +462,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20240102-129-000",
-    "version": 5,
-    "startDate": "2024-01-02T16:29:49+01:00",
-    "expiresDate": "2024-01-02T22:29:49+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserinformation - Kapazitätsgrenze der Kanalisation erneut errei - Ortschaft Müden (Aller)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NI-VER-W077-20240102-000",
     "version": 5,
     "startDate": "2024-01-02T17:49:43+01:00",
