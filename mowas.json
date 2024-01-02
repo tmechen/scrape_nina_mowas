@@ -530,5 +530,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-NW-SU-SE057-20240102-57-000",
+    "version": 5,
+    "startDate": "2024-01-02T01:53:15+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand (Ausbreitung Brandrauch) - Sankt Augustin Hangelar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
