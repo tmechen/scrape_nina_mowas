@@ -517,5 +517,33 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-HE-DA-W184-20240103-000",
+    "version": 5,
+    "startDate": "2024-01-03T09:23:33+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenenprobe heute ab 10:00 Uhr  - Darmstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-NW-WAF-SE045-20240103-45-000",
+    "version": 5,
+    "startDate": "2024-01-03T09:28:18+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Meiden Sie die Nähe von Gewässern - Gemeinde Beelen / Stadt Telgte / Stadt Warendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
