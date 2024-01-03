@@ -561,5 +561,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NI-HK-W223-20240103-000",
+    "version": 5,
+    "startDate": "2024-01-03T15:08:54+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserwarnung  - Gemeinde Bad Fallingbostel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
