@@ -503,5 +503,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240103-35-000",
+    "version": 5,
+    "startDate": "2024-01-03T08:16:02+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserwarnung Blies  - Ottweiler"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
