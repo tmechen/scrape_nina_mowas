@@ -588,5 +588,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20240103-000",
+    "version": 5,
+    "startDate": "2024-01-03T18:36:09+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vollsperrung K2827 nach Katharinenrieth - Stadt Allstedt - OT Katharinenrieth"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
   }
 ]
