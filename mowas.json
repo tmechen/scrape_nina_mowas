@@ -476,14 +476,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-GT-W112-20240102-000",
+    "id": "mow.DE-TH-GT-W112-20240103-000",
     "version": 5,
-    "startDate": "2024-01-03T00:39:36+01:00",
+    "startDate": "2024-01-03T06:32:14+01:00",
+    "expiresDate": "2024-01-03T12:32:14+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Überschwemmung durch Übertritt der Leina - Leina"
+      "de": "Entwarnung: Überschwemmung durch Übertritt der Leina - Leina"
     },
     "transKeys": {
       "event": "BBK-EVC-071"
