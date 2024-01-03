@@ -490,21 +490,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-KLE-SE058-20240103-58-001",
-    "version": 5,
-    "startDate": "2024-01-03T14:33:09+01:00",
-    "expiresDate": "2024-01-03T20:33:09+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in [Ortsangabe] - Wachtendonk-Wankum"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NI-HK-W223-20240103-000",
     "version": 5,
     "startDate": "2024-01-03T15:08:54+01:00",
