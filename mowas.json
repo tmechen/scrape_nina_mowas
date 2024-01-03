@@ -546,5 +546,19 @@
     "transKeys": {
       "event": "BBK-EVC-050"
     }
+  },
+  {
+    "id": "mow.DE-MV-HST-W239-20240103-000",
+    "version": 5,
+    "startDate": "2024-01-03T10:26:15+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Evakuierung / Räumung - Amt Möchgut-Granitz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
   }
 ]
