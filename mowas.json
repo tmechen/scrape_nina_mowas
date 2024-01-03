@@ -504,21 +504,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MK-SE095-20240103-95-000",
-    "version": 5,
-    "startDate": "2024-01-03T11:18:56+01:00",
-    "expiresDate": "2024-01-03T17:18:56+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserverkeimung - Balve-Mellen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NW-KLE-SE058-20240103-58-001",
     "version": 5,
     "startDate": "2024-01-03T14:33:09+01:00",
