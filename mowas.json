@@ -462,20 +462,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20240103-35-000",
-    "version": 5,
-    "startDate": "2024-01-03T08:16:02+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserwarnung Blies  - Ottweiler"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-WAF-SE045-20240103-45-000",
     "version": 5,
     "startDate": "2024-01-03T09:28:18+01:00",
@@ -571,6 +557,20 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Hochwasserwarnung  - Gemeinde Bad Fallingbostel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240103-35-001",
+    "version": 5,
+    "startDate": "2024-01-03T15:33:01+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "UPDATE Hochwasserwarnung Blies  - Ottweiler"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
