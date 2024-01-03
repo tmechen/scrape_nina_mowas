@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-E-SE052-20231223-52-000",
-    "version": 5,
-    "startDate": "2023-12-23T08:07:11+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasser / Überflutung  - Stadt Essen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20231223-29-001",
     "version": 5,
     "startDate": "2023-12-23T12:20:00+01:00",
@@ -519,20 +505,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-DA-W184-20240103-000",
-    "version": 5,
-    "startDate": "2024-01-03T09:23:33+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenenprobe heute ab 10:00 Uhr  - Darmstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-NW-WAF-SE045-20240103-45-000",
     "version": 5,
     "startDate": "2024-01-03T09:28:18+01:00",
@@ -544,6 +516,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-E-SE052-20240103-52-000",
+    "version": 5,
+    "startDate": "2024-01-03T10:06:56+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasser / Überflutung  - Stadt Essen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-HE-DA-W184-20240103-002",
+    "version": 5,
+    "startDate": "2024-01-03T10:10:12+01:00",
+    "expiresDate": "2024-01-03T16:10:12+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenenprobe in Darmstadt - Darmstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
     }
   }
 ]
