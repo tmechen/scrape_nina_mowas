@@ -476,36 +476,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-H-SE110-20240102-110-000",
-    "version": 5,
-    "startDate": "2024-01-02T20:04:04+01:00",
-    "expiresDate": "2024-01-03T02:04:04+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserlage - Elze Wedemark"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-NI-H-SE110-20240102-110-001",
-    "version": 5,
-    "startDate": "2024-01-02T20:04:18+01:00",
-    "expiresDate": "2024-01-03T02:04:18+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung für den Bereich Bissendorf-Wietze - Gemeinde Wedemark"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-TH-GT-W112-20240102-000",
     "version": 5,
     "startDate": "2024-01-03T00:39:36+01:00",
