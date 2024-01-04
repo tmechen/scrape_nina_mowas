@@ -676,14 +676,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20240104-000",
+    "id": "mow.DE-BW-RA-W025-20240104-001",
     "version": 5,
-    "startDate": "2024-01-04T16:09:04+01:00",
+    "startDate": "2024-01-04T17:12:03+01:00",
+    "expiresDate": "2024-01-04T23:12:03+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand mit starker Rauchentwicklung - Rastatt"
+      "de": "Entwarnung: Brand mit starker Rauchentwicklung - Rastatt"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
