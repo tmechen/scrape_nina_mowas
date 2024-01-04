@@ -574,14 +574,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20240104-18-000",
+    "id": "mow.DE-BW-S-SE018-20240104-18-001",
     "version": 5,
-    "startDate": "2024-01-04T03:04:45+01:00",
+    "startDate": "2024-01-04T04:54:54+01:00",
+    "expiresDate": "2024-01-04T10:54:54+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand in Oberstetten  - Oberstetten"
+      "de": "Entwarnung: Großbrand in Oberstetten  - Oberstetten"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
