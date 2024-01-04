@@ -572,5 +572,19 @@
     "transKeys": {
       "event": "BBK-EVC-071"
     }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240104-18-000",
+    "version": 5,
+    "startDate": "2024-01-04T03:04:45+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand in Oberstetten  - Oberstetten"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
