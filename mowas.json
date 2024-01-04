@@ -603,20 +603,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20240104-56-001",
-    "version": 5,
-    "startDate": "2024-01-04T10:28:28+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchgase in Erkelenz, Keyenberg (neu), Kuckum (neu), Borschemich (neu) - Stadt Erkelenz, Keyenberg (neu), Kuckum (neu), Borschemich (neu)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-EMS-W248-20240104-000",
     "version": 5,
     "startDate": "2024-01-04T10:32:04+01:00",
@@ -642,6 +628,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20240104-56-002",
+    "version": 5,
+    "startDate": "2024-01-04T11:36:30+01:00",
+    "expiresDate": "2024-01-04T17:36:30+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase in Erkelenz, Keyenberg (neu), Kuckum (neu), Borschemich (neu - Stadt Erkelenz, Keyenberg (neu), Kuckum (neu), Borschemich (neu)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
