@@ -616,5 +616,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-NW-HX-SE092-20240104-92-000",
+    "version": 5,
+    "startDate": "2024-01-04T08:16:27+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Beverungen - Kreis Höxter, Stadt Beverungen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
