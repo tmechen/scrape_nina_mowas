@@ -602,5 +602,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-SH-HL-SE103-20240104-103-000",
+    "version": 5,
+    "startDate": "2024-01-04T07:58:21+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser Innenstadt und Travemünde - Lübeck"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
