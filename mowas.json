@@ -574,21 +574,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-HK-W223-20240104-000",
-    "version": 5,
-    "startDate": "2024-01-04T12:31:20+01:00",
-    "expiresDate": "2024-01-04T18:31:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserwarnung  - Gemeinde Bad Fallingbostel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20240104-33-000",
     "version": 5,
     "startDate": "2024-01-04T13:30:05+01:00",
