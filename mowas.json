@@ -504,20 +504,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20240103-35-001",
-    "version": 5,
-    "startDate": "2024-01-03T15:33:01+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "UPDATE Hochwasserwarnung Blies  - Ottweiler"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-SL-HOM-W051-20240103-000",
     "version": 5,
     "startDate": "2024-01-03T16:13:56+01:00",
@@ -589,20 +575,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HX-SE092-20240104-92-000",
-    "version": 5,
-    "startDate": "2024-01-04T08:16:27+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase in Beverungen - Kreis Höxter, Stadt Beverungen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-EMS-W248-20240104-000",
     "version": 5,
     "startDate": "2024-01-04T10:32:04+01:00",
@@ -643,6 +615,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240104-35-000",
+    "version": 5,
+    "startDate": "2024-01-04T11:51:09+01:00",
+    "expiresDate": "2024-01-04T17:51:09+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Entwarnung Hochwasserwarnung Blies  - Ottweiler"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HX-SE092-20240104-92-001",
+    "version": 5,
+    "startDate": "2024-01-04T12:06:15+01:00",
+    "expiresDate": "2024-01-04T18:06:15+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase in Beverungen - Kreis Höxter, Stadt Beverungen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
