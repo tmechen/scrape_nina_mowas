@@ -420,20 +420,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20240102-4-000",
-    "version": 5,
-    "startDate": "2024-01-02T15:54:18+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Abweichungen zum gemessenen Wert am Mosel-Pegel Trier - VG Schweich, Moselanlieger Longuich bis Schleich/Detzem"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20240102-129-001",
     "version": 5,
     "startDate": "2024-01-02T18:00:26+01:00",
@@ -600,6 +586,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20240105-4-000",
+    "version": 5,
+    "startDate": "2024-01-05T09:08:14+01:00",
+    "expiresDate": "2024-01-05T15:08:14+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Abweichungen zum gemessenen Wert am Mosel-Pegel Trier - VG Schweich, Moselanlieger Longuich bis Schleich/Detzem"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
