@@ -546,21 +546,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20240105-18-001",
-    "version": 5,
-    "startDate": "2024-01-05T11:08:22+01:00",
-    "expiresDate": "2024-01-05T17:08:22+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenen-Probealarm - Bischweier"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-NW-W-SE061-20240105-61-000",
     "version": 5,
     "startDate": "2024-01-05T12:00:47+01:00",
