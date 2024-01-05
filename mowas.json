@@ -546,20 +546,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-AN-W166-20240104-000",
-    "version": 5,
-    "startDate": "2024-01-04T14:47:18+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rezatparkplatz wegen Hochwasser gesperrt - Stadt Ansbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-ST-SE032-20240104-32-000",
     "version": 5,
     "startDate": "2024-01-04T15:00:03+01:00",
@@ -601,6 +587,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-AN-W166-20240105-000",
+    "version": 5,
+    "startDate": "2024-01-05T10:50:18+01:00",
+    "expiresDate": "2024-01-05T16:50:18+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rezatparkplatz wegen Hochwasser gesperrt - Stadt Ansbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240105-18-001",
+    "version": 5,
+    "startDate": "2024-01-05T11:08:22+01:00",
+    "expiresDate": "2024-01-05T17:08:22+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Probealarm - Bischweier"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
     }
   }
 ]
