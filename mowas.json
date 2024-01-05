@@ -546,21 +546,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-AN-W166-20240105-000",
-    "version": 5,
-    "startDate": "2024-01-05T10:50:18+01:00",
-    "expiresDate": "2024-01-05T16:50:18+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rezatparkplatz wegen Hochwasser gesperrt - Stadt Ansbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20240105-18-001",
     "version": 5,
     "startDate": "2024-01-05T11:08:22+01:00",
@@ -585,6 +570,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Hochwasser / Überflutung in Solingen Unterburg - Solingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20240105-129-000",
+    "version": 5,
+    "startDate": "2024-01-05T17:05:30+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Das Kanalsystem der Gemeinde Hambühren ist weiterhin überlastet! - Gemeinde Hambühren, Landkreis Celle"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
