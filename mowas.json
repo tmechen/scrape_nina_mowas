@@ -476,20 +476,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-HST-W239-20240103-000",
-    "version": 5,
-    "startDate": "2024-01-03T10:26:15+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Evakuierung / Räumung - Amt Möchgut-Granitz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-HB-HB-SE019-20240103-19-000",
     "version": 5,
     "startDate": "2024-01-03T16:42:36+01:00",
@@ -599,6 +585,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-MV-HST-W239-20240105-000",
+    "version": 5,
+    "startDate": "2024-01-05T07:49:36+01:00",
+    "expiresDate": "2024-01-05T13:49:36+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Evakuierung / Räumung - Amt Möchgut-Granitz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
     }
   }
 ]
