@@ -546,21 +546,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-HST-W239-20240105-000",
-    "version": 5,
-    "startDate": "2024-01-05T07:49:36+01:00",
-    "expiresDate": "2024-01-05T13:49:36+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Evakuierung / Räumung - Amt Möchgut-Granitz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-SE004-20240105-4-000",
     "version": 5,
     "startDate": "2024-01-05T09:08:14+01:00",
