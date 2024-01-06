@@ -619,14 +619,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-HM-W214-20240106-000",
+    "id": "mow.DE-NI-HM-W214-20240106-001",
     "version": 5,
-    "startDate": "2024-01-06T12:06:17+01:00",
+    "startDate": "2024-01-06T12:12:16+01:00",
+    "expiresDate": "2024-01-06T18:12:16+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kreisweiter Warntag - Landkreis Hameln-Pyrmont"
+      "de": "Entwarnung: Kreisweiter Warntag - Landkreis Hameln-Pyrmont"
     },
     "transKeys": {
       "event": "BBK-EVC-050"
