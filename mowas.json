@@ -602,5 +602,34 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20240106-001",
+    "version": 5,
+    "startDate": "2024-01-06T12:04:44+01:00",
+    "expiresDate": "2024-01-06T18:04:44+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Probealarm - Loffenau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NI-HM-W214-20240106-000",
+    "version": 5,
+    "startDate": "2024-01-06T12:06:17+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kreisweiter Warntag - Landkreis Hameln-Pyrmont"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
