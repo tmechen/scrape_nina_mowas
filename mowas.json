@@ -558,5 +558,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-NI-OL-W015-20240106-000",
+    "version": 5,
+    "startDate": "2024-01-06T05:42:21+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand im Landkreis Cloppenburg  in der Gemeinde Cappeln  - Gebäudebrand"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
