@@ -572,5 +572,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BB-BRB-SE081-20240106-81-000",
+    "version": 5,
+    "startDate": "2024-01-06T05:52:48+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand in einem Gewerbebetrieb unter Beteiligung von Gefahrstoffen - Stadt Ludwigsfelde, Kernstadt und Ortsteil Genshagen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-029"
+    }
   }
 ]
