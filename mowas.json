@@ -574,21 +574,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-OL-W015-20240106-001",
-    "version": 5,
-    "startDate": "2024-01-06T08:16:58+01:00",
-    "expiresDate": "2024-01-06T14:16:58+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand im Landkreis Cloppenburg  in der Gemeinde Cappeln  - Gebäudebrand"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-TH-UH-W116-20240106-001",
     "version": 5,
     "startDate": "2024-01-06T11:04:59+01:00",
