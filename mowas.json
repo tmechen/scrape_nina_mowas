@@ -573,5 +573,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-NW-GT-SE040-20240106-40-000",
+    "version": 5,
+    "startDate": "2024-01-06T18:58:20+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung - Verl"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
