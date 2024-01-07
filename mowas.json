@@ -560,21 +560,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20240107-001",
-    "version": 5,
-    "startDate": "2024-01-07T17:28:06+01:00",
-    "expiresDate": "2024-01-07T23:28:06+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Dachstuhlbrand - Triebes"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20240107-003",
     "version": 5,
     "startDate": "2024-01-07T20:17:37+01:00",
