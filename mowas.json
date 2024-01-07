@@ -590,14 +590,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20240107-002",
+    "id": "mow.DE-TH-G-W109-20240107-003",
     "version": 5,
-    "startDate": "2024-01-07T18:59:24+01:00",
+    "startDate": "2024-01-07T20:17:37+01:00",
+    "expiresDate": "2024-01-08T02:17:37+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Zeulenroda Triebes"
+      "de": "Entwarnung: Starke Rauchentwicklung - Zeulenroda Triebes"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
