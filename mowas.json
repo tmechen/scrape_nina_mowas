@@ -560,20 +560,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-RE-SE078-20240107-78-001",
-    "version": 5,
-    "startDate": "2024-01-07T10:55:07+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "3.1 Warnung Rauchgase - Marl, Dorsten, Haltern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-AC-SE090-20240107-90-001",
     "version": 5,
     "startDate": "2024-01-07T11:04:43+01:00",
@@ -599,6 +585,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-029"
+    }
+  },
+  {
+    "id": "mow.DE-NW-RE-SE078-20240107-78-002",
+    "version": 5,
+    "startDate": "2024-01-07T12:11:28+01:00",
+    "expiresDate": "2024-01-07T18:11:28+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: 3.1 Warnung Rauchgase - Marl, Dorsten, Haltern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
