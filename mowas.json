@@ -601,5 +601,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20240107-000",
+    "version": 5,
+    "startDate": "2024-01-07T12:14:48+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Dachstuhlbrand - Triebes"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
