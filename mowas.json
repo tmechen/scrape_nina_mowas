@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-H-SE110-20231224-110-000",
-    "version": 5,
-    "startDate": "2023-12-24T08:09:19+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserwarnung für das Gebiet der Gemeinde Wedemark - Gemeinde Wedemark"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20231224-31-000",
     "version": 5,
     "startDate": "2023-12-24T15:16:18+01:00",
@@ -636,6 +622,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-H-SE110-20240108-110-000",
+    "version": 5,
+    "startDate": "2024-01-08T13:36:46+01:00",
+    "expiresDate": "2024-01-08T19:36:46+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserwarnung für das Gebiet der Gemeinde Wedemark - Gemeinde Wedemark"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
