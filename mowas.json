@@ -587,5 +587,19 @@
     "transKeys": {
       "event": "BBK-EVC-006"
     }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE076-20240108-137-000",
+    "version": 5,
+    "startDate": "2024-01-08T08:56:14+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Telefonleitung Feuerwehr / Rettungsdienst - Stadt Bremerhaven"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
+    }
   }
 ]
