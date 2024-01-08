@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-OL-W015-20231223-000",
-    "version": 5,
-    "startDate": "2023-12-23T17:04:07+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Allgemeine Information der Großleitstelle Oldenburg - Oldenburg Stadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20231224-31-000",
     "version": 5,
     "startDate": "2023-12-24T15:16:18+01:00",
@@ -434,51 +420,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE076-20240108-137-001",
-    "version": 5,
-    "startDate": "2024-01-08T10:46:47+01:00",
-    "expiresDate": "2024-01-08T16:46:47+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall Telefonleitung Feuerwehr / Rettungsdienst - Stadt Bremerhaven"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-005"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029B-20240108-129-001",
-    "version": 5,
-    "startDate": "2024-01-08T10:46:47+01:00",
-    "expiresDate": "2024-01-08T16:46:47+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall Telefonleitung Feuerwehr / Rettungsdienst - Landkreise Cuxhaven und Osterholz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-005"
-    }
-  },
-  {
-    "id": "mow.DE-NW-OB-SE055-20240108-55-000",
-    "version": 5,
-    "startDate": "2024-01-08T11:02:02+01:00",
-    "expiresDate": "2024-01-08T17:02:02+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser  - Stadt Oberhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-MH-SE065-20240108-65-000",
     "version": 5,
     "startDate": "2024-01-08T11:41:08+01:00",
@@ -622,6 +563,21 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Kreis Recklinghausen - Kreis Recklinghausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-OL-W015-20240108-000",
+    "version": 5,
+    "startDate": "2024-01-08T17:03:16+01:00",
+    "expiresDate": "2024-01-08T23:03:16+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Allgemeine Information der Großleitstelle Oldenburg - Oldenburg Stadt"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
