@@ -434,21 +434,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-EMS-W248-20240108-000",
-    "version": 5,
-    "startDate": "2024-01-08T10:07:55+01:00",
-    "expiresDate": "2024-01-08T16:07:55+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser Rhein - Lahnstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-HB-HB-SE076-20240108-137-001",
     "version": 5,
     "startDate": "2024-01-08T10:46:47+01:00",
