@@ -532,20 +532,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-BRB-SE081-20240107-81-000",
-    "version": 5,
-    "startDate": "2024-01-07T11:11:30+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Großbrand in einem Gewerbebetrieb unter Beteiligung von Gefahrstoffen - Stadt Ludwigsfelde, Kernstadt und Ortsteil Genshagen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-029"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20240107-129-000",
     "version": 5,
     "startDate": "2024-01-07T16:03:17+01:00",
@@ -557,6 +543,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BB-BRB-SE081-20240108-81-000",
+    "version": 5,
+    "startDate": "2024-01-08T06:59:40+01:00",
+    "expiresDate": "2024-01-08T12:59:40+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand in einem Gewerbebetrieb unter Beteiligung von Gefahrstoffen - Stadt Ludwigsfelde, Kernstadt und Ortsteil Genshagen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-029"
     }
   }
 ]
