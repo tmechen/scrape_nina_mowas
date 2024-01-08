@@ -490,20 +490,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-EMS-W248-20240104-000",
-    "version": 5,
-    "startDate": "2024-01-04T10:32:04+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser Rhein - Lahnstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20240104-33-000",
     "version": 5,
     "startDate": "2024-01-04T13:30:05+01:00",
@@ -614,6 +600,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-005"
+    }
+  },
+  {
+    "id": "mow.DE-RP-EMS-W248-20240108-000",
+    "version": 5,
+    "startDate": "2024-01-08T10:07:55+01:00",
+    "expiresDate": "2024-01-08T16:07:55+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser Rhein - Lahnstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
