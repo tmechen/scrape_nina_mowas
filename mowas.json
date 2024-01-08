@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-VEC-W078-20231223-000",
-    "version": 5,
-    "startDate": "2023-12-23T16:47:55+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser - Zunehmender Niederschlag - 49377 Vechta"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-OL-W015-20231223-000",
     "version": 5,
     "startDate": "2023-12-23T17:04:07+01:00",
@@ -490,21 +476,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-BRB-SE081-20240108-81-000",
-    "version": 5,
-    "startDate": "2024-01-08T06:59:40+01:00",
-    "expiresDate": "2024-01-08T12:59:40+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand in einem Gewerbebetrieb unter Beteiligung von Gefahrstoffen - Stadt Ludwigsfelde, Kernstadt und Ortsteil Genshagen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-029"
-    }
-  },
-  {
     "id": "mow.DE-NI-WTM-W213-20240108-000",
     "version": 5,
     "startDate": "2024-01-08T09:33:25+01:00",
@@ -531,20 +502,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-NW-K-SE031-20240108-31-000",
-    "version": 5,
-    "startDate": "2024-01-08T10:45:13+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bombenfund - Köln"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
     }
   },
   {
@@ -646,6 +603,36 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Hochwasser / Überflutung  - Stadt Essen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20240108-31-001",
+    "version": 5,
+    "startDate": "2024-01-08T12:58:52+01:00",
+    "expiresDate": "2024-01-08T18:58:52+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenfund - Köln"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-NI-VEC-W078-20240108-001",
+    "version": 5,
+    "startDate": "2024-01-08T13:14:07+01:00",
+    "expiresDate": "2024-01-08T19:14:07+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser - Zunehmender Niederschlag - 49377 Vechta"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
