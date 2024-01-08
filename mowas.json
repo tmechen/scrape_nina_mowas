@@ -420,21 +420,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MH-SE065-20240108-65-000",
-    "version": 5,
-    "startDate": "2024-01-08T11:41:08+01:00",
-    "expiresDate": "2024-01-08T17:41:08+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser / Überflutung - Stadt Mülheim an der Ruhr - Mülheim an der Ruhr"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-VEC-W078-20240108-000",
     "version": 5,
     "startDate": "2024-01-08T11:51:06+01:00",
@@ -446,21 +431,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-NI-ROW-W225-20240108-001",
-    "version": 5,
-    "startDate": "2024-01-08T11:56:19+01:00",
-    "expiresDate": "2024-01-08T17:56:19+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Störung Telefonie - Landkreis Rotenburg (Wümme)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-006"
     }
   },
   {
@@ -581,6 +551,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-LIP-SE041-20240108-41-000",
+    "version": 5,
+    "startDate": "2024-01-08T18:10:44+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Verwendungseinschränkung / Abkochgebot - Belle , Billerbeck , Bellenberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
