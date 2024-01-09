@@ -364,20 +364,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-VEC-W078-20240108-000",
-    "version": 5,
-    "startDate": "2024-01-08T11:51:06+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall EWE- Netz - Landkreis Vechta"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-LIP-SE041-20240108-41-000",
     "version": 5,
     "startDate": "2024-01-08T18:10:44+01:00",
@@ -389,21 +375,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-SE033-20240109-33-000",
-    "version": 5,
-    "startDate": "2024-01-09T09:38:00+01:00",
-    "expiresDate": "2024-01-09T15:38:00+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: erhöhte Wasserstände - Hamburg Lohbrügge / Hamburg-Bergedorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
     }
   },
   {
@@ -463,6 +434,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NI-VEC-W078-20240109-000",
+    "version": 5,
+    "startDate": "2024-01-09T16:13:22+01:00",
+    "expiresDate": "2024-01-09T22:13:22+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall EWE- Netz - Landkreis Vechta"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
