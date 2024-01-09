@@ -466,14 +466,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-EU-SE091-20240109-109-000",
+    "id": "mow.DE-NW-EU-SE091-20240109-109-001",
     "version": 5,
-    "startDate": "2024-01-09T13:24:06+01:00",
+    "startDate": "2024-01-09T15:04:00+01:00",
+    "expiresDate": "2024-01-09T21:04:00+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Fund einer Weltkriegsbome - Gemeinde Kall"
+      "de": "Entwarnung: Fund einer Weltkriegsbome - Gemeinde Kall"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
