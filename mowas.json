@@ -168,34 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-OL-W015-20231228-000",
-    "version": 5,
-    "startDate": "2023-12-28T17:37:25+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Allgemeine Information der Großleitstelle Oldenburg - Teile der Stadt Oldenburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-NI-OL-W015-20231228-001",
-    "version": 5,
-    "startDate": "2023-12-28T17:42:55+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Allgemeine Information der Großleitstelle Oldenburg - Teile der Stadt Oldenburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-VER-W077-20231229-000",
     "version": 5,
     "startDate": "2023-12-29T09:13:04+01:00",
@@ -462,6 +434,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-NI-OL-W015-20240109-001",
+    "version": 5,
+    "startDate": "2024-01-09T10:27:12+01:00",
+    "expiresDate": "2024-01-09T16:27:12+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Allgemeine Information der Großleitstelle Oldenburg - Teile der Stadt Oldenburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-OL-W015-20240109-003",
+    "version": 5,
+    "startDate": "2024-01-09T10:35:57+01:00",
+    "expiresDate": "2024-01-09T16:35:57+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Allgemeine Information der Großleitstelle Oldenburg - Teile der Stadt Oldenburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
