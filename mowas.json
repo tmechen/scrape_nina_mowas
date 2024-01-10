@@ -393,5 +393,19 @@
     "transKeys": {
       "event": "BBK-EVC-071"
     }
+  },
+  {
+    "id": "mow.DE-NW-BN-SE060-20240110-60-000",
+    "version": 5,
+    "startDate": "2024-01-10T18:28:53+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall der Stromversorgung - Bonn-Auerberg / Graurheindorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
