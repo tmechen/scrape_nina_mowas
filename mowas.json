@@ -84,20 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20231226-29-000",
-    "version": 5,
-    "startDate": "2023-12-26T04:20:34+01:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Akute Gefahr - Rinteln Ost Contrescarpe - Rinteln"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-NI-EL-W089-20231226-000",
     "version": 5,
     "startDate": "2023-12-26T15:51:35+01:00",
@@ -391,6 +377,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20240110-29-000",
+    "version": 5,
+    "startDate": "2024-01-10T16:49:16+01:00",
+    "expiresDate": "2024-01-10T22:49:16+01:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Akute Gefahr - Rinteln Ost Contrescarpe - Rinteln"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
     }
   }
 ]
