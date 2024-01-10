@@ -380,14 +380,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-BN-SE060-20240110-60-000",
+    "id": "mow.DE-NW-BN-SE060-20240110-60-001",
     "version": 5,
-    "startDate": "2024-01-10T18:28:53+01:00",
+    "startDate": "2024-01-10T20:31:37+01:00",
+    "expiresDate": "2024-01-11T02:31:37+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall der Stromversorgung - Bonn-Auerberg / Graurheindorf"
+      "de": "Entwarnung: Ausfall der Stromversorgung - Bonn-Auerberg / Graurheindorf"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
