@@ -409,5 +409,33 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BR-B-SE017-20240111-17-000",
+    "version": 5,
+    "startDate": "2024-01-11T18:05:15+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor markanter Glätte - Berlin"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-AB-W169-20240111-001",
+    "version": 5,
+    "startDate": "2024-01-11T18:07:59+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Trinkwasser im Bereich Mömlingen weist eine bakterielle Verunreinigung auf. - Mömlingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-040"
+    }
   }
 ]
