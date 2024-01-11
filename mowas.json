@@ -336,21 +336,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MI-SE073-20240111-73-000",
-    "version": 5,
-    "startDate": "2024-01-11T17:39:44+01:00",
-    "expiresDate": "2024-01-11T23:39:44+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasser zum Teil mit Bakterien belastet - Stadt Minden - Mit Ausnahme der rechten Weserseite"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BR-B-SE017-20240111-17-000",
     "version": 5,
     "startDate": "2024-01-11T18:05:15+01:00",
