@@ -348,5 +348,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NI-NOH-W178-20240111-000",
+    "version": 5,
+    "startDate": "2024-01-11T10:16:47+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand  - Nordhorn/Blanke"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
