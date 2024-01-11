@@ -336,20 +336,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BOR-SE059-20240111-59-000",
-    "version": 5,
-    "startDate": "2024-01-11T12:58:28+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in [Borken] - 46235 Borken"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NI-NOH-W178-20240111-001",
     "version": 5,
     "startDate": "2024-01-11T13:27:57+01:00",
@@ -392,6 +378,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BOR-SE059-20240111-59-001",
+    "version": 5,
+    "startDate": "2024-01-11T17:05:17+01:00",
+    "expiresDate": "2024-01-11T23:05:17+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in [Borken] - 46235 Borken"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20240111-29-000",
+    "version": 5,
+    "startDate": "2024-01-11T17:08:40+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Achtung Blitzeis - Salzgitter"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-024"
     }
   }
 ]
