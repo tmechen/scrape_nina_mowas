@@ -437,5 +437,33 @@
     "transKeys": {
       "event": "BBK-EVC-040"
     }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240111-84-000",
+    "version": 5,
+    "startDate": "2024-01-11T18:17:29+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasser im Bereich Mömlingen weist eine bakterielle Verunreinigung auf. - Mömlingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-040"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HAM-SE085-20240111-85-000",
+    "version": 5,
+    "startDate": "2024-01-11T18:27:19+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Glatteis im Stadtgebiet Hamm - Stadt Hamm"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-024"
+    }
   }
 ]
