@@ -294,20 +294,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-LIP-SE041-20240108-41-000",
-    "version": 5,
-    "startDate": "2024-01-08T18:10:44+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Verwendungseinschränkung / Abkochgebot - Belle , Billerbeck , Bellenberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BR-B-SE017-20240111-17-000",
     "version": 5,
     "startDate": "2024-01-11T18:05:15+01:00",
@@ -362,20 +348,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NW-BOT-SE062-20240112-62-000",
-    "version": 5,
-    "startDate": "2024-01-12T09:54:44+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Extremes Glatteis durch überfrierenden Regen  - Stadtgebiet Bottrop"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-024"
     }
   },
   {
@@ -511,6 +483,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-LIP-SE041-20240112-41-000",
+    "version": 5,
+    "startDate": "2024-01-12T15:22:14+01:00",
+    "expiresDate": "2024-01-12T21:22:14+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Verwendungseinschränkung / Abkochgebot - Belle , Billerbeck , Bellenberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BOT-SE062-20240112-62-001",
+    "version": 5,
+    "startDate": "2024-01-12T15:27:07+01:00",
+    "expiresDate": "2024-01-12T21:27:07+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Extremes Glatteis durch überfrierenden Regen  - Stadtgebiet Bottrop"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-024"
     }
   }
 ]
