@@ -322,21 +322,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20240112-002",
-    "version": 5,
-    "startDate": "2024-01-12T14:23:47+01:00",
-    "expiresDate": "2024-01-12T20:23:47+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: stärkere Rauchentwicklung aufgrund eines Brandereignisses - Landstraße 541"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-LIP-SE041-20240112-41-000",
     "version": 5,
     "startDate": "2024-01-12T15:22:14+01:00",
