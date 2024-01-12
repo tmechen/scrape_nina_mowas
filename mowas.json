@@ -490,5 +490,19 @@
     "transKeys": {
       "event": "BBK-EVC-024"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240112-50-000",
+    "version": 5,
+    "startDate": "2024-01-12T10:39:18+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Lagerhallenbrand im Gewerbegebiet Ost, VS-Schwenningen, Rauch zieht Richtung Stadt - Villingen-Schwenningen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
