@@ -364,20 +364,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20240112-89-000",
-    "version": 5,
-    "startDate": "2024-01-12T06:50:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Straßenglätte Kreis Soest - Kreis Soest"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-032"
-    }
-  },
-  {
     "id": "mow.DE-SH-FL-SE100-20240112-100-001",
     "version": 5,
     "startDate": "2024-01-12T09:52:25+01:00",
@@ -419,20 +405,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-024"
-    }
-  },
-  {
-    "id": "mow.DE-NW-UN-SE068-20240112-68-000",
-    "version": 5,
-    "startDate": "2024-01-12T11:05:16+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Unwetterwarnung Glatteisbildung - Gesamte Kreisgebiet Unna"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-032"
     }
   },
   {
@@ -508,6 +480,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-UN-SE068-20240112-68-001",
+    "version": 5,
+    "startDate": "2024-01-12T14:01:57+01:00",
+    "expiresDate": "2024-01-12T20:01:57+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Unwetterwarnung Glatteisbildung - Gesamte Kreisgebiet Unna"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-032"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20240112-89-001",
+    "version": 5,
+    "startDate": "2024-01-12T14:06:36+01:00",
+    "expiresDate": "2024-01-12T20:06:36+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Straßenglätte Kreis Soest - Kreis Soest"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-032"
     }
   }
 ]
