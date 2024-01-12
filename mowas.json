@@ -406,21 +406,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-VEC-W078-20240112-001",
-    "version": 5,
-    "startDate": "2024-01-12T05:28:15+01:00",
-    "expiresDate": "2024-01-12T11:28:15+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Brand eines LKW mit Gefahrgut - Gemeinde Neuenkirchen-Vörden / Rieste"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-SO-SE089-20240112-89-000",
     "version": 5,
     "startDate": "2024-01-12T06:50:20+01:00",
