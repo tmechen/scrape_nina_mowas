@@ -351,5 +351,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20240113-28-000",
+    "version": 5,
+    "startDate": "2024-01-13T23:39:24+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Rohlstorf OT Warder"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
