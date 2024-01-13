@@ -322,20 +322,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20240113-000",
-    "version": 5,
-    "startDate": "2024-01-13T08:00:18+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Katastrophenschutzübung #magnumiter2024 - Stadt- und Landkreis Karlsruhe"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-CO-W141-20240113-001",
     "version": 5,
     "startDate": "2024-01-13T16:57:34+01:00",
@@ -348,6 +334,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20240113-001",
+    "version": 5,
+    "startDate": "2024-01-13T17:55:26+01:00",
+    "expiresDate": "2024-01-13T23:55:26+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung:  Katastrophenschutzübung #magnumiter2024 - Stadt- und Landkreis Karlsruhe"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
