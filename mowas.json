@@ -280,20 +280,6 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-SE017-20240111-17-000",
-    "version": 5,
-    "startDate": "2024-01-11T18:05:15+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor markanter Glätte - Berlin"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-AB-W169-20240111-001",
     "version": 5,
     "startDate": "2024-01-11T18:07:59+01:00",
@@ -364,6 +350,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BR-B-SE017-20240113-17-000",
+    "version": 5,
+    "startDate": "2024-01-13T20:14:30+01:00",
+    "expiresDate": "2024-01-14T02:14:30+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor markanter Glätte - Berlin"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
