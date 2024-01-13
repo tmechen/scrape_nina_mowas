@@ -336,21 +336,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20240113-19-002",
-    "version": 5,
-    "startDate": "2024-01-13T09:20:44+01:00",
-    "expiresDate": "2024-01-13T15:20:44+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: STÖRUNG Polizeinotruf 110 - Bremen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20240113-84-000",
     "version": 5,
     "startDate": "2024-01-13T10:29:38+01:00",
