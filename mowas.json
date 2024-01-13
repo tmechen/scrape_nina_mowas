@@ -334,20 +334,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-ST-MD-SE022-20240112-143-000",
-    "version": 5,
-    "startDate": "2024-01-12T19:07:49+01:00",
-    "expiresDate": "2024-01-13T01:07:49+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Auslösung Katatstrophenfall - Helmehochwasser - Landkreis Mansfeld-Südharz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
   }
 ]
