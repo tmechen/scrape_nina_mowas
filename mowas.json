@@ -394,5 +394,19 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-BY-CO-W141-20240113-000",
+    "version": 5,
+    "startDate": "2024-01-13T12:18:43+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase / Rauchsäule in Oeslau - Oeslauer Straße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
