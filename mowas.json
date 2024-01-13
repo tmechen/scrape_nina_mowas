@@ -334,5 +334,33 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20240113-000",
+    "version": 5,
+    "startDate": "2024-01-13T08:00:18+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Katastrophenschutzübung #magnumiter2024 - Stadt- und Landkreis Karlsruhe"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BB-EW-SE079-20240113-79-000",
+    "version": 5,
+    "startDate": "2024-01-13T08:01:57+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Rauchgase - Oranienburg / OT Lehnitz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
