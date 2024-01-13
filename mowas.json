@@ -336,21 +336,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240113-84-000",
-    "version": 5,
-    "startDate": "2024-01-13T10:29:38+01:00",
-    "expiresDate": "2024-01-13T16:29:38+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Glatteis - Stadtgebiet Aschaffenburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BB-EW-SE079-20240113-79-001",
     "version": 5,
     "startDate": "2024-01-13T10:34:00+01:00",
