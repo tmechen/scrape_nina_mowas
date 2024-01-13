@@ -350,5 +350,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-NW-UN-SE068-20240113-68-000",
+    "version": 5,
+    "startDate": "2024-01-13T19:09:59+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung - Stadt Selm"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
