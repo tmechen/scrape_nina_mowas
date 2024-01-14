@@ -306,20 +306,5 @@
     "transKeys": {
       "event": "BBK-EVC-040"
     }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20240114-28-000",
-    "version": 5,
-    "startDate": "2024-01-14T02:04:04+01:00",
-    "expiresDate": "2024-01-14T08:04:04+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Rohlstorf OT Warder"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
