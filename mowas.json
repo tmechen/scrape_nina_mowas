@@ -306,5 +306,19 @@
     "transKeys": {
       "event": "BBK-EVC-040"
     }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20240114-82-000",
+    "version": 5,
+    "startDate": "2024-01-14T19:01:49+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung bei Brand - Wittenberge"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
