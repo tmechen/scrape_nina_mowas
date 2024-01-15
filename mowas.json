@@ -1,19 +1,5 @@
 [
   {
-    "id": "mow.DE-NI-STD-SE029-20231223-29-001",
-    "version": 5,
-    "startDate": "2023-12-23T12:20:00+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Aktuelle Unwetter-Hochwasserlage im Landkreis Hameln-Pyrmont - Landkreis Hameln-Pyrmont"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20231224-31-000",
     "version": 5,
     "startDate": "2023-12-24T15:16:18+01:00",
@@ -238,21 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20240115-004",
-    "version": 5,
-    "startDate": "2024-01-15T06:43:05+01:00",
-    "expiresDate": "2024-01-15T12:43:05+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut im Elbegebiet - Elbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20240115-005",
     "version": 5,
     "startDate": "2024-01-15T07:34:31+01:00",
@@ -355,6 +326,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20240115-29-003",
+    "version": 5,
+    "startDate": "2024-01-15T12:52:48+01:00",
+    "expiresDate": "2024-01-15T18:52:48+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Aktuelle Unwetter-Hochwasserlage im Landkreis Hameln-Pyrmont - Landkreis Hameln-Pyrmont"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DU-SE038-20240115-38-000",
+    "version": 5,
+    "startDate": "2024-01-15T13:26:23+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Anscheinsgefahr - Rauchwolke und Geruchsbelästigung - Duisburg-Hüttenheim/Ehingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
