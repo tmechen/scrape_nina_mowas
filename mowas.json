@@ -210,36 +210,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20240115-29-000",
-    "version": 5,
-    "startDate": "2024-01-15T10:38:18+01:00",
-    "expiresDate": "2024-01-15T16:38:18+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Unwetterwarnung im Landkreis Cloppenburg  in der Stadt Löningen - Stadt Löningen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029B-20240115-129-000",
-    "version": 5,
-    "startDate": "2024-01-15T10:38:44+01:00",
-    "expiresDate": "2024-01-15T16:38:44+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser in der Gemeinde Essen im Landkreis Cloppenburg - Essen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20240115-29-001",
     "version": 5,
     "startDate": "2024-01-15T12:08:57+01:00",
