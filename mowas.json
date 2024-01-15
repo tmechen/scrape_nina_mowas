@@ -308,20 +308,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20240114-82-000",
-    "version": 5,
-    "startDate": "2024-01-14T19:01:49+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung bei Brand - Wittenberge"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20240114-001",
     "version": 5,
     "startDate": "2024-01-14T20:38:11+01:00",
@@ -330,20 +316,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Warnung vor einer Sturmflut im Elbegebiet - Elbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-W240-20240114-002",
-    "version": 5,
-    "startDate": "2024-01-14T20:40:28+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor einer Sturmflut im Wesergebiet - Wesergebiet"
     },
     "transKeys": {
       "event": "BBK-EVC-065"
@@ -405,6 +377,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20240115-003",
+    "version": 5,
+    "startDate": "2024-01-15T05:32:04+01:00",
+    "expiresDate": "2024-01-15T11:32:04+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einer Sturmflut im Wesergebiet - Wesergebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20240115-82-000",
+    "version": 5,
+    "startDate": "2024-01-15T05:35:21+01:00",
+    "expiresDate": "2024-01-15T11:35:21+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung bei Brand - Wittenberge"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
