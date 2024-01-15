@@ -280,36 +280,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20240115-001",
-    "version": 5,
-    "startDate": "2024-01-15T04:50:44+01:00",
-    "expiresDate": "2024-01-15T10:50:44+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut an der ostfriesischen Küste - Ostfriesische Küste"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-W240-20240115-002",
-    "version": 5,
-    "startDate": "2024-01-15T04:51:43+01:00",
-    "expiresDate": "2024-01-15T10:51:43+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut an der nordfriesischen Küste - Nordfriesische Küste"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20240115-003",
     "version": 5,
     "startDate": "2024-01-15T05:32:04+01:00",
