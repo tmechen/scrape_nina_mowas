@@ -300,20 +300,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DU-SE038-20240115-38-000",
-    "version": 5,
-    "startDate": "2024-01-15T13:26:23+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Anscheinsgefahr - Rauchwolke und Geruchsbelästigung - Duisburg-Hüttenheim/Ehingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20240115-84-000",
     "version": 5,
     "startDate": "2024-01-15T13:37:14+01:00",
@@ -325,6 +311,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-040"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DU-SE038-20240115-38-001",
+    "version": 5,
+    "startDate": "2024-01-15T14:26:42+01:00",
+    "expiresDate": "2024-01-15T20:26:42+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Anscheinsgefahr - Rauchwolke und Geruchsbelästigung - Duisburg-Hüttenheim/Ehingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
