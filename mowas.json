@@ -210,35 +210,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240111-84-000",
-    "version": 5,
-    "startDate": "2024-01-11T18:17:29+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasser im Bereich Mömlingen weist eine bakterielle Verunreinigung auf. - Mömlingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-040"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-W240-20240115-005",
-    "version": 5,
-    "startDate": "2024-01-15T07:34:31+01:00",
-    "expiresDate": "2024-01-15T13:34:31+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut im Hamburger Elbegebiet - Hamburger Elbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20240115-33-001",
     "version": 5,
     "startDate": "2024-01-15T07:58:33+01:00",
@@ -355,6 +326,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240115-84-000",
+    "version": 5,
+    "startDate": "2024-01-15T13:37:14+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Trinkwasser im Bereich Mömlingen weist eine bakterielle Verunreinigung auf. - Mömlingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-040"
     }
   }
 ]
