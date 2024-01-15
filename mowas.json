@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20231224-29-000",
-    "version": 5,
-    "startDate": "2023-12-24T17:35:55+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Unwetterwarnung im Landkreis Cloppenburg  in der Stadt Löningen - Stadt Löningen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20231225-12-001",
     "version": 5,
     "startDate": "2023-12-25T10:05:02+01:00",
@@ -50,20 +36,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Warnung vor Hochwasser  - LK Hildburghausen in Thüringen Ortschaften Oberrod und Rappelsdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029-20231225-29-001",
-    "version": 5,
-    "startDate": "2023-12-25T13:22:58+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser in der Gemeinde Essen im Landkreis Cloppenburg - Essen"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
@@ -410,6 +382,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20240115-29-000",
+    "version": 5,
+    "startDate": "2024-01-15T10:38:18+01:00",
+    "expiresDate": "2024-01-15T16:38:18+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Unwetterwarnung im Landkreis Cloppenburg  in der Stadt Löningen - Stadt Löningen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20240115-129-000",
+    "version": 5,
+    "startDate": "2024-01-15T10:38:44+01:00",
+    "expiresDate": "2024-01-15T16:38:44+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser in der Gemeinde Essen im Landkreis Cloppenburg - Essen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
