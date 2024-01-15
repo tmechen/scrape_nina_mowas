@@ -210,51 +210,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20240115-29-001",
-    "version": 5,
-    "startDate": "2024-01-15T12:08:57+01:00",
-    "expiresDate": "2024-01-15T18:08:57+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Überschwemmungsgefahr durch die Hochwasserlage -  Überschwemmungsgefahr durch die Hochwasserlage in Teilen von Meppen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029-20240115-29-002",
-    "version": 5,
-    "startDate": "2024-01-15T12:09:56+01:00",
-    "expiresDate": "2024-01-15T18:09:56+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Überschwemmungsgefahr durch die Hochwasserlage - Meppen; östl. OT Esterfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
-    "id": "mow.DE-NI-EL-W089-20240115-002",
-    "version": 5,
-    "startDate": "2024-01-15T12:10:14+01:00",
-    "expiresDate": "2024-01-15T18:10:14+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Aktuelle Information zum Hochwasser - Landkreis Emsland"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20240115-29-003",
     "version": 5,
     "startDate": "2024-01-15T12:52:48+01:00",
