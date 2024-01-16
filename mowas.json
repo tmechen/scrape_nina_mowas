@@ -267,20 +267,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE024-20240116-24-001",
-    "version": 5,
-    "startDate": "2024-01-16T17:28:13+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchwolke aufgrund Brand einer Möbelhalle - Umkreis Werder"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20240116-28-000",
     "version": 5,
     "startDate": "2024-01-16T18:57:14+01:00",
@@ -320,6 +306,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-032"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE024-20240116-24-002",
+    "version": 5,
+    "startDate": "2024-01-16T21:25:08+01:00",
+    "expiresDate": "2024-01-17T03:25:08+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchwolke aufgrund Brand einer Möbelhalle - Umkreis Werder"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
