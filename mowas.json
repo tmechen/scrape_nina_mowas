@@ -224,21 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20240116-000",
-    "version": 5,
-    "startDate": "2024-01-16T06:32:13+01:00",
-    "expiresDate": "2024-01-16T12:32:13+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut im Wesergebiet - Wesergebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20240116-33-000",
     "version": 5,
     "startDate": "2024-01-16T08:12:24+01:00",
