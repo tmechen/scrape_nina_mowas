@@ -1,19 +1,5 @@
 [
   {
-    "id": "mow.DE-NW-K-SE031-20231224-31-000",
-    "version": 5,
-    "startDate": "2023-12-24T15:16:18+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser / Überflutung - Stadt Mülheim an der Ruhr - Mülheim an der Ruhr"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20231225-12-001",
     "version": 5,
     "startDate": "2023-12-25T10:05:02+01:00",
@@ -280,6 +266,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-NW-D-SE020-20240116-20-000",
+    "version": 5,
+    "startDate": "2024-01-16T10:52:27+01:00",
+    "expiresDate": "2024-01-16T16:52:27+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser / Überflutung - Stadt Mülheim an der Ruhr - Mülheim an der Ruhr"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
