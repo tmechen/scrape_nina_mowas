@@ -224,36 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20240116-33-000",
-    "version": 5,
-    "startDate": "2024-01-16T08:12:24+01:00",
-    "expiresDate": "2024-01-16T14:12:24+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sturmflutwarnung - Stadtgebiet Hamburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-W240-20240116-001",
-    "version": 5,
-    "startDate": "2024-01-16T08:13:00+01:00",
-    "expiresDate": "2024-01-16T14:13:00+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut im Hamburger Elbegebiet - Hamburger Elbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-NW-D-SE020-20240116-20-000",
     "version": 5,
     "startDate": "2024-01-16T10:52:27+01:00",
@@ -280,6 +250,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-024"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE024-20240116-24-000",
+    "version": 5,
+    "startDate": "2024-01-16T14:03:45+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Giftige Rauchwolke aufgrund Brand einer Möbelhalle - Umkreis Werder"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
