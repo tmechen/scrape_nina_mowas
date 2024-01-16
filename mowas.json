@@ -210,20 +210,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20240115-100-000",
-    "version": 5,
-    "startDate": "2024-01-15T17:21:41+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vorabinformation Bombenentschärfung 17.01.2024 in Eggebek - 24852 Eggebek"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-D-SE020-20240116-20-000",
     "version": 5,
     "startDate": "2024-01-16T10:52:27+01:00",
@@ -264,6 +250,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20240116-100-000",
+    "version": 5,
+    "startDate": "2024-01-16T14:37:06+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Vorabinformation Bombenentschärfung 17.01.2024 in Eggebek - 24852 Eggebek"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
