@@ -279,5 +279,33 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20240116-28-000",
+    "version": 5,
+    "startDate": "2024-01-16T18:57:14+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Wilster"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BY-TS-W135-20240116-000",
+    "version": 5,
+    "startDate": "2024-01-16T19:03:27+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Distanzunterricht - Landkreis Altötting, Berchtesgadener Land, Mühldorf a. Inn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-024"
+    }
   }
 ]
