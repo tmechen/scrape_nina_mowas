@@ -196,21 +196,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20240117-000",
-    "version": 5,
-    "startDate": "2024-01-17T15:33:56+01:00",
-    "expiresDate": "2024-01-17T21:33:56+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Es findet ab morgen wieder normaler Präsenzunterricht statt - Landkreis Altötting, Berchtesgadener Land, Mühldorf a. Inn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-024"
-    }
-  },
-  {
     "id": "mow.DE-BY-AN-W166-20240117-000",
     "version": 5,
     "startDate": "2024-01-17T16:19:24+01:00",
