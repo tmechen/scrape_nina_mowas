@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20231227-19-001",
-    "version": 5,
-    "startDate": "2023-12-27T21:41:19+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasserinformation für den Bereich der Wümme - Borgfeld, Lehesterdeich, Timmersloh, Warfer Landstr."
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20231228-143-000",
     "version": 5,
     "startDate": "2023-12-28T17:07:38+01:00",
@@ -140,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20240103-19-000",
-    "version": 5,
-    "startDate": "2024-01-03T16:42:36+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserinformation für den Bereich der Wümme - Borgfeld, Timmersloh und Butendiek"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-ST-MSH-W058-20240103-000",
     "version": 5,
     "startDate": "2024-01-03T18:36:09+01:00",
@@ -224,20 +196,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WEN-W130-20240116-000",
-    "version": 5,
-    "startDate": "2024-01-16T16:03:14+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Schulausfall in den Landkreisen Neustadt/WN, Tirschenreuth und Stadt Weiden/OPf. - Landkreise Neustadt/WN, Tirschenreuth und Stadt Weiden / OPf."
-    },
-    "transKeys": {
-      "event": "BBK-EVC-024"
-    }
-  },
-  {
     "id": "mow.DE-BY-TS-W135-20240116-000",
     "version": 5,
     "startDate": "2024-01-16T19:03:27+01:00",
@@ -294,20 +252,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20240117-100-000",
-    "version": 5,
-    "startDate": "2024-01-17T08:58:13+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Achtung! Entschärfung einer Weltkriegsbombe.  - Eggebek"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BY-HO-W142-20240117-000",
     "version": 5,
     "startDate": "2024-01-17T10:04:39+01:00",
@@ -334,6 +278,66 @@
     },
     "transKeys": {
       "event": "BBK-EVC-032"
+    }
+  },
+  {
+    "id": "mow.DE-BY-WEN-W130-20240117-000",
+    "version": 5,
+    "startDate": "2024-01-17T12:49:46+01:00",
+    "expiresDate": "2024-01-17T18:49:46+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Schulausfall in den Landkreisen Neustadt/WN, Tirschenreuth und Stadt W - Landkreise Neustadt/WN, Tirschenreuth und Stadt Weiden / OPf."
+    },
+    "transKeys": {
+      "event": "BBK-EVC-024"
+    }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20240117-100-001",
+    "version": 5,
+    "startDate": "2024-01-17T12:53:34+01:00",
+    "expiresDate": "2024-01-17T18:53:34+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Achtung! Entschärfung einer Weltkriegsbombe.  - Eggebek"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20240117-19-000",
+    "version": 5,
+    "startDate": "2024-01-17T13:09:47+01:00",
+    "expiresDate": "2024-01-17T19:09:47+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserinformation für den Bereich der Wümme - Borgfeld, Timmersloh und Butendiek"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20240117-19-001",
+    "version": 5,
+    "startDate": "2024-01-17T13:10:35+01:00",
+    "expiresDate": "2024-01-17T19:10:35+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserinformation für den Bereich der Wümme - Borgfeld, Lehesterdeich, Timmersloh, Warfer Landstr."
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
