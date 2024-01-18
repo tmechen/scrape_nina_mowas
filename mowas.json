@@ -195,5 +195,19 @@
     "transKeys": {
       "event": "BBK-EVC-040"
     }
+  },
+  {
+    "id": "mow.DE-HE-FD-W183-20240118-000",
+    "version": 5,
+    "startDate": "2024-01-18T11:18:46+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hinweis Autofahrer A7 - Landkreis Fulda BAB7"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
+    }
   }
 ]
