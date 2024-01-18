@@ -223,5 +223,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-RP-KH-SE111-20240118-114-000",
+    "version": 5,
+    "startDate": "2024-01-18T13:34:48+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Schneefall -> Rettungsgasse freihalten - A61 Dieblich -> Stromberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-075"
+    }
   }
 ]
