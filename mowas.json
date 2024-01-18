@@ -168,20 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-WB-W056-20240116-000",
-    "version": 5,
-    "startDate": "2024-01-16T21:40:22+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Jessen / OT Buschkuhnsdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-WEN-W130-20240118-000",
     "version": 5,
     "startDate": "2024-01-18T17:58:17+01:00",
@@ -208,6 +194,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-057"
+    }
+  },
+  {
+    "id": "mow.DE-ST-WB-W056-20240118-000",
+    "version": 5,
+    "startDate": "2024-01-18T22:17:04+01:00",
+    "expiresDate": "2024-01-19T04:17:04+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Jessen / OT Buschkuhnsdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
