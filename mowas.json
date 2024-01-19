@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20231225-000",
-    "version": 5,
-    "startDate": "2023-12-25T22:31:26+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserinformation für Helme - Gemeinden Südharz, Goldene Aue, Sangerhausen, Allstedt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20231226-29-002",
     "version": 5,
     "startDate": "2023-12-26T17:18:36+01:00",
@@ -36,20 +22,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Hochwasserlage - Samtgemeinde Flotwedel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-ST-MD-SE022-20231228-143-000",
-    "version": 5,
-    "startDate": "2023-12-28T17:07:38+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasserlage in MSH - Landkreis Mansfeld-Südharz"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
@@ -84,34 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20240101-000",
-    "version": 5,
-    "startDate": "2024-01-01T10:57:34+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vollsperrung Kreisstraße zwischen Wallhausen und Brücken - Wallhausen-Brücken"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-ST-MSH-W058-20240101-001",
-    "version": 5,
-    "startDate": "2024-01-01T12:39:21+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bahnstrecke muss gesperrt werden - zwischen Oberröblingen und Artern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20240102-129-001",
     "version": 5,
     "startDate": "2024-01-02T18:00:26+01:00",
@@ -123,20 +67,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-ST-MSH-W058-20240103-000",
-    "version": 5,
-    "startDate": "2024-01-03T18:36:09+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vollsperrung K2827 nach Katharinenrieth - Stadt Allstedt - OT Katharinenrieth"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
     }
   },
   {
@@ -181,6 +111,81 @@
     },
     "transKeys": {
       "event": "BBK-EVC-040"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20240119-000",
+    "version": 5,
+    "startDate": "2024-01-19T18:15:27+01:00",
+    "expiresDate": "2024-01-20T00:15:27+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Vollsperrung K2827 nach Katharinenrieth - Stadt Allstedt - OT Katharinenrieth"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20240119-001",
+    "version": 5,
+    "startDate": "2024-01-19T18:16:21+01:00",
+    "expiresDate": "2024-01-20T00:16:21+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bahnstrecke muss gesperrt werden - zwischen Oberröblingen und Artern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20240119-002",
+    "version": 5,
+    "startDate": "2024-01-19T18:20:08+01:00",
+    "expiresDate": "2024-01-20T00:20:08+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Vollsperrung Kreisstraße zwischen Wallhausen und Brücken - Wallhausen-Brücken"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20240119-003",
+    "version": 5,
+    "startDate": "2024-01-19T18:26:52+01:00",
+    "expiresDate": "2024-01-20T00:26:52+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserinformation für Helme - Gemeinden Südharz, Goldene Aue, Sangerhausen, Allstedt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20240119-143-000",
+    "version": 5,
+    "startDate": "2024-01-19T18:28:20+01:00",
+    "expiresDate": "2024-01-20T00:28:20+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserlage in MSH - Landkreis Mansfeld-Südharz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
