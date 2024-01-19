@@ -154,31 +154,33 @@
     }
   },
   {
-    "id": "mow.DE-BY-AB-W169-20240111-001",
+    "id": "mow.DE-BY-WEN-W130-20240119-000",
     "version": 5,
-    "startDate": "2024-01-11T18:07:59+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Trinkwasser im Bereich Mömlingen weist eine bakterielle Verunreinigung auf. - Mömlingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-040"
-    }
-  },
-  {
-    "id": "mow.DE-BY-WEN-W130-20240118-000",
-    "version": 5,
-    "startDate": "2024-01-18T17:58:17+01:00",
+    "startDate": "2024-01-19T14:36:35+01:00",
+    "expiresDate": "2024-01-19T20:36:35+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall der Wasserversorgung - Mantel und Weiherhammer"
+      "de": "Entwarnung: Ausfall der Wasserversorgung - Mantel und Weiherhammer"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-AB-W169-20240119-000",
+    "version": 5,
+    "startDate": "2024-01-19T14:45:28+01:00",
+    "expiresDate": "2024-01-19T20:45:28+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasser im Bereich Mömlingen weist eine bakterielle Verunreinigung - Mömlingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-040"
     }
   }
 ]
