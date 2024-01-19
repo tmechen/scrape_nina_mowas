@@ -84,51 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20240119-002",
-    "version": 5,
-    "startDate": "2024-01-19T18:20:08+01:00",
-    "expiresDate": "2024-01-20T00:20:08+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Vollsperrung Kreisstraße zwischen Wallhausen und Brücken - Wallhausen-Brücken"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-ST-MSH-W058-20240119-003",
-    "version": 5,
-    "startDate": "2024-01-19T18:26:52+01:00",
-    "expiresDate": "2024-01-20T00:26:52+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserinformation für Helme - Gemeinden Südharz, Goldene Aue, Sangerhausen, Allstedt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-ST-MD-SE022-20240119-143-000",
-    "version": 5,
-    "startDate": "2024-01-19T18:28:20+01:00",
-    "expiresDate": "2024-01-20T00:28:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserlage in MSH - Landkreis Mansfeld-Südharz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-HE-ERB-W191-20240119-000",
     "version": 5,
     "startDate": "2024-01-19T21:10:12+01:00",
