@@ -180,20 +180,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20240119-28-001",
-    "version": 5,
-    "startDate": "2024-01-19T05:37:13+01:00",
-    "expiresDate": "2024-01-19T11:37:13+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Heide"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
