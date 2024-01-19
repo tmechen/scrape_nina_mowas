@@ -84,36 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20240119-000",
-    "version": 5,
-    "startDate": "2024-01-19T18:15:27+01:00",
-    "expiresDate": "2024-01-20T00:15:27+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Vollsperrung K2827 nach Katharinenrieth - Stadt Allstedt - OT Katharinenrieth"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
-    "id": "mow.DE-ST-MSH-W058-20240119-001",
-    "version": 5,
-    "startDate": "2024-01-19T18:16:21+01:00",
-    "expiresDate": "2024-01-20T00:16:21+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bahnstrecke muss gesperrt werden - zwischen Oberröblingen und Artern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-ST-MSH-W058-20240119-002",
     "version": 5,
     "startDate": "2024-01-19T18:20:08+01:00",
