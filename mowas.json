@@ -84,36 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WEN-W130-20240119-000",
-    "version": 5,
-    "startDate": "2024-01-19T14:36:35+01:00",
-    "expiresDate": "2024-01-19T20:36:35+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall der Wasserversorgung - Mantel und Weiherhammer"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BY-AB-W169-20240119-000",
-    "version": 5,
-    "startDate": "2024-01-19T14:45:28+01:00",
-    "expiresDate": "2024-01-19T20:45:28+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasser im Bereich Mömlingen weist eine bakterielle Verunreinigung - Mömlingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-040"
-    }
-  },
-  {
     "id": "mow.DE-ST-MSH-W058-20240119-000",
     "version": 5,
     "startDate": "2024-01-19T18:15:27+01:00",
@@ -186,6 +156,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-HE-ERB-W191-20240119-000",
+    "version": 5,
+    "startDate": "2024-01-19T21:10:12+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasser Verunreinigung : Trinkwasser abkochen  - Güttersbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
