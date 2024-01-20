@@ -112,12 +112,12 @@
     }
   },
   {
-    "id": "mow.DE-BW-BB-W125-20240120-000",
+    "id": "mow.DE-BW-BB-W125-20240120-001",
     "version": 5,
-    "startDate": "2024-01-20T11:27:11+01:00",
+    "startDate": "2024-01-20T11:31:26+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Rauchgase in Herrenberg-Gültstein - Herrenberg Ortsteil Gültstein"
     },
