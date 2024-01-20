@@ -96,20 +96,5 @@
     "transKeys": {
       "event": "BBK-EVC-058"
     }
-  },
-  {
-    "id": "mow.DE-TH-EF-SE012-20240120-12-000",
-    "version": 5,
-    "startDate": "2024-01-20T17:47:58+01:00",
-    "expiresDate": "2024-01-20T23:47:58+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor Hochwasser  - LK Hildburghausen in Thüringen Ortschaften Oberrod und Rappelsdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
   }
 ]
