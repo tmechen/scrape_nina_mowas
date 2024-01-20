@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-BB-W125-20240120-002",
-    "version": 5,
-    "startDate": "2024-01-20T14:52:56+01:00",
-    "expiresDate": "2024-01-20T20:52:56+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Herrenberg-Gültstein - Herrenberg Ortsteil Gültstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20240120-28-002",
     "version": 5,
     "startDate": "2024-01-20T16:50:55+01:00",
