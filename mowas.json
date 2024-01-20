@@ -1,19 +1,5 @@
 [
   {
-    "id": "mow.DE-TH-EF-SE012-20231225-12-001",
-    "version": 5,
-    "startDate": "2023-12-25T10:05:02+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor Hochwasser  - LK Hildburghausen in Thüringen Ortschaften Oberrod und Rappelsdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20231226-29-002",
     "version": 5,
     "startDate": "2023-12-26T17:18:36+01:00",
@@ -154,6 +140,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20240120-12-000",
+    "version": 5,
+    "startDate": "2024-01-20T17:47:58+01:00",
+    "expiresDate": "2024-01-20T23:47:58+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor Hochwasser  - LK Hildburghausen in Thüringen Ortschaften Oberrod und Rappelsdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
