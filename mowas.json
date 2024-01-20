@@ -98,36 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20240120-28-002",
-    "version": 5,
-    "startDate": "2024-01-20T16:50:55+01:00",
-    "expiresDate": "2024-01-20T22:50:55+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Struvenhütten"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20240120-28-003",
-    "version": 5,
-    "startDate": "2024-01-20T16:51:22+01:00",
-    "expiresDate": "2024-01-20T22:51:22+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Ulzburg Süd"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20240120-12-000",
     "version": 5,
     "startDate": "2024-01-20T17:47:58+01:00",
