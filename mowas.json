@@ -110,5 +110,19 @@
     "transKeys": {
       "event": "BBK-EVC-058"
     }
+  },
+  {
+    "id": "mow.DE-BW-BB-W125-20240120-000",
+    "version": 5,
+    "startDate": "2024-01-20T11:27:11+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Herrenberg-Gültstein - Herrenberg Ortsteil Gültstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
