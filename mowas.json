@@ -96,5 +96,19 @@
     "transKeys": {
       "event": "BBK-EVC-058"
     }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240121-84-000",
+    "version": 5,
+    "startDate": "2024-01-21T02:15:41+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase / Rauchsäule - [BEZEICHNUNG]"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
