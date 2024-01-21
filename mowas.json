@@ -96,5 +96,19 @@
     "transKeys": {
       "event": "BBK-EVC-058"
     }
+  },
+  {
+    "id": "mow.DE-BY-BT-W082-20240121-000",
+    "version": 5,
+    "startDate": "2024-01-21T22:25:16+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchwolke durch Gebäudebrand  - Mainleus"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
