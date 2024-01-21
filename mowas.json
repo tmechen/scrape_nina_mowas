@@ -98,14 +98,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240121-84-000",
+    "id": "mow.DE-BY-R-SE084-20240121-84-001",
     "version": 5,
-    "startDate": "2024-01-21T02:15:41+01:00",
+    "startDate": "2024-01-21T03:01:11+01:00",
+    "expiresDate": "2024-01-21T09:01:11+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase / Rauchsäule - [BEZEICHNUNG]"
+      "de": "Entwarnung: Rauchgase / Rauchsäule - [BEZEICHNUNG]"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
