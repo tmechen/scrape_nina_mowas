@@ -96,20 +96,5 @@
     "transKeys": {
       "event": "BBK-EVC-058"
     }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029-20240121-29-001",
-    "version": 5,
-    "startDate": "2024-01-21T11:13:46+01:00",
-    "expiresDate": "2024-01-21T17:13:46+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand mit starker Rauchentwicklung - Bösel-Petersdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
