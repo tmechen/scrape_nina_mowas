@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-BT-W082-20240121-001",
-    "version": 5,
-    "startDate": "2024-01-22T00:33:08+01:00",
-    "expiresDate": "2024-01-22T06:33:08+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Gebäudebrand  - Mainleus"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-RS-SE072-20240122-72-003",
     "version": 5,
     "startDate": "2024-01-22T03:18:14+01:00",
