@@ -96,20 +96,5 @@
     "transKeys": {
       "event": "BBK-EVC-058"
     }
-  },
-  {
-    "id": "mow.DE-NW-RS-SE072-20240122-72-003",
-    "version": 5,
-    "startDate": "2024-01-22T03:18:14+01:00",
-    "expiresDate": "2024-01-22T09:18:14+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase - Remscheid"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
