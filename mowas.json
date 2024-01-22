@@ -138,5 +138,19 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20240122-33-001",
+    "version": 5,
+    "startDate": "2024-01-22T20:51:25+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Korrektur: Sturmflut morgen gegen 02:12 Uhr mit 3,38 bis 3,88 Metern über NHN - Hamburger Elbgebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
   }
 ]
