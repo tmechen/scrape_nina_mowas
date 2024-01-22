@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20240122-000",
-    "version": 5,
-    "startDate": "2024-01-22T20:09:37+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor einer Sturmflut an der nordfriesischen Küste - Nordfriesische Küste"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20240122-001",
     "version": 5,
     "startDate": "2024-01-22T20:16:30+01:00",
@@ -148,6 +134,21 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Korrektur: Sturmflut morgen gegen 02:12 Uhr mit 3,38 bis 3,88 Metern über NHN - Hamburger Elbgebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20240122-002",
+    "version": 5,
+    "startDate": "2024-01-23T00:30:57+01:00",
+    "expiresDate": "2024-01-23T06:30:57+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einer Sturmflut an der nordfriesischen Küste - Nordfriesische Küste"
     },
     "transKeys": {
       "event": "BBK-EVC-065"
