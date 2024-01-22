@@ -113,14 +113,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-RS-SE072-20240122-72-002",
+    "id": "mow.DE-NW-RS-SE072-20240122-72-003",
     "version": 5,
-    "startDate": "2024-01-22T02:37:08+01:00",
+    "startDate": "2024-01-22T03:18:14+01:00",
+    "expiresDate": "2024-01-22T09:18:14+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase - Remscheid"
+      "de": "Entwarnung: Rauchgase - Remscheid"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
