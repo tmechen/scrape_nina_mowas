@@ -70,36 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20240123-125-001",
-    "version": 5,
-    "startDate": "2024-01-23T11:36:10+01:00",
-    "expiresDate": "2024-01-23T17:36:10+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahr durch Glatteis in Alzey-Worms und Mainz-Bingen - Landkreise Alzey-Worms und Mainz-Bingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-032"
-    }
-  },
-  {
-    "id": "mow.DE-BY-RO-W136-20240123-001",
-    "version": 5,
-    "startDate": "2024-01-23T11:51:22+01:00",
-    "expiresDate": "2024-01-23T17:51:22+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Glatteis aufgrund überfrierender Nässe, bitte um Vorsicht im Straßenve - nördlicher Landkreis Rosenheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-032"
-    }
-  },
-  {
     "id": "mow.DE-NW-E-SE052-20240123-52-000",
     "version": 5,
     "startDate": "2024-01-23T12:55:59+01:00",
@@ -233,20 +203,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-NB-W076-20240123-000",
-    "version": 5,
-    "startDate": "2024-01-23T16:42:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand Windkraftanlage - Sarow, LK MSE"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20240123-33-003",
     "version": 5,
     "startDate": "2024-01-23T17:29:25+01:00",
@@ -259,6 +215,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-MV-NB-W076-20240123-001",
+    "version": 5,
+    "startDate": "2024-01-23T18:11:05+01:00",
+    "expiresDate": "2024-01-24T00:11:05+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand Windkraftanlage - Sarow, LK MSE"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
