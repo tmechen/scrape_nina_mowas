@@ -198,5 +198,19 @@
     "transKeys": {
       "event": "BBK-EVC-058"
     }
+  },
+  {
+    "id": "mow.DE-BY-RO-W136-20240123-000",
+    "version": 5,
+    "startDate": "2024-01-23T07:23:52+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Glatteis aufgrund überfrierender Nässe, bitte um Vorsicht im Straßenverkehr - nördlicher Landkreis Rosenheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-032"
+    }
   }
 ]
