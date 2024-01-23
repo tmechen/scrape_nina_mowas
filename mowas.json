@@ -229,5 +229,19 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-BY-BA-W140-20240123-000",
+    "version": 5,
+    "startDate": "2024-01-23T15:07:46+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Elsenberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
