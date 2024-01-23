@@ -212,5 +212,19 @@
     "transKeys": {
       "event": "BBK-EVC-032"
     }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20240123-125-000",
+    "version": 5,
+    "startDate": "2024-01-23T08:12:44+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahr durch Glatteis in Alzey-Worms und Mainz-Bingen - Landkreise Alzey-Worms und Mainz-Bingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-032"
+    }
   }
 ]
