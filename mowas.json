@@ -84,20 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-SK-W070-20240120-000",
-    "version": 5,
-    "startDate": "2024-01-20T03:27:07+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Verkehrsbehinderungen durch starke Schneeverwehungen - Westlicher Saalekreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-058"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20240122-002",
     "version": 5,
     "startDate": "2024-01-23T00:30:57+01:00",
@@ -211,6 +197,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-ST-SK-W070-20240123-000",
+    "version": 5,
+    "startDate": "2024-01-23T05:58:28+01:00",
+    "expiresDate": "2024-01-23T11:58:28+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Verkehrsbehinderungen durch starke Schneeverwehungen - Westlicher Saalekreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-058"
     }
   }
 ]
