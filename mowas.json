@@ -159,20 +159,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-BA-W140-20240123-000",
-    "version": 5,
-    "startDate": "2024-01-23T15:07:46+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Elsenberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HE-ERB-W191-20240123-000",
     "version": 5,
     "startDate": "2024-01-23T15:40:56+01:00",
@@ -230,6 +216,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-BA-W140-20240123-001",
+    "version": 5,
+    "startDate": "2024-01-23T18:31:59+01:00",
+    "expiresDate": "2024-01-24T00:31:59+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Elsenberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
