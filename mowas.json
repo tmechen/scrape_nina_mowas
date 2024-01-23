@@ -84,34 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20240122-003",
-    "version": 5,
-    "startDate": "2024-01-23T00:53:01+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor einer Sturmflut an der nordfriesischen Küste - Nordfriesische Küste"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-W240-20240122-004",
-    "version": 5,
-    "startDate": "2024-01-23T00:58:49+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor einer Sturmflut im Wesergebiet - Wesergebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20240123-001",
     "version": 5,
     "startDate": "2024-01-23T02:58:15+01:00",
@@ -137,20 +109,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
-    }
-  },
-  {
-    "id": "mow.DE-NW-WES-SE097-20240123-97-000",
-    "version": 5,
-    "startDate": "2024-01-23T11:24:09+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Schermbeck - Schermbeck"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
     }
   },
   {
@@ -210,6 +168,65 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-MV-HGW-W005-20240123-001",
+    "version": 5,
+    "startDate": "2024-01-23T13:32:26+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "FEUERWEHREINSATZ - Hinrichshagen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20240123-002",
+    "version": 5,
+    "startDate": "2024-01-23T13:38:10+01:00",
+    "expiresDate": "2024-01-23T19:38:10+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einer Sturmflut an der nordfriesischen Küste - Nordfriesische Küste"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20240123-003",
+    "version": 5,
+    "startDate": "2024-01-23T13:38:33+01:00",
+    "expiresDate": "2024-01-23T19:38:33+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einer Sturmflut im Wesergebiet - Wesergebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-NW-WES-SE097-20240123-97-001",
+    "version": 5,
+    "startDate": "2024-01-23T13:43:46+01:00",
+    "expiresDate": "2024-01-23T19:43:46+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Schermbeck - Schermbeck"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
