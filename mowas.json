@@ -84,21 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20240123-004",
-    "version": 5,
-    "startDate": "2024-01-23T14:27:58+01:00",
-    "expiresDate": "2024-01-23T20:27:58+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut im Hamburger Elbegebiet - Hamburger Elbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HE-ERB-W191-20240123-000",
     "version": 5,
     "startDate": "2024-01-23T15:40:56+01:00",
