@@ -245,5 +245,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-MV-NB-W076-20240123-000",
+    "version": 5,
+    "startDate": "2024-01-23T16:42:20+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand Windkraftanlage - Sarow, LK MSE"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
