@@ -70,14 +70,15 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20240124-35-000",
+    "id": "mow.DE-SL-SB-SE035-20240124-35-001",
     "version": 5,
-    "startDate": "2024-01-24T01:32:07+01:00",
+    "startDate": "2024-01-24T06:01:31+01:00",
+    "expiresDate": "2024-01-24T12:01:31+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand Wohnhaus - Lautzkirchen"
+      "de": "Entwarnung: Brand Wohnhaus - Lautzkirchen"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
