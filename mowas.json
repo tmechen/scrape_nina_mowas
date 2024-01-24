@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20240124-001",
-    "version": 5,
-    "startDate": "2024-01-24T08:39:05+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor einer Sturmflut im Hamburger Elbegebiet - Hamburger Elbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20240124-33-000",
     "version": 5,
     "startDate": "2024-01-24T08:41:56+01:00",
@@ -179,6 +165,21 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Warnung vor einer Sturmflut im Elbegebiet - Elbegebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20240124-008",
+    "version": 5,
+    "startDate": "2024-01-24T18:17:18+01:00",
+    "expiresDate": "2024-01-25T00:17:18+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einer Sturmflut im Hamburger Elbegebiet - Hamburger Elbegebiet"
     },
     "transKeys": {
       "event": "BBK-EVC-065"
