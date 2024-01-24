@@ -42,36 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20240124-129-000",
-    "version": 5,
-    "startDate": "2024-01-24T14:23:34+01:00",
-    "expiresDate": "2024-01-24T20:23:34+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserlage - Stadt Celle, Gemeinde Winsen/Aller"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029-20240124-29-000",
-    "version": 5,
-    "startDate": "2024-01-24T14:30:02+01:00",
-    "expiresDate": "2024-01-24T20:30:02+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserlage - Samtgemeinde Flotwedel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20240124-002",
     "version": 5,
     "startDate": "2024-01-24T14:37:22+01:00",
