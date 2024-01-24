@@ -200,5 +200,19 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20240124-33-002",
+    "version": 5,
+    "startDate": "2024-01-24T19:53:41+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sturmflut am 25.01.2024 um 04:08 Uhr zwischen 3,63 Metern und 4,13 Metern über NHN - Hamburger Elbgebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
   }
 ]
