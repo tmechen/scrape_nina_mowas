@@ -169,5 +169,19 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20240124-143-002",
+    "version": 5,
+    "startDate": "2024-01-24T23:46:18+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung  - Schönebeck"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
