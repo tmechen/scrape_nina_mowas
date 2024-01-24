@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20240124-33-000",
-    "version": 5,
-    "startDate": "2024-01-24T08:41:56+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sturmflut heute gegen 15:53 Uhr mit ca. +3,38 m - +3,88 m über Normalhöhennull - Hamburger Elbgebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20240124-129-000",
     "version": 5,
     "startDate": "2024-01-24T14:23:34+01:00",
@@ -198,6 +184,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20240124-33-001",
+    "version": 5,
+    "startDate": "2024-01-24T19:41:37+01:00",
+    "expiresDate": "2024-01-25T01:41:37+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sturmflut heute gegen 15:53 Uhr mit ca. +3,38 m - +3,88 m über Normalh - Hamburger Elbgebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
     }
   }
 ]
