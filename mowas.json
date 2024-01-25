@@ -72,14 +72,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-PF-W024-20240125-000",
+    "id": "mow.DE-BW-PF-W024-20240125-001",
     "version": 5,
-    "startDate": "2024-01-25T10:46:39+01:00",
+    "startDate": "2024-01-25T11:17:58+01:00",
+    "expiresDate": "2024-01-25T17:17:58+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenenprobealarm - Gemeindegebiet Wimsheim"
+      "de": "Entwarnung: Sirenenprobealarm - Gemeindegebiet Wimsheim"
     },
     "transKeys": {
       "event": "BBK-EVC-060"
