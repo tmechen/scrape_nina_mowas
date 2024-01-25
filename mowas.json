@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20240124-004",
-    "version": 5,
-    "startDate": "2024-01-24T15:42:57+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor einer Sturmflut an der nordfriesischen Küste - Nordfriesische Küste"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20240124-005",
     "version": 5,
     "startDate": "2024-01-24T15:50:17+01:00",
@@ -70,20 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20240124-006",
-    "version": 5,
-    "startDate": "2024-01-24T17:42:17+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Warnung vor einer Sturmflut an der ostfriesischen Küste im Bereich Emden - Emden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20240124-007",
     "version": 5,
     "startDate": "2024-01-24T17:55:31+01:00",
@@ -92,36 +64,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Warnung vor einer Sturmflut im Elbegebiet - Elbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
-    "id": "mow.DE-NW-HA-SE087-20240124-149-001",
-    "version": 5,
-    "startDate": "2024-01-24T18:48:45+01:00",
-    "expiresDate": "2024-01-25T00:48:45+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Altenhagen und der Innenstadt  - Hagen Innenstadt & Altenhagen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-SE033-20240124-33-001",
-    "version": 5,
-    "startDate": "2024-01-24T19:41:37+01:00",
-    "expiresDate": "2024-01-25T01:41:37+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sturmflut heute gegen 15:53 Uhr mit ca. +3,38 m - +3,88 m über Normalh - Hamburger Elbgebiet"
     },
     "transKeys": {
       "event": "BBK-EVC-065"
@@ -164,6 +106,36 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Sturmflut am 25.01.2024 um 04:08 Uhr mit ca. +4,13 Metern über NHN. - Hamburger Elbgebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20240125-000",
+    "version": 5,
+    "startDate": "2024-01-25T01:06:39+01:00",
+    "expiresDate": "2024-01-25T07:06:39+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einer Sturmflut an der ostfriesischen Küste im Bereich Emd - Emden"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20240125-001",
+    "version": 5,
+    "startDate": "2024-01-25T01:54:37+01:00",
+    "expiresDate": "2024-01-25T07:54:37+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einer Sturmflut an der nordfriesischen Küste - Nordfriesische Küste"
     },
     "transKeys": {
       "event": "BBK-EVC-065"
