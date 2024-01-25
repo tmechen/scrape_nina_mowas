@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20240124-005",
-    "version": 5,
-    "startDate": "2024-01-24T15:50:17+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor einer Sturmflut im Wesergebiet - Wesergebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20240124-007",
     "version": 5,
     "startDate": "2024-01-24T17:55:31+01:00",
@@ -136,6 +122,21 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Warnung vor einer Sturmflut an der nordfriesischen Küste - Nordfriesische Küste"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20240125-002",
+    "version": 5,
+    "startDate": "2024-01-25T02:44:13+01:00",
+    "expiresDate": "2024-01-25T08:44:13+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einer Sturmflut im Wesergebiet - Wesergebiet"
     },
     "transKeys": {
       "event": "BBK-EVC-065"
