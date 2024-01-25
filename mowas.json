@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20240124-143-002",
-    "version": 5,
-    "startDate": "2024-01-24T23:46:18+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung  - Schönebeck"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20240125-004",
     "version": 5,
     "startDate": "2024-01-25T04:42:11+01:00",
@@ -83,6 +69,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20240125-143-000",
+    "version": 5,
+    "startDate": "2024-01-25T10:29:41+01:00",
+    "expiresDate": "2024-01-25T16:29:41+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung  - Schönebeck"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
