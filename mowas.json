@@ -42,21 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20240125-004",
-    "version": 5,
-    "startDate": "2024-01-25T04:42:11+01:00",
-    "expiresDate": "2024-01-25T10:42:11+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut im Hamburger Elbegebiet - Hamburger Elbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20240125-33-000",
     "version": 5,
     "startDate": "2024-01-25T06:52:48+01:00",
@@ -84,6 +69,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-PF-W024-20240125-000",
+    "version": 5,
+    "startDate": "2024-01-25T10:46:39+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenenprobealarm - Gemeindegebiet Wimsheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
     }
   }
 ]
