@@ -56,21 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20240125-003",
-    "version": 5,
-    "startDate": "2024-01-25T03:52:37+01:00",
-    "expiresDate": "2024-01-25T09:52:37+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut im Elbegebiet - Elbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20240125-004",
     "version": 5,
     "startDate": "2024-01-25T04:42:11+01:00",
