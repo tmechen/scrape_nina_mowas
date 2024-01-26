@@ -57,14 +57,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-NE-SE044-20240126-44-000",
+    "id": "mow.DE-NW-NE-SE044-20240126-44-001",
     "version": 5,
-    "startDate": "2024-01-26T16:10:42+01:00",
+    "startDate": "2024-01-26T18:29:27+01:00",
+    "expiresDate": "2024-01-27T00:29:27+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Wichtige Einsatzinformation - Notabschaltung bei der Firma Speira - Grevenbroich"
+      "de": "Entwarnung: Wichtige Einsatzinformation - Notabschaltung bei der Firma Speira - Grevenbroich"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
