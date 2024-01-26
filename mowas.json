@@ -42,21 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-NE-SE044-20240126-44-001",
-    "version": 5,
-    "startDate": "2024-01-26T18:29:27+01:00",
-    "expiresDate": "2024-01-27T00:29:27+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wichtige Einsatzinformation - Notabschaltung bei der Firma Speira - Grevenbroich"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20240126-000",
     "version": 5,
     "startDate": "2024-01-26T19:58:07+01:00",
@@ -68,6 +53,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20240126-28-000",
+    "version": 5,
+    "startDate": "2024-01-27T00:34:23+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Itzehohe"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
