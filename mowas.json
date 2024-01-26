@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20240126-36-000",
+    "id": "mow.DE-BB-CB-SE036-20240126-36-001",
     "version": 5,
-    "startDate": "2024-01-26T10:21:34+01:00",
+    "startDate": "2024-01-26T12:49:04+01:00",
+    "expiresDate": "2024-01-26T18:49:04+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand einer Papierhalle - Lübbenau"
+      "de": "Entwarnung: Brand einer Papierhalle - Lübbenau"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
