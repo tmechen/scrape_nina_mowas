@@ -40,5 +40,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-BB-CB-SE036-20240126-36-000",
+    "version": 5,
+    "startDate": "2024-01-26T10:21:34+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand einer Papierhalle - Lübbenau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
