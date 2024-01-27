@@ -56,20 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-LIP-SE041-20240127-41-000",
-    "version": 5,
-    "startDate": "2024-01-27T08:36:09+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brandereignis  - Kalletal - Ortsteil Talle"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-BM-SE042-20240127-42-001",
     "version": 5,
     "startDate": "2024-01-27T11:44:35+01:00",
@@ -97,6 +83,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NW-LIP-SE041-20240127-41-001",
+    "version": 5,
+    "startDate": "2024-01-27T13:06:56+01:00",
+    "expiresDate": "2024-01-27T19:06:56+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brandereignis  - Kalletal - Ortsteil Talle"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-SR-W159-20240127-000",
+    "version": 5,
+    "startDate": "2024-01-27T13:18:24+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand im Stadtbereich Osterhofen! Fenster und Türen geschlossen halten - Osterhofen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
