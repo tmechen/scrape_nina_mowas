@@ -42,21 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20240127-000",
-    "version": 5,
-    "startDate": "2024-01-27T03:52:52+01:00",
-    "expiresDate": "2024-01-27T09:52:52+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut im Wesergebiet - Wesergebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20240127-18-000",
     "version": 5,
     "startDate": "2024-01-27T08:22:21+01:00",
@@ -82,6 +67,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BM-SE042-20240127-42-000",
+    "version": 5,
+    "startDate": "2024-01-27T10:10:56+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund - Rhein-Erft-Kreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
