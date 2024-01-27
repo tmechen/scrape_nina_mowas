@@ -85,14 +85,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20240127-000",
+    "id": "mow.DE-HE-HG-W103-20240127-001",
     "version": 5,
-    "startDate": "2024-01-27T11:52:03+01:00",
+    "startDate": "2024-01-27T12:15:55+01:00",
+    "expiresDate": "2024-01-27T18:15:55+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenentest im Stadtgebiet - Oberursel"
+      "de": "Entwarnung: Sirenentest im Stadtgebiet - Oberursel"
     },
     "transKeys": {
       "event": "BBK-EVC-060"
