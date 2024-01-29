@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-ST-SE032-20240129-32-000",
+    "id": "mow.DE-NW-ST-SE032-20240129-32-001",
     "version": 5,
-    "startDate": "2024-01-29T13:51:46+01:00",
+    "startDate": "2024-01-29T16:04:39+01:00",
+    "expiresDate": "2024-01-29T22:04:39+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase/ Geruchsbelästigung in Steinfurt - Steinfurt-Borghorgst"
+      "de": "Entwarnung: Rauchgase/ Geruchsbelästigung in Steinfurt - Steinfurt-Borghorgst"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
