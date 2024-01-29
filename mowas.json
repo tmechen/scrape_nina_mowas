@@ -42,21 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20240129-129-000",
-    "version": 5,
-    "startDate": "2024-01-29T08:58:01+01:00",
-    "expiresDate": "2024-01-29T14:58:01+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserinformation in der Gemeinde Lilienthal im Bereich der Wörpe - Gemeinde Lilienthal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-ST-SE032-20240129-32-000",
     "version": 5,
     "startDate": "2024-01-29T13:51:46+01:00",
