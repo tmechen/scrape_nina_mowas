@@ -40,5 +40,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NW-WES-SE097-20240130-97-000",
+    "version": 5,
+    "startDate": "2024-01-30T11:25:23+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung in Xanten - Xanten"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
