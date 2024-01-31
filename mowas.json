@@ -54,20 +54,5 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
-  },
-  {
-    "id": "mow.DE-NI-H-SE110-20240131-110-001",
-    "version": 5,
-    "startDate": "2024-01-31T16:16:54+01:00",
-    "expiresDate": "2024-01-31T22:16:54+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung aufgrund eines Großbrandes in Neustadt am Rübenberge - Innenstadtbereich um Rudolf-Diesel-Ring"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
