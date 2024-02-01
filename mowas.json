@@ -56,21 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GE-SE064-20240201-64-001",
-    "version": 5,
-    "startDate": "2024-02-01T14:33:48+01:00",
-    "expiresDate": "2024-02-01T20:33:48+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Entschärfung einer Weltkriegsbombe im Stadtgebiet Gelsenkirchen - Gelsenkirchen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20240201-33-002",
     "version": 5,
     "startDate": "2024-02-01T20:41:23+01:00",
