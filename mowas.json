@@ -69,5 +69,19 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20240201-33-001",
+    "version": 5,
+    "startDate": "2024-02-01T18:12:43+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "227 kg-Bombe gefunden - Hamburg-Heimfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
