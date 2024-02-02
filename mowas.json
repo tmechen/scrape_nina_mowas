@@ -42,21 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20240202-67-000",
-    "version": 5,
-    "startDate": "2024-02-02T10:18:48+01:00",
-    "expiresDate": "2024-02-02T16:18:48+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Blindgänger Entschärfung - Dortmund-Süd"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NI-VEC-W078-20240202-000",
     "version": 5,
     "startDate": "2024-02-02T15:42:46+01:00",
