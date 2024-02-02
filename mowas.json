@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240202-84-000",
-    "version": 5,
-    "startDate": "2024-02-02T17:12:23+01:00",
-    "expiresDate": "2024-02-02T23:12:23+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasser im Bereich Mömlingen weist eine bakterielle Verunreinigung - Mömlingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NI-VEC-W078-20240202-001",
     "version": 5,
     "startDate": "2024-02-02T17:38:54+01:00",
