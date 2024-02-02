@@ -55,5 +55,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NI-VEC-W078-20240202-000",
+    "version": 5,
+    "startDate": "2024-02-02T15:42:46+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brand eines Gebäudes - Gemeinde Holdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
