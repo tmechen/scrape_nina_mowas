@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20240203-67-001",
-    "version": 5,
-    "startDate": "2024-02-03T09:00:30+01:00",
-    "expiresDate": "2024-02-03T15:00:30+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brandereignis - Entwarnung - Dortmund"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-LD-SE117-20240203-121-001",
     "version": 5,
     "startDate": "2024-02-03T09:57:33+01:00",
