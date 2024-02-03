@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-UH-W116-20240203-001",
-    "version": 5,
-    "startDate": "2024-02-03T11:07:04+01:00",
-    "expiresDate": "2024-02-03T17:07:04+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Funktionsprobe der Sirenen und Meldeempfänger im Unstrut-Hainich-Kreis - Unstrut-Hainich-Kreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20240203-001",
     "version": 5,
     "startDate": "2024-02-03T12:06:26+01:00",
