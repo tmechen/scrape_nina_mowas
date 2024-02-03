@@ -86,5 +86,34 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240203-84-000",
+    "version": 5,
+    "startDate": "2024-02-03T12:01:53+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung! - Goldbach und Hösbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20240203-001",
+    "version": 5,
+    "startDate": "2024-02-03T12:06:26+01:00",
+    "expiresDate": "2024-02-03T18:06:26+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Probealarm - Loffenau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
