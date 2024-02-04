@@ -26,20 +26,5 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
-  },
-  {
-    "id": "mow.DE-NW-KLE-SE058-20240204-58-001",
-    "version": 5,
-    "startDate": "2024-02-04T17:08:35+01:00",
-    "expiresDate": "2024-02-04T23:08:35+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Goch - Goch, Bedburg-Hau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
