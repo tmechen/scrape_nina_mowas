@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20240205-90-000",
-    "version": 5,
-    "startDate": "2024-02-05T18:44:33+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund - Aachen Stadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NW-DU-SE038-20240205-38-002",
     "version": 5,
     "startDate": "2024-02-05T22:59:56+01:00",
@@ -54,6 +40,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-AC-SE090-20240205-90-001",
+    "version": 5,
+    "startDate": "2024-02-06T00:56:38+01:00",
+    "expiresDate": "2024-02-06T06:56:38+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund - Aachen Stadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
