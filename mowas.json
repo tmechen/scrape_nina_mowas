@@ -28,34 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240207-50-000",
-    "version": 5,
-    "startDate": "2024-02-07T12:30:07+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenen-Test in der gesamten Schweiz - Städte und Gemeinden in grenznähe zur Schweiz;"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-ST-MD-SE022-20240207-143-001",
-    "version": 5,
-    "startDate": "2024-02-07T13:01:04+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Beeinträchtigung des polizeilichen Notrufs - Sachsen-Anhalt, SLK, MD, BK, HZ, MSH, SK, HAL, BLK"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-005"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20240207-125-001",
     "version": 5,
     "startDate": "2024-02-07T13:01:51+01:00",
@@ -68,6 +40,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240207-50-001",
+    "version": 5,
+    "startDate": "2024-02-07T14:30:09+01:00",
+    "expiresDate": "2024-02-07T20:30:09+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Test in der gesamten Schweiz - Städte und Gemeinden in grenznähe zur Schweiz;"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20240207-143-002",
+    "version": 5,
+    "startDate": "2024-02-07T14:36:53+01:00",
+    "expiresDate": "2024-02-07T20:36:53+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Beeinträchtigung des polizeilichen Notrufs - Sachsen-Anhalt, SLK, MD, BK, HZ, MSH, SK, HAL, BLK"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
     }
   }
 ]
