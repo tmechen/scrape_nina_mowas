@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20240209-33-000",
+    "id": "mow.DE-HH-HH-SE033-20240209-33-001",
     "version": 5,
-    "startDate": "2024-02-09T16:36:06+01:00",
+    "startDate": "2024-02-09T18:04:01+01:00",
+    "expiresDate": "2024-02-10T00:04:01+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall von Telefonnetzen bei Polizei und Feuerwehr, Notrufe teilweise betroffen - Vorwahlgebiet 040"
+      "de": "Entwarnung: Ausfall von Telefonnetzen bei Polizei und Feuerwehr, Notrufe teilweise - Vorwahlgebiet 040"
     },
     "transKeys": {
       "event": "BBK-EVC-006"
