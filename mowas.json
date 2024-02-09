@@ -26,5 +26,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20240208-12-001",
+    "version": 5,
+    "startDate": "2024-02-09T00:50:27+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Landesweiter Ausfall telefonische Erreichbarkeit Polizeidienststellen - thüringenweit"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
+    }
   }
 ]
