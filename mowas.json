@@ -54,20 +54,5 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
-  },
-  {
-    "id": "mow.DE-BY-BT-W082-20240209-001",
-    "version": 5,
-    "startDate": "2024-02-09T23:59:31+01:00",
-    "expiresDate": "2024-02-10T05:59:31+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand eines Wohnhauses in Mainleus - Mainleus"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
