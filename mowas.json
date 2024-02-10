@@ -40,20 +40,5 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
-  },
-  {
-    "id": "mow.DE-SH-HL-SE103-20240210-103-000",
-    "version": 5,
-    "startDate": "2024-02-10T06:32:06+01:00",
-    "expiresDate": "2024-02-10T12:32:06+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser Innenstadt und Travemünde - Lübeck"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
   }
 ]
