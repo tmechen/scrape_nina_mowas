@@ -54,20 +54,5 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20240211-28-001",
-    "version": 5,
-    "startDate": "2024-02-11T22:00:59+01:00",
-    "expiresDate": "2024-02-12T04:00:59+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Lägerdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
