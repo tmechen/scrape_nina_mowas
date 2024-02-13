@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-ED-W186-20240213-000",
+    "id": "mow.DE-BY-ED-W186-20240213-001",
     "version": 5,
-    "startDate": "2024-02-13T05:49:22+01:00",
+    "startDate": "2024-02-13T06:40:49+01:00",
+    "expiresDate": "2024-02-13T12:40:49+01:00",
     "severity": "Extreme",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke durch Großbrand - Eching"
+      "de": "Entwarnung: Rauchwolke durch Großbrand - Eching"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
