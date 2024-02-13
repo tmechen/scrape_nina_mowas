@@ -40,20 +40,5 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
-  },
-  {
-    "id": "mow.DE-BW-RT-SE050-20240213-50-003",
-    "version": 5,
-    "startDate": "2024-02-13T12:07:55+01:00",
-    "expiresDate": "2024-02-13T18:07:55+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand Hallenbad - Öhringen, Rendelstraße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
