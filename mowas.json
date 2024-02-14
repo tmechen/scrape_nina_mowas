@@ -28,14 +28,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-WAF-SE045-20240209-45-000",
+    "id": "mow.DE-NW-WAF-SE045-20240214-45-000",
     "version": 5,
-    "startDate": "2024-02-09T21:07:14+01:00",
+    "startDate": "2024-02-14T08:03:46+01:00",
+    "expiresDate": "2024-02-14T14:03:46+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Meiden Sie die Nähe von Gewässern - Gemeinde Beelen / Stadt Telgte / Stadt Warendorf"
+      "de": "Entwarnung: Meiden Sie die Nähe von Gewässern - Gemeinde Beelen / Stadt Telgte / Stadt Warendorf"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
