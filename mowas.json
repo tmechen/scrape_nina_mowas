@@ -26,20 +26,5 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
-  },
-  {
-    "id": "mow.DE-NW-WAF-SE045-20240214-45-000",
-    "version": 5,
-    "startDate": "2024-02-14T08:03:46+01:00",
-    "expiresDate": "2024-02-14T14:03:46+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Meiden Sie die Nähe von Gewässern - Gemeinde Beelen / Stadt Telgte / Stadt Warendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
   }
 ]
