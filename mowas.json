@@ -14,10 +14,10 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20240107-129-000",
+    "id": "mow.DE-NI-STD-SE029B-20240215-129-000",
     "version": 5,
-    "startDate": "2024-01-07T16:03:17+01:00",
-    "severity": "Minor",
+    "startDate": "2024-02-15T18:37:12+01:00",
+    "severity": "Severe",
     "urgency": "Immediate",
     "type": "Update",
     "i18nTitle": {
