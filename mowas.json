@@ -41,5 +41,19 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-NW-AC-SE090-20240216-90-000",
+    "version": 5,
+    "startDate": "2024-02-16T20:56:59+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase - Aachen Rothe Erde"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
