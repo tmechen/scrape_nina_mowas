@@ -26,20 +26,5 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
-  },
-  {
-    "id": "mow.DE-TH-AP-W115-20240217-001",
-    "version": 5,
-    "startDate": "2024-02-17T15:06:23+01:00",
-    "expiresDate": "2024-02-17T21:06:23+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Flurstedt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
