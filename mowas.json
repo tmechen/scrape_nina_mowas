@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20240217-129-000",
-    "version": 5,
-    "startDate": "2024-02-17T12:07:50+01:00",
-    "expiresDate": "2024-02-17T18:07:50+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm zur Warnung der Bevölkerung im Landkreis Gifhorn - Landkreis Gifhorn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-TH-HIG-W111-20240217-001",
     "version": 5,
     "startDate": "2024-02-17T12:15:11+01:00",
