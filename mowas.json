@@ -41,5 +41,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-BM-SE042-20240219-42-000",
+    "version": 5,
+    "startDate": "2024-02-19T16:35:55+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund - Rhein-Erft-Kreis / Kolpingstadt Kerpen Ortsteil Kerpen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
