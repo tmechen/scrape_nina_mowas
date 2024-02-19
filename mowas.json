@@ -28,14 +28,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20240219-29-000",
+    "id": "mow.DE-NI-STD-SE029-20240219-29-001",
     "version": 5,
-    "startDate": "2024-02-19T11:44:48+01:00",
+    "startDate": "2024-02-19T14:45:03+01:00",
+    "expiresDate": "2024-02-19T20:45:03+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand im Landkreis Oldenburg  - Großenkneten Brandsweg"
+      "de": "Entwarnung: Großbrand im Landkreis Oldenburg  - Großenkneten Brandsweg"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
