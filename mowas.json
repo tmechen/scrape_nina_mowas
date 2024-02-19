@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-EW-SE079-20240219-79-000",
-    "version": 5,
-    "startDate": "2024-02-19T04:09:26+01:00",
-    "expiresDate": "2024-02-19T10:09:26+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Gebäudebrand und Brandrauch - 16547 Birkenwerder"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20240219-33-001",
     "version": 5,
     "startDate": "2024-02-19T05:15:18+01:00",
