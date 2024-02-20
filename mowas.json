@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-OB-SE055-20240220-55-000",
-    "version": 5,
-    "startDate": "2024-02-20T10:12:31+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "5 Zentner Bombe in Sterkrade wird heute (20.02.2024) entschärft - Oberhausen Sterkrade"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20240220-125-000",
     "version": 5,
     "startDate": "2024-02-20T13:26:10+01:00",
@@ -67,6 +53,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-OB-SE055-20240220-55-001",
+    "version": 5,
+    "startDate": "2024-02-20T18:58:57+01:00",
+    "expiresDate": "2024-02-21T00:58:57+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: 5 Zentner Bombe in Sterkrade wird heute (20.02.2024) entschärft - Oberhausen Sterkrade"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
