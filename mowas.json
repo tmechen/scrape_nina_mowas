@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BM-SE042-20240219-42-001",
-    "version": 5,
-    "startDate": "2024-02-19T20:58:54+01:00",
-    "expiresDate": "2024-02-20T02:58:54+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund - Rhein-Erft-Kreis / Kolpingstadt Kerpen Ortsteil Kerpen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NW-D-SE047-20240219-47-001",
     "version": 5,
     "startDate": "2024-02-19T22:27:13+01:00",
