@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-E-SE052-20240221-52-000",
-    "version": 5,
-    "startDate": "2024-02-21T13:21:25+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Essen (Ostviertel) - Essen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BR-B-SE017-20240221-17-000",
     "version": 5,
     "startDate": "2024-02-21T18:19:16+01:00",
@@ -65,6 +51,21 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Entschärfung einer Weltkriegsbombe am 21.02.2024 um 9 Uhr - Berlin Charlottenburg-Wilmersdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-E-SE052-20240221-52-001",
+    "version": 5,
+    "startDate": "2024-02-21T21:46:56+01:00",
+    "expiresDate": "2024-02-22T03:46:56+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Essen (Ostviertel) - Essen"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
