@@ -56,21 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-ED-W186-20240221-001",
-    "version": 5,
-    "startDate": "2024-02-21T14:26:21+01:00",
-    "expiresDate": "2024-02-21T20:26:21+01:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Giftige Rauchwolke aufgrund eines Großbrandes - Freising"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BR-B-SE017-20240221-17-000",
     "version": 5,
     "startDate": "2024-02-21T18:19:16+01:00",
