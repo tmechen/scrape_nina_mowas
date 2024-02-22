@@ -40,20 +40,5 @@
     "transKeys": {
       "event": "BBK-EVC-003"
     }
-  },
-  {
-    "id": "mow.DE-BY-BT-W082-20240222-001",
-    "version": 5,
-    "startDate": "2024-02-22T17:54:34+01:00",
-    "expiresDate": "2024-02-22T23:54:34+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wohnhausbrand in der Kulmbacher Innenstadt - Landkreis Kulmbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
