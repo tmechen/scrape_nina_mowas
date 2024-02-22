@@ -40,20 +40,5 @@
     "transKeys": {
       "event": "BBK-EVC-003"
     }
-  },
-  {
-    "id": "mow.DE-NW-E-SE052-20240221-52-001",
-    "version": 5,
-    "startDate": "2024-02-21T21:46:56+01:00",
-    "expiresDate": "2024-02-22T03:46:56+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Essen (Ostviertel) - Essen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
   }
 ]
