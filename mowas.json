@@ -28,14 +28,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20240220-125-000",
+    "id": "mow.DE-RP-MZ-SE114-20240223-125-000",
     "version": 5,
-    "startDate": "2024-02-20T13:26:10+01:00",
+    "startDate": "2024-02-23T20:35:18+01:00",
+    "expiresDate": "2024-02-24T02:35:18+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall der Gasversorgung - Bingen Innenstadt (PLZ 55411)"
+      "de": "Entwarnung: Ausfall der Gasversorgung - Bingen Innenstadt (PLZ 55411)"
     },
     "transKeys": {
       "event": "BBK-EVC-003"
