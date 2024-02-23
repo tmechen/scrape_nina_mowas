@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-BB-FF-SE080-20240223-80-000",
+    "id": "mow.DE-BB-FF-SE080-20240223-80-001",
     "version": 5,
-    "startDate": "2024-02-23T07:29:39+01:00",
+    "startDate": "2024-02-23T08:59:11+01:00",
+    "expiresDate": "2024-02-23T14:59:11+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brandeinsatz  - Dahlwitz Hoppegarten, Industriestraße"
+      "de": "Entwarnung: Brandeinsatz  - Dahlwitz Hoppegarten, Industriestraße"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
