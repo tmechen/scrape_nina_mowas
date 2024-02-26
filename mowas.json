@@ -54,5 +54,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-VIE-SE074-20240226-74-000",
+    "version": 5,
+    "startDate": "2024-02-26T19:51:22+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gegeruchsbelästigung im Stadtgebiet Kempen aufgrund eine Brandereignisses - Kempen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
