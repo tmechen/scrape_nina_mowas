@@ -70,14 +70,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20240227-4-000",
+    "id": "mow.DE-RP-TR-SE004-20240227-4-001",
     "version": 5,
-    "startDate": "2024-02-27T19:33:21+01:00",
+    "startDate": "2024-02-27T20:42:55+01:00",
+    "expiresDate": "2024-02-28T02:42:55+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung aufgrund eines Brandes - Stadt Trier und angrenzende Gemeinden"
+      "de": "Entwarnung: Rauchentwicklung aufgrund eines Brandes - Stadt Trier und angrenzende Gemeinden"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
