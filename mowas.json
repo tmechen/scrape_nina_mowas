@@ -114,14 +114,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-HF-SE039-20240228-39-000",
+    "id": "mow.DE-NW-HF-SE039-20240228-39-001",
     "version": 5,
-    "startDate": "2024-02-28T16:25:24+01:00",
+    "startDate": "2024-02-28T17:20:40+01:00",
+    "expiresDate": "2024-02-28T23:20:40+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Aufgrund eines Feuers kann es zu Geruchsbelästigung kommen - Herford"
+      "de": "Entwarnung: Aufgrund eines Feuers kann es zu Geruchsbelästigung kommen - Herford"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
