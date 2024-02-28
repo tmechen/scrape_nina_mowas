@@ -70,21 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20240228-33-002",
-    "version": 5,
-    "startDate": "2024-02-28T14:51:35+01:00",
-    "expiresDate": "2024-02-28T20:51:35+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 500 kg-Bombe gefunden - Hamburg-Heimfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-BY-N-W163-20240228-001",
     "version": 5,
     "startDate": "2024-02-28T15:33:35+01:00",
@@ -100,20 +85,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20240228-90-000",
-    "version": 5,
-    "startDate": "2024-02-28T16:04:17+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund - Aachen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-HF-SE039-20240228-39-001",
     "version": 5,
     "startDate": "2024-02-28T17:20:40+01:00",
@@ -126,6 +97,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-AC-SE090-20240228-90-001",
+    "version": 5,
+    "startDate": "2024-02-28T20:56:58+01:00",
+    "expiresDate": "2024-02-29T02:56:58+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund - Aachen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
