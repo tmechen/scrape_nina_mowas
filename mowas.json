@@ -70,21 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20240228-90-001",
-    "version": 5,
-    "startDate": "2024-02-28T20:56:58+01:00",
-    "expiresDate": "2024-02-29T02:56:58+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund - Aachen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-SN-HY-SE048-20240229-122-000",
     "version": 5,
     "startDate": "2024-02-29T02:24:09+01:00",
