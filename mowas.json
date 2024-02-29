@@ -70,20 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-RE-SE078-20240229-78-001",
-    "version": 5,
-    "startDate": "2024-02-29T12:43:41+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "3.1 Warnung Rauchgase  - Herten, Recklinghausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-GT-W112-20240229-000",
     "version": 5,
     "startDate": "2024-02-29T13:00:02+01:00",
@@ -95,6 +81,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-RE-SE078-20240229-78-002",
+    "version": 5,
+    "startDate": "2024-02-29T15:40:13+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "3.1 Warnung Rauchgase  - Herten, Recklinghausen, Marl, Haltern am See"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
