@@ -83,5 +83,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-RE-SE078-20240229-78-000",
+    "version": 5,
+    "startDate": "2024-02-29T10:29:26+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "3.1 Warnung Rauchgase  - Herten"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
