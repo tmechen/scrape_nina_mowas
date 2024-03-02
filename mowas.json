@@ -86,14 +86,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-AP-W115-20240302-000",
+    "id": "mow.DE-TH-AP-W115-20240302-001",
     "version": 5,
-    "startDate": "2024-03-02T09:53:51+01:00",
+    "startDate": "2024-03-02T10:13:59+01:00",
+    "expiresDate": "2024-03-02T16:13:59+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenenprobealarm - Landkreis Weimarer Land"
+      "de": "Entwarnung: Sirenenprobealarm - Landkreis Weimarer Land"
     },
     "transKeys": {
       "event": "BBK-EVC-060"
