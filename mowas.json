@@ -72,20 +72,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20240302-106-000",
-    "version": 5,
-    "startDate": "2024-03-02T09:09:42+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Probealarm Sirenen heute ab 10 Uhr - Kassel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-TH-AP-W115-20240302-001",
     "version": 5,
     "startDate": "2024-03-02T10:13:59+01:00",
@@ -95,6 +81,35 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Sirenenprobealarm - Landkreis Weimarer Land"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NI-NOM-W210-20240302-000",
+    "version": 5,
+    "startDate": "2024-03-02T10:39:12+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase durch Scheunenbrand - Holtensen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20240302-106-001",
+    "version": 5,
+    "startDate": "2024-03-02T10:40:23+01:00",
+    "expiresDate": "2024-03-02T16:40:23+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Probealarm Sirenen heute ab 10 Uhr - Kassel"
     },
     "transKeys": {
       "event": "BBK-EVC-060"
