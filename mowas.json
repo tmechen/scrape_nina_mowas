@@ -42,34 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-LM-W189-20240226-000",
-    "version": 5,
-    "startDate": "2024-02-26T11:29:50+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gasaustritt - Niederzeuzheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-HE-LM-W189-20240227-000",
-    "version": 5,
-    "startDate": "2024-02-27T04:40:42+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Abschaltung Stromversorgung - Hadamar-Niederzeuzheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-NW-HA-SE087-20240302-149-000",
     "version": 5,
     "startDate": "2024-03-02T03:44:17+01:00",
@@ -82,6 +54,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-LM-W189-20240302-000",
+    "version": 5,
+    "startDate": "2024-03-02T08:43:51+01:00",
+    "expiresDate": "2024-03-02T14:43:51+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gasaustritt - Niederzeuzheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-LM-W189-20240302-001",
+    "version": 5,
+    "startDate": "2024-03-02T08:44:32+01:00",
+    "expiresDate": "2024-03-02T14:44:32+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Abschaltung Stromversorgung - Hadamar-Niederzeuzheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
     }
   }
 ]
