@@ -56,21 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20240302-106-001",
-    "version": 5,
-    "startDate": "2024-03-02T10:40:23+01:00",
-    "expiresDate": "2024-03-02T16:40:23+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm Sirenen heute ab 10 Uhr - Kassel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-TH-UH-W116-20240302-001",
     "version": 5,
     "startDate": "2024-03-02T11:07:16+01:00",
