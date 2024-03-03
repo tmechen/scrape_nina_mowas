@@ -42,21 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-HGW-W005-20240303-001",
-    "version": 5,
-    "startDate": "2024-03-03T10:13:06+01:00",
-    "expiresDate": "2024-03-03T16:13:06+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: FEUERWEHREINSATZ - Heinrichsruh"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NI-NOM-W210-20240303-000",
     "version": 5,
     "startDate": "2024-03-03T11:42:45+01:00",
