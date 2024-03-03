@@ -54,5 +54,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-MV-HGW-W005-20240303-000",
+    "version": 5,
+    "startDate": "2024-03-03T06:24:00+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "FEUERWEHREINSATZ - Heinrichsruh"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
