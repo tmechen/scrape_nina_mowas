@@ -68,20 +68,5 @@
     "transKeys": {
       "event": "BBK-EVC-050"
     }
-  },
-  {
-    "id": "mow.DE-HE-KS-SE106-20240306-106-001",
-    "version": 5,
-    "startDate": "2024-03-06T11:19:23+01:00",
-    "expiresDate": "2024-03-06T17:19:23+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm zum Warntag am 06.03.2024 im Lahn-Dill-Kreis - Lahn-Dill-Kreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
   }
 ]
