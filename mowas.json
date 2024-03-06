@@ -54,20 +54,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-MV-SN-SE049-20240305-49-002",
-    "version": 5,
-    "startDate": "2024-03-05T21:14:37+01:00",
-    "expiresDate": "2024-03-06T03:14:37+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brand - Pampow"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
