@@ -70,14 +70,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20240306-28-000",
+    "id": "mow.DE-SH-EH-SE028-20240306-28-001",
     "version": 5,
-    "startDate": "2024-03-06T20:55:52+01:00",
+    "startDate": "2024-03-06T22:22:50+01:00",
+    "expiresDate": "2024-03-07T04:22:50+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Kiebitzreihe"
+      "de": "Entwarnung: Feuerwehreinsatz - Kiebitzreihe"
     },
     "transKeys": {
       "event": "BBK-EVC-027"
