@@ -68,5 +68,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-ST-SK-W070-20240307-000",
+    "version": 5,
+    "startDate": "2024-03-07T20:44:03+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand  - Leuna / Merseburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
