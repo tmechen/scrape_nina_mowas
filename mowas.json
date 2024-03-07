@@ -54,5 +54,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-NW-BN-SE030-20240307-30-001",
+    "version": 5,
+    "startDate": "2024-03-07T15:52:08+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Information zum Eintreten von Trümmerteilen in die Erdatmosphäre - Deutschland"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
