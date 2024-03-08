@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20240215-129-000",
-    "version": 5,
-    "startDate": "2024-02-15T18:37:12+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Das Kanalsystem der Gemeinde Hambühren ist weiterhin überlastet! - Gemeinde Hambühren, Landkreis Celle"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-OE-SE086-20240224-86-000",
     "version": 5,
     "startDate": "2024-02-24T14:05:34+01:00",
@@ -81,6 +67,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20240308-129-000",
+    "version": 5,
+    "startDate": "2024-03-08T11:45:39+01:00",
+    "expiresDate": "2024-03-08T17:45:39+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Das Kanalsystem der Gemeinde Hambühren ist weiterhin überlastet! - Gemeinde Hambühren, Landkreis Celle"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
