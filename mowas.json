@@ -56,14 +56,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-BN-SE030-20240308-30-003",
+    "id": "mow.DE-NW-BN-SE030-20240308-30-004",
     "version": 5,
-    "startDate": "2024-03-08T17:29:06+01:00",
+    "startDate": "2024-03-08T19:48:14+01:00",
+    "expiresDate": "2024-03-09T01:48:14+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Information zum Eintreten von Trümmerteilen in die Erdatmosphäre - Deutschland"
+      "de": "Entwarnung: Information zum Eintreten von Trümmerteilen in die Erdatmosphäre - Deutschland"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
