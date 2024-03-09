@@ -56,14 +56,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-WAF-SE045-20240309-45-000",
+    "id": "mow.DE-NW-WAF-SE045-20240309-45-001",
     "version": 5,
-    "startDate": "2024-03-09T11:23:32+01:00",
+    "startDate": "2024-03-09T16:34:09+01:00",
+    "expiresDate": "2024-03-09T22:34:09+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Telgte - Westbevern und Vadrup"
+      "de": "Entwarnung: Telgte - Westbevern und Vadrup"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
