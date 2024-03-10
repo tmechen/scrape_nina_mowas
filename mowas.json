@@ -54,5 +54,19 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20240310-67-000",
+    "version": 5,
+    "startDate": "2024-03-10T09:50:38+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung auf Grund eines Großbrandes im Bereich der Ringofenstraße  - Dortmund Aplerbeck"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
