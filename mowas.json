@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20240309-99-000",
-    "version": 5,
-    "startDate": "2024-03-09T08:15:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelentschärfung im Kieler Stadtgebiet - Kiel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NW-DO-SE067-20240310-67-000",
     "version": 5,
     "startDate": "2024-03-10T09:50:38+01:00",
@@ -67,6 +53,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20240310-99-000",
+    "version": 5,
+    "startDate": "2024-03-10T14:46:13+01:00",
+    "expiresDate": "2024-03-10T20:46:13+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelentschärfung im Kieler Stadtgebiet - Kiel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
