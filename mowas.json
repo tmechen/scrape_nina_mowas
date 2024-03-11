@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20240310-67-000",
+    "id": "mow.DE-NW-DO-SE067-20240311-67-000",
     "version": 5,
-    "startDate": "2024-03-10T09:50:38+01:00",
+    "startDate": "2024-03-11T01:04:41+01:00",
+    "expiresDate": "2024-03-11T07:04:41+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung auf Grund eines Großbrandes im Bereich der Ringofenstraße  - Dortmund Aplerbeck"
+      "de": "Entwarnung: Rauchentwicklung auf Grund eines Großbrandes im Bereich der Ringofenst - Dortmund Aplerbeck"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
