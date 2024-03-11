@@ -28,14 +28,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-ERB-W191-20240304-002",
+    "id": "mow.DE-HE-ERB-W191-20240311-000",
     "version": 5,
-    "startDate": "2024-03-04T17:28:31+01:00",
+    "startDate": "2024-03-11T15:12:27+01:00",
+    "expiresDate": "2024-03-11T21:12:27+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Trinkwasserverunreinigung  - Bad-König Zell"
+      "de": "Entwarnung: Trinkwasserverunreinigung  - Bad-König Zell"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
