@@ -43,31 +43,32 @@
     }
   },
   {
-    "id": "mow.DE-TH-NDH-W019-20240311-000",
+    "id": "mow.DE-BW-MOS-W031-20240311-002",
     "version": 5,
-    "startDate": "2024-03-11T16:51:33+01:00",
+    "startDate": "2024-03-11T18:01:51+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Bereich Schiedungen - Kompostieranlage"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-BW-MOS-W031-20240311-001",
-    "version": 5,
-    "startDate": "2024-03-11T16:58:54+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Rauchwolke durch Brandereigniss (Mosbach) - Mosbach"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-TH-NDH-W019-20240311-001",
+    "version": 5,
+    "startDate": "2024-03-11T18:11:17+01:00",
+    "expiresDate": "2024-03-12T00:11:17+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung - Bereich Schiedungen - Kompostieranlage"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
