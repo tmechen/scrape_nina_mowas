@@ -55,5 +55,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-SH-HL-SE103-20240311-103-000",
+    "version": 5,
+    "startDate": "2024-03-11T04:32:41+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor einer starken Rauchentwicklung - Lübeck, OT Kücknitz im Bereich Waldhusen / Rangenberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
