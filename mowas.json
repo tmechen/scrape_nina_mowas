@@ -26,20 +26,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-BB-EW-SE079-20240313-79-000",
-    "version": 5,
-    "startDate": "2024-03-13T16:56:14+01:00",
-    "expiresDate": "2024-03-13T22:56:14+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Entschärfung einer Weltkriegsbombe in Oranienburg - Stadt Oranienburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
   }
 ]
