@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-M-SE010-20240314-10-001",
-    "version": 5,
-    "startDate": "2024-03-14T11:30:08+01:00",
-    "expiresDate": "2024-03-14T17:30:08+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm - Es besteht keine Gefahr - Bayern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-BY-BA-W140-20240314-005",
     "version": 5,
     "startDate": "2024-03-14T11:45:35+01:00",
