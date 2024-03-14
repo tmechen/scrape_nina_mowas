@@ -26,5 +26,75 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-BY-SR-W159-20240314-000",
+    "version": 5,
+    "startDate": "2024-03-14T10:30:38+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Probealarm - Es besteht keine Gefahr - Landkreis Straubing-Bogen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-FFB-W143-20240314-000",
+    "version": 5,
+    "startDate": "2024-03-14T10:44:56+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Übung Übung Übung - Landkreis Starnberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-BW-HN-W045-20240314-000",
+    "version": 5,
+    "startDate": "2024-03-14T10:45:12+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kreisweiter Test der Warnsysteme - Landkreis Heilbronn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-LA-W144-20240314-000",
+    "version": 5,
+    "startDate": "2024-03-14T10:45:44+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "60 - Landesweiter Sirenenprobealarm - Landkreis Kelheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-BY-SW-W165-20240314-000",
+    "version": 5,
+    "startDate": "2024-03-14T10:46:26+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Probealarm - Landkreis Schweinfurt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
