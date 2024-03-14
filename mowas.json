@@ -57,48 +57,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-SW-W165-20240314-001",
-    "version": 5,
-    "startDate": "2024-03-14T10:53:55+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweiter Probealarm - Stadt Schweinfurt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-M-SE125-20240314-153-000",
-    "version": 5,
-    "startDate": "2024-03-14T10:57:15+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "ÜBUNG ÜBUNG ÜBUNG - Probewarnung - Testwarnung - Landeshauptstadt München"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-NW-D-SE020-20240314-20-000",
-    "version": 5,
-    "startDate": "2024-03-14T11:00:05+01:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweiter Warntag Nordrhein-Westfalen - Nordrhein-Westfalen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-BY-M-SE010-20240314-10-000",
     "version": 5,
     "startDate": "2024-03-14T11:00:06+01:00",
@@ -347,6 +305,51 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Landesweiter Warntag - Keine Gefahr, Entwarnung - Landkreis Tirschenreuth"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-M-SE125-20240314-153-001",
+    "version": 5,
+    "startDate": "2024-03-14T11:18:05+01:00",
+    "expiresDate": "2024-03-14T17:18:05+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: ÜBUNG ÜBUNG ÜBUNG - Probewarnung - Testwarnung - Landeshauptstadt München"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-SW-W165-20240314-003",
+    "version": 5,
+    "startDate": "2024-03-14T11:18:38+01:00",
+    "expiresDate": "2024-03-14T17:18:38+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landesweiter Probealarm - Stadt Schweinfurt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-NW-D-SE020-20240314-20-001",
+    "version": 5,
+    "startDate": "2024-03-14T11:20:06+01:00",
+    "expiresDate": "2024-03-14T17:20:06+01:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landesweiter Warntag Nordrhein-Westfalen - Nordrhein-Westfalen"
     },
     "transKeys": {
       "event": "BBK-EVC-050"
