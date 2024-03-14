@@ -28,51 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-BA-W140-20240314-005",
-    "version": 5,
-    "startDate": "2024-03-14T11:45:35+01:00",
-    "expiresDate": "2024-03-14T17:45:35+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bundesweiter Warntag Erprobung MOWAS vS/E durch die Stadt Bamberg  E X - Stadtgebiet Bamberg mit allen Ortsteilen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-BA-W140-20240314-007",
-    "version": 5,
-    "startDate": "2024-03-14T11:48:10+01:00",
-    "expiresDate": "2024-03-14T17:48:10+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bundesweiter Warntag Erprobung MOWAS vS/E durch die Stadt Bamberg  E X - Stadtgebiet Bamberg mit allen Ortsteilen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BW-HN-W045-20240314-001",
-    "version": 5,
-    "startDate": "2024-03-14T11:55:55+01:00",
-    "expiresDate": "2024-03-14T17:55:55+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kreisweiter Test der Warnsysteme - Landkreis Heilbronn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-NI-BS-W091-20240314-000",
     "version": 5,
     "startDate": "2024-03-14T17:01:59+01:00",
