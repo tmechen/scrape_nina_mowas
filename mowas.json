@@ -28,261 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-SR-W159-20240314-002",
-    "version": 5,
-    "startDate": "2024-03-14T10:53:20+01:00",
-    "expiresDate": "2024-03-14T16:53:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm - Es besteht keine Gefahr - Landkreis Straubing-Bogen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-IN-W139-20240314-001",
-    "version": 5,
-    "startDate": "2024-03-14T11:02:11+01:00",
-    "expiresDate": "2024-03-14T17:02:11+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarmierung der Stadt Ingolstadt im Rahmen der landesweiten Überp - Kreisfreie Stadt Ingolstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-LA-W144-20240314-001",
-    "version": 5,
-    "startDate": "2024-03-14T11:02:40+01:00",
-    "expiresDate": "2024-03-14T17:02:40+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 60 - Landesweiter Sirenenprobealarm - Landkreis Kelheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
-    "id": "mow.DE-BY-WUE-W164-20240314-001",
-    "version": 5,
-    "startDate": "2024-03-14T11:05:23+01:00",
-    "expiresDate": "2024-03-14T17:05:23+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: PROBEALARMIERUNG - Würzburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KE-W173-20240314-001",
-    "version": 5,
-    "startDate": "2024-03-14T11:05:32+01:00",
-    "expiresDate": "2024-03-14T17:05:32+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: ÜBUNG!!! ÜBUNG!!! ÜBUNG!!! - Kreisfreie Stadt Kempten (Allgäu)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240314-001",
-    "version": 5,
-    "startDate": "2024-03-14T11:06:13+01:00",
-    "expiresDate": "2024-03-14T17:06:13+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm - Es besteht keine Gefahr -  - Aichach - Friedberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KRU-W174-20240314-002",
-    "version": 5,
-    "startDate": "2024-03-14T11:06:57+01:00",
-    "expiresDate": "2024-03-14T17:06:57+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stadt Memmingen - PROBEALARM - Warnung der Bevölkerung - Memmingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-BA-W140-20240314-002",
-    "version": 5,
-    "startDate": "2024-03-14T11:08:38+01:00",
-    "expiresDate": "2024-03-14T17:08:38+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Landesweiter Probealarm - Erprobung MoWaS durch den Lkr. Forchheim - Landkreis Forchheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-SR-W159-20240314-003",
-    "version": 5,
-    "startDate": "2024-03-14T11:08:50+01:00",
-    "expiresDate": "2024-03-14T17:08:50+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Landesweit einheitlicher Probealarm \"Warnung der Bevölkerung\" - Landkreis Regen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-RO-W136-20240314-001",
-    "version": 5,
-    "startDate": "2024-03-14T11:09:08+01:00",
-    "expiresDate": "2024-03-14T17:09:08+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm zur Warnung der Bevölkerung - Stadt und Landkreis Rosenheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-FFB-W143-20240314-002",
-    "version": 5,
-    "startDate": "2024-03-14T11:09:26+01:00",
-    "expiresDate": "2024-03-14T17:09:26+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: ÜBUNG: PROBEALARM in Bayern – Keine Gefahr! / Mock Alarm in Bavaria: N - Landkreis Dachau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-SW-W165-20240314-002",
-    "version": 5,
-    "startDate": "2024-03-14T11:10:19+01:00",
-    "expiresDate": "2024-03-14T17:10:19+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm - Landkreis Schweinfurt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-CO-W141-20240314-002",
-    "version": 5,
-    "startDate": "2024-03-14T11:10:39+01:00",
-    "expiresDate": "2024-03-14T17:10:39+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: PROBEALARM für den Landkreis Kronach - Landkreis Kronach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-CO-W141-20240314-003",
-    "version": 5,
-    "startDate": "2024-03-14T11:11:21+01:00",
-    "expiresDate": "2024-03-14T17:11:21+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bayernweiter Warntag: Das ist ein Probealarm.  - Kreisfreie Stadt Coburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KRU-W174-20240314-003",
-    "version": 5,
-    "startDate": "2024-03-14T11:12:42+01:00",
-    "expiresDate": "2024-03-14T17:12:42+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenenprobealarm \"Warnung der Bevölkerung - Landkreis Günzburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-FFB-W143-20240314-003",
-    "version": 5,
-    "startDate": "2024-03-14T11:12:54+01:00",
-    "expiresDate": "2024-03-14T17:12:54+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Übung Übung Übung - Landkreis Starnberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
-    "id": "mow.DE-BY-WEN-W130-20240314-001",
-    "version": 5,
-    "startDate": "2024-03-14T11:14:16+01:00",
-    "expiresDate": "2024-03-14T17:14:16+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Landesweiter Warntag - Keine Gefahr, Entwarnung - Landkreis Tirschenreuth"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-BY-M-SE125-20240314-153-001",
     "version": 5,
     "startDate": "2024-03-14T11:18:05+01:00",
@@ -373,20 +118,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240314-002",
-    "version": 5,
-    "startDate": "2024-03-14T11:50:58+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ölspur im Stadtgebiet Augsburg  - Innenstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-075"
-    }
-  },
-  {
     "id": "mow.DE-BW-HN-W045-20240314-001",
     "version": 5,
     "startDate": "2024-03-14T11:55:55+01:00",
@@ -399,6 +130,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-NI-BS-W091-20240314-000",
+    "version": 5,
+    "startDate": "2024-03-14T17:01:59+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gasaustritt - 38329 Wittmar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240314-003",
+    "version": 5,
+    "startDate": "2024-03-14T17:02:27+01:00",
+    "expiresDate": "2024-03-14T23:02:27+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ölspur im Stadtgebiet Augsburg  - Innenstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-075"
     }
   }
 ]
