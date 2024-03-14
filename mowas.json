@@ -28,51 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-M-SE125-20240314-153-001",
-    "version": 5,
-    "startDate": "2024-03-14T11:18:05+01:00",
-    "expiresDate": "2024-03-14T17:18:05+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: ÜBUNG ÜBUNG ÜBUNG - Probewarnung - Testwarnung - Landeshauptstadt München"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-SW-W165-20240314-003",
-    "version": 5,
-    "startDate": "2024-03-14T11:18:38+01:00",
-    "expiresDate": "2024-03-14T17:18:38+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Landesweiter Probealarm - Stadt Schweinfurt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-NW-D-SE020-20240314-20-001",
-    "version": 5,
-    "startDate": "2024-03-14T11:20:06+01:00",
-    "expiresDate": "2024-03-14T17:20:06+01:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Landesweiter Warntag Nordrhein-Westfalen - Nordrhein-Westfalen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-BY-M-SE010-20240314-10-001",
     "version": 5,
     "startDate": "2024-03-14T11:30:08+01:00",
