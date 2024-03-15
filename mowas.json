@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20240315-36-000",
-    "version": 5,
-    "startDate": "2024-03-15T07:30:22+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung, Sichtbehinderung durch Rauchentwicklung - Luckau, OT Duben"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-UL-W127-20240315-000",
     "version": 5,
     "startDate": "2024-03-15T14:55:59+01:00",
@@ -53,6 +39,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BB-CB-SE036-20240315-36-001",
+    "version": 5,
+    "startDate": "2024-03-15T17:33:26+01:00",
+    "expiresDate": "2024-03-15T23:33:26+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung, Sichtbehinderung durch Rauchentwicklung - Luckau, OT Duben"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
