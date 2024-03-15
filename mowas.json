@@ -40,5 +40,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-UL-W127-20240315-000",
+    "version": 5,
+    "startDate": "2024-03-15T14:55:59+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Information der Stadtverwaltung Dietenheim - Dietenheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
