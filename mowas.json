@@ -26,20 +26,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-NI-BS-W091-20240314-001",
-    "version": 5,
-    "startDate": "2024-03-14T19:59:03+01:00",
-    "expiresDate": "2024-03-15T01:59:03+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gasaustritt - 38329 Wittmar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
   }
 ]
