@@ -28,18 +28,18 @@
     }
   },
   {
-    "id": "mow.DE-BW-UL-W127-20240316-000",
+    "id": "mow.DE-TH-HIG-W111-20240316-003",
     "version": 5,
-    "startDate": "2024-03-16T05:55:21+01:00",
-    "expiresDate": "2024-03-16T11:55:21+01:00",
+    "startDate": "2024-03-16T12:06:11+01:00",
+    "expiresDate": "2024-03-16T18:06:11+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Information der Stadtverwaltung Dietenheim - Dietenheim"
+      "de": "Entwarnung: Sirenen-Funktionsprobe - Stadt Heiligenstadt und VG Lindenberg/Eichsfeld"
     },
     "transKeys": {
-      "event": "BBK-EVC-078"
+      "event": "BBK-EVC-060"
     }
   }
 ]
