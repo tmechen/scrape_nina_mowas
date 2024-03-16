@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-HIG-W111-20240316-003",
-    "version": 5,
-    "startDate": "2024-03-16T12:06:11+01:00",
-    "expiresDate": "2024-03-16T18:06:11+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenen-Funktionsprobe - Stadt Heiligenstadt und VG Lindenberg/Eichsfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-NW-WAF-SE045-20240316-45-000",
     "version": 5,
     "startDate": "2024-03-16T15:16:15+01:00",
