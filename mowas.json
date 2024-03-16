@@ -28,14 +28,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-UL-W127-20240315-000",
+    "id": "mow.DE-BW-UL-W127-20240316-000",
     "version": 5,
-    "startDate": "2024-03-15T14:55:59+01:00",
+    "startDate": "2024-03-16T05:55:21+01:00",
+    "expiresDate": "2024-03-16T11:55:21+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Information der Stadtverwaltung Dietenheim - Dietenheim"
+      "de": "Entwarnung: Information der Stadtverwaltung Dietenheim - Dietenheim"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
