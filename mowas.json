@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20240317-99-000",
+    "id": "mow.DE-SH-KI-SE099-20240317-99-001",
     "version": 5,
-    "startDate": "2024-03-17T08:12:30+01:00",
+    "startDate": "2024-03-17T09:32:38+01:00",
+    "expiresDate": "2024-03-17T15:32:38+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Wiehlen"
+      "de": "Entwarnung: Feuerwehreinsatz - Wiehlen"
     },
     "transKeys": {
       "event": "BBK-EVC-047"
