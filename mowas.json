@@ -26,20 +26,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-HE-WI-W097-20240317-001",
-    "version": 5,
-    "startDate": "2024-03-17T15:48:24+01:00",
-    "expiresDate": "2024-03-17T21:48:24+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall in Wiesbaden - Wiesbaden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
   }
 ]
