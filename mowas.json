@@ -40,5 +40,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20240318-100-000",
+    "version": 5,
+    "startDate": "2024-03-18T20:54:06+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "massive Rauchbelästigung durch ein Schadenfeuer - Stadt Flensburg OT Tarup Struvelücke"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
