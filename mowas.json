@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20240318-28-000",
-    "version": 5,
-    "startDate": "2024-03-18T02:26:30+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Wilster"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-HIG-W111-20240318-001",
     "version": 5,
     "startDate": "2024-03-18T02:30:48+01:00",
@@ -51,6 +37,21 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Ausbreitung von Brandrauch - Ortsteile Deuna, Vollenborn und Gerterode"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20240318-28-001",
+    "version": 5,
+    "startDate": "2024-03-18T05:58:58+01:00",
+    "expiresDate": "2024-03-18T11:58:58+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Wilster"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
