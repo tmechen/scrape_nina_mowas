@@ -55,5 +55,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240319-84-000",
+    "version": 5,
+    "startDate": "2024-03-19T06:20:19+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahrstoffaustritt im Freien - Waldaschaff – Walburgstraße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-075"
+    }
   }
 ]
