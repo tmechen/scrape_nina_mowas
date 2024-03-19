@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20240319-57-000",
+    "id": "mow.DE-NW-SU-SE057-20240319-57-001",
     "version": 5,
-    "startDate": "2024-03-19T15:53:27+01:00",
+    "startDate": "2024-03-19T17:31:07+01:00",
+    "expiresDate": "2024-03-19T23:31:07+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Fliegerbombe (Evakuierung) - Eitorf-Alzenbach"
+      "de": "Entwarnung: Fliegerbombe (Evakuierung) - Eitorf-Alzenbach"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
