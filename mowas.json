@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240319-84-000",
+    "id": "mow.DE-BY-R-SE084-20240319-84-001",
     "version": 5,
-    "startDate": "2024-03-19T06:20:19+01:00",
+    "startDate": "2024-03-19T07:18:42+01:00",
+    "expiresDate": "2024-03-19T13:18:42+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gefahrstoffaustritt im Freien - Waldaschaff – Walburgstraße"
+      "de": "Entwarnung: Gefahrstoffaustritt im Freien - Waldaschaff – Walburgstraße"
     },
     "transKeys": {
       "event": "BBK-EVC-075"
