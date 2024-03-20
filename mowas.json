@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20240319-36-000",
-    "version": 5,
-    "startDate": "2024-03-19T17:52:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Eingeschränkte Trinwasserversorgung - Elsterwerda und Umgebung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-OE-SE086-20240320-86-000",
     "version": 5,
     "startDate": "2024-03-20T10:12:40+01:00",
@@ -83,6 +69,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BB-CB-SE036-20240320-36-000",
+    "version": 5,
+    "startDate": "2024-03-20T15:17:40+01:00",
+    "expiresDate": "2024-03-20T21:17:40+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Eingeschränkte Trinwasserversorgung - Elsterwerda und Umgebung"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
