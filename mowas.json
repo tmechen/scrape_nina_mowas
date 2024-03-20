@@ -55,5 +55,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-BY-KE-W173-20240320-000",
+    "version": 5,
+    "startDate": "2024-03-20T12:22:24+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Notruf (110 und 112) aus Festnetz - Gemeinde Wiggensbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
+    }
   }
 ]
