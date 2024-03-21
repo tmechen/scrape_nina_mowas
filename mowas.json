@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-NE-SE044-20240321-44-001",
-    "version": 5,
-    "startDate": "2024-03-21T07:05:14+01:00",
-    "expiresDate": "2024-03-21T13:05:14+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Neuss - Innenstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-NE-SE044-20240321-44-002",
     "version": 5,
     "startDate": "2024-03-21T07:22:04+01:00",
