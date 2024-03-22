@@ -58,14 +58,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20240322-90-000",
+    "id": "mow.DE-NW-AC-SE090-20240322-90-001",
     "version": 5,
-    "startDate": "2024-03-22T17:03:00+01:00",
+    "startDate": "2024-03-22T18:00:32+01:00",
+    "expiresDate": "2024-03-23T00:00:32+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brandrauch - Herzogenrath Kohlscheid; Aachen Horbach"
+      "de": "Entwarnung: Geruchsbelästigung durch Brandrauch - Herzogenrath Kohlscheid; Aachen Horbach"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
