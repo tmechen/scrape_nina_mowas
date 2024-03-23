@@ -56,5 +56,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-BY-BT-W082-20240323-001",
+    "version": 5,
+    "startDate": "2024-03-23T03:32:36+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchwolke nach LKW Brand auf der A9 Höhe der Talbrücke Trockau  - Trockau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
