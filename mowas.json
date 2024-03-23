@@ -40,5 +40,19 @@
     "transKeys": {
       "event": "BBK-EVC-075"
     }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20240323-89-000",
+    "version": 5,
+    "startDate": "2024-03-23T21:36:17+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahren Hinweis durch Großbrand in Rüthen - Kreis Soest"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
