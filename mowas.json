@@ -56,5 +56,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-HE-MR-W190-20240323-000",
+    "version": 5,
+    "startDate": "2024-03-23T08:00:17+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Information Landkreis Marburg-Biedenkopf - Landkreis Marburg-Biedenkopf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-075"
+    }
   }
 ]
