@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20240322-28-000",
-    "version": 5,
-    "startDate": "2024-03-22T18:59:46+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Oering"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-ERK-SE056-20240323-56-000",
     "version": 5,
     "startDate": "2024-03-23T01:19:29+01:00",
@@ -54,6 +40,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20240323-28-000",
+    "version": 5,
+    "startDate": "2024-03-23T02:12:17+01:00",
+    "expiresDate": "2024-03-23T08:12:17+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Oering"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
