@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-BT-W082-20240323-002",
-    "version": 5,
-    "startDate": "2024-03-23T05:23:48+01:00",
-    "expiresDate": "2024-03-23T11:23:48+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke nach LKW Brand auf der A9 Höhe der Talbrücke Trockau  - Trockau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-MR-W190-20240323-000",
     "version": 5,
     "startDate": "2024-03-23T08:00:17+01:00",
