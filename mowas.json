@@ -14,32 +14,18 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20240322-99-000",
+    "id": "mow.DE-SH-KI-SE099-20240324-99-000",
     "version": 5,
-    "startDate": "2024-03-22T10:47:54+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelentschärfung im Kieler Stadtgebiet - Kiel / Schwentinental Kreis Plön"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-HE-MR-W190-20240324-000",
-    "version": 5,
-    "startDate": "2024-03-24T09:37:51+01:00",
-    "expiresDate": "2024-03-24T15:37:51+01:00",
+    "startDate": "2024-03-24T16:09:53+01:00",
+    "expiresDate": "2024-03-24T22:09:53+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Information Landkreis Marburg-Biedenkopf - Landkreis Marburg-Biedenkopf"
+      "de": "Entwarnung: Kampfmittelentschärfung im Kieler Stadtgebiet - Kiel / Schwentinental Kreis Plön"
     },
     "transKeys": {
-      "event": "BBK-EVC-075"
+      "event": "BBK-EVC-079"
     }
   }
 ]
