@@ -55,5 +55,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20240324-67-002",
+    "version": 5,
+    "startDate": "2024-03-24T05:37:45+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Störung der Rufnummer des Krankentransportes 19222 - Dortmund"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
