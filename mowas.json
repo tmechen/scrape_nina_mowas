@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-W-SE061-20240325-61-001",
-    "version": 5,
-    "startDate": "2024-03-25T11:53:59+01:00",
-    "expiresDate": "2024-03-25T17:53:59+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandereignis Solingen Höhscheid - Solingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20240325-29-003",
     "version": 5,
     "startDate": "2024-03-25T16:12:41+01:00",
