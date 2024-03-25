@@ -41,5 +41,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20240325-29-002",
+    "version": 5,
+    "startDate": "2024-03-25T13:59:08+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand einer Tischlerei - Braunschweig"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
