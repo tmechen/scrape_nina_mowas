@@ -56,5 +56,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20240325-000",
+    "version": 5,
+    "startDate": "2024-03-25T17:34:05+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand in Neulußheim - Neulußheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
