@@ -85,5 +85,19 @@
     "transKeys": {
       "event": "BBK-EVC-005"
     }
+  },
+  {
+    "id": "mow.DE-TH-GT-W112-20240326-000",
+    "version": 5,
+    "startDate": "2024-03-26T20:35:43+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sprengung von Fundmunition - Friedrichroda"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
