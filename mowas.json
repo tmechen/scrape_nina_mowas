@@ -26,20 +26,5 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
-  },
-  {
-    "id": "mow.DE-TH-AP-W115-20240326-001",
-    "version": 5,
-    "startDate": "2024-03-26T05:59:51+01:00",
-    "expiresDate": "2024-03-26T11:59:51+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgasentwicklung durch Großbrand - Bereich Niedersynderstedt- Magdala"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
