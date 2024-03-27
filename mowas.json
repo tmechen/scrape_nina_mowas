@@ -14,35 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-RE-SE078-20240327-78-000",
-    "version": 5,
-    "startDate": "2024-03-27T12:29:03+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "3.1 Warnung Rauchgase  - Castrop -Rauxel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BW-KN-W131-20240327-001",
-    "version": 5,
-    "startDate": "2024-03-27T15:59:54+01:00",
-    "expiresDate": "2024-03-27T21:59:54+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandereignis Hilzingen Twielfeld - Hilzingen Twielfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20240327-28-001",
     "version": 5,
     "startDate": "2024-03-27T19:25:12+01:00",
@@ -55,6 +26,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-RE-SE078-20240327-78-001",
+    "version": 5,
+    "startDate": "2024-03-27T22:07:38+01:00",
+    "expiresDate": "2024-03-28T04:07:38+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: 3.1 Warnung Rauchgase  - Castrop -Rauxel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
