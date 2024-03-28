@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-WES-SE097-20240328-97-000",
+    "id": "mow.DE-NW-WES-SE097-20240328-97-001",
     "version": 5,
-    "startDate": "2024-03-28T19:22:41+01:00",
+    "startDate": "2024-03-28T20:17:42+01:00",
+    "expiresDate": "2024-03-29T02:17:42+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in [Ortsangabe] - Stadt Rheinberg"
+      "de": "Entwarnung: Rauchgase in [Ortsangabe] - Stadt Rheinberg"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
