@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20240329-29-000",
-    "version": 5,
-    "startDate": "2024-03-29T06:47:21+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung infolge eines Brandes in einer Industrieanlage - Harlingerode, Vienenburg, Immenrode, Oker, Bad Harzburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BB-BRB-SE081-20240329-81-001",
     "version": 5,
     "startDate": "2024-03-29T07:57:43+01:00",
@@ -112,6 +98,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20240329-29-001",
+    "version": 5,
+    "startDate": "2024-03-29T12:49:23+01:00",
+    "expiresDate": "2024-03-29T18:49:23+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung infolge eines Brandes in einer Industrieanlage - Harlingerode, Vienenburg, Immenrode, Oker, Bad Harzburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
