@@ -28,14 +28,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-F-SE119-20240329-128-000",
+    "id": "mow.DE-HE-F-SE119-20240329-128-001",
     "version": 5,
-    "startDate": "2024-03-29T22:39:40+01:00",
+    "startDate": "2024-03-30T00:34:55+01:00",
+    "expiresDate": "2024-03-30T06:34:55+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung nach Brandereignis - Gustav-Adolf-Straße Offenbach"
+      "de": "Entwarnung: Rauchentwicklung nach Brandereignis - Gustav-Adolf-Straße Offenbach"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
