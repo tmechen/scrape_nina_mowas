@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HX-SE092-20240329-92-001",
-    "version": 5,
-    "startDate": "2024-03-29T07:27:05+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Willebadessen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-ST-HZ-W050-20240329-000",
     "version": 5,
     "startDate": "2024-03-29T07:55:51+01:00",
@@ -95,6 +81,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HX-SE092-20240329-92-002",
+    "version": 5,
+    "startDate": "2024-03-29T10:50:14+01:00",
+    "expiresDate": "2024-03-29T16:50:14+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung - Willebadessen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
