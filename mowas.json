@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20240330-18-000",
-    "version": 5,
-    "startDate": "2024-03-30T09:41:10+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenenprobe März 2024 - Stadtkreis Freiburg und Landkreis Breisgau-Hochschwarzwald"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-BW-KA-W138-20240330-000",
     "version": 5,
     "startDate": "2024-03-30T09:47:13+01:00",
@@ -50,6 +36,21 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Probealarm der Sirenen - Rheinstetten"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240330-18-001",
+    "version": 5,
+    "startDate": "2024-03-30T10:18:46+01:00",
+    "expiresDate": "2024-03-30T16:18:46+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenenprobe März 2024 - Stadtkreis Freiburg und Landkreis Breisgau-Hochschwarzwald"
     },
     "transKeys": {
       "event": "BBK-EVC-060"
