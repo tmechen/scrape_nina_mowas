@@ -28,14 +28,15 @@
     }
   },
   {
-    "id": "mow.DE-BB-FF-SE080-20240331-80-000",
+    "id": "mow.DE-BB-FF-SE080-20240331-80-001",
     "version": 5,
-    "startDate": "2024-03-31T06:12:41+02:00",
+    "startDate": "2024-03-31T10:28:33+02:00",
+    "expiresDate": "2024-03-31T16:28:33+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung Müncheberg /Hermersdorf - Müncheberg / Hermersdorf"
+      "de": "Entwarnung: Geruchsbelästigung Müncheberg /Hermersdorf - Müncheberg / Hermersdorf"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
