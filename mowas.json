@@ -12,5 +12,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-RP-WW-SE116-20240401-123-000",
+    "version": 5,
+    "startDate": "2024-04-01T19:26:23+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brand eines Industriegebäudes - Lahnstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
