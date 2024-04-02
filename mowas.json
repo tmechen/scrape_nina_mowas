@@ -14,36 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-WW-SE116-20240401-123-001",
-    "version": 5,
-    "startDate": "2024-04-01T21:14:46+02:00",
-    "expiresDate": "2024-04-02T03:14:46+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brand eines Industriegebäudes - Lahnstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-RP-KO-SE113-20240401-113-001",
-    "version": 5,
-    "startDate": "2024-04-01T21:20:11+02:00",
-    "expiresDate": "2024-04-02T03:20:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brand eines Industriegebäudes - Lahnstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-MR-W190-20240401-001",
     "version": 5,
     "startDate": "2024-04-01T21:36:26+02:00",
