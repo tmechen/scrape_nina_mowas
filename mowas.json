@@ -12,20 +12,5 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
-  },
-  {
-    "id": "mow.DE-HE-KS-SE106-20240402-106-000",
-    "version": 5,
-    "startDate": "2024-04-02T02:08:56+02:00",
-    "expiresDate": "2024-04-02T08:08:56+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand einer Lagerhalle - Lich"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
