@@ -14,21 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-MR-W190-20240401-001",
-    "version": 5,
-    "startDate": "2024-04-01T21:36:26+02:00",
-    "expiresDate": "2024-04-02T03:36:26+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gasaustritt nach Unfall  - Marburg - Emil-von Behring-Straße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20240402-106-000",
     "version": 5,
     "startDate": "2024-04-02T02:08:56+02:00",
