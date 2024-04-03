@@ -43,20 +43,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-UN-SE068-20240403-68-000",
-    "version": 5,
-    "startDate": "2024-04-03T16:42:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase - Gemeinde Bönen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20240403-31-002",
     "version": 5,
     "startDate": "2024-04-03T17:01:58+02:00",
@@ -99,6 +85,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-NW-UN-SE068-20240403-68-001",
+    "version": 5,
+    "startDate": "2024-04-03T18:22:26+02:00",
+    "expiresDate": "2024-04-04T00:22:26+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase - Gemeinde Bönen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
