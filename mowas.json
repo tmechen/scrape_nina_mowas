@@ -98,5 +98,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NW-UN-SE068-20240403-68-000",
+    "version": 5,
+    "startDate": "2024-04-03T16:42:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase - Gemeinde Bönen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
