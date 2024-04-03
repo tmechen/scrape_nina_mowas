@@ -14,14 +14,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-WI-W097-20240402-002",
+    "id": "mow.DE-HE-WI-W097-20240403-000",
     "version": 5,
-    "startDate": "2024-04-02T23:45:42+02:00",
+    "startDate": "2024-04-03T07:55:32+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
     "i18nTitle": {
-      "de": "Fund einer Weltkriegsbombe in Wiesbaden-Biebrich +++ Aktualisierung - Wiesbaden, Stadteile Biebrich/Dotzheim/Schierstein"
+      "de": "Fund einer Weltkriegsbombe in Wiesbaden-Biebrich +++ 2. Aktualisierung - Wiesbaden, Stadteile Biebrich/Dotzheim/Schierstein"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
