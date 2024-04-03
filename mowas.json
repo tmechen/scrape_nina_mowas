@@ -14,21 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-WI-W097-20240403-001",
-    "version": 5,
-    "startDate": "2024-04-03T14:33:03+02:00",
-    "expiresDate": "2024-04-03T20:33:03+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Fund einer Weltkriegsbombe in Wiesbaden-Biebrich  - Wiesbaden, Stadteile Biebrich/Dotzheim/Schierstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BR-B-SE016-20240403-16-000",
     "version": 5,
     "startDate": "2024-04-03T15:42:27+02:00",
