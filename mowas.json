@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-WI-W097-20240403-000",
-    "version": 5,
-    "startDate": "2024-04-03T07:55:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Fund einer Weltkriegsbombe in Wiesbaden-Biebrich +++ 2. Aktualisierung - Wiesbaden, Stadteile Biebrich/Dotzheim/Schierstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-HE-DA-W184-20240403-002",
     "version": 5,
     "startDate": "2024-04-03T10:09:33+02:00",
@@ -97,6 +83,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-HE-WI-W097-20240403-001",
+    "version": 5,
+    "startDate": "2024-04-03T14:33:03+02:00",
+    "expiresDate": "2024-04-03T20:33:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Fund einer Weltkriegsbombe in Wiesbaden-Biebrich  - Wiesbaden, Stadteile Biebrich/Dotzheim/Schierstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
