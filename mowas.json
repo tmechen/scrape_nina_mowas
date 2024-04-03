@@ -28,36 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HAM-SE085-20240403-85-002",
-    "version": 5,
-    "startDate": "2024-04-03T17:49:08+02:00",
-    "expiresDate": "2024-04-03T23:49:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in der Stadt Hamm - HAMM - Berge"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
-    "id": "mow.DE-NW-ST-SE032-20240403-165-000",
-    "version": 5,
-    "startDate": "2024-04-03T17:51:10+02:00",
-    "expiresDate": "2024-04-03T23:51:10+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in der Stadt Hamm - HAMM - Berge"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NW-UN-SE068-20240403-68-001",
     "version": 5,
     "startDate": "2024-04-03T18:22:26+02:00",
