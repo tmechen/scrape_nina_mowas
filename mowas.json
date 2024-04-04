@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20240404-33-001",
-    "version": 5,
-    "startDate": "2024-04-04T18:03:36+02:00",
-    "expiresDate": "2024-04-05T00:03:36+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Hamburg-Poppenbüttel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-MR-W190-20240404-002",
     "version": 5,
     "startDate": "2024-04-04T21:18:24+02:00",
