@@ -58,20 +58,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20240404-33-000",
-    "version": 5,
-    "startDate": "2024-04-04T15:49:10+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Hamburg-Poppenbüttel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-AM-W129-20240404-000",
     "version": 5,
     "startDate": "2024-04-04T16:47:18+02:00",
@@ -99,6 +85,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240404-84-001",
+    "version": 5,
+    "startDate": "2024-04-04T17:49:33+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abkochanordnung! - Altenbuch,Breitenbrunn,Dorfprozelten,Faulbach,Neuenbuch und Stadtprozelten"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20240404-33-001",
+    "version": 5,
+    "startDate": "2024-04-04T18:03:36+02:00",
+    "expiresDate": "2024-04-05T00:03:36+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Hamburg-Poppenbüttel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
