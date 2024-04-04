@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-MR-W190-20240404-000",
-    "version": 5,
-    "startDate": "2024-04-04T10:33:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bruch Wasserleitung - Bad Endbach Günterod/Günterod-Siedlung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BR-B-SE016-20240404-16-000",
     "version": 5,
     "startDate": "2024-04-04T15:17:11+02:00",
@@ -99,6 +85,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-MR-W190-20240404-001",
+    "version": 5,
+    "startDate": "2024-04-04T20:27:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Wasserrohrbruch Günterod - Bad Endbach Günterod/Günterod-Siedlung"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
