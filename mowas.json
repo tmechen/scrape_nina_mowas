@@ -71,20 +71,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-WN-W053-20240405-000",
-    "version": 5,
-    "startDate": "2024-04-05T16:46:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchwolke durch Brand - Gemeinde Urbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20240405-84-002",
     "version": 5,
     "startDate": "2024-04-05T18:04:44+02:00",
@@ -97,6 +83,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-WN-W053-20240405-001",
+    "version": 5,
+    "startDate": "2024-04-05T19:03:08+02:00",
+    "expiresDate": "2024-04-06T01:03:08+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchwolke durch Brand - Gemeinde Urbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
