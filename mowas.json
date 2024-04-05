@@ -56,21 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240405-84-002",
-    "version": 5,
-    "startDate": "2024-04-05T18:04:44+02:00",
-    "expiresDate": "2024-04-06T00:04:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz Brand - Stadt Kaufbeuren, Ortsteil Neugablonz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-WN-W053-20240405-001",
     "version": 5,
     "startDate": "2024-04-05T19:03:08+02:00",
