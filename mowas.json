@@ -99,5 +99,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-LIP-SE041-20240405-41-000",
+    "version": 5,
+    "startDate": "2024-04-05T19:28:23+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand im Stadtgebiet Lemgo - Lemgo"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
