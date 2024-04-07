@@ -101,14 +101,15 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20240407-35-000",
+    "id": "mow.DE-SL-SB-SE035-20240407-35-001",
     "version": 5,
-    "startDate": "2024-04-07T05:08:49+02:00",
+    "startDate": "2024-04-07T06:27:04+02:00",
+    "expiresDate": "2024-04-07T12:27:04+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gefahr durch Rauch - Ottweiler Innenstadt"
+      "de": "Entwarnung: Gefahr durch Rauch - Ottweiler Innenstadt"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
