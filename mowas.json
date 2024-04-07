@@ -56,14 +56,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20240407-106-000",
+    "id": "mow.DE-HE-KS-SE106-20240407-106-001",
     "version": 5,
-    "startDate": "2024-04-07T22:52:39+02:00",
+    "startDate": "2024-04-08T00:14:29+02:00",
+    "expiresDate": "2024-04-08T06:14:29+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand mit Rauchwolke - Niestetal-Sandershausen"
+      "de": "Entwarnung: Brand mit Rauchwolke - Niestetal-Sandershausen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
