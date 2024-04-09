@@ -56,5 +56,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NW-GE-SE064-20240409-64-000",
+    "version": 5,
+    "startDate": "2024-04-09T20:18:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Gelsenkirchen-Ückendorf - Gelsenkirchen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
