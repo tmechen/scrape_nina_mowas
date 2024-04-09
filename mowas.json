@@ -72,14 +72,15 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20240409-122-000",
+    "id": "mow.DE-SN-HY-SE048-20240409-122-001",
     "version": 5,
-    "startDate": "2024-04-09T20:31:29+02:00",
+    "startDate": "2024-04-09T22:36:41+02:00",
+    "expiresDate": "2024-04-10T04:36:41+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand - Radeberg"
+      "de": "Entwarnung: Großbrand - Radeberg"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
