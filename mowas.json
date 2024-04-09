@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240405-84-000",
-    "version": 5,
-    "startDate": "2024-04-05T10:01:21+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Abkochanordnung! - Altenbuch,Breitenbrunn,Dorfprozelten,Faulbach,Neuenbuch und Stadtprozelten"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-RO-W136-20240405-001",
     "version": 5,
     "startDate": "2024-04-05T11:00:42+02:00",
@@ -54,6 +40,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240409-84-000",
+    "version": 5,
+    "startDate": "2024-04-09T20:04:40+02:00",
+    "expiresDate": "2024-04-10T02:04:40+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Abkochanordnung! - Altenbuch,Breitenbrunn,Dorfprozelten,Faulbach,Neuenbuch und Stadtprozelten"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
