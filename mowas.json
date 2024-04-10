@@ -27,5 +27,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-SN-C-W092-20240410-000",
+    "version": 5,
+    "startDate": "2024-04-10T08:32:58+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung - Oelsnitz / Erzgebirge"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
