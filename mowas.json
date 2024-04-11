@@ -14,15 +14,43 @@
     }
   },
   {
-    "id": "mow.DE-NI-VEC-W078-20240410-001",
+    "id": "mow.DE-NW-OB-SE055-20240410-55-000",
     "version": 5,
-    "startDate": "2024-04-10T20:07:46+02:00",
-    "expiresDate": "2024-04-11T02:07:46+02:00",
+    "startDate": "2024-04-11T01:47:44+02:00",
     "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand mit starker Rauchentwicklung in Oberhausen - Alstaden Ost - Oberhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-LIP-SE041-20240411-41-001",
+    "version": 5,
+    "startDate": "2024-04-11T02:39:04+02:00",
+    "expiresDate": "2024-04-11T08:39:04+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Brand in Wohnsiedlung - Dinklage"
+      "de": "Entwarnung: Vorsorgliche Informationen - Stadtgebiet Bad Salzuflen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-LIP-SE041-20240411-41-002",
+    "version": 5,
+    "startDate": "2024-04-11T02:42:48+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung - Bad Salzuflen"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
