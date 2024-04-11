@@ -55,5 +55,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20240411-000",
+    "version": 5,
+    "startDate": "2024-04-11T04:59:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchbelästigung durch Großbrand in Birkenau - Weinheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
