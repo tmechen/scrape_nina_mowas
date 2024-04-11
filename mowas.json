@@ -71,5 +71,33 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-ST-SLK-W069-20240411-000",
+    "version": 5,
+    "startDate": "2024-04-11T07:22:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brand einer Lagerhalle - Bernburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-UL-W127-20240411-000",
+    "version": 5,
+    "startDate": "2024-04-11T07:24:16+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahreninformation der Feuerwehr wegen eines Brandes in Dietenheim-Regglisweiler - Dietenheim-Regglisweiler"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
