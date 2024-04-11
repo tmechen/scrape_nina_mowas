@@ -29,20 +29,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-LIP-SE041-20240411-41-002",
-    "version": 5,
-    "startDate": "2024-04-11T02:42:48+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung - Bad Salzuflen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-HD-W086-20240411-000",
     "version": 5,
     "startDate": "2024-04-11T04:59:00+02:00",
@@ -69,6 +55,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-LIP-SE041-20240411-41-003",
+    "version": 5,
+    "startDate": "2024-04-11T06:33:34+02:00",
+    "expiresDate": "2024-04-11T12:33:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung - Bad Salzuflen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
