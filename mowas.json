@@ -26,5 +26,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-NW-WAF-SE045-20240412-45-000",
+    "version": 5,
+    "startDate": "2024-04-12T17:39:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung in Drensteinfurt - Drensteinfurt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
