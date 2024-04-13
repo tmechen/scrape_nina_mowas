@@ -55,5 +55,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240413-50-000",
+    "version": 5,
+    "startDate": "2024-04-13T17:16:46+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Gemeindegebiet Waldenbuch"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
