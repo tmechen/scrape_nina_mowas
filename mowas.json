@@ -40,5 +40,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20240413-4-000",
+    "version": 5,
+    "startDate": "2024-04-13T16:34:10+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brandgeschehen im Bereich Trier Nord - Stadt Trier"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
