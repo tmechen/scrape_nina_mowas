@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20240413-4-000",
-    "version": 5,
-    "startDate": "2024-04-13T16:34:10+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brandgeschehen im Bereich Trier Nord - Stadt Trier"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20240413-84-001",
     "version": 5,
     "startDate": "2024-04-13T17:03:34+02:00",
@@ -68,6 +54,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20240413-4-001",
+    "version": 5,
+    "startDate": "2024-04-13T17:36:15+02:00",
+    "expiresDate": "2024-04-13T23:36:15+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandgeschehen im Bereich Trier Nord - Stadt Trier"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
