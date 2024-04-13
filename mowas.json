@@ -14,21 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240413-84-001",
-    "version": 5,
-    "startDate": "2024-04-13T17:03:34+02:00",
-    "expiresDate": "2024-04-13T23:03:34+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung - Stadtgebiet Auerbach in der Oberpfalz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-SE004-20240413-4-001",
     "version": 5,
     "startDate": "2024-04-13T17:36:15+02:00",
