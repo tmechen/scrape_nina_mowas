@@ -74,14 +74,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20240413-000",
+    "id": "mow.DE-BY-KRU-W174-20240413-001",
     "version": 5,
-    "startDate": "2024-04-13T19:54:33+02:00",
+    "startDate": "2024-04-13T20:51:47+02:00",
+    "expiresDate": "2024-04-14T02:51:47+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Massive Rauchentwicklung durch Gebäudebrand im Stadtkern - Ortsgebiet Babenhausen"
+      "de": "Entwarnung: Massive Rauchentwicklung durch Gebäudebrand im Stadtkern - Ortsgebiet Babenhausen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
