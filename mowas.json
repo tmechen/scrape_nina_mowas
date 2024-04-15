@@ -1,17 +1,1 @@
-[
-  {
-    "id": "mow.DE-NI-STD-SE029-20240415-29-001",
-    "version": 5,
-    "startDate": "2024-04-15T18:13:02+02:00",
-    "expiresDate": "2024-04-16T00:13:02+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: der Meldung -  Rauchentwicklung aufgrund eines Großbrandes - Stade - Hahle"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  }
-]
+[]
