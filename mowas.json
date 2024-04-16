@@ -1,19 +1,5 @@
 [
   {
-    "id": "mow.DE-MV-SN-SE049-20240416-49-000",
-    "version": 5,
-    "startDate": "2024-04-16T16:46:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung Neustadt-Glewe  - Neustadt-Glewe"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-PF-W024-20240416-000",
     "version": 5,
     "startDate": "2024-04-16T17:24:37+02:00",
@@ -69,6 +55,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE049-20240416-49-001",
+    "version": 5,
+    "startDate": "2024-04-16T19:50:06+02:00",
+    "expiresDate": "2024-04-17T01:50:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung Neustadt-Glewe  - Neustadt-Glewe"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20240416-143-001",
+    "version": 5,
+    "startDate": "2024-04-16T20:13:47+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Großbrand in Braunschweig mit Ausbreitung der Rauchwolke nach Sachsen-Anhalt - LK Harz, LK Börde, LK Mansfeld-Südharz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-047"
     }
   }
 ]
