@@ -14,14 +14,14 @@
     }
   },
   {
-    "id": "mow.DE-NI-BS-W091-20240416-000",
+    "id": "mow.DE-NI-BS-W091-20240416-001",
     "version": 5,
-    "startDate": "2024-04-16T12:23:48+02:00",
+    "startDate": "2024-04-16T13:13:31+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Brand im Gewerbegebiet Schöppenstedter Turm - Klein Schöppenstedt, Braunschweig Süd-Ost"
+      "de": "Brand im Gewerbegebiet Schöppenstedter Turm - Klein Schöppenstedt, Braunschweig Ost, Sickte, Cremlingen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
