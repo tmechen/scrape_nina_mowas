@@ -54,5 +54,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-PF-W024-20240416-000",
+    "version": 5,
+    "startDate": "2024-04-16T17:24:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung in Keltern-Weiler - Keltern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
