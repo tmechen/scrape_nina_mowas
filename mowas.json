@@ -1,19 +1,5 @@
 [
   {
-    "id": "mow.DE-BW-S-SE018-20240416-18-000",
-    "version": 5,
-    "startDate": "2024-04-16T11:46:39+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelentschärfung - Rastatt – Gewerbe- und Industriegebiet Ost"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20240416-129-000",
     "version": 5,
     "startDate": "2024-04-16T13:44:40+02:00",
@@ -39,6 +25,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-014"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240416-18-001",
+    "version": 5,
+    "startDate": "2024-04-16T15:59:42+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Kampfmittelentschärfung - Rastatt – Gewerbe- und Industriegebiet Ost"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
