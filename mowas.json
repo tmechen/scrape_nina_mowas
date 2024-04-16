@@ -1,19 +1,5 @@
 [
   {
-    "id": "mow.DE-NW-HER-SE083-20240416-133-000",
-    "version": 5,
-    "startDate": "2024-04-16T13:48:59+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Schadstofffreisetzung in Herne-Eickel - Herne"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-014"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20240416-18-001",
     "version": 5,
     "startDate": "2024-04-16T15:59:42+02:00",
@@ -67,6 +53,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HER-SE083-20240416-133-001",
+    "version": 5,
+    "startDate": "2024-04-16T19:10:03+02:00",
+    "expiresDate": "2024-04-17T01:10:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Schadstofffreisetzung in Herne-Eickel - Herne"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-014"
     }
   }
 ]
