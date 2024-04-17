@@ -59,14 +59,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20240417-000",
+    "id": "mow.DE-BY-KRU-W174-20240417-001",
     "version": 5,
-    "startDate": "2024-04-17T19:47:10+02:00",
+    "startDate": "2024-04-17T20:50:05+02:00",
+    "expiresDate": "2024-04-18T02:50:05+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung im gesamten Ortsgebiet, durch Gebäudebrand - Gesamter Ortsbereich Fellheim"
+      "de": "Entwarnung: Starke Rauchentwicklung im gesamten Ortsgebiet, durch Gebäudebrand - Gesamter Ortsbereich Fellheim"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
