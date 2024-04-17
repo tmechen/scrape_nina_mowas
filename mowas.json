@@ -14,21 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-TUE-W126-20240417-001",
-    "version": 5,
-    "startDate": "2024-04-17T14:21:16+02:00",
-    "expiresDate": "2024-04-17T20:21:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Großbrand - Ofterdingen und Mössingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-UH-W116-20240417-001",
     "version": 5,
     "startDate": "2024-04-17T17:06:16+02:00",
