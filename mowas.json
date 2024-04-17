@@ -1,19 +1,5 @@
 [
   {
-    "id": "mow.DE-NI-STD-SE029-20240416-29-000",
-    "version": 5,
-    "startDate": "2024-04-16T18:37:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Brand im Gewerbegebiet Schöppenstedter Turm - Klein Schöppenstedt, Braunschweig Süd-Ost, Sickte, Schöppenstedt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20240416-143-001",
     "version": 5,
     "startDate": "2024-04-16T20:13:47+02:00",
@@ -53,6 +39,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20240417-129-000",
+    "version": 5,
+    "startDate": "2024-04-17T06:32:35+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Brand im Gewerbegebiet Schöppenstedter Turm - Klein Schöppenstedt, Braunschweig Süd-Ost, Sickte, Schöppenstedt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
