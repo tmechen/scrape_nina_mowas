@@ -59,20 +59,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-FFB-W143-20240417-000",
-    "version": 5,
-    "startDate": "2024-04-17T16:11:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großes Brandereignis - Germering"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-UH-W116-20240417-001",
     "version": 5,
     "startDate": "2024-04-17T17:06:16+02:00",
@@ -85,6 +71,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-006"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240417-50-000",
+    "version": 5,
+    "startDate": "2024-04-17T18:03:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gebäudebrand mit starker Rauchentwicklung - Stadt Schwaigern, Ortsteil Massenbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BY-FFB-W143-20240417-001",
+    "version": 5,
+    "startDate": "2024-04-17T18:03:24+02:00",
+    "expiresDate": "2024-04-18T00:03:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großes Brandereignis - Germering"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
