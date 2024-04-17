@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MI-SE073-20240417-73-000",
-    "version": 5,
-    "startDate": "2024-04-17T05:16:47+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in Porta Westfalica, Ortsteil Möllbergen - Porta Westfalica, OT Möllbergen und angrenzend"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20240417-129-000",
     "version": 5,
     "startDate": "2024-04-17T06:32:35+02:00",
@@ -67,6 +53,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MI-SE073-20240417-73-001",
+    "version": 5,
+    "startDate": "2024-04-17T08:34:11+02:00",
+    "expiresDate": "2024-04-17T14:34:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung in Porta Westfalica, Ortsteil Möllbergen - Porta Westfalica, OT Möllbergen und angrenzend"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
