@@ -1,34 +1,5 @@
 [
   {
-    "id": "mow.DE-NI-STD-SE029-20240418-29-000",
-    "version": 5,
-    "startDate": "2024-04-18T14:23:02+02:00",
-    "expiresDate": "2024-04-18T20:23:02+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgasausbreitung in Grußendorf - Samtgemeinde Sassenburg - Ortsteil Grußendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NW-MG-SE053-20240418-53-000",
-    "version": 5,
-    "startDate": "2024-04-18T14:52:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Mönchengladbach - Lürrip, Hardterbroich-Pesch"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20240418-99-003",
     "version": 5,
     "startDate": "2024-04-18T15:10:45+02:00",
@@ -59,34 +30,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-WES-SE097-20240418-97-000",
-    "version": 5,
-    "startDate": "2024-04-18T17:17:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Rheinberg - Rheinberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
-    "id": "mow.DE-NW-WES-SE097-20240418-97-001",
-    "version": 5,
-    "startDate": "2024-04-18T17:27:56+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Rheinberg - Rheinberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NW-DU-SE038-20240418-38-002",
     "version": 5,
     "startDate": "2024-04-18T18:55:09+02:00",
@@ -99,6 +42,51 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-WES-SE097-20240418-97-002",
+    "version": 5,
+    "startDate": "2024-04-18T20:35:10+02:00",
+    "expiresDate": "2024-04-19T02:35:10+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Rheinberg - Rheinberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-NW-WES-SE097-20240418-97-003",
+    "version": 5,
+    "startDate": "2024-04-18T20:35:18+02:00",
+    "expiresDate": "2024-04-19T02:35:18+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Rheinberg - Rheinberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MG-SE053-20240418-53-001",
+    "version": 5,
+    "startDate": "2024-04-18T20:40:27+02:00",
+    "expiresDate": "2024-04-19T02:40:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Mönchengladbach - Lürrip, Hardterbroich-Pesch"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
