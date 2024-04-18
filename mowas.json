@@ -1,20 +1,5 @@
 [
   {
-    "id": "mow.DE-NW-DU-SE038-20240418-38-002",
-    "version": 5,
-    "startDate": "2024-04-18T18:55:09+02:00",
-    "expiresDate": "2024-04-19T00:55:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Anscheinsgefahr - Rauchwolke und Geruchsbelästigung - Duisburg-[Stadtteil]"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-WES-SE097-20240418-97-002",
     "version": 5,
     "startDate": "2024-04-18T20:35:10+02:00",
