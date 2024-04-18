@@ -1,13 +1,14 @@
 [
   {
-    "id": "mow.DE-BW-PF-W024-20240416-001",
+    "id": "mow.DE-BW-PF-W024-20240418-000",
     "version": 5,
-    "startDate": "2024-04-17T01:45:54+02:00",
+    "startDate": "2024-04-18T08:01:58+02:00",
+    "expiresDate": "2024-04-18T14:01:58+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung in Keltern-Weiler - Keltern und PF/Enzkreis"
+      "de": "Entwarnung: Starke Rauchentwicklung in Keltern-Weiler - Keltern und PF/Enzkreis"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
