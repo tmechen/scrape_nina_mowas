@@ -1,20 +1,5 @@
 [
   {
-    "id": "mow.DE-SN-DD-W094-20240418-001",
-    "version": 5,
-    "startDate": "2024-04-18T15:46:06+02:00",
-    "expiresDate": "2024-04-18T21:46:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase nach Brandereignis in Medessen - südöstlich von Medessen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-DU-SE038-20240418-38-002",
     "version": 5,
     "startDate": "2024-04-18T18:55:09+02:00",
