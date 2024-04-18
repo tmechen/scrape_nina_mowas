@@ -1,19 +1,5 @@
 [
   {
-    "id": "mow.DE-SH-KI-SE099-20240418-99-002",
-    "version": 5,
-    "startDate": "2024-04-18T10:03:52+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Gefahreninformation Feuerwehreinsatz - Bredenbek"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SN-DD-W094-20240418-000",
     "version": 5,
     "startDate": "2024-04-18T13:04:33+02:00",
@@ -69,6 +55,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20240418-99-003",
+    "version": 5,
+    "startDate": "2024-04-18T15:10:45+02:00",
+    "expiresDate": "2024-04-18T21:10:45+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Bredenbek"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DU-SE038-20240418-38-001",
+    "version": 5,
+    "startDate": "2024-04-18T15:13:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Anscheinsgefahr - Rauchwolke und Geruchsbelästigung - Duisburg-[Stadtteil]"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
