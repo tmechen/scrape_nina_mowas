@@ -1,20 +1,5 @@
 [
   {
-    "id": "mow.DE-NW-AC-SE090-20240418-90-001",
-    "version": 5,
-    "startDate": "2024-04-18T14:01:13+02:00",
-    "expiresDate": "2024-04-18T20:01:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall Internetanbindung / Email-Erreichbarkeit - StädteRegion Aachen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-004"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20240418-29-000",
     "version": 5,
     "startDate": "2024-04-18T14:23:02+02:00",
