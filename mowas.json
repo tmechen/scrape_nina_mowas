@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "mow.DE-BY-ED-W186-20240419-000",
+    "version": 5,
+    "startDate": "2024-04-19T14:46:01+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "giftige Rauchwolke durch Großbrand - Mintraching, Hallbergmoos"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  }
+]
