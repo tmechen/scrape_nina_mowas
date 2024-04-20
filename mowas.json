@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "mow.DE-NW-HX-SE092-20240420-92-000",
+    "version": 5,
+    "startDate": "2024-04-20T08:14:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bekanntmachung zur Durchführung einer Katastrophenschutzübung - Stadtgebiet Willebadessen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  }
+]
