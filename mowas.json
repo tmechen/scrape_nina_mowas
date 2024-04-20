@@ -1,20 +1,5 @@
 [
   {
-    "id": "mow.DE-NW-HX-SE092-20240420-92-001",
-    "version": 5,
-    "startDate": "2024-04-20T17:32:33+02:00",
-    "expiresDate": "2024-04-20T23:32:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bekanntmachung zur Durchführung einer Katastrophenschutzübung - Stadtgebiet Willebadessen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-W262-20240420-001",
     "version": 5,
     "startDate": "2024-04-20T22:04:34+02:00",
