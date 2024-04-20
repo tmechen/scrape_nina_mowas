@@ -42,5 +42,19 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-BW-PF-W024-20240420-000",
+    "version": 5,
+    "startDate": "2024-04-20T15:30:17+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenenprobealarm - Pforzheim / Enzkreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
