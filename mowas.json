@@ -12,5 +12,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NW-COE-SE051-20240422-124-000",
+    "version": 5,
+    "startDate": "2024-04-22T09:58:45+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vorsorgliche Warnmeldung - Stadt Billerbeck"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
