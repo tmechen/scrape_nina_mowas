@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "mow.DE-BW-HN-W045-20240423-000",
+    "version": 5,
+    "startDate": "2024-04-23T09:01:55+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Test der Sirenenanlagen in Ilsfeld und Lehrensteinsfeld - Ilsfeld mit Teilorten und Lehrensteinsfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  }
+]
