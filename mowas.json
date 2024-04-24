@@ -1,13 +1,14 @@
 [
   {
-    "id": "mow.DE-BW-LOE-W023-20240424-000",
+    "id": "mow.DE-BW-LOE-W023-20240424-001",
     "version": 5,
-    "startDate": "2024-04-24T15:48:14+02:00",
+    "startDate": "2024-04-24T18:40:02+02:00",
+    "expiresDate": "2024-04-25T00:40:02+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke durch Garagenbrand - Schopfheim"
+      "de": "Entwarnung: Rauchwolke durch Garagenbrand - Schopfheim"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
