@@ -1,20 +1,5 @@
 [
   {
-    "id": "mow.DE-BW-RA-W025-20240425-001",
-    "version": 5,
-    "startDate": "2024-04-25T08:27:15+02:00",
-    "expiresDate": "2024-04-25T14:27:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand mit starker Rauchentwicklung - Rheinmünster"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-GG-W222-20240425-003",
     "version": 5,
     "startDate": "2024-04-25T10:25:22+02:00",
@@ -74,12 +59,12 @@
     }
   },
   {
-    "id": "mow.DE-NI-OS-W100-20240425-000",
+    "id": "mow.DE-NI-OS-W100-20240425-001",
     "version": 5,
-    "startDate": "2024-04-25T14:14:49+02:00",
+    "startDate": "2024-04-25T14:25:06+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Gefahr durch entlaufenen Bullen  - Eggermühlen, Kettenkamp, Maiburg, Bippen"
     },
