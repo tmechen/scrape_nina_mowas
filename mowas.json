@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "mow.DE-SH-EH-SE028-20240425-28-000",
+    "version": 5,
+    "startDate": "2024-04-25T02:56:22+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Kisdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  }
+]
