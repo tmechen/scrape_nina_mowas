@@ -1,19 +1,5 @@
 [
   {
-    "id": "mow.DE-RP-MZ-SE114-20240425-125-000",
-    "version": 5,
-    "startDate": "2024-04-25T07:49:48+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Fund einer Weltkriegsbombe - Mainz - Bereich Europakreisel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20240425-001",
     "version": 5,
     "startDate": "2024-04-25T08:27:15+02:00",
@@ -71,6 +57,34 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20240425-125-001",
+    "version": 5,
+    "startDate": "2024-04-25T13:47:02+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Fund einer Weltkriegsbombe - Mainz - Bereich Europakreisel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NI-OS-W100-20240425-000",
+    "version": 5,
+    "startDate": "2024-04-25T14:14:49+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahr durch entlaufenen Bullen  - Eggermühlen, Kettenkamp, Maiburg, Bippen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
