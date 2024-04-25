@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20240425-28-001",
-    "version": 5,
-    "startDate": "2024-04-25T08:02:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Kisdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20240425-001",
     "version": 5,
     "startDate": "2024-04-25T08:27:15+02:00",
@@ -70,6 +56,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20240425-28-002",
+    "version": 5,
+    "startDate": "2024-04-25T12:17:02+02:00",
+    "expiresDate": "2024-04-25T18:17:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Kisdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
