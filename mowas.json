@@ -43,20 +43,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20240425-105-001",
-    "version": 5,
-    "startDate": "2024-04-25T15:59:48+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Allgemeiner Schadensfall - Reinbek Gewerbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-WUE-W164-20240425-000",
     "version": 5,
     "startDate": "2024-04-25T16:32:41+02:00",
@@ -68,6 +54,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20240425-105-002",
+    "version": 5,
+    "startDate": "2024-04-25T19:12:06+02:00",
+    "expiresDate": "2024-04-26T01:12:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Allgemeiner Schadensfall - Reinbek Gewerbegebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
