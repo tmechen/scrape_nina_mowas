@@ -41,5 +41,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-HE-GG-W222-20240425-000",
+    "version": 5,
+    "startDate": "2024-04-25T09:40:58+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kreisweite Sirenenprobe - Landkreis Groß-Gerau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
