@@ -1,20 +1,5 @@
 [
   {
-    "id": "mow.DE-HE-KS-SE106-20240425-106-001",
-    "version": 5,
-    "startDate": "2024-04-25T11:52:32+02:00",
-    "expiresDate": "2024-04-25T17:52:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kreisweite Sirenenprobe - Landkreis Groß-Gerau - Landkreis Groß-Gerau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20240425-28-002",
     "version": 5,
     "startDate": "2024-04-25T12:17:02+02:00",
