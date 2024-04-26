@@ -41,5 +41,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-BY-BT-W082-20240426-000",
+    "version": 5,
+    "startDate": "2024-04-26T15:35:16+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Giftige Rauchwolke im bereich Lanzenreuth - Lanzenreuth"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
