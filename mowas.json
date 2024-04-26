@@ -12,35 +12,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-BY-BT-W082-20240426-001",
-    "version": 5,
-    "startDate": "2024-04-26T16:39:20+02:00",
-    "expiresDate": "2024-04-26T22:39:20+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Giftige Rauchwolke im Bereich Lanzenreuth - Lanzenreuth"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-NI-WTM-W213-20240426-000",
-    "version": 5,
-    "startDate": "2024-04-26T17:00:27+02:00",
-    "expiresDate": "2024-04-26T23:00:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Entwarung. Die Warnung ist aufgehoben. - Rysum"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
   }
 ]
