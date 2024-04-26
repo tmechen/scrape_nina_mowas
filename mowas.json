@@ -1,19 +1,5 @@
 [
   {
-    "id": "mow.DE-RP-MZ-SE114-20240425-125-001",
-    "version": 5,
-    "startDate": "2024-04-25T13:47:02+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Fund einer Weltkriegsbombe - Mainz - Bereich Europakreisel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BY-WUE-W164-20240425-000",
     "version": 5,
     "startDate": "2024-04-25T16:32:41+02:00",
@@ -39,6 +25,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20240426-125-001",
+    "version": 5,
+    "startDate": "2024-04-26T13:36:59+02:00",
+    "expiresDate": "2024-04-26T19:36:59+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Entwarnung: Weltkriegsbombe entschärft - Mainz - Bereich Europakreisel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
