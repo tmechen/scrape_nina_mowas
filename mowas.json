@@ -40,20 +40,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-ST-SK-W070-20240425-001",
-    "version": 5,
-    "startDate": "2024-04-26T00:54:10+02:00",
-    "expiresDate": "2024-04-26T06:54:10+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: schwarze Rauchwolke aus einer Tiefgarage  - Merseburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
