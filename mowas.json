@@ -41,5 +41,33 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20240427-29-000",
+    "version": 5,
+    "startDate": "2024-04-27T14:03:15+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Personensuche - Stadt Bremervörde, Ortsteil Elm"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20240427-29-001",
+    "version": 5,
+    "startDate": "2024-04-27T14:21:53+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Personensuche - Stadt Bremervörde, OT Elm, Landkreis Stade, SG Oldendorf/Himmelpforten"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
