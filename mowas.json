@@ -26,5 +26,20 @@
     "transKeys": {
       "event": "BBK-EVC-059"
     }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20240427-001",
+    "version": 5,
+    "startDate": "2024-04-27T12:07:40+02:00",
+    "expiresDate": "2024-04-27T18:07:40+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenentest Oberursel - Oberursel & Stadtteile"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
