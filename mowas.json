@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-WTM-W213-20240427-001",
-    "version": 5,
-    "startDate": "2024-04-27T22:52:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Warnung Großbrand - Neermoor"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-RS-SE072-20240428-72-001",
     "version": 5,
     "startDate": "2024-04-28T04:29:32+02:00",
@@ -68,6 +54,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-WTM-W213-20240428-000",
+    "version": 5,
+    "startDate": "2024-04-28T06:01:01+02:00",
+    "expiresDate": "2024-04-28T12:01:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung Großbrand aufgehoben - Neermoor"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
