@@ -42,21 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HX-SE092-20240427-92-001",
-    "version": 5,
-    "startDate": "2024-04-27T20:35:04+02:00",
-    "expiresDate": "2024-04-28T02:35:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bekanntmachung einer Katastrophenschutzübung im Stadtgebiet Warburg - Stadt Warburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-059"
-    }
-  },
-  {
     "id": "mow.DE-NI-WTM-W213-20240427-001",
     "version": 5,
     "startDate": "2024-04-27T22:52:08+02:00",
