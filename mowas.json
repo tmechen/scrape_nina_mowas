@@ -1,27 +1,29 @@
 [
   {
-    "id": "mow.DE-NW-BN-SE060-20240429-60-002",
+    "id": "mow.DE-NW-BN-SE060-20240429-60-003",
     "version": 5,
-    "startDate": "2024-04-29T18:00:11+02:00",
+    "startDate": "2024-04-29T23:17:42+02:00",
+    "expiresDate": "2024-04-30T05:17:42+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund in BONN - Hardtberg"
+      "de": "Entwarnung: Kampfmittelfund in BONN - Hardtberg"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
     }
   },
   {
-    "id": "mow.DE-ST-HZ-W050-20240429-000",
+    "id": "mow.DE-ST-HZ-W050-20240429-001",
     "version": 5,
-    "startDate": "2024-04-29T21:22:29+02:00",
+    "startDate": "2024-04-29T23:21:31+02:00",
+    "expiresDate": "2024-04-30T05:21:31+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "starke Rauchentwicklung Ortslage - Derenburg/Harz"
+      "de": "Entwarnung: starke Rauchentwicklung Ortslage - Derenburg/Harz"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
