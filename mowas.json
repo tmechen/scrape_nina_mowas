@@ -12,35 +12,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029-20240428-29-000",
-    "version": 5,
-    "startDate": "2024-04-28T19:42:09+02:00",
-    "expiresDate": "2024-04-29T01:42:09+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Personensuche - Stadt Bremervörde, Ortsteil Elm"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029-20240428-29-001",
-    "version": 5,
-    "startDate": "2024-04-28T19:43:53+02:00",
-    "expiresDate": "2024-04-29T01:43:53+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Personensuche - Stadt Bremervörde, OT Elm, Landkreis Stade, SG Oldendorf/Himmelpforten"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
   }
 ]
