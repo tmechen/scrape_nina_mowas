@@ -1,11 +1,11 @@
 [
   {
-    "id": "mow.DE-NW-BN-SE060-20240429-60-001",
+    "id": "mow.DE-NW-BN-SE060-20240429-60-002",
     "version": 5,
-    "startDate": "2024-04-29T16:26:11+02:00",
+    "startDate": "2024-04-29T18:00:11+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Kampfmittelfund in BONN - Hardtberg"
     },
