@@ -57,14 +57,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-ME-SE071-20240430-71-000",
+    "id": "mow.DE-NW-ME-SE071-20240430-71-001",
     "version": 5,
-    "startDate": "2024-04-30T12:57:56+02:00",
+    "startDate": "2024-04-30T15:25:22+02:00",
+    "expiresDate": "2024-04-30T21:25:22+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung in der Stadt Erkrath - Stadt Erkrath"
+      "de": "Entwarnung: Geruchsbelästigung in der Stadt Erkrath - Stadt Erkrath"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
