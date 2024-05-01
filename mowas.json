@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HSK-SE096-20240501-96-001",
-    "version": 5,
-    "startDate": "2024-05-01T19:10:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall in Marsberg - Marsberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-NW-RE-SE078-20240501-78-001",
     "version": 5,
     "startDate": "2024-05-01T22:26:01+02:00",
@@ -54,6 +40,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HSK-SE096-20240501-96-002",
+    "version": 5,
+    "startDate": "2024-05-02T01:03:00+02:00",
+    "expiresDate": "2024-05-02T07:03:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall in Marsberg - Marsberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
