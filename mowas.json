@@ -14,21 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WM-W167-20240502-000",
-    "version": 5,
-    "startDate": "2024-05-02T11:07:05+02:00",
-    "expiresDate": "2024-05-02T17:07:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Waldbrandgefahr - Landkreis Garmisch-Partenkirchen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-N-W163-20240502-001",
     "version": 5,
     "startDate": "2024-05-02T12:41:52+02:00",
