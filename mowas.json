@@ -27,5 +27,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-EU-SE091-20240502-109-000",
+    "version": 5,
+    "startDate": "2024-05-02T18:14:26+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starkregen / Überflutung im Gemeindegebiet Dahlem - Gemeindegebiet Dahlem"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
+    }
   }
 ]
