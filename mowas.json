@@ -28,34 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20240502-000",
-    "version": 5,
-    "startDate": "2024-05-02T20:14:12+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Unwetterlage Hochtaunuskreis - Hochtaunuskreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-021"
-    }
-  },
-  {
-    "id": "mow.DE-HE-F-SE119-20240502-128-000",
-    "version": 5,
-    "startDate": "2024-05-02T20:17:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starkregen in kritischen Mengen - Frankfurt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-021"
-    }
-  },
-  {
     "id": "mow.DE-HE-HP-W196-20240502-000",
     "version": 5,
     "startDate": "2024-05-02T21:00:05+02:00",
@@ -153,6 +125,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-HE-F-SE119-20240502-128-001",
+    "version": 5,
+    "startDate": "2024-05-02T23:29:56+02:00",
+    "expiresDate": "2024-05-03T05:29:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starkregen in kritischen Mengen - Frankfurt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-021"
+    }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20240502-001",
+    "version": 5,
+    "startDate": "2024-05-02T23:42:30+02:00",
+    "expiresDate": "2024-05-03T05:42:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Unwetterlage Hochtaunuskreis - Hochtaunuskreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-021"
     }
   }
 ]
