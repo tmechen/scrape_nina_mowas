@@ -57,20 +57,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE113-20240502-113-000",
-    "version": 5,
-    "startDate": "2024-05-02T21:42:45+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Überflutungen infolge Starkregen - Landkreis Ahrweiler"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
     "id": "mow.DE-BW-HD-W086-20240502-001",
     "version": 5,
     "startDate": "2024-05-02T22:35:50+02:00",
@@ -97,20 +83,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-HE-KS-SE106-20240502-106-000",
-    "version": 5,
-    "startDate": "2024-05-02T23:21:37+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Wohnungsbrand - Breuberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
     }
   },
   {
@@ -156,6 +128,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KO-SE113-20240502-113-001",
+    "version": 5,
+    "startDate": "2024-05-03T00:50:07+02:00",
+    "expiresDate": "2024-05-03T06:50:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Überflutungen infolge Starkregen - Landkreis Ahrweiler"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20240502-106-001",
+    "version": 5,
+    "startDate": "2024-05-03T00:50:51+02:00",
+    "expiresDate": "2024-05-03T06:50:51+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Wohnungsbrand - Breuberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
