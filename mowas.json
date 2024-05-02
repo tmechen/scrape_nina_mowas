@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-W108-20240502-000",
-    "version": 5,
-    "startDate": "2024-05-02T20:01:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchausbreitung/ Geruchsbelästigung durch Brand im Bereich August Röbling Straße - Stadt Erfurt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20240502-000",
     "version": 5,
     "startDate": "2024-05-02T20:14:12+02:00",
@@ -95,6 +81,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-W108-20240502-001",
+    "version": 5,
+    "startDate": "2024-05-02T21:14:15+02:00",
+    "expiresDate": "2024-05-03T03:14:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchausbreitung/ Geruchsbelästigung durch Brand im Bereich August Röb - Stadt Erfurt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
