@@ -82,5 +82,19 @@
     "transKeys": {
       "event": "BBK-EVC-021"
     }
+  },
+  {
+    "id": "mow.DE-HE-HP-W196-20240502-000",
+    "version": 5,
+    "startDate": "2024-05-02T21:00:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser im Bereich der Stadt Neckarsteinach / Landkreis Bergstraße - Neckarsteinach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
