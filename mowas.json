@@ -97,5 +97,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-RP-KO-SE113-20240502-113-000",
+    "version": 5,
+    "startDate": "2024-05-02T21:42:45+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Überflutungen infolge Starkregen - Landkreis Ahrweiler"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
+    }
   }
 ]
