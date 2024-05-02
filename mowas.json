@@ -14,21 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-W163-20240502-001",
-    "version": 5,
-    "startDate": "2024-05-02T12:41:52+02:00",
-    "expiresDate": "2024-05-02T18:41:52+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Gebäudebrand im Stadtgebiet Altdorf - Stadtgebiet Altdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-EU-SE091-20240502-109-000",
     "version": 5,
     "startDate": "2024-05-02T18:14:26+02:00",
