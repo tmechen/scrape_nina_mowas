@@ -42,21 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20240502-001",
-    "version": 5,
-    "startDate": "2024-05-02T23:42:30+02:00",
-    "expiresDate": "2024-05-03T05:42:30+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Unwetterlage Hochtaunuskreis - Hochtaunuskreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-021"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20240502-105-001",
     "version": 5,
     "startDate": "2024-05-03T00:45:38+02:00",
