@@ -1,20 +1,5 @@
 [
   {
-    "id": "mow.DE-BW-RT-SE050-20240503-50-000",
-    "version": 5,
-    "startDate": "2024-05-03T10:49:45+02:00",
-    "expiresDate": "2024-05-03T16:49:45+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wasserverunreinigung - Gemeindegebiet Gärtringen Ortsteil Rohrau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BR-B-SE017-20240503-17-002",
     "version": 5,
     "startDate": "2024-05-03T12:56:50+02:00",
