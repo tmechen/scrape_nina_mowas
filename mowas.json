@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-W108-20240502-001",
-    "version": 5,
-    "startDate": "2024-05-02T21:14:15+02:00",
-    "expiresDate": "2024-05-03T03:14:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchausbreitung/ Geruchsbelästigung durch Brand im Bereich August Röb - Stadt Erfurt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-HD-W086-20240502-001",
     "version": 5,
     "startDate": "2024-05-02T22:35:50+02:00",
