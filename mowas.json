@@ -45,12 +45,26 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-SE017-20240503-17-001",
+    "id": "mow.DE-BR-B-SE017-20240503-17-002",
     "version": 5,
-    "startDate": "2024-05-03T12:46:04+02:00",
+    "startDate": "2024-05-03T12:56:50+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
     "type": "Update",
+    "i18nTitle": {
+      "de": "Giftige Rauchgase aufgrund eines Brandes in einem Störfallbetrieb - Berlin - Lichterfelde"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20240503-82-001",
+    "version": 5,
+    "startDate": "2024-05-03T13:05:22+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
     "i18nTitle": {
       "de": "Giftige Rauchgase aufgrund eines Brandes in einem Störfallbetrieb - Berlin - Lichterfelde"
     },
