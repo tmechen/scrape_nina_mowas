@@ -1,20 +1,5 @@
 [
   {
-    "id": "mow.DE-HE-HP-W196-20240503-000",
-    "version": 5,
-    "startDate": "2024-05-03T08:58:33+02:00",
-    "expiresDate": "2024-05-03T14:58:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser im Bereich der Stadt Neckarsteinach / Landkreis Bergstraße - Neckarsteinach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-SU-SE057-20240503-57-000",
     "version": 5,
     "startDate": "2024-05-03T10:31:57+02:00",
