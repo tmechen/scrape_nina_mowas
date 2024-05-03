@@ -26,5 +26,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-SN-DD-W094-20240503-000",
+    "version": 5,
+    "startDate": "2024-05-03T19:29:39+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchwolke durch Brand von Altholz in Borthen - Dohna"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
