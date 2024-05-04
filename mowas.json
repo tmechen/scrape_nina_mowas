@@ -1,17 +1,1 @@
-[
-  {
-    "id": "mow.DE-HE-F-SE119-20240504-128-003",
-    "version": 5,
-    "startDate": "2024-05-04T18:01:11+02:00",
-    "expiresDate": "2024-05-05T00:01:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase durch Brandereignis - Frankfurt-Griesheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  }
-]
+[]
