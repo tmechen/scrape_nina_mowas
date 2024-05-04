@@ -100,5 +100,19 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-TH-UH-W116-20240504-000",
+    "version": 5,
+    "startDate": "2024-05-04T10:43:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Funktionsprobe der Sirenen und Meldeempfänger im Unstrut-Hainich-Kreis - Unstrut-Hainich-Kreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
