@@ -1,20 +1,5 @@
 [
   {
-    "id": "mow.DE-BW-RA-W025-20240504-001",
-    "version": 5,
-    "startDate": "2024-05-04T12:04:42+02:00",
-    "expiresDate": "2024-05-04T18:04:42+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenen-Probealarm - Loffenau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20240504-143-001",
     "version": 5,
     "startDate": "2024-05-04T12:34:47+02:00",
@@ -60,14 +45,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-F-SE119-20240504-128-002",
+    "id": "mow.DE-HE-F-SE119-20240504-128-003",
     "version": 5,
-    "startDate": "2024-05-04T16:18:03+02:00",
+    "startDate": "2024-05-04T18:01:11+02:00",
+    "expiresDate": "2024-05-05T00:01:11+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase durch Brandereignis - Frankfurt-Griesheim"
+      "de": "Entwarnung: Rauchgase durch Brandereignis - Frankfurt-Griesheim"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
