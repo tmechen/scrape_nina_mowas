@@ -45,20 +45,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-F-SE119-20240504-128-000",
-    "version": 5,
-    "startDate": "2024-05-04T13:36:36+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase durch Brandereignis - Frankfurt-Griesheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BR-B-SE017-20240504-17-000",
     "version": 5,
     "startDate": "2024-05-04T14:24:22+02:00",
@@ -86,6 +72,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-HE-F-SE119-20240504-128-001",
+    "version": 5,
+    "startDate": "2024-05-04T15:54:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchgase durch Brandereignis - Frankfurt-Griesheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
