@@ -55,5 +55,33 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20240504-143-000",
+    "version": 5,
+    "startDate": "2024-05-04T02:24:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahr durch Brandrauch - Braunsbedra im Bereich Hafen sowie Ortsteil Neumark"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20240504-89-000",
+    "version": 5,
+    "startDate": "2024-05-04T02:58:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung aufgrund eines Brandereignisses - Stadt Werl"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
