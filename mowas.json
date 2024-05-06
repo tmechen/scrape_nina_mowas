@@ -14,21 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-GT-W112-20240506-001",
-    "version": 5,
-    "startDate": "2024-05-06T17:17:56+02:00",
-    "expiresDate": "2024-05-06T23:17:56+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gasaustritt im Bereich Müllersweg. - Ohrdruf - Müllersweg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-BY-PA-W160-20240506-001",
     "version": 5,
     "startDate": "2024-05-06T19:25:51+02:00",
