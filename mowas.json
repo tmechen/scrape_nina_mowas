@@ -41,5 +41,33 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BY-PA-W160-20240506-000",
+    "version": 5,
+    "startDate": "2024-05-06T15:58:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Im Bereich der Stadt Pocking kommt es zu einer starken Rauchentwicklung - Pocking"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NI-NOM-W210-20240506-000",
+    "version": 5,
+    "startDate": "2024-05-06T16:10:46+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall der Trinkwasserversorgung - Hollenstedt und Stöckheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
