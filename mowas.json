@@ -70,5 +70,19 @@
     "transKeys": {
       "event": "BBK-EVC-027"
     }
+  },
+  {
+    "id": "mow.DE-BW-TUE-W126-20240506-001",
+    "version": 5,
+    "startDate": "2024-05-06T18:33:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Großbrand - Ergenzingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
