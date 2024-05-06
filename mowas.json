@@ -44,20 +44,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-OE-SE086-20240506-86-000",
-    "version": 5,
-    "startDate": "2024-05-06T21:30:05+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser / Überflutung in der Gemeinde Wenden - Gemeinde Wenden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-TUE-W126-20240506-002",
     "version": 5,
     "startDate": "2024-05-06T21:39:46+02:00",
@@ -70,6 +56,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-OE-SE086-20240506-86-001",
+    "version": 5,
+    "startDate": "2024-05-07T01:13:04+02:00",
+    "expiresDate": "2024-05-07T07:13:04+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser / Überflutung in der Gemeinde Wenden - Gemeinde Wenden"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
