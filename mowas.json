@@ -29,20 +29,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-TUE-W126-20240506-001",
-    "version": 5,
-    "startDate": "2024-05-06T18:33:30+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Großbrand - Ergenzingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-PA-W160-20240506-001",
     "version": 5,
     "startDate": "2024-05-06T19:25:51+02:00",
@@ -70,6 +56,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-OE-SE086-20240506-86-000",
+    "version": 5,
+    "startDate": "2024-05-06T21:30:05+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser / Überflutung in der Gemeinde Wenden - Gemeinde Wenden"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BW-TUE-W126-20240506-002",
+    "version": 5,
+    "startDate": "2024-05-06T21:39:46+02:00",
+    "expiresDate": "2024-05-07T03:39:46+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Großbrand - Ergenzingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
