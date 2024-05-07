@@ -1,17 +1,1 @@
-[
-  {
-    "id": "mow.DE-BY-PA-W160-20240507-001",
-    "version": 5,
-    "startDate": "2024-05-07T15:57:31+02:00",
-    "expiresDate": "2024-05-07T21:57:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Im Bereich der Stadt Pocking kommt es zu einer starken Rauchentwicklun - Pocking"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  }
-]
+[]
