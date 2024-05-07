@@ -1,19 +1,5 @@
 [
   {
-    "id": "mow.DE-BB-FF-SE080-20240506-80-000",
-    "version": 5,
-    "startDate": "2024-05-06T13:43:40+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung nach Brand eines Einfamilienhauses - Lossow"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20240507-29-000",
     "version": 5,
     "startDate": "2024-05-07T07:59:05+02:00",
@@ -39,6 +25,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BB-FF-SE080-20240507-80-000",
+    "version": 5,
+    "startDate": "2024-05-07T09:56:39+02:00",
+    "expiresDate": "2024-05-07T15:56:39+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung nach Brand eines Einfamilienhauses - Lossow"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
