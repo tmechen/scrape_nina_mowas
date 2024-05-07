@@ -1,20 +1,5 @@
 [
   {
-    "id": "mow.DE-NI-STD-SE029B-20240507-129-000",
-    "version": 5,
-    "startDate": "2024-05-07T14:46:04+02:00",
-    "expiresDate": "2024-05-07T20:46:04+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenräumung Osnabrück-Hafen - Stadt Osnabrück - Stadtteil Hafen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BY-PA-W160-20240507-001",
     "version": 5,
     "startDate": "2024-05-07T15:57:31+02:00",
