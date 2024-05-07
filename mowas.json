@@ -14,21 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-TUE-W126-20240506-002",
-    "version": 5,
-    "startDate": "2024-05-06T21:39:46+02:00",
-    "expiresDate": "2024-05-07T03:39:46+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Großbrand - Ergenzingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-OE-SE086-20240506-86-001",
     "version": 5,
     "startDate": "2024-05-07T01:13:04+02:00",
