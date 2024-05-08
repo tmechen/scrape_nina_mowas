@@ -1,17 +1,1 @@
-[
-  {
-    "id": "mow.DE-NW-EU-SE091-20240508-109-001",
-    "version": 5,
-    "startDate": "2024-05-08T15:14:36+02:00",
-    "expiresDate": "2024-05-08T21:14:36+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Bereich Mechernich - Mechernich, Strempt, Roggendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  }
-]
+[]
