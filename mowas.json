@@ -14,14 +14,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20240509-4-000",
+    "id": "mow.DE-RP-TR-SE004-20240509-4-001",
     "version": 5,
-    "startDate": "2024-05-09T05:11:45+02:00",
+    "startDate": "2024-05-09T06:28:31+02:00",
+    "expiresDate": "2024-05-09T12:28:31+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in Mühlheim Mosel - Mühlheim Mosel"
+      "de": "Entwarnung: Brand in Mühlheim Mosel - Mühlheim Mosel"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
