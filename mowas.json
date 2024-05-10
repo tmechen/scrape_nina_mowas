@@ -14,14 +14,15 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-W094-20240510-001",
+    "id": "mow.DE-SN-DD-W094-20240510-002",
     "version": 5,
-    "startDate": "2024-05-10T06:21:00+02:00",
+    "startDate": "2024-05-10T08:18:31+02:00",
+    "expiresDate": "2024-05-10T14:18:31+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand leerstehendes Gebäude - Dresden, Straße des 17. Juni"
+      "de": "Entwarnung: Brand leerstehendes Gebäude - Dresden, Straße des 17. Juni"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
