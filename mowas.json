@@ -26,5 +26,20 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-NW-ST-SE032-20240510-165-001",
+    "version": 5,
+    "startDate": "2024-05-10T22:38:56+02:00",
+    "expiresDate": "2024-05-11T04:38:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brand in einem Wohngebiet - Ibbenbüren-Laggenbeck / Bereich Eisenhansweg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
