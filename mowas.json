@@ -28,14 +28,15 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE049-20240512-49-000",
+    "id": "mow.DE-MV-SN-SE049-20240512-49-001",
     "version": 5,
-    "startDate": "2024-05-12T10:49:13+02:00",
+    "startDate": "2024-05-12T11:51:01+02:00",
+    "expiresDate": "2024-05-12T17:51:01+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brandgase - Neu Degtow / Grevesmühlen"
+      "de": "Entwarnung: Geruchsbelästigung durch Brandgase - Neu Degtow / Grevesmühlen"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
