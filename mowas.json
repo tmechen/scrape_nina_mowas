@@ -1,20 +1,5 @@
 [
   {
-    "id": "mow.DE-MV-LRO-W007-20240512-001",
-    "version": 5,
-    "startDate": "2024-05-12T16:00:04+02:00",
-    "expiresDate": "2024-05-12T22:00:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Mögliche Geruchsbelästigung durch Brandrauch - Kavelstorf, Klingendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-SC-W185-20240512-001",
     "version": 5,
     "startDate": "2024-05-12T18:15:55+02:00",
