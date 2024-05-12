@@ -1,33 +1,5 @@
 [
   {
-    "id": "mow.DE-SN-HY-SE048-20240510-122-000",
-    "version": 5,
-    "startDate": "2024-05-10T12:06:29+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand leerstehendes Gebäude - Dresden, Straße des 17. Juni"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-SN-DD-W094-20240511-000",
-    "version": 5,
-    "startDate": "2024-05-11T11:25:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand leerstehendes Gebäude - Dresden, Straße des 17. Juni"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE049-20240512-49-001",
     "version": 5,
     "startDate": "2024-05-12T11:51:01+02:00",
@@ -40,6 +12,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SN-DD-W094-20240512-001",
+    "version": 5,
+    "startDate": "2024-05-12T13:33:50+02:00",
+    "expiresDate": "2024-05-12T19:33:50+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand leerstehendes Gebäude - Dresden, Straße des 17. Juni"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20240512-122-000",
+    "version": 5,
+    "startDate": "2024-05-12T13:44:37+02:00",
+    "expiresDate": "2024-05-12T19:44:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand leerstehendes Gebäude - Dresden, Straße des 17. Juni"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
