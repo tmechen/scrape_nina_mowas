@@ -45,20 +45,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-LRO-W007-20240512-000",
-    "version": 5,
-    "startDate": "2024-05-12T14:10:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Mögliche Geruchsbelästigung durch Brandrauch - Kavelstorf, Klingendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-SC-W185-20240512-000",
     "version": 5,
     "startDate": "2024-05-12T15:22:59+02:00",
@@ -70,6 +56,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-MV-LRO-W007-20240512-001",
+    "version": 5,
+    "startDate": "2024-05-12T16:00:04+02:00",
+    "expiresDate": "2024-05-12T22:00:04+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Mögliche Geruchsbelästigung durch Brandrauch - Kavelstorf, Klingendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
