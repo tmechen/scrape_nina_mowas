@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "mow.DE-NW-E-SE052-20240513-52-000",
+    "version": 5,
+    "startDate": "2024-05-13T08:37:48+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brandrauch - Essen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  }
+]
