@@ -1,13 +1,14 @@
 [
   {
-    "id": "mow.DE-NW-E-SE052-20240513-52-000",
+    "id": "mow.DE-NW-E-SE052-20240513-52-001",
     "version": 5,
-    "startDate": "2024-05-13T08:37:48+02:00",
+    "startDate": "2024-05-13T09:24:29+02:00",
+    "expiresDate": "2024-05-13T15:24:29+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brandrauch - Essen"
+      "de": "Entwarnung: Brandrauch - Essen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
