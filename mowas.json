@@ -56,5 +56,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-NW-W-SE061-20240514-61-000",
+    "version": 5,
+    "startDate": "2024-05-14T20:38:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "(1) Rauchgase - Solingen, Merscheid, Martinstr"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
