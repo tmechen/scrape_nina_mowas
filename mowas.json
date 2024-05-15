@@ -29,14 +29,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-GM-SE088-20240515-88-000",
+    "id": "mow.DE-NW-GM-SE088-20240515-88-001",
     "version": 5,
-    "startDate": "2024-05-15T20:12:09+02:00",
+    "startDate": "2024-05-15T23:35:05+02:00",
+    "expiresDate": "2024-05-16T05:35:05+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Notruf (112, 110) - Gemeinde Engelskirchen, Stadt Wiehl in Teilen"
+      "de": "Entwarnung: Ausfall Notruf (112, 110) - Gemeinde Engelskirchen, Stadt Wiehl in Teilen"
     },
     "transKeys": {
       "event": "BBK-EVC-005"
