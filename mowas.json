@@ -14,21 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-CO-W141-20240515-001",
-    "version": 5,
-    "startDate": "2024-05-15T18:18:54+02:00",
-    "expiresDate": "2024-05-16T00:18:54+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase / Rauchsäule in Stadt Bad Rodach - Bad Rodach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-GM-SE088-20240515-88-001",
     "version": 5,
     "startDate": "2024-05-15T23:35:05+02:00",
