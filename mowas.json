@@ -1,13 +1,28 @@
 [
   {
-    "id": "mow.DE-BY-CO-W141-20240515-000",
+    "id": "mow.DE-MV-SN-SE049-20240515-49-000",
     "version": 5,
-    "startDate": "2024-05-15T16:50:24+02:00",
-    "severity": "Severe",
+    "startDate": "2024-05-15T17:55:31+02:00",
+    "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Rauchgase / Rauchsäule in Stadt Bad Rodach - Bad Rodach"
+      "de": "starke Rauchentwicklung - Gemeinde/Stadt: Gemeinde Amt Neuhaus, Stadt Lübtheen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-BY-CO-W141-20240515-001",
+    "version": 5,
+    "startDate": "2024-05-15T18:18:54+02:00",
+    "expiresDate": "2024-05-16T00:18:54+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase / Rauchsäule in Stadt Bad Rodach - Bad Rodach"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
