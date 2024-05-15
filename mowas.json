@@ -1,20 +1,5 @@
 [
   {
-    "id": "mow.DE-NW-K-SE031-20240514-31-001",
-    "version": 5,
-    "startDate": "2024-05-14T21:27:21+02:00",
-    "expiresDate": "2024-05-15T03:27:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Fund einer Fliegerbombe - Köln - Zündorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NW-W-SE061-20240514-61-001",
     "version": 5,
     "startDate": "2024-05-14T22:01:55+02:00",
