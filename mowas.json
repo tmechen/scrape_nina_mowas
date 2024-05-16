@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-OB-SE055-20240516-55-000",
-    "version": 5,
-    "startDate": "2024-05-16T19:45:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall der Stromversorgung  in Oberhausen - Stadtmitte - Oberhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BY-N-W163-20240516-000",
     "version": 5,
     "startDate": "2024-05-16T19:45:28+02:00",
@@ -67,6 +53,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-035"
+    }
+  },
+  {
+    "id": "mow.DE-BB-FF-SE080-20240516-80-000",
+    "version": 5,
+    "startDate": "2024-05-16T19:51:17+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung aus Polen, ggf. sind Fenster u Türen zuschließen. - Frankfurt / Oder - Slubice"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-OB-SE055-20240516-55-001",
+    "version": 5,
+    "startDate": "2024-05-16T19:59:08+02:00",
+    "expiresDate": "2024-05-17T01:59:08+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall der Stromversorgung  in Oberhausen - Stadtmitte - Oberhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
