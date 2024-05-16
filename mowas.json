@@ -27,5 +27,19 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240516-18-000",
+    "version": 5,
+    "startDate": "2024-05-16T14:36:43+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahrgutunfall  - Singen (Hohentwiel)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-029"
+    }
   }
 ]
