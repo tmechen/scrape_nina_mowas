@@ -1,20 +1,5 @@
 [
   {
-    "id": "mow.DE-NW-WES-SE097-20240516-97-001",
-    "version": 5,
-    "startDate": "2024-05-16T12:12:32+02:00",
-    "expiresDate": "2024-05-16T18:12:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Kamp-Lintfort-Saalhoff - Kamp-Lintfort"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20240516-28-000",
     "version": 5,
     "startDate": "2024-05-16T14:17:23+02:00",
