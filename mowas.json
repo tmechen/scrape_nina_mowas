@@ -40,5 +40,33 @@
     "transKeys": {
       "event": "BBK-EVC-062"
     }
+  },
+  {
+    "id": "mow.DE-NW-OB-SE055-20240516-55-000",
+    "version": 5,
+    "startDate": "2024-05-16T19:45:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall der Stromversorgung  in Oberhausen - Stadtmitte - Oberhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BY-N-W163-20240516-000",
+    "version": 5,
+    "startDate": "2024-05-16T19:45:28+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Testdurchsagen Bergkirchweih - Erlangen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-035"
+    }
   }
 ]
