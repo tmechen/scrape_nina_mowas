@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-W163-20240516-000",
-    "version": 5,
-    "startDate": "2024-05-16T19:45:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Testdurchsagen Bergkirchweih - Erlangen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-035"
-    }
-  },
-  {
     "id": "mow.DE-BB-FF-SE080-20240516-80-000",
     "version": 5,
     "startDate": "2024-05-16T19:51:17+02:00",
@@ -71,14 +57,30 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20240516-18-001",
+    "id": "mow.DE-BY-N-W163-20240516-001",
     "version": 5,
-    "startDate": "2024-05-16T20:24:19+02:00",
+    "startDate": "2024-05-16T21:28:53+02:00",
+    "expiresDate": "2024-05-17T03:28:53+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gefahrgutunfall  - Singen (Hohentwiel)"
+      "de": "Entwarnung: Testdurchsagen Bergkirchweih - Erlangen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-035"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240516-18-002",
+    "version": 5,
+    "startDate": "2024-05-16T21:35:24+02:00",
+    "expiresDate": "2024-05-17T03:35:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahrgutunfall  - Singen (Hohentwiel)"
     },
     "transKeys": {
       "event": "BBK-EVC-029"
