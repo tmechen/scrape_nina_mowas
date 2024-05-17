@@ -224,20 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-FF-SE080-20240517-80-001",
-    "version": 5,
-    "startDate": "2024-05-17T16:32:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Frankfurt Oder/ Lichtenberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-LD-SE117-20240517-121-002",
     "version": 5,
     "startDate": "2024-05-17T16:32:28+02:00",
@@ -547,6 +533,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BB-FF-SE080-20240517-80-002",
+    "version": 5,
+    "startDate": "2024-05-18T01:45:51+02:00",
+    "expiresDate": "2024-05-18T07:45:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung - Frankfurt Oder/ Lichtenberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
