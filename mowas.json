@@ -405,5 +405,19 @@
     "transKeys": {
       "event": "BBK-EVC-083"
     }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240517-35-016",
+    "version": 5,
+    "startDate": "2024-05-17T19:41:36+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kohlbach tritt über die Ufer, Gefahr durch Überschwemmung - Regionalverband Saarbrücken, Quierschied"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
   }
 ]
