@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-NW-W244-20240516-000",
-    "version": 5,
-    "startDate": "2024-05-16T23:58:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser/Starkregen im Bereich des Speyerbach und Rehbach - Neustadt an der Weinstraße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
     "id": "mow.DE-NW-OE-SE086-20240517-86-000",
     "version": 5,
     "startDate": "2024-05-17T05:51:29+02:00",
@@ -82,6 +68,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-RP-NW-W244-20240517-000",
+    "version": 5,
+    "startDate": "2024-05-17T09:13:09+02:00",
+    "expiresDate": "2024-05-17T15:13:09+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser/Starkregen im Bereich des Speyerbach und Rehbach - Neustadt an der Weinstraße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
     }
   }
 ]
