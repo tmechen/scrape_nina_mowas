@@ -252,21 +252,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20240517-33-001",
-    "version": 5,
-    "startDate": "2024-05-17T16:32:38+02:00",
-    "expiresDate": "2024-05-17T22:32:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 225 kg-Bombe gefunden - Hamburg-Steinwerder"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-RP-LD-SE117-20240517-121-003",
     "version": 5,
     "startDate": "2024-05-17T16:37:53+02:00",
