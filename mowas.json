@@ -534,5 +534,19 @@
     "transKeys": {
       "event": "BBK-EVC-071"
     }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20240517-4-003",
+    "version": 5,
+    "startDate": "2024-05-18T00:20:28+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser in der Verbandsgemeinde Schweich - VG Schweich"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
