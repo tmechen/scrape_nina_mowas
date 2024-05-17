@@ -183,5 +183,33 @@
     "transKeys": {
       "event": "BBK-EVC-071"
     }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240517-35-005",
+    "version": 5,
+    "startDate": "2024-05-17T15:00:35+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Nutzung der Notrufnummer - Saarland"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240517-35-006",
+    "version": 5,
+    "startDate": "2024-05-17T15:04:12+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Evakuierung von Gebäuden im Bereich im Brühl und Alte Kelter-Straße! - Saarbrücken, Ortsteil Fechingen, Bereich Alte Kelter-Straße und im Brühl"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
   }
 ]
