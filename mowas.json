@@ -211,5 +211,61 @@
     "transKeys": {
       "event": "BBK-EVC-071"
     }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240517-35-007",
+    "version": 5,
+    "startDate": "2024-05-17T15:22:18+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausrufung Großschadenslage - St. Wendel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SL-MZG-W034-20240517-000",
+    "version": 5,
+    "startDate": "2024-05-17T15:23:39+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser-Gefahr in Teilen der Kreisstadt Merzig - Landkreis Merzig-Wadern, Kreisstadt Merzig"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240517-35-008",
+    "version": 5,
+    "startDate": "2024-05-17T15:23:42+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Evakuierung von Gebäuden im Bereich Rosenstraße Brebach - Saarbrücken, Ortsteil Brebach, Bereich Rosenstraße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LD-SE117-20240517-121-000",
+    "version": 5,
+    "startDate": "2024-05-17T15:25:10+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Allgemeine Hochwasserwarnung für das Stadtgebiet Zweibrücken - Stadt Zweibrücken"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
