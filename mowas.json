@@ -42,21 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-OB-SE055-20240516-55-001",
-    "version": 5,
-    "startDate": "2024-05-16T19:59:08+02:00",
-    "expiresDate": "2024-05-17T01:59:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall der Stromversorgung  in Oberhausen - Stadtmitte - Oberhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BY-N-W163-20240516-001",
     "version": 5,
     "startDate": "2024-05-16T21:28:53+02:00",
