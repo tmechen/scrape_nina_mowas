@@ -126,5 +126,19 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240517-35-002",
+    "version": 5,
+    "startDate": "2024-05-17T12:30:22+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahr durch Überflutungen aufgrund extremer Regenfälle - Landeshauptstadt Saarbrücken"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
   }
 ]
