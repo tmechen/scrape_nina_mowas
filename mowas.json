@@ -169,5 +169,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240517-35-004",
+    "version": 5,
+    "startDate": "2024-05-17T14:14:44+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Evakuierung von Gebäuden im Bereich Fischbachstraße Rußhütte - Saarbrücken, Bereich Fischbachstraße Rußhütte"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
   }
 ]
