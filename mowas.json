@@ -506,5 +506,19 @@
     "transKeys": {
       "event": "BBK-EVC-071"
     }
+  },
+  {
+    "id": "mow.DE-SL-HOM-W051-20240517-004",
+    "version": 5,
+    "startDate": "2024-05-17T23:40:48+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Drohende Überschwemmung - Blieskastel, Webenheim, Mimbach, Breitfurt, Blickweiler"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
   }
 ]
