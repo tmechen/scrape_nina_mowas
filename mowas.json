@@ -210,20 +210,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20240517-35-009",
-    "version": 5,
-    "startDate": "2024-05-17T15:36:23+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserwarnung für die Stadt Ottweiler - Ottweiler"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-083"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20240517-35-010",
     "version": 5,
     "startDate": "2024-05-17T15:38:03+02:00",
@@ -404,6 +390,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240517-35-015",
+    "version": 5,
+    "startDate": "2024-05-17T19:19:16+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasserwarnung für die Stadt Ottweiler - Ottweiler"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-083"
     }
   }
 ]
