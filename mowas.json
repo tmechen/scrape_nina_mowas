@@ -56,20 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20240517-35-002",
-    "version": 5,
-    "startDate": "2024-05-17T12:30:22+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahr durch Überflutungen aufgrund extremer Regenfälle - Landeshauptstadt Saarbrücken"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20240517-35-003",
     "version": 5,
     "startDate": "2024-05-17T12:48:25+02:00",
@@ -574,6 +560,34 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Entwarnung: Evakuierung von Gebäuden im Bereich Fischbachstraße Rußhüt - Saarbrücken, Bereich Fischbachstraße Rußhütte"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-SL-HOM-W051-20240518-000",
+    "version": 5,
+    "startDate": "2024-05-18T12:27:35+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Drohende Überflutung Blieskasteler Altstadt und Lautzkirchen - Blieskasteler Altstadt und Lautzkirchen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240518-35-004",
+    "version": 5,
+    "startDate": "2024-05-18T12:28:09+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Gefahr durch Überflutungen aufgrund extremer Regenfälle - Landeshauptstadt Saarbrücken"
     },
     "transKeys": {
       "event": "BBK-EVC-071"
