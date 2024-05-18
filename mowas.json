@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20240517-35-000",
-    "version": 5,
-    "startDate": "2024-05-17T08:04:01+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Mehrere Straßen im Stadtgebiet überflutet - Gemeinde Kleinblittersdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-SL-HOM-W051-20240517-001",
     "version": 5,
     "startDate": "2024-05-17T10:48:51+02:00",
@@ -81,34 +67,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-SL-SB-SE035-20240517-35-010",
-    "version": 5,
-    "startDate": "2024-05-17T15:38:03+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahr durch Überflutungen aufgrund extremer Regenfälle - Regionalverband Saarbrücken"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
-    "id": "mow.DE-SL-SB-SE035-20240517-35-011",
-    "version": 5,
-    "startDate": "2024-05-17T15:43:09+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahr durch Überflutungen aufgrund extremer Regenfälle - Regionalverband Saarbrücken, Geimeinde Kleinblittersdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
     }
   },
   {
@@ -591,6 +549,51 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Überflutungen im Bereich Fischbach. Fluss ist über die Ufer getreten - Fischbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240518-35-007",
+    "version": 5,
+    "startDate": "2024-05-18T13:22:04+02:00",
+    "expiresDate": "2024-05-18T19:22:04+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Mehrere Straßen im Stadtgebiet überflutet - Gemeinde Kleinblittersdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240518-35-008",
+    "version": 5,
+    "startDate": "2024-05-18T13:22:10+02:00",
+    "expiresDate": "2024-05-18T19:22:10+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahr durch Überflutungen aufgrund extremer Regenfälle - Regionalverband Saarbrücken"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240518-35-009",
+    "version": 5,
+    "startDate": "2024-05-18T13:22:15+02:00",
+    "expiresDate": "2024-05-18T19:22:15+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahr durch Überflutungen aufgrund extremer Regenfälle - Regionalverband Saarbrücken, Geimeinde Kleinblittersdorf"
     },
     "transKeys": {
       "event": "BBK-EVC-071"
