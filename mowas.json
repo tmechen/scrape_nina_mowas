@@ -308,20 +308,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-MZG-W034-20240517-001",
-    "version": 5,
-    "startDate": "2024-05-17T20:36:09+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser-Gefahr - Saarhölzbach, Gemeinde Mettlach, Landkreis Merzig-Wadern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20240517-35-017",
     "version": 5,
     "startDate": "2024-05-17T20:40:55+02:00",
@@ -543,6 +529,20 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Hochwasser im Zusammenhang mit Starkregen - Verbandsgemeinde Schweich"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SL-MZG-W034-20240518-000",
+    "version": 5,
+    "startDate": "2024-05-18T11:23:34+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasser-Gefahr - Saarhölzbach und Mettlach, Gemeinde Mettlach, Landkreis Merzig-Wadern"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
