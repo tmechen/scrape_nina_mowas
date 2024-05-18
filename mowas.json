@@ -1,19 +1,5 @@
 [
   {
-    "id": "mow.DE-RP-LD-SE117-20240516-121-000",
-    "version": 5,
-    "startDate": "2024-05-16T18:11:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor Starkregen - Landau in der Pfalz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
     "id": "mow.DE-SL-HOM-W051-20240517-001",
     "version": 5,
     "startDate": "2024-05-17T10:48:51+02:00",
@@ -120,20 +106,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Drohende Überflutung - komplettes Stadtgebiet Blieskastel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-RP-LD-SE117-20240517-121-004",
-    "version": 5,
-    "startDate": "2024-05-17T16:58:10+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Mögliche Überschwemmung durch Wieslauter - Bruchweiler, Bundenthal, Niederschlettenbach, Bobenthal"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
@@ -380,34 +352,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-MZG-W034-20240518-001",
-    "version": 5,
-    "startDate": "2024-05-18T11:41:34+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasser-Gefahr - Beckingen, Gemeinde Beckingen, Landkreis Merzig-Wadern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-SL-MZG-W034-20240518-002",
-    "version": 5,
-    "startDate": "2024-05-18T11:45:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasser-Gefahr in Teilen der Kreisstadt Merzig - Landkreis Merzig-Wadern, Kreisstadt Merzig"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-RP-LD-SE117-20240518-121-001",
     "version": 5,
     "startDate": "2024-05-18T12:02:42+02:00",
@@ -596,6 +540,64 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LD-SE117-20240518-121-002",
+    "version": 5,
+    "startDate": "2024-05-18T15:36:12+02:00",
+    "expiresDate": "2024-05-18T21:36:12+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Mögliche Überschwemmung durch Wieslauter - Bruchweiler, Bundenthal, Niederschlettenbach, Bobenthal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LD-SE117-20240518-121-003",
+    "version": 5,
+    "startDate": "2024-05-18T15:37:53+02:00",
+    "expiresDate": "2024-05-18T21:37:53+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor Starkregen - Landau in der Pfalz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
+    }
+  },
+  {
+    "id": "mow.DE-SL-MZG-W034-20240518-003",
+    "version": 5,
+    "startDate": "2024-05-18T15:38:41+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasser-Gefahr - Beckingen, Gemeinde Beckingen, Landkreis Merzig-Wadern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SL-MZG-W034-20240518-004",
+    "version": 5,
+    "startDate": "2024-05-18T15:40:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasser-Gefahr in Teilen der Kreisstadt Merzig - Landkreis Merzig-Wadern, Kreisstadt Merzig"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
