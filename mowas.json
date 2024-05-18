@@ -280,21 +280,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20240518-35-000",
-    "version": 5,
-    "startDate": "2024-05-18T10:20:12+02:00",
-    "expiresDate": "2024-05-18T16:20:12+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausrufung Großschadenslage - St. Wendel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-RP-KO-SE113-20240518-113-001",
     "version": 5,
     "startDate": "2024-05-18T10:46:20+02:00",
