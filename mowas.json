@@ -70,34 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20240517-121-002",
-    "version": 5,
-    "startDate": "2024-05-17T16:32:28+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor extremen Wassermassen - Eichelsbachermühle"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-RP-LD-SE117-20240517-121-003",
-    "version": 5,
-    "startDate": "2024-05-17T16:37:53+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor extremen Wassermassen - Niedersimten"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20240517-35-012",
     "version": 5,
     "startDate": "2024-05-17T16:42:57+02:00",
@@ -565,6 +537,36 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Hochwasser-Gefahr in Teilen der Kreisstadt Merzig - Landkreis Merzig-Wadern, Kreisstadt Merzig"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LD-SE117-20240518-121-004",
+    "version": 5,
+    "startDate": "2024-05-18T16:49:02+02:00",
+    "expiresDate": "2024-05-18T22:49:02+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor extremen Wassermassen - Niedersimten"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LD-SE117-20240518-121-005",
+    "version": 5,
+    "startDate": "2024-05-18T16:49:10+02:00",
+    "expiresDate": "2024-05-18T22:49:10+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor extremen Wassermassen - Eichelsbachermühle"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
