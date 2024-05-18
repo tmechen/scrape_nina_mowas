@@ -308,21 +308,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20240518-35-005",
-    "version": 5,
-    "startDate": "2024-05-18T12:32:49+02:00",
-    "expiresDate": "2024-05-18T18:32:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Nutzung der Notrufnummer - Saarland"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-TH-HIG-W111-20240518-001",
     "version": 5,
     "startDate": "2024-05-18T12:51:55+02:00",
@@ -526,6 +511,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-083"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240518-35-012",
+    "version": 5,
+    "startDate": "2024-05-18T18:46:21+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor Hochwasser - Bliesmengen-Bolchen und Habkirchen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
