@@ -266,21 +266,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20240518-001",
-    "version": 5,
-    "startDate": "2024-05-18T09:46:44+02:00",
-    "expiresDate": "2024-05-18T15:46:44+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - AUFHEBUNG DER WARNUNG - - Trostberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-RP-KO-SE113-20240518-113-000",
     "version": 5,
     "startDate": "2024-05-18T10:17:41+02:00",
