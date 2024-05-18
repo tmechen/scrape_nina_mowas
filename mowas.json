@@ -322,20 +322,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE113-20240517-113-000",
-    "version": 5,
-    "startDate": "2024-05-17T20:17:42+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser Mosel - Landkreis Cochem-Zell, VG Cochem, VG Zell Moselanlieger"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-SL-MZG-W034-20240517-001",
     "version": 5,
     "startDate": "2024-05-17T20:36:09+02:00",
@@ -505,17 +491,32 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20240518-000",
+    "id": "mow.DE-BY-TS-W135-20240518-001",
     "version": 5,
-    "startDate": "2024-05-18T08:16:41+02:00",
+    "startDate": "2024-05-18T09:46:44+02:00",
+    "expiresDate": "2024-05-18T15:46:44+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Trostberg"
+      "de": "Entwarnung: Feuerwehreinsatz - AUFHEBUNG DER WARNUNG - - Trostberg"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KO-SE113-20240518-113-000",
+    "version": 5,
+    "startDate": "2024-05-18T10:17:41+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasser Mosel - Landkreis Cochem-Zell, VG Cochem, VG Zell Moselanlieger"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
