@@ -519,5 +519,33 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-RP-KO-SE113-20240518-113-001",
+    "version": 5,
+    "startDate": "2024-05-18T10:46:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserinformation für den Stadtbereich Koblenz - Koblenz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20240518-4-001",
+    "version": 5,
+    "startDate": "2024-05-18T11:07:48+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser im Zusammenhang mit Starkregen - Verbandsgemeinde Schweich"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
