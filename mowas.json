@@ -406,36 +406,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20240517-35-020",
-    "version": 5,
-    "startDate": "2024-05-17T21:54:50+02:00",
-    "expiresDate": "2024-05-18T03:54:50+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Evakuierung von Gebäuden im Bereich Rosenstraße Brebach - Saarbrücken, Ortsteil Brebach, Bereich Rosenstraße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
-    "id": "mow.DE-SL-SB-SE035-20240517-35-021",
-    "version": 5,
-    "startDate": "2024-05-17T21:55:25+02:00",
-    "expiresDate": "2024-05-18T03:55:25+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Evakuierung von Gebäuden im Bereich im Brühl und Alte Kelter-Straße! - Saarbrücken, Ortsteil Fechingen, Bereich Alte Kelter-Straße und im Brühl"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-SL-MZG-W034-20240517-002",
     "version": 5,
     "startDate": "2024-05-17T22:04:07+02:00",
@@ -547,6 +517,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20240518-4-000",
+    "version": 5,
+    "startDate": "2024-05-18T03:10:58+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser nach Starkregenereignis - VG Schweich"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
