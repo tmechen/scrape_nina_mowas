@@ -351,20 +351,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20240518-82-000",
-    "version": 5,
-    "startDate": "2024-05-18T19:25:17+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "starke Rauchentwicklung - Potsdam und Umgebung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20240518-143-001",
     "version": 5,
     "startDate": "2024-05-18T20:57:09+02:00",
@@ -436,6 +422,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20240518-82-001",
+    "version": 5,
+    "startDate": "2024-05-18T23:43:38+02:00",
+    "expiresDate": "2024-05-19T05:43:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: starke Rauchentwicklung - Potsdam und Umgebung"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
