@@ -350,51 +350,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20240518-121-007",
-    "version": 5,
-    "startDate": "2024-05-18T23:07:51+02:00",
-    "expiresDate": "2024-05-19T05:07:51+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Es wird vor weiterem Anstieg des Schwarzbachs gewarnt - Stadt Zweibrücken"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-RP-LD-SE117-20240518-121-008",
-    "version": 5,
-    "startDate": "2024-05-18T23:08:19+02:00",
-    "expiresDate": "2024-05-19T05:08:19+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Mit Stromabschaltung im Bereich des Hornbachs muss gerechnet werden - Zweibrücken: mehrere Straßenzüge beidseits des Hornbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-RP-LD-SE117-20240518-121-009",
-    "version": 5,
-    "startDate": "2024-05-18T23:09:27+02:00",
-    "expiresDate": "2024-05-19T05:09:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Allgemeine Hochwasserwarnung für das Stadtgebiet Zweibrücken - Stadt Zweibrücken"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BB-P-SE082-20240518-82-001",
     "version": 5,
     "startDate": "2024-05-18T23:43:38+02:00",
