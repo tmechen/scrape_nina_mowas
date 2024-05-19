@@ -224,21 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20240519-4-002",
-    "version": 5,
-    "startDate": "2024-05-19T10:27:22+02:00",
-    "expiresDate": "2024-05-19T16:27:22+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser in der Verbandsgemeinde Schweich - VG Schweich"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-SE004-20240519-4-003",
     "version": 5,
     "startDate": "2024-05-19T11:08:02+02:00",
