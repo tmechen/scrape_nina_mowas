@@ -154,34 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20240517-4-003",
-    "version": 5,
-    "startDate": "2024-05-18T00:20:28+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser in der Verbandsgemeinde Schweich - VG Schweich"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-RP-TR-SE004-20240518-4-000",
-    "version": 5,
-    "startDate": "2024-05-18T03:10:58+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser nach Starkregenereignis - VG Schweich"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-RP-KO-SE113-20240518-113-000",
     "version": 5,
     "startDate": "2024-05-18T10:17:41+02:00",
@@ -204,20 +176,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Hochwasserinformation für den Stadtbereich Koblenz - Koblenz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-RP-TR-SE004-20240518-4-001",
-    "version": 5,
-    "startDate": "2024-05-18T11:07:48+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser im Zusammenhang mit Starkregen - Verbandsgemeinde Schweich"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
@@ -362,6 +320,51 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Hochwasser-Gefahr - Saarhölzbach und Mettlach, Gemeinde Mettlach, Landkreis Merzig-Wadern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20240519-4-000",
+    "version": 5,
+    "startDate": "2024-05-19T10:18:52+02:00",
+    "expiresDate": "2024-05-19T16:18:52+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser nach Starkregenereignis - VG Schweich"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20240519-4-001",
+    "version": 5,
+    "startDate": "2024-05-19T10:19:53+02:00",
+    "expiresDate": "2024-05-19T16:19:53+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser im Zusammenhang mit Starkregen - Verbandsgemeinde Schweich"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20240519-4-002",
+    "version": 5,
+    "startDate": "2024-05-19T10:27:22+02:00",
+    "expiresDate": "2024-05-19T16:27:22+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser in der Verbandsgemeinde Schweich - VG Schweich"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
