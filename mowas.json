@@ -224,20 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-MZG-W034-20240518-000",
-    "version": 5,
-    "startDate": "2024-05-18T11:23:34+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasser-Gefahr - Saarhölzbach und Mettlach, Gemeinde Mettlach, Landkreis Merzig-Wadern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20240518-35-004",
     "version": 5,
     "startDate": "2024-05-18T12:28:09+02:00",
@@ -249,34 +235,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-071"
-    }
-  },
-  {
-    "id": "mow.DE-SL-MZG-W034-20240518-003",
-    "version": 5,
-    "startDate": "2024-05-18T15:38:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasser-Gefahr - Beckingen, Gemeinde Beckingen, Landkreis Merzig-Wadern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-SL-MZG-W034-20240518-004",
-    "version": 5,
-    "startDate": "2024-05-18T15:40:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasser-Gefahr in Teilen der Kreisstadt Merzig - Landkreis Merzig-Wadern, Kreisstadt Merzig"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
     }
   },
   {
@@ -359,6 +317,51 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Allgemeine Hochwasserwarnung - Ortsbereich Rieschweiler und Thaleischweiler-Fröschen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SL-MZG-W034-20240519-000",
+    "version": 5,
+    "startDate": "2024-05-19T10:10:53+02:00",
+    "expiresDate": "2024-05-19T16:10:53+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser-Gefahr in Teilen der Kreisstadt Merzig - Landkreis Merzig-Wadern, Kreisstadt Merzig"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SL-MZG-W034-20240519-001",
+    "version": 5,
+    "startDate": "2024-05-19T10:11:34+02:00",
+    "expiresDate": "2024-05-19T16:11:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser-Gefahr - Beckingen, Gemeinde Beckingen, Landkreis Merzig-Wadern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SL-MZG-W034-20240519-002",
+    "version": 5,
+    "startDate": "2024-05-19T10:12:05+02:00",
+    "expiresDate": "2024-05-19T16:12:05+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser-Gefahr - Saarhölzbach und Mettlach, Gemeinde Mettlach, Landkreis Merzig-Wadern"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
