@@ -224,36 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20240519-4-000",
-    "version": 5,
-    "startDate": "2024-05-19T10:18:52+02:00",
-    "expiresDate": "2024-05-19T16:18:52+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser nach Starkregenereignis - VG Schweich"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-RP-TR-SE004-20240519-4-001",
-    "version": 5,
-    "startDate": "2024-05-19T10:19:53+02:00",
-    "expiresDate": "2024-05-19T16:19:53+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser im Zusammenhang mit Starkregen - Verbandsgemeinde Schweich"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-SE004-20240519-4-002",
     "version": 5,
     "startDate": "2024-05-19T10:27:22+02:00",
