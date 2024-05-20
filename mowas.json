@@ -265,5 +265,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-RP-KO-SE113-20240520-113-000",
+    "version": 5,
+    "startDate": "2024-05-20T09:06:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser Mosel - Landkreis Cochem-Zell, VG Cochem, VG Zell Moselanlieger"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
