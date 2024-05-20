@@ -168,20 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20240519-35-002",
-    "version": 5,
-    "startDate": "2024-05-19T15:24:56+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Gefahr durch Überflutungen aufgrund Hochwasser - Landeshauptstadt Saarbrücken"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20240520-35-000",
     "version": 5,
     "startDate": "2024-05-20T13:18:43+02:00",
@@ -283,6 +269,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE023-20240520-23-000",
+    "version": 5,
+    "startDate": "2024-05-20T19:07:11+02:00",
+    "expiresDate": "2024-05-21T01:07:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahr durch Überflutungen aufgrund Hochwasser - Landeshauptstadt Saarbrücken"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240520-35-001",
+    "version": 5,
+    "startDate": "2024-05-20T19:12:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ab Dienstag, 21. Mai weitere Überschwemmungen möglich - Stadt und Regionalverband Saarbrücken"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
     }
   }
 ]
