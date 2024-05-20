@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-HOM-W051-20240517-003",
-    "version": 5,
-    "startDate": "2024-05-17T23:25:42+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahr durch drohende Überschwemmung - Kirkel-Limbach, einzelne Straßenzüge"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-SL-HOM-W051-20240517-004",
     "version": 5,
     "startDate": "2024-05-17T23:40:48+02:00",
@@ -238,21 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-W-SE061-20240520-61-001",
-    "version": 5,
-    "startDate": "2024-05-20T09:47:32+02:00",
-    "expiresDate": "2024-05-20T15:47:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase - Solingen - Baverter Straße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20240520-35-000",
     "version": 5,
     "startDate": "2024-05-20T13:18:43+02:00",
@@ -279,6 +250,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SL-HOM-W051-20240520-000",
+    "version": 5,
+    "startDate": "2024-05-20T16:11:01+02:00",
+    "expiresDate": "2024-05-20T22:11:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahr durch drohende Überschwemmung - Kirkel-Limbach, einzelne Straßenzüge"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
     }
   }
 ]
