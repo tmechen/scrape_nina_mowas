@@ -196,20 +196,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20240520-28-000",
-    "version": 5,
-    "startDate": "2024-05-20T07:31:12+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vorsorgliche Information - Hemmingstedt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-RP-KO-SE113-20240520-113-000",
     "version": 5,
     "startDate": "2024-05-20T09:06:14+02:00",
@@ -265,6 +251,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20240520-28-001",
+    "version": 5,
+    "startDate": "2024-05-20T16:41:20+02:00",
+    "expiresDate": "2024-05-20T22:41:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Vorsorgliche Information - Hemmingstedt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
