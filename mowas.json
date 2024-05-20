@@ -253,20 +253,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-W-SE061-20240520-61-000",
-    "version": 5,
-    "startDate": "2024-05-20T07:53:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase - Solingen - Baverter Straße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-KO-SE113-20240520-113-000",
     "version": 5,
     "startDate": "2024-05-20T09:06:14+02:00",
@@ -278,6 +264,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-W-SE061-20240520-61-001",
+    "version": 5,
+    "startDate": "2024-05-20T09:47:32+02:00",
+    "expiresDate": "2024-05-20T15:47:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase - Solingen - Baverter Straße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
