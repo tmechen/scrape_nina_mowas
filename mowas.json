@@ -237,5 +237,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20240520-28-000",
+    "version": 5,
+    "startDate": "2024-05-20T07:31:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vorsorgliche Information - Hemmingstedt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
