@@ -224,21 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HF-SE039-20240520-39-001",
-    "version": 5,
-    "startDate": "2024-05-20T06:09:26+02:00",
-    "expiresDate": "2024-05-20T12:09:26+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand Gewerbebetrieb - Herford. Mitte, Hohe Warth"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20240520-28-000",
     "version": 5,
     "startDate": "2024-05-20T07:31:12+02:00",
