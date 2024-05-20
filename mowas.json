@@ -168,36 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE113-20240520-113-001",
-    "version": 5,
-    "startDate": "2024-05-20T18:05:53+02:00",
-    "expiresDate": "2024-05-21T00:05:53+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser Mosel - Landkreis Cochem-Zell, VG Cochem, VG Zell Moselanlieger"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-RP-KO-SE113-20240520-113-002",
-    "version": 5,
-    "startDate": "2024-05-20T18:07:09+02:00",
-    "expiresDate": "2024-05-21T00:07:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser Mosel - Landkreis Cochem-Zell, VG Cochem, VG Zell Moselanlieger"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE023-20240520-23-000",
     "version": 5,
     "startDate": "2024-05-20T19:07:11+02:00",
