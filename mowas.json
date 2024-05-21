@@ -210,5 +210,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-RS-SE072-20240521-72-000",
+    "version": 5,
+    "startDate": "2024-05-21T06:31:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung - Remscheid"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
