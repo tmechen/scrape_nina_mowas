@@ -197,14 +197,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-WES-SE097-20240521-97-000",
+    "id": "mow.DE-NW-WES-SE097-20240521-97-001",
     "version": 5,
-    "startDate": "2024-05-21T05:19:57+02:00",
+    "startDate": "2024-05-21T06:22:36+02:00",
+    "expiresDate": "2024-05-21T12:22:36+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in Kamp Lintfort - Kamp Lintfort"
+      "de": "Entwarnung: Rauchgase in Kamp Lintfort - Kamp Lintfort"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
