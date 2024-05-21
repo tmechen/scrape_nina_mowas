@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20240517-35-012",
-    "version": 5,
-    "startDate": "2024-05-17T16:42:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Drohende Überflutung - komplettes Stadtgebiet Blieskastel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20240517-35-013",
     "version": 5,
     "startDate": "2024-05-17T17:39:31+02:00",
@@ -205,6 +191,21 @@
     "version": 5,
     "startDate": "2024-05-21T09:58:47+02:00",
     "expiresDate": "2024-05-21T15:58:47+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Drohende Überflutung - komplettes Stadtgebiet Blieskastel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240521-35-000",
+    "version": 5,
+    "startDate": "2024-05-21T11:24:21+02:00",
+    "expiresDate": "2024-05-21T17:24:21+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
