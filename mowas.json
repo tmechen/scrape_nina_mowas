@@ -182,21 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-EL-W089-20240520-001",
-    "version": 5,
-    "startDate": "2024-05-20T21:11:00+02:00",
-    "expiresDate": "2024-05-21T03:11:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Surwold Börgermoor"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20240521-000",
     "version": 5,
     "startDate": "2024-05-21T02:24:07+02:00",
