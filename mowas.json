@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-WI-SE025-20240522-25-000",
-    "version": 5,
-    "startDate": "2024-05-22T17:27:05+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahrgutunfall BAB 3 Höhe Werschau - Brechen - Werschau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-029"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20240522-35-001",
     "version": 5,
     "startDate": "2024-05-22T18:23:41+02:00",
@@ -39,6 +25,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-HE-WI-SE025-20240522-25-001",
+    "version": 5,
+    "startDate": "2024-05-22T19:19:49+02:00",
+    "expiresDate": "2024-05-23T01:19:49+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahrgutunfall BAB 3 Höhe Werschau - Brechen - Werschau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-029"
     }
   }
 ]
