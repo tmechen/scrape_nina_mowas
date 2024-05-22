@@ -27,5 +27,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BY-N-W163-20240522-000",
+    "version": 5,
+    "startDate": "2024-05-22T11:15:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall der Krankentransportnummer 0911 - 19222, sowie der Amtsleitungen  - Zuständigkeitsbereich der Integrierten Leitstelle Nürnberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
+    }
   }
 ]
