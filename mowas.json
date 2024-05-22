@@ -14,21 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20240522-28-001",
-    "version": 5,
-    "startDate": "2024-05-22T04:19:33+02:00",
-    "expiresDate": "2024-05-22T10:19:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Kaltenkirchen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SN-L-W093-20240522-000",
     "version": 5,
     "startDate": "2024-05-22T05:20:11+02:00",
