@@ -14,21 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-L-W093-20240522-000",
-    "version": 5,
-    "startDate": "2024-05-22T05:20:11+02:00",
-    "expiresDate": "2024-05-22T11:20:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand in Borna - Borna Oststraße 3a"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-N-W163-20240522-000",
     "version": 5,
     "startDate": "2024-05-22T11:15:06+02:00",
