@@ -26,20 +26,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-HH-HH-SE033-20240523-33-002",
-    "version": 5,
-    "startDate": "2024-05-23T12:04:42+02:00",
-    "expiresDate": "2024-05-23T18:04:42+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Hamburg-Heimfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
