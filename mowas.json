@@ -41,5 +41,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-BB-CB-SE036-20240524-36-000",
+    "version": 5,
+    "startDate": "2024-05-24T16:44:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall der Trinkwasserversorgung im Bereich der Stadt Falkenberg / Elster  - Stadt Falkenberg / Elster"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
