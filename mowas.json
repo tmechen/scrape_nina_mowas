@@ -28,14 +28,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-WW-SE116-20240524-123-001",
+    "id": "mow.DE-RP-WW-SE116-20240524-123-002",
     "version": 5,
-    "startDate": "2024-05-24T11:50:29+02:00",
+    "startDate": "2024-05-24T14:51:23+02:00",
+    "expiresDate": "2024-05-24T20:51:23+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brandgase Wohnhausbrand - Bruchertseifen"
+      "de": "Entwarnung: Brandgase Wohnhausbrand - Bruchertseifen"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
