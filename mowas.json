@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HF-SE039-20240524-39-000",
-    "version": 5,
-    "startDate": "2024-05-24T02:09:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch den Brand einer Industriehalle  - Löhne"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-ST-HZ-W050-20240524-000",
     "version": 5,
     "startDate": "2024-05-24T03:00:12+02:00",
@@ -53,6 +39,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HF-SE039-20240524-39-001",
+    "version": 5,
+    "startDate": "2024-05-24T04:00:49+02:00",
+    "expiresDate": "2024-05-24T10:00:49+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch den Brand einer Industriehalle  - Löhne"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
