@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-HZ-W050-20240524-001",
-    "version": 5,
-    "startDate": "2024-05-24T06:17:57+02:00",
-    "expiresDate": "2024-05-24T12:17:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchgasentwicklung durch Großbrand einer Halle - Landkreis Harz, Wernigerode, Ilsenburger Straße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-RP-WW-SE116-20240524-123-001",
     "version": 5,
     "startDate": "2024-05-24T11:50:29+02:00",
