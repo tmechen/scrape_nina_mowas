@@ -26,20 +26,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-BR-B-SE017-20240525-17-000",
-    "version": 5,
-    "startDate": "2024-05-25T08:13:52+02:00",
-    "expiresDate": "2024-05-25T14:13:52+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahr durch Rauch- Brandgase - 12055 Berlin Neukölln"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
