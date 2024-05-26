@@ -41,5 +41,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-HE-DA-W184-20240526-002",
+    "version": 5,
+    "startDate": "2024-05-26T06:59:08+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Realbrandversuche im Citytunnel Darmstadt - Darmstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
