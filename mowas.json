@@ -28,21 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20240526-28-001",
-    "version": 5,
-    "startDate": "2024-05-26T04:05:03+02:00",
-    "expiresDate": "2024-05-26T10:05:03+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Klein Rönnau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HE-DA-W184-20240526-002",
     "version": 5,
     "startDate": "2024-05-26T06:59:08+02:00",
