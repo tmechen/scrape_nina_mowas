@@ -84,14 +84,15 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20240528-35-000",
+    "id": "mow.DE-SL-SB-SE035-20240528-35-001",
     "version": 5,
-    "startDate": "2024-05-28T13:21:27+02:00",
+    "startDate": "2024-05-28T13:41:18+02:00",
+    "expiresDate": "2024-05-28T19:41:18+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall  - Stadtgebiet St. Ingbert"
+      "de": "Entwarnung: Stromausfall  - Stadtgebiet St. Ingbert"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
