@@ -54,20 +54,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-NW-AC-SE090-20240529-90-003",
-    "version": 5,
-    "startDate": "2024-05-29T18:25:03+02:00",
-    "expiresDate": "2024-05-30T00:25:03+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund - Eschweiler"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
   }
 ]
