@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20240529-90-001",
-    "version": 5,
-    "startDate": "2024-05-29T15:18:39+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund - Eschweiler"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NW-GT-SE040-20240529-40-001",
     "version": 5,
     "startDate": "2024-05-29T17:08:22+02:00",
@@ -82,6 +68,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-NW-AC-SE090-20240529-90-003",
+    "version": 5,
+    "startDate": "2024-05-29T18:25:03+02:00",
+    "expiresDate": "2024-05-30T00:25:03+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund - Eschweiler"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
