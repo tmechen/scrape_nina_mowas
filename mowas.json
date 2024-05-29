@@ -69,5 +69,19 @@
     "transKeys": {
       "event": "BBK-EVC-006"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240529-50-000",
+    "version": 5,
+    "startDate": "2024-05-29T18:12:41+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasserverunreinigung - Gemeinde Albershausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
