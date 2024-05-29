@@ -42,21 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-VER-W077-20240529-000",
-    "version": 5,
-    "startDate": "2024-05-29T08:16:20+02:00",
-    "expiresDate": "2024-05-29T14:16:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in Morsum - 27321 Thedinghausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-GT-SE040-20240529-40-000",
     "version": 5,
     "startDate": "2024-05-29T08:52:06+02:00",
