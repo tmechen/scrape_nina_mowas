@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20240527-35-000",
-    "version": 5,
-    "startDate": "2024-05-27T15:43:46+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserverunreinigung - Mittelstadt Völklingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240529-50-000",
     "version": 5,
     "startDate": "2024-05-29T18:12:41+02:00",
@@ -78,6 +64,21 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Chlorung des Trinkwassers in der Stadt Püttlingen, Stadtteil Püttlingen - Stadt Püttlingen, Stadtteil Püttlingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240530-35-001",
+    "version": 5,
+    "startDate": "2024-05-30T19:06:03+02:00",
+    "expiresDate": "2024-05-31T01:06:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasserverunreinigung - Mittelstadt Völklingen"
     },
     "transKeys": {
       "event": "BBK-EVC-069"
