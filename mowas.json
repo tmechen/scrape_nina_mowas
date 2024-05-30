@@ -56,14 +56,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-BOT-SE062-20240530-62-000",
+    "id": "mow.DE-NW-BOT-SE062-20240530-62-001",
     "version": 5,
-    "startDate": "2024-05-30T06:30:02+02:00",
+    "startDate": "2024-05-30T07:37:11+02:00",
+    "expiresDate": "2024-05-30T13:37:11+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brandrauch durch Schadensereignis - Stadt Bottrop (Stadtteil Boy)"
+      "de": "Entwarnung: Brandrauch durch Schadensereignis - Stadt Bottrop (Stadtteil Boy)"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
