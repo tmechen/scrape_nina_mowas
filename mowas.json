@@ -54,5 +54,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20240530-000",
+    "version": 5,
+    "startDate": "2024-05-30T14:41:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vorabinformation Unwetter mit heftigem/ergiebigem Regen - Altenburger Land"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
