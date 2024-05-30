@@ -68,5 +68,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240530-35-000",
+    "version": 5,
+    "startDate": "2024-05-30T17:12:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Chlorung des Trinkwassers in der Stadt Püttlingen, Stadtteil Püttlingen - Stadt Püttlingen, Stadtteil Püttlingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
