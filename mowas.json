@@ -84,21 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20240531-121-000",
-    "version": 5,
-    "startDate": "2024-05-31T16:36:00+02:00",
-    "expiresDate": "2024-05-31T22:36:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Aktuelle Info zur Hochwasserlage - Zweibrücken"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20240531-84-000",
     "version": 5,
     "startDate": "2024-05-31T16:58:56+02:00",
