@@ -138,5 +138,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240531-50-000",
+    "version": 5,
+    "startDate": "2024-06-01T01:13:58+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasseralarm Große Kreisstadt Wangen im Allgäu - Große Kreisstadt Wangen im Allgäu"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
   }
 ]
