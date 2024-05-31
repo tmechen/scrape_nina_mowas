@@ -125,5 +125,19 @@
     "transKeys": {
       "event": "BBK-EVC-021"
     }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240531-000",
+    "version": 5,
+    "startDate": "2024-05-31T18:38:42+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Landkreis Günzburg ruft Katastrophenfall aufgrund Starkregens aus  - Landkreis Günzburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
+    }
   }
 ]
