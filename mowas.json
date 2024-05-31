@@ -68,5 +68,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BW-KN-W131-20240531-000",
+    "version": 5,
+    "startDate": "2024-05-31T10:48:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Verunreinigung des Trinkwassers - Mühlingen und die Bahnhofstraße in Zoznegg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
