@@ -111,5 +111,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-BY-KE-W173-20240531-000",
+    "version": 5,
+    "startDate": "2024-05-31T18:29:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bitte bleiben Sie zu Hause - Stadtgebiet Lindau (Bodensee)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-021"
+    }
   }
 ]
