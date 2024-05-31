@@ -124,5 +124,19 @@
     "transKeys": {
       "event": "BBK-EVC-062"
     }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240531-000",
+    "version": 5,
+    "startDate": "2024-05-31T23:50:01+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brunnenbach droht überzulaufen - Haunstetten Bereich Brunnenbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
