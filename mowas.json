@@ -586,5 +586,33 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-BY-ED-W186-20240601-000",
+    "version": 5,
+    "startDate": "2024-06-01T18:57:51+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser im Landkreis Freising - Hohenkammer. Allershausen, Kirchdorf, Zolling, Inkofen, Moosburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20240601-000",
+    "version": 5,
+    "startDate": "2024-06-01T19:09:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasseralarmstufe 1 - Eberbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
