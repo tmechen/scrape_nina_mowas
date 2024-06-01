@@ -614,5 +614,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20240601-005",
+    "version": 5,
+    "startDate": "2024-06-01T19:44:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser  - Katastrophenfall festgestellt. - Neuburg-Schrobenhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
