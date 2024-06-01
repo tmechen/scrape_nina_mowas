@@ -642,5 +642,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-BW-WN-W053-20240601-001",
+    "version": 5,
+    "startDate": "2024-06-01T21:13:48+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahr durch Verunreinigung des Trinkwassers - Teilorte Alfdorf, Teilorte Kaisersbach, Teilorte Gschwend"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
