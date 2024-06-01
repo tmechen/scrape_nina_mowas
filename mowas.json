@@ -309,5 +309,61 @@
     "transKeys": {
       "event": "BBK-EVC-021"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240601-50-000",
+    "version": 5,
+    "startDate": "2024-06-01T11:32:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Wasser ist in das Wasserwerk eingedrungen, Abkochgebot - Landkreis Göppingen - Wiesensteig"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240601-003",
+    "version": 5,
+    "startDate": "2024-06-01T11:34:30+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserlage im Landkreis Augsburg - Fischach, Langenneufnach und Gessertshausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240601-003",
+    "version": 5,
+    "startDate": "2024-06-01T11:37:57+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausrufung des Katastrophenfalles im Landkreis Neu-Ulm - gesamter Landkreis Neu-Ulm"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240601-84-000",
+    "version": 5,
+    "startDate": "2024-06-01T11:41:18+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserlage im Landkreis Augsburg - Gessertshausen, Fischach und Langenneufnach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
