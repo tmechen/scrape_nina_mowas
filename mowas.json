@@ -166,5 +166,33 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240601-000",
+    "version": 5,
+    "startDate": "2024-06-01T02:07:37+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Überschwemmung Ortsgebiet Fischach - Fischach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240601-001",
+    "version": 5,
+    "startDate": "2024-06-01T02:10:34+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Überschwemmung im Ortsgebiet Gessertshausen - Gessertshausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
   }
 ]
