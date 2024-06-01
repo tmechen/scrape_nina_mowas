@@ -532,20 +532,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240601-013",
-    "version": 5,
-    "startDate": "2024-06-01T18:14:25+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Evakuierungsempfehlungen im Landkreis Augsburg - Landkreis Augsburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240601-009",
     "version": 5,
     "startDate": "2024-06-01T18:16:30+02:00",
@@ -656,6 +642,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240601-015",
+    "version": 5,
+    "startDate": "2024-06-01T22:12:48+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Aktualisierung Evakuierungsempfehlungen im Landkreis Augsburg - Landkreis Augsburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
