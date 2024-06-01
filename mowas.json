@@ -494,5 +494,47 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-BW-WN-W053-20240601-000",
+    "version": 5,
+    "startDate": "2024-06-01T14:14:18+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser - Rudersberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20240601-001",
+    "version": 5,
+    "startDate": "2024-06-01T14:18:21+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser im Landkreis Pfaffenhofen a.d.Ilm - Katastrophenfall festgestellt - Landkreis Pfaffenhofen a.d.Ilm"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240601-005",
+    "version": 5,
+    "startDate": "2024-06-01T14:26:38+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserlage im Stadtgebiet Memmingen - Stadt Memmingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
