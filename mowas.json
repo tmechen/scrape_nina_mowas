@@ -616,12 +616,26 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20240601-005",
+    "id": "mow.DE-BW-S-SE018-20240601-18-002",
     "version": 5,
-    "startDate": "2024-06-01T19:44:52+02:00",
-    "severity": "Minor",
+    "startDate": "2024-06-01T20:24:25+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
     "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahrenlage  Akute Überflutungsgefahr in Öhringen - Öhringen-Altstadt, Teilorte Cappel, Unterohrn und Ohrnberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20240601-006",
+    "version": 5,
+    "startDate": "2024-06-01T20:27:28+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
     "i18nTitle": {
       "de": "Hochwasser  - Katastrophenfall festgestellt. - Neuburg-Schrobenhausen"
     },
