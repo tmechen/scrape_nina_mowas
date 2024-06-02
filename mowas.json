@@ -854,5 +854,75 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BW-WN-W053-20240602-000",
+    "version": 5,
+    "startDate": "2024-06-02T13:47:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserlage Rems insbesondere Gemeinde Winterbach - Winterbach, Remshalden, Weinstadt, Waiblingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20240602-005",
+    "version": 5,
+    "startDate": "2024-06-02T13:52:44+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Drohende Überschwemmungen im Naherholungsgebiet Baggersee / Roter Gries  - Naherholungsgebiet Baggersee / Roter Gries"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240602-006",
+    "version": 5,
+    "startDate": "2024-06-02T14:01:57+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Wichtige Informationen für die Bewohner der bebauten Gebiete entlang der Zusam - Buttenwiesen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240602-84-004",
+    "version": 5,
+    "startDate": "2024-06-02T14:14:58+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromabschaltung im Ortsteil Göttschlag - Gemeinde Allershausen - Ortsteil Göttschlag"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240602-84-005",
+    "version": 5,
+    "startDate": "2024-06-02T14:22:20+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall in der Gemeinde Kirchdorf - Gemeinde Kirchdorf an der Amper"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
