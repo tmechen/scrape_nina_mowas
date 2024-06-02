@@ -1095,5 +1095,19 @@
     "transKeys": {
       "event": "BBK-EVC-062"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240602-50-004",
+    "version": 5,
+    "startDate": "2024-06-02T23:30:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "unklare Hochwassersituation auf dem Neckar. - Esslingen am Neckar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
