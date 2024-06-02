@@ -308,20 +308,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-RE-SE078-20240601-78-001",
-    "version": 5,
-    "startDate": "2024-06-01T12:30:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Vorsorgliche Information zu einer Geruchsbelästigung - Recklinghausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240601-008",
     "version": 5,
     "startDate": "2024-06-01T12:39:30+02:00",
@@ -726,6 +712,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-RE-SE078-20240602-78-000",
+    "version": 5,
+    "startDate": "2024-06-02T07:35:45+02:00",
+    "expiresDate": "2024-06-02T13:35:45+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Vorsorgliche Information zu einer Geruchsbelästigung - Recklinghausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
