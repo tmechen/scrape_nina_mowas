@@ -700,20 +700,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-L-W093-20240602-000",
-    "version": 5,
-    "startDate": "2024-06-02T05:47:02+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand in der Großpösna Gruna Zentraldeponie Cröbern  - Großpösna Gruna Am Westufer 3 Zentraldeponie Cröbern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240602-002",
     "version": 5,
     "startDate": "2024-06-02T06:35:13+02:00",
@@ -725,6 +711,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SN-L-W093-20240602-001",
+    "version": 5,
+    "startDate": "2024-06-02T07:07:00+02:00",
+    "expiresDate": "2024-06-02T13:07:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand in der Großpösna Gruna Zentraldeponie Cröbern  - Großpösna Gruna Am Westufer 3 Zentraldeponie Cröbern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
