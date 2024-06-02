@@ -532,20 +532,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20240601-006",
-    "version": 5,
-    "startDate": "2024-06-01T20:27:28+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasser  - Katastrophenfall festgestellt. - Neuburg-Schrobenhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-WN-W053-20240601-001",
     "version": 5,
     "startDate": "2024-06-01T21:13:48+02:00",
@@ -796,6 +782,20 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Drohender Dammbruch - begeben Sie sich in höhere Stockwerke! - Rottmannshart, Westenhausen, Lindach, Ernsgaden, Irsching, Knodorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20240602-003",
+    "version": 5,
+    "startDate": "2024-06-02T12:19:39+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasser  - Aktuelle Hinweise - Neuburg-Schrobenhausen"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
