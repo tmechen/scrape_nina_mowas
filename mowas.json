@@ -574,20 +574,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20240601-000",
-    "version": 5,
-    "startDate": "2024-06-01T19:09:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasseralarmstufe 1 - Eberbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20240601-18-002",
     "version": 5,
     "startDate": "2024-06-01T20:24:25+02:00",
@@ -726,6 +712,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20240602-000",
+    "version": 5,
+    "startDate": "2024-06-02T07:22:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasseralarmstufe 2 - Eberbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
