@@ -1096,5 +1096,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240602-014",
+    "version": 5,
+    "startDate": "2024-06-02T21:49:41+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Information zu Grundversorgung und Notunterbringung - Landkreis Unterallgäu - Gemeindegebiet Babenhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
