@@ -953,9 +953,9 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240602-84-008",
+    "id": "mow.DE-BY-R-SE084-20240602-84-009",
     "version": 5,
-    "startDate": "2024-06-02T17:05:20+02:00",
+    "startDate": "2024-06-02T17:26:58+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
     "type": "Update",
@@ -964,6 +964,34 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240602-007",
+    "version": 5,
+    "startDate": "2024-06-02T17:37:46+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserlage in Burgau - Stadt Burgau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-FFB-W143-20240602-000",
+    "version": 5,
+    "startDate": "2024-06-02T17:39:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Möglicher Ausfall Telefon, Internet, Mobilfunk im Bereich Gröbenzell - Gemeinde Gröbenzell und umliegende Ortschaften"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
     }
   }
 ]
