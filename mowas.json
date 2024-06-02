@@ -546,20 +546,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20240601-18-002",
-    "version": 5,
-    "startDate": "2024-06-01T20:24:25+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahrenlage  Akute Überflutungsgefahr in Öhringen - Öhringen-Altstadt, Teilorte Cappel, Unterohrn und Ohrnberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20240601-006",
     "version": 5,
     "startDate": "2024-06-01T20:27:28+02:00",
@@ -724,6 +710,35 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Hochwasser im Landkreis Freising - Hohenkammer. Allershausen, Kirchdorf, Zolling, Inkofen, Moosburg,"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240602-18-000",
+    "version": 5,
+    "startDate": "2024-06-02T10:00:31+02:00",
+    "expiresDate": "2024-06-02T16:00:31+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahrenlage  Akute Überflutungsgefahr in Öhringen - Öhringen-Altstadt, Teilorte Cappel, Unterohrn und Ohrnberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240602-84-001",
+    "version": 5,
+    "startDate": "2024-06-02T10:13:19+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Akute Überflutungsgefahr, niedrige Stockwerke verlassen! - Gemeinden Hohenwart, Reichertshofen, Baar-Ebenhausen, Manching"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
