@@ -939,20 +939,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-FFB-W143-20240602-000",
-    "version": 5,
-    "startDate": "2024-06-02T17:39:34+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Möglicher Ausfall Telefon, Internet, Mobilfunk im Bereich Gröbenzell - Gemeinde Gröbenzell und umliegende Ortschaften"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-006"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240602-009",
     "version": 5,
     "startDate": "2024-06-02T17:59:39+02:00",
@@ -1018,6 +1004,35 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "erhöhter Grundwasserspiegel im Bereich Moosburg zu erwarten - Stadt Moosburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-FFB-W143-20240602-001",
+    "version": 5,
+    "startDate": "2024-06-02T19:51:07+02:00",
+    "expiresDate": "2024-06-03T01:51:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Möglicher Ausfall Telefon, Internet, Mobilfunk im Bereich Gröbenzell - Gemeinde Gröbenzell und umliegende Ortschaften"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
+    }
+  },
+  {
+    "id": "mow.DE-RP-SIM-W243-20240602-000",
+    "version": 5,
+    "startDate": "2024-06-02T20:08:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vorwarnung Hochwasser - St.Goar"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
