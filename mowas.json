@@ -126,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20240531-001",
-    "version": 5,
-    "startDate": "2024-06-01T01:38:56+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwassergefahr - Bad Wörishofen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240601-000",
     "version": 5,
     "startDate": "2024-06-01T02:07:37+02:00",
@@ -165,34 +151,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-071"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KRU-W174-20240601-000",
-    "version": 5,
-    "startDate": "2024-06-01T04:23:00+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwassergefahr - Bad Grönenbach Ortsteil Zell"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KRU-W174-20240601-001",
-    "version": 5,
-    "startDate": "2024-06-01T05:19:41+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser - Dirlewang"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
     }
   },
   {
@@ -1075,6 +1033,51 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Umgang mit ölverschmutztem Wasser im Gebäude - Landkreis Augsburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240602-011",
+    "version": 5,
+    "startDate": "2024-06-02T21:21:24+02:00",
+    "expiresDate": "2024-06-03T03:21:24+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwassergefahr - Bad Wörishofen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240602-012",
+    "version": 5,
+    "startDate": "2024-06-02T21:21:34+02:00",
+    "expiresDate": "2024-06-03T03:21:34+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser - Dirlewang"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240602-013",
+    "version": 5,
+    "startDate": "2024-06-02T21:21:47+02:00",
+    "expiresDate": "2024-06-03T03:21:47+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwassergefahr - Bad Grönenbach Ortsteil Zell"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
