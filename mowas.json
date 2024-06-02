@@ -743,5 +743,33 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240602-50-000",
+    "version": 5,
+    "startDate": "2024-06-02T10:38:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Überflutung im Bereich des Kochers der Ortschaften Ohrnberg und Möglingen. - Öhringen, Teilorte Ohrnberg und Möglingen."
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240602-003",
+    "version": 5,
+    "startDate": "2024-06-02T10:45:00+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser im Bereich Wertingen - Wertingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
