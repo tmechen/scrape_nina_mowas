@@ -1082,5 +1082,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240602-012",
+    "version": 5,
+    "startDate": "2024-06-02T21:31:17+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sofortige Evakuierung in mehreren Bereichen erforderlich - Donauwörth"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
