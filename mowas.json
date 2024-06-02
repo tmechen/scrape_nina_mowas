@@ -854,20 +854,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240602-84-006",
-    "version": 5,
-    "startDate": "2024-06-02T15:42:52+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landratsamt Unterallgäu - aktuelle Information zur Trinkwasserversorgung - Landkreis Unterallgäu"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20240602-006",
     "version": 5,
     "startDate": "2024-06-02T15:44:26+02:00",
@@ -939,20 +925,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240602-84-009",
-    "version": 5,
-    "startDate": "2024-06-02T17:26:58+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Information zur Trinkwasserversorgung  - Landkreis Unterallgäu"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240602-007",
     "version": 5,
     "startDate": "2024-06-02T17:37:46+02:00",
@@ -1006,6 +978,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240602-84-010",
+    "version": 5,
+    "startDate": "2024-06-02T18:55:02+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Information zur Trinkwasserversorgung  - Landkreis Unterallgäu"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240602-84-011",
+    "version": 5,
+    "startDate": "2024-06-02T18:57:56+02:00",
+    "expiresDate": "2024-06-03T00:57:56+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landratsamt Unterallgäu - aktuelle Information zur Trinkwasserversorgu - Landkreis Unterallgäu"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-ED-W186-20240602-004",
+    "version": 5,
+    "startDate": "2024-06-02T19:05:15+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "erhöhter Grundwasserspiegel im Bereich Moosburg zu erwarten - Stadt Moosburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
