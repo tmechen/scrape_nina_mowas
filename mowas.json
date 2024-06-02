@@ -882,21 +882,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240602-84-011",
-    "version": 5,
-    "startDate": "2024-06-02T18:57:56+02:00",
-    "expiresDate": "2024-06-03T00:57:56+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Landratsamt Unterallgäu - aktuelle Information zur Trinkwasserversorgu - Landkreis Unterallgäu"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-ED-W186-20240602-004",
     "version": 5,
     "startDate": "2024-06-02T19:05:15+02:00",
@@ -1150,6 +1135,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-015"
+    }
+  },
+  {
+    "id": "mow.DE-BW-AA-W035-20240602-000",
+    "version": 5,
+    "startDate": "2024-06-03T01:12:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vorbereitung einer Evakuierung/Räumung  - Leintal, Gemeinden: Abtsgmünd, Heuchlingen, Leinzell und Täferrot"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-016"
     }
   }
 ]
