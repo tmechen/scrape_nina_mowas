@@ -378,20 +378,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20240601-005",
-    "version": 5,
-    "startDate": "2024-06-01T14:26:38+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserlage im Stadtgebiet Memmingen - Stadt Memmingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240601-010",
     "version": 5,
     "startDate": "2024-06-01T14:36:07+02:00",
@@ -767,6 +753,35 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Hochwasser im Bereich Wertingen - Wertingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240602-000",
+    "version": 5,
+    "startDate": "2024-06-02T10:48:11+02:00",
+    "expiresDate": "2024-06-02T16:48:11+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserlage im Stadtgebiet Memmingen - Stadt Memmingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240602-84-002",
+    "version": 5,
+    "startDate": "2024-06-02T11:14:16+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Dammbruch - akute Überflutungen - umgehend das Erdgeschoß verlassen! - Gemeinden Reichertshofen, Baar-Ebenhausen, Manching"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
