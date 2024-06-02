@@ -784,20 +784,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20240602-002",
-    "version": 5,
-    "startDate": "2024-06-02T13:44:09+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserbesrogung Stadt Günzburg - Stadtgebiet Günzburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-WN-W053-20240602-000",
     "version": 5,
     "startDate": "2024-06-02T13:47:14+02:00",
@@ -1006,6 +992,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240602-008",
+    "version": 5,
+    "startDate": "2024-06-02T18:39:59+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Trinkwasserbesrogung Stadt Günzburg - Stadtgebiet Günzburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
