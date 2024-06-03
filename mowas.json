@@ -1384,5 +1384,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BY-KE-W173-20240603-001",
+    "version": 5,
+    "startDate": "2024-06-03T15:25:41+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kollerbach droht über die Ufer zu treten - Stadt Kempten (Allgäu) - Stadtteile Hinterbach und Hirschdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
   }
 ]
