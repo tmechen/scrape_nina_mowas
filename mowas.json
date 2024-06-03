@@ -364,20 +364,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240601-017",
-    "version": 5,
-    "startDate": "2024-06-01T23:52:38+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Evakuierung im Landkreis Augsburg - Landkreis Augsburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240602-000",
     "version": 5,
     "startDate": "2024-06-02T03:00:23+02:00",
@@ -910,20 +896,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KE-W173-20240603-002",
-    "version": 5,
-    "startDate": "2024-06-03T15:31:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Straßensperrung aufgrund eines Feuerwehreinssatzes - Stadt Kempten (Allgäu) - Stadtteile Hinterbach und Hirschdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20240603-003",
     "version": 5,
     "startDate": "2024-06-03T16:19:06+02:00",
@@ -963,21 +935,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240603-004",
-    "version": 5,
-    "startDate": "2024-06-03T17:09:26+02:00",
-    "expiresDate": "2024-06-03T23:09:26+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brunnenbach droht überzulaufen - Haunstetten Bereich Brunnenbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
     }
   },
   {
@@ -1292,6 +1249,35 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Evakuierung von Teilen von Diedorf / Anhausen - Diedorf, Anhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KE-W173-20240603-006",
+    "version": 5,
+    "startDate": "2024-06-03T22:55:35+02:00",
+    "expiresDate": "2024-06-04T04:55:35+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Straßensperrung aufgrund eines Feuerwehreinssatzes - Stadt Kempten (Allgäu) - Stadtteile Hinterbach und Hirschdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240603-011",
+    "version": 5,
+    "startDate": "2024-06-03T23:01:51+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Teilweise ENTWARNUNG der Evakuierung im Landkreis Augsburg - Landkreis Augsburg"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
