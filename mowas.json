@@ -1135,20 +1135,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20240603-18-002",
-    "version": 5,
-    "startDate": "2024-06-03T04:16:15+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Extreme Hochwasserlage - Leutenbach, Winterbach, Remshalden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20240603-18-003",
     "version": 5,
     "startDate": "2024-06-03T04:56:35+02:00",
@@ -1171,6 +1157,34 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Anweisung zur Evakuierung/Räumung  - Heuchlingen, Leinzell, Göggingen Ortsteile Mulfingen und Horn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20240603-000",
+    "version": 5,
+    "startDate": "2024-06-03T05:37:28+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Dammbruch in Pichl - Ortsteil Pichl - Benediktstr. + Martinstr + Peterstr"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-015"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240603-18-005",
+    "version": 5,
+    "startDate": "2024-06-03T05:45:40+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Extreme Hochwasserlage - Leutenbach, Winterbach, Remshalden, Weinstadt, Waiblingen"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
