@@ -126,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-FFB-W143-20240601-000",
-    "version": 5,
-    "startDate": "2024-06-01T10:06:46+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starzelbach geht über die Ufer - Eichenau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240601-002",
     "version": 5,
     "startDate": "2024-06-01T10:18:08+02:00",
@@ -952,35 +938,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-WN-W053-20240603-004",
-    "version": 5,
-    "startDate": "2024-06-03T06:47:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Schulen und Kinderbetreuungseinrichtungen bleiben geschlossen - Waiblingen, Weinstadt, Remshalden, Winterbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-TH-G-W109-20240603-000",
-    "version": 5,
-    "startDate": "2024-06-03T07:43:37+02:00",
-    "expiresDate": "2024-06-03T13:43:37+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Vorabinformation Unwetter mit heftigem/ergiebigem Regen - Altenburger Land"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BW-AA-W035-20240603-003",
     "version": 5,
     "startDate": "2024-06-03T07:59:32+02:00",
@@ -1051,20 +1008,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20240603-18-010",
-    "version": 5,
-    "startDate": "2024-06-03T09:43:47+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Verunreinigung des Trinkwassers in der Gemeinde Rudersberg - Rudersberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
     }
   },
   {
@@ -1384,6 +1327,77 @@
     },
     "transKeys": {
       "event": "BBK-EVC-073"
+    }
+  },
+  {
+    "id": "mow.DE-BW-WN-W053-20240603-011",
+    "version": 5,
+    "startDate": "2024-06-03T13:48:43+02:00",
+    "expiresDate": "2024-06-03T19:48:43+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Schulen und Kinderbetreuungseinrichtungen bleiben geschlossen - Waiblingen, Weinstadt, Remshalden, Winterbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KE-W173-20240603-000",
+    "version": 5,
+    "startDate": "2024-06-03T14:03:08+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kollerbach droht über die Ufer zu treten - Stadt Kempten (Allgäu) - Stadtteile Hinterbach und Hirschdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-BY-FFB-W143-20240603-001",
+    "version": 5,
+    "startDate": "2024-06-03T14:07:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Überflutungen durch Stauungen in einem Ablaufgraben in Eichenau - Eichenau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240603-001",
+    "version": 5,
+    "startDate": "2024-06-03T14:19:10+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abschaltung Trinkwasserversorgung in Leipheim - Stadt Leipheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240603-18-020",
+    "version": 5,
+    "startDate": "2024-06-03T14:19:19+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Trinkwasserversorgung in Rudersberg - Rudersberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
