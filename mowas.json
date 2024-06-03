@@ -532,20 +532,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-SDL-W029-20240602-000",
-    "version": 5,
-    "startDate": "2024-06-02T04:06:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brandgeruch - Gardelegen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240602-002",
     "version": 5,
     "startDate": "2024-06-02T06:35:13+02:00",
@@ -1202,6 +1188,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BW-WN-W053-20240603-004",
+    "version": 5,
+    "startDate": "2024-06-03T06:47:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Schulen und Kinderbetreuungseinrichtungen bleiben geschlossen - Waiblingen, Weinstadt, Remshalden, Winterbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-ST-SDL-W029-20240603-000",
+    "version": 5,
+    "startDate": "2024-06-03T07:08:38+02:00",
+    "expiresDate": "2024-06-03T13:08:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandgeruch - Gardelegen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240603-18-007",
+    "version": 5,
+    "startDate": "2024-06-03T07:15:40+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Extreme Hochwasserlage - Remseck Neckarrems und Hochdorf - Remseck Stadtgebiet Neckarrems und Hochdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
     }
   }
 ]
