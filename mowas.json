@@ -938,21 +938,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240603-50-007",
-    "version": 5,
-    "startDate": "2024-06-03T12:34:16+02:00",
-    "expiresDate": "2024-06-03T18:34:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Überflutung im Bereich des Kochers der Ortschaften Ohrnberg und Möglin - Öhringen, Teilorte Ohrnberg und Möglingen."
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20240603-002",
     "version": 5,
     "startDate": "2024-06-03T12:58:43+02:00",
