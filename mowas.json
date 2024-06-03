@@ -966,20 +966,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KH-SE111-20240603-114-000",
-    "version": 5,
-    "startDate": "2024-06-03T16:16:54+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasser - St.Goar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20240603-003",
     "version": 5,
     "startDate": "2024-06-03T16:19:06+02:00",
@@ -1335,6 +1321,20 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Bevölkerungswarnung  - Landkreis Rosenheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KH-SE111-20240603-114-001",
+    "version": 5,
+    "startDate": "2024-06-03T20:58:30+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasser - St.Goar"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
