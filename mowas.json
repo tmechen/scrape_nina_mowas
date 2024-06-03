@@ -322,20 +322,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20240601-002",
-    "version": 5,
-    "startDate": "2024-06-01T15:10:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserwarnung Gailach - Mühlheim, Mörnsheim, Hagenacker, Dollnstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20240601-84-001",
     "version": 5,
     "startDate": "2024-06-01T16:12:31+02:00",
@@ -1357,6 +1343,21 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Hochwasser Stadt Regensburg  - Regensburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20240603-001",
+    "version": 5,
+    "startDate": "2024-06-03T11:16:05+02:00",
+    "expiresDate": "2024-06-03T17:16:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserwarnung Gailach - Mühlheim, Mörnsheim, Hagenacker, Dollnstein"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
