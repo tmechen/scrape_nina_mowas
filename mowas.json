@@ -434,20 +434,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240602-002",
-    "version": 5,
-    "startDate": "2024-06-02T06:35:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung der Bevölkerung - Rehling-Oberach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-HD-W086-20240602-000",
     "version": 5,
     "startDate": "2024-06-02T07:22:57+02:00",
@@ -938,21 +924,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-WN-W053-20240603-011",
-    "version": 5,
-    "startDate": "2024-06-03T13:48:43+02:00",
-    "expiresDate": "2024-06-03T19:48:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Schulen und Kinderbetreuungseinrichtungen bleiben geschlossen - Waiblingen, Weinstadt, Remshalden, Winterbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-FFB-W143-20240603-001",
     "version": 5,
     "startDate": "2024-06-03T14:07:51+02:00",
@@ -1335,6 +1306,21 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Markt Offingen: : Sofortiges Verlassen der evakuierten Gebiete angeordnet - Markt Offingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240603-008",
+    "version": 5,
+    "startDate": "2024-06-03T20:09:31+02:00",
+    "expiresDate": "2024-06-04T02:09:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung der Bevölkerung - Rehling-Oberach"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
