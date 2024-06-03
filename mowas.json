@@ -1133,5 +1133,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240603-18-002",
+    "version": 5,
+    "startDate": "2024-06-03T04:16:15+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Extreme Hochwasserlage - Leutenbach, Winterbach, Remshalden"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
