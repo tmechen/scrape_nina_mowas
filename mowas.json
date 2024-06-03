@@ -966,21 +966,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240603-002",
-    "version": 5,
-    "startDate": "2024-06-03T11:39:09+02:00",
-    "expiresDate": "2024-06-03T17:39:09+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bevorstehender Dammbruch bei Heißesheim  - Heißesheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-015"
-    }
-  },
-  {
     "id": "mow.DE-BW-WN-W053-20240603-006",
     "version": 5,
     "startDate": "2024-06-03T11:48:33+02:00",
