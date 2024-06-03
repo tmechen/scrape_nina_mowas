@@ -812,20 +812,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-FFB-W143-20240602-002",
-    "version": 5,
-    "startDate": "2024-06-02T20:59:34+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahr Rückstau bei Abwasser in Wohnungen - Olching, Gröbenzell, Puchheim, Maisach, Alling, Eichenau, Germering"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-073"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240602-012",
     "version": 5,
     "startDate": "2024-06-02T21:31:17+02:00",
@@ -1384,6 +1370,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-FFB-W143-20240603-000",
+    "version": 5,
+    "startDate": "2024-06-03T13:37:46+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Gefahr Rückstau bei Abwasser in Wohnungen - Verbandsgebiet des Amperverbandes"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-073"
     }
   }
 ]
