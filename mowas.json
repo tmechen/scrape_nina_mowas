@@ -1008,21 +1008,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20240603-18-024",
-    "version": 5,
-    "startDate": "2024-06-03T18:34:15+02:00",
-    "expiresDate": "2024-06-04T00:34:15+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einem möglichen 100-jährigen Hochwasserereignis - Abtsgmün - Abtsgmünd (Talsole entlang der Lein)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240603-006",
     "version": 5,
     "startDate": "2024-06-03T18:55:14+02:00",
