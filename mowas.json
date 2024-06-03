@@ -1189,5 +1189,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240603-18-006",
+    "version": 5,
+    "startDate": "2024-06-03T06:08:23+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Anweisung zur Evakuierung/Räumung  - Abtsgmünd (Talsole entlang der Lein)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
