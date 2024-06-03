@@ -952,21 +952,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-BL-W128-20240603-000",
-    "version": 5,
-    "startDate": "2024-06-03T08:44:29+02:00",
-    "expiresDate": "2024-06-03T14:44:29+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Drohende Überflutung im Bereich Starzel und Zuläufe - Gemeinde Rangendingen und Ortsteile"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240603-000",
     "version": 5,
     "startDate": "2024-06-03T08:52:58+02:00",
