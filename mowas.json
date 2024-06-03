@@ -784,20 +784,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-SIM-W243-20240602-000",
-    "version": 5,
-    "startDate": "2024-06-02T20:08:37+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vorwarnung Hochwasser - St.Goar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240602-012",
     "version": 5,
     "startDate": "2024-06-02T21:31:17+02:00",
@@ -980,20 +966,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20240603-18-012",
-    "version": 5,
-    "startDate": "2024-06-03T10:01:30+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Warnung vor einem möglichen 100-jährigen Hochwasserereignis  - Heuchlingen, Leinzell, Göggingen Ortsteile Mulfingen und Horn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240603-50-005",
     "version": 5,
     "startDate": "2024-06-03T10:03:13+02:00",
@@ -1002,20 +974,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Hochwassersituation auf dem Neckar bei Esslingen - Esslingen am Neckar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20240603-18-013",
-    "version": 5,
-    "startDate": "2024-06-03T10:07:17+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Warnung vor einem möglichen 100-jährigen Hochwasserereignis    - Täferrot"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
@@ -1381,6 +1339,64 @@
     },
     "transKeys": {
       "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KH-SE111-20240603-114-000",
+    "version": 5,
+    "startDate": "2024-06-03T16:16:54+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasser - St.Goar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20240603-003",
+    "version": 5,
+    "startDate": "2024-06-03T16:19:06+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Drohende Überschwemmung südlich vom Deich Probierlweg/Westliche Ringstraße - Bereich südlich Deich Probierlweg / Westliche Ringstraße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240603-18-021",
+    "version": 5,
+    "startDate": "2024-06-03T16:29:39+02:00",
+    "expiresDate": "2024-06-03T22:29:39+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einem möglichen 100-jährigen Hochwasserereignis    - Täferrot"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240603-18-022",
+    "version": 5,
+    "startDate": "2024-06-03T16:30:11+02:00",
+    "expiresDate": "2024-06-03T22:30:11+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einem möglichen 100-jährigen Hochwasserereignis  - Heuchlingen, Leinzell, Göggingen Ortsteile Mulfingen und Horn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
