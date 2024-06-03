@@ -980,21 +980,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-SDL-W029-20240603-000",
-    "version": 5,
-    "startDate": "2024-06-03T07:08:38+02:00",
-    "expiresDate": "2024-06-03T13:08:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandgeruch - Gardelegen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20240603-000",
     "version": 5,
     "startDate": "2024-06-03T07:43:37+02:00",
@@ -1382,6 +1367,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Überflutung im Bereich des Kochers der Ortschaften Ohrnberg und Möglin - Öhringen, Teilorte Ohrnberg und Möglingen."
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20240603-002",
+    "version": 5,
+    "startDate": "2024-06-03T12:58:43+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Evakuierung des Ortsteiles Rottmannshart - Rottmannshart - (OT der Gemeinde Manching)"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
