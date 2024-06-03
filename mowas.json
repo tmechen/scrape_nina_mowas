@@ -280,20 +280,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-WN-W053-20240601-000",
-    "version": 5,
-    "startDate": "2024-06-01T14:14:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser - Rudersberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20240601-001",
     "version": 5,
     "startDate": "2024-06-01T14:18:21+02:00",
@@ -658,20 +644,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-WN-W053-20240602-000",
-    "version": 5,
-    "startDate": "2024-06-02T13:47:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserlage Rems insbesondere Gemeinde Winterbach - Winterbach, Remshalden, Weinstadt, Waiblingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240602-006",
     "version": 5,
     "startDate": "2024-06-02T14:01:57+02:00",
@@ -854,20 +826,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20240602-18-001",
-    "version": 5,
-    "startDate": "2024-06-02T20:25:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Entspannung der Lage - Rems-Murr_kreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-FFB-W143-20240602-002",
     "version": 5,
     "startDate": "2024-06-02T20:59:34+02:00",
@@ -1022,20 +980,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20240603-18-001",
-    "version": 5,
-    "startDate": "2024-06-03T03:25:59+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Extreme Hochwasserlage - mehrere Ortschaften im Rems-Murr-Kreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20240603-000",
     "version": 5,
     "startDate": "2024-06-03T05:37:28+02:00",
@@ -1047,20 +991,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-015"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20240603-18-005",
-    "version": 5,
-    "startDate": "2024-06-03T05:45:40+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Extreme Hochwasserlage - Leutenbach, Winterbach, Remshalden, Weinstadt, Waiblingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
     }
   },
   {
@@ -1093,34 +1023,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20240603-18-007",
-    "version": 5,
-    "startDate": "2024-06-03T07:15:40+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Extreme Hochwasserlage - Remseck Neckarrems und Hochdorf - Remseck Stadtgebiet Neckarrems und Hochdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20240603-18-008",
-    "version": 5,
-    "startDate": "2024-06-03T07:31:50+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Extreme Hochwasserlage - Flüsse und Bäche Landkreis Ludwigsburg - Landkreis Ludwigsburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20240603-000",
     "version": 5,
     "startDate": "2024-06-03T07:43:37+02:00",
@@ -1133,20 +1035,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20240603-18-009",
-    "version": 5,
-    "startDate": "2024-06-03T07:56:26+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Extreme Hochwasserlage - Steinheim - Steinheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
     }
   },
   {
@@ -1376,6 +1264,126 @@
     },
     "transKeys": {
       "event": "BBK-EVC-015"
+    }
+  },
+  {
+    "id": "mow.DE-BW-WN-W053-20240603-006",
+    "version": 5,
+    "startDate": "2024-06-03T11:48:33+02:00",
+    "expiresDate": "2024-06-03T17:48:33+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser - Rudersberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BW-WN-W053-20240603-007",
+    "version": 5,
+    "startDate": "2024-06-03T11:49:38+02:00",
+    "expiresDate": "2024-06-03T17:49:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserlage Rems insbesondere Gemeinde Winterbach - Winterbach, Remshalden, Weinstadt, Waiblingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240603-18-014",
+    "version": 5,
+    "startDate": "2024-06-03T11:55:57+02:00",
+    "expiresDate": "2024-06-03T17:55:57+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Extreme Hochwasserlage - Flüsse und Bäche Landkreis Ludwigsburg - Landkreis Ludwigsburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240603-18-015",
+    "version": 5,
+    "startDate": "2024-06-03T11:56:49+02:00",
+    "expiresDate": "2024-06-03T17:56:49+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Extreme Hochwasserlage - Steinheim - Steinheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240603-50-006",
+    "version": 5,
+    "startDate": "2024-06-03T11:56:51+02:00",
+    "expiresDate": "2024-06-03T17:56:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Entspannung der Lage - Rems-Murr_kreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240603-18-016",
+    "version": 5,
+    "startDate": "2024-06-03T11:57:44+02:00",
+    "expiresDate": "2024-06-03T17:57:44+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Extreme Hochwasserlage - Remseck Neckarrems und Hochdorf - Remseck Stadtgebiet Neckarrems und Hochdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240603-18-017",
+    "version": 5,
+    "startDate": "2024-06-03T11:57:58+02:00",
+    "expiresDate": "2024-06-03T17:57:58+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Extreme Hochwasserlage - Leutenbach, Winterbach, Remshalden, Weinstadt, Waiblingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240603-18-018",
+    "version": 5,
+    "startDate": "2024-06-03T11:58:22+02:00",
+    "expiresDate": "2024-06-03T17:58:22+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Extreme Hochwasserlage - mehrere Ortschaften im Rems-Murr-Kreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
