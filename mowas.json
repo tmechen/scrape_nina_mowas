@@ -644,20 +644,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240602-007",
-    "version": 5,
-    "startDate": "2024-06-02T16:26:17+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Warnung vor Dammbruch in Nordendorf - Nordendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20240602-007",
     "version": 5,
     "startDate": "2024-06-02T16:46:14+02:00",
@@ -865,20 +851,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-015"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20240603-18-011",
-    "version": 5,
-    "startDate": "2024-06-03T10:01:12+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Warnung vor einem möglichen 100-jährigen Hochwasserereignis - Abtsgmünd - Abtsgmünd (Talsole entlang der Lein)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
     }
   },
   {
@@ -1306,6 +1278,36 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Warnung vor einem möglichen 10-jährigen Hochwasserereignis entlang des Kochers  - Abtsgmünd und Obergröningen (Teilorte Fach und Algishofen)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240603-005",
+    "version": 5,
+    "startDate": "2024-06-03T18:25:14+02:00",
+    "expiresDate": "2024-06-04T00:25:14+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor Dammbruch in Nordendorf - Nordendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240603-18-024",
+    "version": 5,
+    "startDate": "2024-06-03T18:34:15+02:00",
+    "expiresDate": "2024-06-04T00:34:15+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einem möglichen 100-jährigen Hochwasserereignis - Abtsgmün - Abtsgmünd (Talsole entlang der Lein)"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
