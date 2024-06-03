@@ -854,20 +854,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-AA-W035-20240603-003",
-    "version": 5,
-    "startDate": "2024-06-03T07:59:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vorwarnung über mögliches Hochwasser / Überflutung Entlang des Kochers - Abtsgmünd und Obergröningen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240603-000",
     "version": 5,
     "startDate": "2024-06-03T08:52:58+02:00",
@@ -966,126 +952,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-WN-W053-20240603-006",
-    "version": 5,
-    "startDate": "2024-06-03T11:48:33+02:00",
-    "expiresDate": "2024-06-03T17:48:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser - Rudersberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BW-WN-W053-20240603-007",
-    "version": 5,
-    "startDate": "2024-06-03T11:49:38+02:00",
-    "expiresDate": "2024-06-03T17:49:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserlage Rems insbesondere Gemeinde Winterbach - Winterbach, Remshalden, Weinstadt, Waiblingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20240603-18-014",
-    "version": 5,
-    "startDate": "2024-06-03T11:55:57+02:00",
-    "expiresDate": "2024-06-03T17:55:57+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Extreme Hochwasserlage - Flüsse und Bäche Landkreis Ludwigsburg - Landkreis Ludwigsburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20240603-18-015",
-    "version": 5,
-    "startDate": "2024-06-03T11:56:49+02:00",
-    "expiresDate": "2024-06-03T17:56:49+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Extreme Hochwasserlage - Steinheim - Steinheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RT-SE050-20240603-50-006",
-    "version": 5,
-    "startDate": "2024-06-03T11:56:51+02:00",
-    "expiresDate": "2024-06-03T17:56:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Entspannung der Lage - Rems-Murr_kreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20240603-18-016",
-    "version": 5,
-    "startDate": "2024-06-03T11:57:44+02:00",
-    "expiresDate": "2024-06-03T17:57:44+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Extreme Hochwasserlage - Remseck Neckarrems und Hochdorf - Remseck Stadtgebiet Neckarrems und Hochdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20240603-18-017",
-    "version": 5,
-    "startDate": "2024-06-03T11:57:58+02:00",
-    "expiresDate": "2024-06-03T17:57:58+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Extreme Hochwasserlage - Leutenbach, Winterbach, Remshalden, Weinstadt, Waiblingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20240603-18-018",
-    "version": 5,
-    "startDate": "2024-06-03T11:58:22+02:00",
-    "expiresDate": "2024-06-03T17:58:22+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Extreme Hochwasserlage - mehrere Ortschaften im Rems-Murr-Kreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240603-003",
     "version": 5,
     "startDate": "2024-06-03T12:28:25+02:00",
@@ -1158,20 +1024,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KE-W173-20240603-000",
-    "version": 5,
-    "startDate": "2024-06-03T14:03:08+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kollerbach droht über die Ufer zu treten - Stadt Kempten (Allgäu) - Stadtteile Hinterbach und Hirschdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-BY-FFB-W143-20240603-001",
     "version": 5,
     "startDate": "2024-06-03T14:07:51+02:00",
@@ -1183,20 +1035,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KRU-W174-20240603-001",
-    "version": 5,
-    "startDate": "2024-06-03T14:19:10+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Abschaltung Trinkwasserversorgung in Leipheim - Stadt Leipheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
     }
   },
   {
@@ -1222,20 +1060,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Straßensperrung aufgrund eines Feuerwehreinssatzes - Stadt Kempten (Allgäu) - Stadtteile Hinterbach und Hirschdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KE-W173-20240603-003",
-    "version": 5,
-    "startDate": "2024-06-03T15:50:55+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Kollerbach: Damm ist gebrochen - Stadt Kempten (Allgäu) - Stadtteile Hinterbach und Hirschdorf"
     },
     "transKeys": {
       "event": "BBK-EVC-071"
@@ -1396,6 +1220,92 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Hochwasserwarnung vor Ausuferungen und Überschwemmungen - Inning/Stegen, insbesondere Landsberger Straße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240603-003",
+    "version": 5,
+    "startDate": "2024-06-03T17:46:54+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Abschaltung Trinkwasserversorgung in Leipheim, Abkochgebot nach Wiederanschaltung - Stadt Leipheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-FFB-W143-20240603-003",
+    "version": 5,
+    "startDate": "2024-06-03T17:50:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasserwarnung vor Ausuferung und Überschwemmungen - Herrsching, insbesondere \"Mühlfeld\", Seepromenade und Keramikstraße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KE-W173-20240603-004",
+    "version": 5,
+    "startDate": "2024-06-03T18:05:56+02:00",
+    "expiresDate": "2024-06-04T00:05:56+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kollerbach droht über die Ufer zu treten - Stadt Kempten (Allgäu) - Stadtteile Hinterbach und Hirschdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KE-W173-20240603-005",
+    "version": 5,
+    "startDate": "2024-06-03T18:06:28+02:00",
+    "expiresDate": "2024-06-04T00:06:28+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kollerbach: Damm ist gebrochen - Stadt Kempten (Allgäu) - Stadtteile Hinterbach und Hirschdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-BY-RO-W136-20240603-000",
+    "version": 5,
+    "startDate": "2024-06-03T18:14:47+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Zu- und Abfahrt in betroffenes Gebiet nicht möglich - Miesbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
+    }
+  },
+  {
+    "id": "mow.DE-BW-AA-W035-20240603-013",
+    "version": 5,
+    "startDate": "2024-06-03T18:18:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Warnung vor einem möglichen 10-jährigen Hochwasserereignis entlang des Kochers  - Abtsgmünd und Obergröningen (Teilorte Fach und Algishofen)"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
