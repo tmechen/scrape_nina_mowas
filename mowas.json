@@ -966,36 +966,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240603-50-003",
-    "version": 5,
-    "startDate": "2024-06-03T09:30:52+02:00",
-    "expiresDate": "2024-06-03T15:30:52+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser - 73066 Uhingen, Landkreis Göppingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RT-SE050-20240603-50-004",
-    "version": 5,
-    "startDate": "2024-06-03T09:32:17+02:00",
-    "expiresDate": "2024-06-03T15:32:17+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser - 73061 Ebersbach an der Fils, Landkreis Göppingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20240603-18-011",
     "version": 5,
     "startDate": "2024-06-03T10:01:12+02:00",
@@ -1394,6 +1364,20 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Kollerbach droht über die Ufer zu treten - Stadt Kempten (Allgäu) - Stadtteile Hinterbach und Hirschdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KE-W173-20240603-002",
+    "version": 5,
+    "startDate": "2024-06-03T15:31:50+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Straßensperrung aufgrund eines Feuerwehreinssatzes - Stadt Kempten (Allgäu) - Stadtteile Hinterbach und Hirschdorf"
     },
     "transKeys": {
       "event": "BBK-EVC-071"
