@@ -56,20 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240531-000",
-    "version": 5,
-    "startDate": "2024-05-31T23:50:01+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brunnenbach droht überzulaufen - Haunstetten Bereich Brunnenbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240531-50-000",
     "version": 5,
     "startDate": "2024-06-01T01:13:58+02:00",
@@ -277,20 +263,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20240601-84-001",
-    "version": 5,
-    "startDate": "2024-06-01T16:12:31+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vorsorgliche Hochwasserschutzmaßnahme in der Stadt Cham - Stadt Cham, Ufernahe Bereiche"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
     }
   },
   {
@@ -1399,6 +1371,50 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BW-WN-W053-20240603-014",
+    "version": 5,
+    "startDate": "2024-06-03T16:48:50+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung Trinkwasserverunreinigung Althütte - Althütte"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240603-004",
+    "version": 5,
+    "startDate": "2024-06-03T17:09:26+02:00",
+    "expiresDate": "2024-06-03T23:09:26+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brunnenbach droht überzulaufen - Haunstetten Bereich Brunnenbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240603-84-001",
+    "version": 5,
+    "startDate": "2024-06-03T17:14:11+02:00",
+    "expiresDate": "2024-06-03T23:14:11+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Vorsorgliche Hochwasserschutzmaßnahme in der Stadt Cham - Stadt Cham, Ufernahe Bereiche"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
     }
   }
 ]
