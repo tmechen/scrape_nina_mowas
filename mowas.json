@@ -1261,5 +1261,33 @@
     "transKeys": {
       "event": "BBK-EVC-071"
     }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240603-000",
+    "version": 5,
+    "startDate": "2024-06-03T08:52:58+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahr eines Dammbruchs in Auchsesheim  - Auchsesheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-015"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240603-001",
+    "version": 5,
+    "startDate": "2024-06-03T09:03:23+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bevorstehender Dammbruchs bei Heißesheim  - Heißesheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-015"
+    }
   }
 ]
