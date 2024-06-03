@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20240530-000",
-    "version": 5,
-    "startDate": "2024-05-30T14:41:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vorabinformation Unwetter mit heftigem/ergiebigem Regen - Altenburger Land"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20240530-35-000",
     "version": 5,
     "startDate": "2024-05-30T17:12:07+02:00",
@@ -1231,6 +1217,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240603-18-008",
+    "version": 5,
+    "startDate": "2024-06-03T07:31:50+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Extreme Hochwasserlage - Flüsse und Bäche Landkreis Ludwigsburg - Landkreis Ludwigsburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20240603-000",
+    "version": 5,
+    "startDate": "2024-06-03T07:43:37+02:00",
+    "expiresDate": "2024-06-03T13:43:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Vorabinformation Unwetter mit heftigem/ergiebigem Regen - Altenburger Land"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
