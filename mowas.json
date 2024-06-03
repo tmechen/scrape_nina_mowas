@@ -840,20 +840,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-HN-W045-20240603-000",
-    "version": 5,
-    "startDate": "2024-06-03T10:14:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserinormation für Lauffen a.N. - Stadt Lauffen a.N."
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-AA-W035-20240603-008",
     "version": 5,
     "startDate": "2024-06-03T10:15:16+02:00",
@@ -1352,6 +1338,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BW-HN-W045-20240603-001",
+    "version": 5,
+    "startDate": "2024-06-03T22:01:35+02:00",
+    "expiresDate": "2024-06-04T04:01:35+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserinormation für Lauffen a.N. - Stadt Lauffen a.N."
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
