@@ -280,20 +280,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240601-011",
-    "version": 5,
-    "startDate": "2024-06-01T17:42:56+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Diebelbach im Bereich Neubergheim droht überzulaufen - Neubergheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240601-009",
     "version": 5,
     "startDate": "2024-06-01T18:16:30+02:00",
@@ -1181,6 +1167,21 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Information an die Bevölkerung - Südlicher und östlicher Landkreis Rosenheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240604-001",
+    "version": 5,
+    "startDate": "2024-06-04T11:25:09+02:00",
+    "expiresDate": "2024-06-04T17:25:09+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Diebelbach im Bereich Neubergheim droht überzulaufen - Neubergheim"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
