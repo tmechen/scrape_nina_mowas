@@ -1186,5 +1186,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20240604-000",
+    "version": 5,
+    "startDate": "2024-06-04T11:51:36+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Drohende Überschwemmungen im Bereich Weinzierlgelände / Baggerweg - Weinzierlgelände / Baggerweg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
