@@ -938,21 +938,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240604-84-000",
-    "version": 5,
-    "startDate": "2024-06-04T07:22:49+02:00",
-    "expiresDate": "2024-06-04T13:22:49+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rezatparkplatz wegen Hochwasser gesperrt - Ansbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-MV-HGW-W005-20240604-001",
     "version": 5,
     "startDate": "2024-06-04T07:59:24+02:00",
