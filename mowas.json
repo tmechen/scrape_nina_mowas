@@ -742,36 +742,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20240604-000",
-    "version": 5,
-    "startDate": "2024-06-04T09:22:06+02:00",
-    "expiresDate": "2024-06-04T15:22:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasseralarmstufe 2 - Eberbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-FFB-W143-20240604-000",
-    "version": 5,
-    "startDate": "2024-06-04T09:23:12+02:00",
-    "expiresDate": "2024-06-04T15:23:12+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Überflutungen durch Stauungen in einem Ablaufgraben in Eichenau - Eichenau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20240604-84-001",
     "version": 5,
     "startDate": "2024-06-04T10:05:24+02:00",
