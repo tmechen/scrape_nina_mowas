@@ -686,20 +686,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20240602-016",
-    "version": 5,
-    "startDate": "2024-06-02T23:04:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasserlage in Burgau - Stadt Burgau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240602-017",
     "version": 5,
     "startDate": "2024-06-02T23:06:18+02:00",
@@ -896,20 +882,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20240603-002",
-    "version": 5,
-    "startDate": "2024-06-03T16:32:18+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Stadt Günzburg: Sofortiges Verlassen der evakuierten Gebiete Unterstadt angeordnet - Unterstadt Günzburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-WN-W053-20240603-014",
     "version": 5,
     "startDate": "2024-06-03T16:48:50+02:00",
@@ -1050,20 +1022,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20240603-004",
-    "version": 5,
-    "startDate": "2024-06-03T19:32:09+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Markt Offingen: : Sofortiges Verlassen der evakuierten Gebiete angeordnet - Markt Offingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20240603-84-002",
     "version": 5,
     "startDate": "2024-06-03T20:30:10+02:00",
@@ -1106,10 +1064,40 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240603-011",
+    "id": "mow.DE-BY-R-SE084-20240604-84-000",
     "version": 5,
-    "startDate": "2024-06-03T23:01:51+02:00",
-    "severity": "Extreme",
+    "startDate": "2024-06-04T07:22:49+02:00",
+    "expiresDate": "2024-06-04T13:22:49+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rezatparkplatz wegen Hochwasser gesperrt - Ansbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-MV-HGW-W005-20240604-001",
+    "version": 5,
+    "startDate": "2024-06-04T07:59:24+02:00",
+    "expiresDate": "2024-06-04T13:59:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: FEUERWEHREINSATZ - Greifswald"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240604-000",
+    "version": 5,
+    "startDate": "2024-06-04T08:07:04+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
     "type": "Update",
     "i18nTitle": {
@@ -1120,43 +1108,60 @@
     }
   },
   {
-    "id": "mow.DE-NI-EL-W089-20240604-000",
+    "id": "mow.DE-NI-EL-W089-20240604-001",
     "version": 5,
-    "startDate": "2024-06-04T04:18:52+02:00",
+    "startDate": "2024-06-04T08:14:57+02:00",
+    "expiresDate": "2024-06-04T14:14:57+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Gersten"
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Gersten"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
     }
   },
   {
-    "id": "mow.DE-MV-HGW-W005-20240604-000",
+    "id": "mow.DE-BY-KRU-W174-20240604-000",
     "version": 5,
-    "startDate": "2024-06-04T06:32:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "FEUERWEHREINSATZ - Greifswald"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20240604-84-000",
-    "version": 5,
-    "startDate": "2024-06-04T07:22:49+02:00",
-    "expiresDate": "2024-06-04T13:22:49+02:00",
-    "severity": "Severe",
+    "startDate": "2024-06-04T08:16:37+02:00",
+    "expiresDate": "2024-06-04T14:16:37+02:00",
+    "severity": "Extreme",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Rezatparkplatz wegen Hochwasser gesperrt - Ansbach"
+      "de": "Entwarnung: Markt Offingen: : Sofortiges Verlassen der evakuierten Gebiete angeord - Markt Offingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240604-001",
+    "version": 5,
+    "startDate": "2024-06-04T08:17:05+02:00",
+    "expiresDate": "2024-06-04T14:17:05+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stadt Günzburg: Sofortiges Verlassen der evakuierten Gebiete Unterstad - Unterstadt Günzburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240604-002",
+    "version": 5,
+    "startDate": "2024-06-04T08:17:48+02:00",
+    "expiresDate": "2024-06-04T14:17:48+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserlage in Burgau - Stadt Burgau"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
