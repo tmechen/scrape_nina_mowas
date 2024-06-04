@@ -728,21 +728,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20240604-003",
-    "version": 5,
-    "startDate": "2024-06-04T18:55:58+02:00",
-    "expiresDate": "2024-06-05T00:55:58+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausrufung des Katastrophenfalles im Landkreis Neu-Ulm - gesamter Landkreis Neu-Ulm"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240604-017",
     "version": 5,
     "startDate": "2024-06-04T18:59:32+02:00",
