@@ -728,81 +728,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240604-002",
-    "version": 5,
-    "startDate": "2024-06-04T13:52:34+02:00",
-    "expiresDate": "2024-06-04T19:52:34+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wichtige Informationen für die Bewohner der bebauten Gebiete entlang d - Buttenwiesen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240604-003",
-    "version": 5,
-    "startDate": "2024-06-04T14:00:58+02:00",
-    "expiresDate": "2024-06-04T20:00:58+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserlage im Landkreis Augsburg, Warnung vor Dammbruch - Nordendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-015"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20240604-84-002",
-    "version": 5,
-    "startDate": "2024-06-04T14:03:21+02:00",
-    "expiresDate": "2024-06-04T20:03:21+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ergänzung Evakuierung Kühlenthal und Allmannshofen - Kühlenthal, Allmannshofen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240604-005",
-    "version": 5,
-    "startDate": "2024-06-04T14:04:10+02:00",
-    "expiresDate": "2024-06-04T20:04:10+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Evakuierung Kühlenthal und Allmannshofen - Kühlenthal, Allmannshofen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20240604-84-003",
-    "version": 5,
-    "startDate": "2024-06-04T14:05:58+02:00",
-    "expiresDate": "2024-06-04T20:05:58+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserlage im Landkreis Augsburg - Landkreis Augsburg nördlicher Teil"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20240604-18-000",
     "version": 5,
     "startDate": "2024-06-04T14:06:07+02:00",
@@ -814,81 +739,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240604-007",
-    "version": 5,
-    "startDate": "2024-06-04T14:07:02+02:00",
-    "expiresDate": "2024-06-04T20:07:02+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Deich des Anhauser Weihers (Marktgemeinde Diedorf) gebrochen - Diedorf, Anhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240604-008",
-    "version": 5,
-    "startDate": "2024-06-04T14:08:31+02:00",
-    "expiresDate": "2024-06-04T20:08:31+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserlage im Landkreis Augsburg - Langerringen, Schwabmünchen, Mittelstetten, Großaitingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240604-010",
-    "version": 5,
-    "startDate": "2024-06-04T14:09:48+02:00",
-    "expiresDate": "2024-06-04T20:09:48+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserlage im Landkreis Augsburg - Fischach, Gessertshausen und Langenneufnach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20240604-84-004",
-    "version": 5,
-    "startDate": "2024-06-04T14:09:51+02:00",
-    "expiresDate": "2024-06-04T20:09:51+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserlage im Landkreis Augsburg - Gessertshausen, Fischach und Langenneufnach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240604-012",
-    "version": 5,
-    "startDate": "2024-06-04T14:12:04+02:00",
-    "expiresDate": "2024-06-04T20:12:04+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserlage im Landkreis Augsburg - Fischach, Langenneufnach und Gessertshausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
     }
   },
   {
@@ -951,20 +801,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-E-SE052-20240604-52-000",
-    "version": 5,
-    "startDate": "2024-06-04T14:46:01+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Essen (Altenessen-Süd) - Essen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240604-50-002",
     "version": 5,
     "startDate": "2024-06-04T15:10:52+02:00",
@@ -991,20 +827,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-ST-MD-SE022-20240604-143-000",
-    "version": 5,
-    "startDate": "2024-06-04T15:39:12+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmitttelfund - Merseburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
     }
   },
   {
@@ -1090,6 +912,35 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Bombenfund - Köln"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20240604-143-001",
+    "version": 5,
+    "startDate": "2024-06-04T20:03:16+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Kampfmitttelfund - Merseburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-E-SE052-20240604-52-001",
+    "version": 5,
+    "startDate": "2024-06-04T20:07:15+02:00",
+    "expiresDate": "2024-06-05T02:07:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Essen (Altenessen-Süd) - Essen"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
