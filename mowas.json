@@ -700,20 +700,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-FFB-W143-20240603-005",
-    "version": 5,
-    "startDate": "2024-06-03T19:08:34+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahr Rückstau bei Abwasser in Wohnungen - Landkreis Starnberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-073"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240603-007",
     "version": 5,
     "startDate": "2024-06-03T19:31:45+02:00",
@@ -1121,6 +1107,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BY-FFB-W143-20240604-001",
+    "version": 5,
+    "startDate": "2024-06-04T17:08:37+02:00",
+    "expiresDate": "2024-06-04T23:08:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahr Rückstau bei Abwasser in Wohnungen - Landkreis Starnberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-073"
     }
   }
 ]
