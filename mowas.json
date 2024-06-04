@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240531-50-000",
-    "version": 5,
-    "startDate": "2024-06-01T01:13:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasseralarm Große Kreisstadt Wangen im Allgäu - Große Kreisstadt Wangen im Allgäu"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240601-000",
     "version": 5,
     "startDate": "2024-06-01T02:07:37+02:00",
@@ -882,20 +868,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-AA-W035-20240603-013",
-    "version": 5,
-    "startDate": "2024-06-03T18:18:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Warnung vor einem möglichen 10-jährigen Hochwasserereignis entlang des Kochers  - Abtsgmünd und Obergröningen (Teilorte Fach und Algishofen)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240603-006",
     "version": 5,
     "startDate": "2024-06-03T18:55:14+02:00",
@@ -1196,6 +1168,36 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Drohende Überschwemmungen im Bereich Weinzierlgelände / Baggerweg - Weinzierlgelände / Baggerweg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240604-50-001",
+    "version": 5,
+    "startDate": "2024-06-04T12:18:03+02:00",
+    "expiresDate": "2024-06-04T18:18:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasseralarm Große Kreisstadt Wangen im Allgäu - Große Kreisstadt Wangen im Allgäu"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-BW-AA-W035-20240604-000",
+    "version": 5,
+    "startDate": "2024-06-04T12:30:01+02:00",
+    "expiresDate": "2024-06-04T18:30:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einem möglichen 10-jährigen Hochwasserereignis entlang des - Abtsgmünd und Obergröningen (Teilorte Fach und Algishofen)"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
