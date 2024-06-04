@@ -1146,5 +1146,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-MV-HGW-W005-20240604-000",
+    "version": 5,
+    "startDate": "2024-06-04T06:32:44+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "FEUERWEHREINSATZ - Greifswald"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
