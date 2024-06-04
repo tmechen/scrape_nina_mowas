@@ -70,20 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240601-002",
-    "version": 5,
-    "startDate": "2024-06-01T10:18:08+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserlage im Landkreis Augsburg - Fischach, Gessertshausen und Langenneufnach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240601-50-000",
     "version": 5,
     "startDate": "2024-06-01T11:32:57+02:00",
@@ -95,20 +81,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240601-003",
-    "version": 5,
-    "startDate": "2024-06-01T11:34:30+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserlage im Landkreis Augsburg - Fischach, Langenneufnach und Gessertshausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
     }
   },
   {
@@ -126,34 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240601-84-000",
-    "version": 5,
-    "startDate": "2024-06-01T11:41:18+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserlage im Landkreis Augsburg - Gessertshausen, Fischach und Langenneufnach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240601-005",
-    "version": 5,
-    "startDate": "2024-06-01T11:50:02+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserlage im Landkreis Augsburg - Langerringen, Schwabmünchen, Mittelstetten, Großaitingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240601-006",
     "version": 5,
     "startDate": "2024-06-01T11:53:46+02:00",
@@ -162,20 +106,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Hochwasser im Landkreis - Landkreis Aichach-Friedberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240601-008",
-    "version": 5,
-    "startDate": "2024-06-01T12:39:30+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Deich des Anhauser Weihers (Marktgemeinde Diedorf) gebrochen - Diedorf, Anhausen"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
@@ -280,20 +210,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240601-84-005",
-    "version": 5,
-    "startDate": "2024-06-01T18:40:33+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserlage im Landkreis Augsburg - Landkreis Augsburg nördlicher Teil"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-WN-W053-20240601-001",
     "version": 5,
     "startDate": "2024-06-01T21:13:48+02:00",
@@ -322,34 +238,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240602-000",
-    "version": 5,
-    "startDate": "2024-06-02T03:00:23+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Evakuierung Kühlenthal und Allmannshofen - Kühlenthal, Allmannshofen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20240602-84-000",
-    "version": 5,
-    "startDate": "2024-06-02T03:38:25+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ergänzung Evakuierung Kühlenthal und Allmannshofen - Kühlenthal, Allmannshofen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-ED-W186-20240602-000",
     "version": 5,
     "startDate": "2024-06-02T09:21:26+02:00",
@@ -372,20 +260,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Akute Überflutungsgefahr, niedrige Stockwerke verlassen! - Gemeinden Hohenwart, Reichertshofen, Baar-Ebenhausen, Manching"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240602-003",
-    "version": 5,
-    "startDate": "2024-06-02T10:45:00+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser im Bereich Wertingen - Wertingen"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
@@ -442,34 +316,6 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Entfall Präsenzunterricht im Stadtgebiet Schrobenhausen - Schrobenhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240602-005",
-    "version": 5,
-    "startDate": "2024-06-02T13:15:14+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserlage im Landkreis Augsburg, Warnung vor Dammbruch - Nordendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-015"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240602-006",
-    "version": 5,
-    "startDate": "2024-06-02T14:01:57+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Wichtige Informationen für die Bewohner der bebauten Gebiete entlang der Zusam - Buttenwiesen"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
@@ -784,20 +630,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20240603-18-020",
-    "version": 5,
-    "startDate": "2024-06-03T14:19:19+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Trinkwasserversorgung in Rudersberg - Rudersberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20240603-003",
     "version": 5,
     "startDate": "2024-06-03T16:19:06+02:00",
@@ -938,21 +770,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-HGW-W005-20240604-001",
-    "version": 5,
-    "startDate": "2024-06-04T07:59:24+02:00",
-    "expiresDate": "2024-06-04T13:59:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: FEUERWEHREINSATZ - Greifswald"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240604-000",
     "version": 5,
     "startDate": "2024-06-04T08:07:04+02:00",
@@ -964,81 +781,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-NI-EL-W089-20240604-001",
-    "version": 5,
-    "startDate": "2024-06-04T08:14:57+02:00",
-    "expiresDate": "2024-06-04T14:14:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Gersten"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KRU-W174-20240604-000",
-    "version": 5,
-    "startDate": "2024-06-04T08:16:37+02:00",
-    "expiresDate": "2024-06-04T14:16:37+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Markt Offingen: : Sofortiges Verlassen der evakuierten Gebiete angeord - Markt Offingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KRU-W174-20240604-001",
-    "version": 5,
-    "startDate": "2024-06-04T08:17:05+02:00",
-    "expiresDate": "2024-06-04T14:17:05+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stadt Günzburg: Sofortiges Verlassen der evakuierten Gebiete Unterstad - Unterstadt Günzburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KRU-W174-20240604-002",
-    "version": 5,
-    "startDate": "2024-06-04T08:17:48+02:00",
-    "expiresDate": "2024-06-04T14:17:48+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserlage in Burgau - Stadt Burgau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-RO-W136-20240604-000",
-    "version": 5,
-    "startDate": "2024-06-04T08:27:33+02:00",
-    "expiresDate": "2024-06-04T14:27:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Zu- und Abfahrt in betroffenes Gebiet nicht möglich - Miesbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
     }
   },
   {
@@ -1187,6 +929,200 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240604-002",
+    "version": 5,
+    "startDate": "2024-06-04T13:52:34+02:00",
+    "expiresDate": "2024-06-04T19:52:34+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Wichtige Informationen für die Bewohner der bebauten Gebiete entlang d - Buttenwiesen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240604-003",
+    "version": 5,
+    "startDate": "2024-06-04T14:00:58+02:00",
+    "expiresDate": "2024-06-04T20:00:58+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserlage im Landkreis Augsburg, Warnung vor Dammbruch - Nordendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-015"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240604-84-002",
+    "version": 5,
+    "startDate": "2024-06-04T14:03:21+02:00",
+    "expiresDate": "2024-06-04T20:03:21+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ergänzung Evakuierung Kühlenthal und Allmannshofen - Kühlenthal, Allmannshofen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240604-005",
+    "version": 5,
+    "startDate": "2024-06-04T14:04:10+02:00",
+    "expiresDate": "2024-06-04T20:04:10+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Evakuierung Kühlenthal und Allmannshofen - Kühlenthal, Allmannshofen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240604-84-003",
+    "version": 5,
+    "startDate": "2024-06-04T14:05:58+02:00",
+    "expiresDate": "2024-06-04T20:05:58+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserlage im Landkreis Augsburg - Landkreis Augsburg nördlicher Teil"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240604-18-000",
+    "version": 5,
+    "startDate": "2024-06-04T14:06:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Trinkwasserversorgung in Rudersberg - Update - Rudersberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240604-007",
+    "version": 5,
+    "startDate": "2024-06-04T14:07:02+02:00",
+    "expiresDate": "2024-06-04T20:07:02+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Deich des Anhauser Weihers (Marktgemeinde Diedorf) gebrochen - Diedorf, Anhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240604-008",
+    "version": 5,
+    "startDate": "2024-06-04T14:08:31+02:00",
+    "expiresDate": "2024-06-04T20:08:31+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserlage im Landkreis Augsburg - Langerringen, Schwabmünchen, Mittelstetten, Großaitingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240604-010",
+    "version": 5,
+    "startDate": "2024-06-04T14:09:48+02:00",
+    "expiresDate": "2024-06-04T20:09:48+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserlage im Landkreis Augsburg - Fischach, Gessertshausen und Langenneufnach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240604-84-004",
+    "version": 5,
+    "startDate": "2024-06-04T14:09:51+02:00",
+    "expiresDate": "2024-06-04T20:09:51+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserlage im Landkreis Augsburg - Gessertshausen, Fischach und Langenneufnach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240604-012",
+    "version": 5,
+    "startDate": "2024-06-04T14:12:04+02:00",
+    "expiresDate": "2024-06-04T20:12:04+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserlage im Landkreis Augsburg - Fischach, Langenneufnach und Gessertshausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240604-013",
+    "version": 5,
+    "startDate": "2024-06-04T14:14:06+02:00",
+    "expiresDate": "2024-06-04T20:14:06+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser im Bereich Wertingen - Wertingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240604-014",
+    "version": 5,
+    "startDate": "2024-06-04T14:24:35+02:00",
+    "expiresDate": "2024-06-04T20:24:35+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Information für die Bewohner der Gemeinde Buttenwiesen - Gemeinde Buttenwiesen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
