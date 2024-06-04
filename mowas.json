@@ -84,20 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20240601-003",
-    "version": 5,
-    "startDate": "2024-06-01T11:37:57+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausrufung des Katastrophenfalles im Landkreis Neu-Ulm - gesamter Landkreis Neu-Ulm"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240601-006",
     "version": 5,
     "startDate": "2024-06-01T11:53:46+02:00",
@@ -1063,6 +1049,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-073"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240604-003",
+    "version": 5,
+    "startDate": "2024-06-04T18:55:58+02:00",
+    "expiresDate": "2024-06-05T00:55:58+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausrufung des Katastrophenfalles im Landkreis Neu-Ulm - gesamter Landkreis Neu-Ulm"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240604-017",
+    "version": 5,
+    "startDate": "2024-06-04T18:59:32+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor dem Betreten von Dämmen und Deichen - Landkreis Dillingen a.d. Donau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240604-018",
+    "version": 5,
+    "startDate": "2024-06-04T19:08:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abwassersystem in Nordendorf aktuell noch nicht wieder intakt - Nordendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
