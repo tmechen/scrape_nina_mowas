@@ -1078,21 +1078,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240603-008",
-    "version": 5,
-    "startDate": "2024-06-03T20:09:31+02:00",
-    "expiresDate": "2024-06-04T02:09:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung der Bevölkerung - Rehling-Oberach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20240603-84-002",
     "version": 5,
     "startDate": "2024-06-03T20:30:10+02:00",
