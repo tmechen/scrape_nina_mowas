@@ -816,20 +816,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20240604-143-001",
-    "version": 5,
-    "startDate": "2024-06-04T20:03:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Kampfmitttelfund - Merseburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-E-SE052-20240604-52-001",
     "version": 5,
     "startDate": "2024-06-04T20:07:15+02:00",
@@ -886,6 +872,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-ED-W186-20240604-003",
+    "version": 5,
+    "startDate": "2024-06-04T21:35:19+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Information für Amperregion Landkreis Freising - Fahrenzhausen  bis Volkmannsdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20240604-143-002",
+    "version": 5,
+    "startDate": "2024-06-04T21:43:08+02:00",
+    "expiresDate": "2024-06-05T03:43:08+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmitttelfund - Merseburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
