@@ -936,20 +936,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20240604-31-000",
-    "version": 5,
-    "startDate": "2024-06-04T14:35:35+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bombenfund - Köln"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240604-016",
     "version": 5,
     "startDate": "2024-06-04T14:43:30+02:00",
@@ -1092,6 +1078,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20240604-31-001",
+    "version": 5,
+    "startDate": "2024-06-04T19:16:13+02:00",
+    "expiresDate": "2024-06-05T01:16:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenfund - Köln"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
