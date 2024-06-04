@@ -532,20 +532,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240603-50-005",
-    "version": 5,
-    "startDate": "2024-06-03T10:03:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwassersituation auf dem Neckar bei Esslingen - Esslingen am Neckar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-AA-W035-20240603-008",
     "version": 5,
     "startDate": "2024-06-03T10:15:16+02:00",
@@ -750,21 +736,6 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Hochwasser - St.Goar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RT-SE050-20240604-50-000",
-    "version": 5,
-    "startDate": "2024-06-04T08:45:44+02:00",
-    "expiresDate": "2024-06-04T14:45:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser - Stadtgebiet Mengen und Stadtgebiet Veringenstadt"
     },
     "transKeys": {
       "event": "BBK-EVC-038"
@@ -1152,6 +1123,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240604-50-002",
+    "version": 5,
+    "startDate": "2024-06-04T15:10:52+02:00",
+    "expiresDate": "2024-06-04T21:10:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwassersituation auf dem Neckar bei Esslingen - Esslingen am Neckar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
