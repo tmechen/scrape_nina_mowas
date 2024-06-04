@@ -224,20 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-ED-W186-20240602-000",
-    "version": 5,
-    "startDate": "2024-06-02T09:21:26+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasser im Landkreis Freising - Hohenkammer. Allershausen, Kirchdorf, Zolling, Inkofen, Moosburg,"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20240602-84-001",
     "version": 5,
     "startDate": "2024-06-02T10:13:19+02:00",
@@ -316,20 +302,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Stromabschaltung im Ortsteil Göttschlag - Gemeinde Allershausen - Ortsteil Göttschlag"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20240602-84-005",
-    "version": 5,
-    "startDate": "2024-06-02T14:22:20+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall in der Gemeinde Kirchdorf - Gemeinde Kirchdorf an der Amper"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
@@ -914,6 +886,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BY-ED-W186-20240604-000",
+    "version": 5,
+    "startDate": "2024-06-04T20:41:43+02:00",
+    "expiresDate": "2024-06-05T02:41:43+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser im Landkreis Freising - Hohenkammer. Allershausen, Kirchdorf, Zolling, Inkofen, Moosburg,"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240604-84-005",
+    "version": 5,
+    "startDate": "2024-06-04T20:43:40+02:00",
+    "expiresDate": "2024-06-05T02:43:40+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall in der Gemeinde Kirchdorf - Gemeinde Kirchdorf an der Amper"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
