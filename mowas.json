@@ -1120,51 +1120,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-HN-W045-20240603-001",
-    "version": 5,
-    "startDate": "2024-06-03T22:01:35+02:00",
-    "expiresDate": "2024-06-04T04:01:35+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserinormation für Lauffen a.N. - Stadt Lauffen a.N."
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240603-009",
-    "version": 5,
-    "startDate": "2024-06-03T22:18:16+02:00",
-    "expiresDate": "2024-06-04T04:18:16+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Evakuierung von Straßenzügen in Altenmünster - Altenmünster"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240603-010",
-    "version": 5,
-    "startDate": "2024-06-03T22:23:40+02:00",
-    "expiresDate": "2024-06-04T04:23:40+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Evakuierung von Teilen von Diedorf / Anhausen - Diedorf, Anhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-KE-W173-20240603-006",
     "version": 5,
     "startDate": "2024-06-03T22:55:35+02:00",
@@ -1191,6 +1146,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-EL-W089-20240604-000",
+    "version": 5,
+    "startDate": "2024-06-04T04:18:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Gersten"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
