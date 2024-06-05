@@ -700,20 +700,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-EW-SE079-20240605-79-000",
-    "version": 5,
-    "startDate": "2024-06-05T11:25:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Gasaustritt - Hohen Neuendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-BO-SE077-20240605-77-000",
     "version": 5,
     "startDate": "2024-06-05T11:44:23+02:00",
@@ -844,6 +830,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-015"
+    }
+  },
+  {
+    "id": "mow.DE-BB-EW-SE079-20240605-79-001",
+    "version": 5,
+    "startDate": "2024-06-05T13:26:55+02:00",
+    "expiresDate": "2024-06-05T19:26:55+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Gasaustritt - Hohen Neuendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
