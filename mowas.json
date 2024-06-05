@@ -644,21 +644,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-E-SE052-20240605-52-001",
-    "version": 5,
-    "startDate": "2024-06-05T16:54:26+02:00",
-    "expiresDate": "2024-06-05T22:54:26+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Essen (Ostviertel) - Essen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BW-UL-W127-20240605-000",
     "version": 5,
     "startDate": "2024-06-05T16:56:19+02:00",
