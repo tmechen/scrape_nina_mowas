@@ -770,21 +770,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20240604-143-002",
-    "version": 5,
-    "startDate": "2024-06-04T21:43:08+02:00",
-    "expiresDate": "2024-06-05T03:43:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmitttelfund - Merseburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20240604-002",
     "version": 5,
     "startDate": "2024-06-05T01:40:29+02:00",
