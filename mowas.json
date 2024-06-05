@@ -476,20 +476,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-AA-W035-20240603-008",
-    "version": 5,
-    "startDate": "2024-06-03T10:15:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Aufruf zum sparsamen Umgang mit Trinkwasser - Gemeindegebiet Abtsgmünd"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20240603-84-000",
     "version": 5,
     "startDate": "2024-06-03T10:29:19+02:00",
@@ -798,20 +784,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HF-SE039-20240605-39-000",
-    "version": 5,
-    "startDate": "2024-06-05T11:35:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung im Bereich Freibad Elverdissen - Herford"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-BO-SE077-20240605-77-000",
     "version": 5,
     "startDate": "2024-06-05T11:44:23+02:00",
@@ -823,6 +795,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BW-AA-W035-20240605-000",
+    "version": 5,
+    "startDate": "2024-06-05T12:01:35+02:00",
+    "expiresDate": "2024-06-05T18:01:35+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Aufruf zum sparsamen Umgang mit Trinkwasser - Gemeindegebiet Abtsgmünd"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HF-SE039-20240605-39-001",
+    "version": 5,
+    "startDate": "2024-06-05T12:06:00+02:00",
+    "expiresDate": "2024-06-05T18:06:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung im Bereich Freibad Elverdissen - Herford"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
