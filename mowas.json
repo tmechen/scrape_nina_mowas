@@ -796,5 +796,33 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-HF-SE039-20240605-39-000",
+    "version": 5,
+    "startDate": "2024-06-05T11:35:50+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung im Bereich Freibad Elverdissen - Herford"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BO-SE077-20240605-77-000",
+    "version": 5,
+    "startDate": "2024-06-05T11:44:23+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Fund einer Weltkriegsbombe - Bochum-Hiltrop"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
