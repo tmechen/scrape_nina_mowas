@@ -700,21 +700,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240605-002",
-    "version": 5,
-    "startDate": "2024-06-05T19:22:26+02:00",
-    "expiresDate": "2024-06-06T01:22:26+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Überschwemmung Ortsgebiet Fischach - Fischach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-NI-NOM-W210-20240605-000",
     "version": 5,
     "startDate": "2024-06-05T20:34:34+02:00",
