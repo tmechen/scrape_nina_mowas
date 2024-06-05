@@ -84,20 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240601-006",
-    "version": 5,
-    "startDate": "2024-06-01T11:53:46+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser im Landkreis - Landkreis Aichach-Friedberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240601-004",
     "version": 5,
     "startDate": "2024-06-01T13:42:14+02:00",
@@ -672,36 +658,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-AA-W035-20240605-000",
-    "version": 5,
-    "startDate": "2024-06-05T12:01:35+02:00",
-    "expiresDate": "2024-06-05T18:01:35+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Aufruf zum sparsamen Umgang mit Trinkwasser - Gemeindegebiet Abtsgmünd"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-NW-HF-SE039-20240605-39-001",
-    "version": 5,
-    "startDate": "2024-06-05T12:06:00+02:00",
-    "expiresDate": "2024-06-05T18:06:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung im Bereich Freibad Elverdissen - Herford"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20240605-84-000",
     "version": 5,
     "startDate": "2024-06-05T13:10:58+02:00",
@@ -906,6 +862,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240605-001",
+    "version": 5,
+    "startDate": "2024-06-05T17:49:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasser im Landkreis Aichach-Friedberg - Landkreis Aichach-Friedberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
