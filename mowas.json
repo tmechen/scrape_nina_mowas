@@ -434,20 +434,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20240603-002",
-    "version": 5,
-    "startDate": "2024-06-03T12:58:43+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Evakuierung des Ortsteiles Rottmannshart - Rottmannshart - (OT der Gemeinde Manching)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20240603-003",
     "version": 5,
     "startDate": "2024-06-03T16:19:06+02:00",
@@ -848,14 +834,30 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20240605-99-000",
+    "id": "mow.DE-BY-IN-W139-20240605-006",
     "version": 5,
-    "startDate": "2024-06-05T14:51:56+02:00",
+    "startDate": "2024-06-05T15:07:38+02:00",
+    "expiresDate": "2024-06-05T21:07:38+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Evakuierung des Ortsteiles Rottmannshart - ENTWARNUNG - Rottmannshart - (OT der Gemeinde Manching)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20240605-99-001",
+    "version": 5,
+    "startDate": "2024-06-05T15:12:25+02:00",
+    "expiresDate": "2024-06-05T21:12:25+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Stromversorgung - Kiel, Elmschenhagen/Kroog"
+      "de": "Entwarnung: Ausfall Stromversorgung - Kiel, Elmschenhagen/Kroog"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
