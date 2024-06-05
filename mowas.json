@@ -851,20 +851,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20240605-33-000",
-    "version": 5,
-    "startDate": "2024-06-05T16:33:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bomben Entschärfung - Hamburg-kleiner grasbrook"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NW-E-SE052-20240605-52-001",
     "version": 5,
     "startDate": "2024-06-05T16:54:26+02:00",
@@ -891,6 +877,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240605-000",
+    "version": 5,
+    "startDate": "2024-06-05T17:27:01+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vorsorgemaßnahme(n) bei der Trinkwasserversorgung  - Stadt Memmingen inkl. aller Ortsteile"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20240605-33-001",
+    "version": 5,
+    "startDate": "2024-06-05T17:28:16+02:00",
+    "expiresDate": "2024-06-05T23:28:16+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bomben Entschärfung - Hamburg-kleiner grasbrook"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
