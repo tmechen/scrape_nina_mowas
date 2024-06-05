@@ -783,5 +783,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240605-000",
+    "version": 5,
+    "startDate": "2024-06-05T07:21:31+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Dämme und Deiche nicht betreten - Kreis Donau Ries"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
