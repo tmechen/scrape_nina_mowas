@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240601-000",
-    "version": 5,
-    "startDate": "2024-06-01T02:07:37+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Überschwemmung Ortsgebiet Fischach - Fischach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240601-001",
     "version": 5,
     "startDate": "2024-06-01T02:10:34+02:00",
@@ -658,81 +644,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240605-84-001",
-    "version": 5,
-    "startDate": "2024-06-05T13:13:02+02:00",
-    "expiresDate": "2024-06-05T19:13:02+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Akute Überflutungsgefahr, niedrige Stockwerke verlassen! - ENTWARNUNG - Gemeinden Hohenwart, Reichertshofen, Baar-Ebenhausen, Manching"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20240605-84-002",
-    "version": 5,
-    "startDate": "2024-06-05T13:17:14+02:00",
-    "expiresDate": "2024-06-05T19:17:14+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Dammbruch - akute Überflutungen - umgehend das Erdgeschoß verlassen!  - Gemeinden Reichertshofen, Baar-Ebenhausen, Manching"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20240605-84-003",
-    "version": 5,
-    "startDate": "2024-06-05T13:19:27+02:00",
-    "expiresDate": "2024-06-05T19:19:27+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Dammbruch in Ebenhausen-Werk  - ENTWARNUNG - Ebenhausen-Werk"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-015"
-    }
-  },
-  {
-    "id": "mow.DE-BY-IN-W139-20240605-005",
-    "version": 5,
-    "startDate": "2024-06-05T13:24:52+02:00",
-    "expiresDate": "2024-06-05T19:24:52+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Dammbruch in Pichl - ENTWARNUNG - Ortsteil Pichl - Benediktstr. + Martinstr + Peterstr"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-015"
-    }
-  },
-  {
-    "id": "mow.DE-BB-EW-SE079-20240605-79-001",
-    "version": 5,
-    "startDate": "2024-06-05T13:26:55+02:00",
-    "expiresDate": "2024-06-05T19:26:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Gasaustritt - Hohen Neuendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20240605-006",
     "version": 5,
     "startDate": "2024-06-05T15:07:38+02:00",
@@ -875,6 +786,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240605-002",
+    "version": 5,
+    "startDate": "2024-06-05T19:22:26+02:00",
+    "expiresDate": "2024-06-06T01:22:26+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Überschwemmung Ortsgebiet Fischach - Fischach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
     }
   }
 ]
