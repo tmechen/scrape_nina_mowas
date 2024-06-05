@@ -168,20 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240601-84-004",
-    "version": 5,
-    "startDate": "2024-06-01T17:35:58+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser - drohende Überflutung von Wohngebieten - Gemeinden Hohenwart, Reichertshofen, Baar-Ebenhausen, Manching"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240601-009",
     "version": 5,
     "startDate": "2024-06-01T18:16:30+02:00",
@@ -221,20 +207,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-071"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20240602-84-001",
-    "version": 5,
-    "startDate": "2024-06-02T10:13:19+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Akute Überflutungsgefahr, niedrige Stockwerke verlassen! - Gemeinden Hohenwart, Reichertshofen, Baar-Ebenhausen, Manching"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
     }
   },
   {
@@ -839,6 +811,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240605-84-000",
+    "version": 5,
+    "startDate": "2024-06-05T13:10:58+02:00",
+    "expiresDate": "2024-06-05T19:10:58+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser - drohende Überflutung von Wohngebieten - ENTWARNUNG - Gemeinden Hohenwart, Reichertshofen, Baar-Ebenhausen, Manching"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240605-84-001",
+    "version": 5,
+    "startDate": "2024-06-05T13:13:02+02:00",
+    "expiresDate": "2024-06-05T19:13:02+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Akute Überflutungsgefahr, niedrige Stockwerke verlassen! - ENTWARNUNG - Gemeinden Hohenwart, Reichertshofen, Baar-Ebenhausen, Manching"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
