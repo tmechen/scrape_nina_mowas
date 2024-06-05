@@ -644,21 +644,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240605-84-004",
-    "version": 5,
-    "startDate": "2024-06-05T15:49:16+02:00",
-    "expiresDate": "2024-06-05T21:49:16+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Drohender Dammbruch - begeben Sie sich in höhere Stockwerke! - Rottmannshart, Westenhausen, Lindach, Ernsgaden, Irsching, Knodorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-NW-E-SE052-20240605-52-001",
     "version": 5,
     "startDate": "2024-06-05T16:54:26+02:00",
