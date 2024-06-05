@@ -658,21 +658,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240605-84-000",
-    "version": 5,
-    "startDate": "2024-06-05T13:10:58+02:00",
-    "expiresDate": "2024-06-05T19:10:58+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser - drohende Überflutung von Wohngebieten - ENTWARNUNG - Gemeinden Hohenwart, Reichertshofen, Baar-Ebenhausen, Manching"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20240605-84-001",
     "version": 5,
     "startDate": "2024-06-05T13:13:02+02:00",
@@ -876,6 +861,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-AM-W129-20240605-000",
+    "version": 5,
+    "startDate": "2024-06-05T19:06:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahr durch Verunreinigung des Trinkwassers - Gemeinde Ursensollen, Gemeinde Kümmersbruck, Stadt Amberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
