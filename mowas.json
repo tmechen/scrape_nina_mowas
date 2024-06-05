@@ -770,21 +770,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20240604-002",
-    "version": 5,
-    "startDate": "2024-06-05T01:40:29+02:00",
-    "expiresDate": "2024-06-05T07:40:29+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Entfall Präsenzunterricht im Stadtgebiet Schrobenhausen - Schrobenhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240605-000",
     "version": 5,
     "startDate": "2024-06-05T07:21:31+02:00",
