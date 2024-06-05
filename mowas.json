@@ -210,20 +210,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240602-84-002",
-    "version": 5,
-    "startDate": "2024-06-02T11:14:16+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Dammbruch - akute Überflutungen - umgehend das Erdgeschoß verlassen! - Gemeinden Reichertshofen, Baar-Ebenhausen, Manching"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20240602-84-003",
     "version": 5,
     "startDate": "2024-06-02T12:09:33+02:00",
@@ -403,34 +389,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20240602-84-013",
-    "version": 5,
-    "startDate": "2024-06-03T00:35:47+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Dammbruch in Ebenhausen-Werk - Ebenhausen-Werk"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-015"
-    }
-  },
-  {
-    "id": "mow.DE-BY-IN-W139-20240603-000",
-    "version": 5,
-    "startDate": "2024-06-03T05:37:28+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Dammbruch in Pichl - Ortsteil Pichl - Benediktstr. + Martinstr + Peterstr"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-015"
     }
   },
   {
@@ -841,6 +799,51 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240605-84-002",
+    "version": 5,
+    "startDate": "2024-06-05T13:17:14+02:00",
+    "expiresDate": "2024-06-05T19:17:14+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Dammbruch - akute Überflutungen - umgehend das Erdgeschoß verlassen!  - Gemeinden Reichertshofen, Baar-Ebenhausen, Manching"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240605-84-003",
+    "version": 5,
+    "startDate": "2024-06-05T13:19:27+02:00",
+    "expiresDate": "2024-06-05T19:19:27+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Dammbruch in Ebenhausen-Werk  - ENTWARNUNG - Ebenhausen-Werk"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-015"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20240605-005",
+    "version": 5,
+    "startDate": "2024-06-05T13:24:52+02:00",
+    "expiresDate": "2024-06-05T19:24:52+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Dammbruch in Pichl - ENTWARNUNG - Ortsteil Pichl - Benediktstr. + Martinstr + Peterstr"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-015"
     }
   }
 ]
