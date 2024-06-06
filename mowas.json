@@ -644,21 +644,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240606-002",
-    "version": 5,
-    "startDate": "2024-06-06T16:18:33+02:00",
-    "expiresDate": "2024-06-06T22:18:33+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Aktualisierung der Evakuierungsnotwendigkeit im Landkreis Augsburg - Landkreis Augsburg, Nordendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240606-50-001",
     "version": 5,
     "startDate": "2024-06-06T16:27:20+02:00",
