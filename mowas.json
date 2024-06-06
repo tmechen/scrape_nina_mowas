@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240601-50-000",
-    "version": 5,
-    "startDate": "2024-06-01T11:32:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Wasser ist in das Wasserwerk eingedrungen, Abkochgebot - Landkreis Göppingen - Wiesensteig"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240601-004",
     "version": 5,
     "startDate": "2024-06-01T13:42:14+02:00",
@@ -462,20 +448,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240604-015",
-    "version": 5,
-    "startDate": "2024-06-04T14:32:59+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Aktualisierung der Evakuierungsnotwendigkeit im Landkreis Augsburg - Landkreis Augsburg, Nordendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20240604-001",
     "version": 5,
     "startDate": "2024-06-04T15:33:34+02:00",
@@ -753,6 +725,36 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Trinkwasser bakteriologisch verunreinigt - Ortsteile der Gemeinden Rehl.-Siersburg, Wallerfangen und Überherrn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240606-002",
+    "version": 5,
+    "startDate": "2024-06-06T16:18:33+02:00",
+    "expiresDate": "2024-06-06T22:18:33+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Aktualisierung der Evakuierungsnotwendigkeit im Landkreis Augsburg - Landkreis Augsburg, Nordendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240606-50-001",
+    "version": 5,
+    "startDate": "2024-06-06T16:27:20+02:00",
+    "expiresDate": "2024-06-06T22:27:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Wasser ist in das Wasserwerk eingedrungen, Abkochgebot - Landkreis Göppingen - Wiesensteig"
     },
     "transKeys": {
       "event": "BBK-EVC-069"
