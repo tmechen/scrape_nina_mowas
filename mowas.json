@@ -644,21 +644,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240606-84-000",
-    "version": 5,
-    "startDate": "2024-06-06T10:03:12+02:00",
-    "expiresDate": "2024-06-06T16:03:12+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Information zur Trinkwasserversorgung  - Landkreis Unterallgäu"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240606-002",
     "version": 5,
     "startDate": "2024-06-06T12:00:49+02:00",
