@@ -759,5 +759,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BW-WN-W053-20240606-001",
+    "version": 5,
+    "startDate": "2024-06-06T17:28:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasserverunreinigung in Rudersberg - Update - Rudersberg, Teilort Oberndorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
