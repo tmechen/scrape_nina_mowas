@@ -630,36 +630,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-HM-W214-20240606-001",
-    "version": 5,
-    "startDate": "2024-06-06T12:50:50+02:00",
-    "expiresDate": "2024-06-06T18:50:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: unkontrollierte Ausbreitung von Brandrauch - 31863 Coppenbrügge"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-RP-KH-SE111-20240606-114-000",
-    "version": 5,
-    "startDate": "2024-06-06T13:02:15+02:00",
-    "expiresDate": "2024-06-06T19:02:15+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasser - St.Goar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-WN-W053-20240606-000",
     "version": 5,
     "startDate": "2024-06-06T13:23:09+02:00",
