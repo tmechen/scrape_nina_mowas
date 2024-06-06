@@ -716,10 +716,24 @@
     }
   },
   {
-    "id": "mow.DE-RP-WW-SE116-20240606-123-000",
+    "id": "mow.DE-RP-WW-SE116-20240606-123-001",
     "version": 5,
-    "startDate": "2024-06-06T23:16:06+02:00",
+    "startDate": "2024-06-06T23:35:46+02:00",
     "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Brand in Industriebetrieb in Krautscheid - Buchholz-Krautscheid"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SU-SE057-20240606-57-000",
+    "version": 5,
+    "startDate": "2024-06-06T23:46:17+02:00",
+    "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
