@@ -56,20 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240601-010",
-    "version": 5,
-    "startDate": "2024-06-01T14:36:07+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserlage im Landkreis Augsburg - Landkreis Augsburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240601-006",
     "version": 5,
     "startDate": "2024-06-01T16:29:11+02:00",
@@ -787,6 +773,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240606-003",
+    "version": 5,
+    "startDate": "2024-06-06T18:35:34+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasserlage im Landkreis Augsburg - Landkreis Augsburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
