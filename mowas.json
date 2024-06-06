@@ -686,20 +686,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-AM-W129-20240605-000",
-    "version": 5,
-    "startDate": "2024-06-05T19:06:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahr durch Verunreinigung des Trinkwassers - Gemeinde Ursensollen, Gemeinde Kümmersbruck, Stadt Amberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NI-NOM-W210-20240605-000",
     "version": 5,
     "startDate": "2024-06-05T20:34:34+02:00",
@@ -725,6 +711,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-AM-W129-20240606-000",
+    "version": 5,
+    "startDate": "2024-06-06T07:43:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Gefahr durch Verunreinigung des Trinkwassers - Gem. Ursensollen, Gem. Kümmersbruck OT Köfering, Stadt Amberg OT Atzlricht"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
