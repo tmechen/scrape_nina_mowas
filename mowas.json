@@ -378,20 +378,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-WN-W053-20240603-014",
-    "version": 5,
-    "startDate": "2024-06-03T16:48:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung Trinkwasserverunreinigung Althütte - Althütte"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-FFB-W143-20240603-002",
     "version": 5,
     "startDate": "2024-06-03T17:22:31+02:00",
@@ -772,6 +758,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BW-WN-W053-20240606-000",
+    "version": 5,
+    "startDate": "2024-06-06T13:23:09+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Warnung Trinkwasserverunreinigung Ortsnetz Schlichenweiler - Althütte"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
