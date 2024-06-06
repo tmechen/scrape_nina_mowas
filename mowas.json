@@ -757,5 +757,19 @@
     "transKeys": {
       "event": "BBK-EVC-073"
     }
+  },
+  {
+    "id": "mow.DE-NI-HM-W214-20240606-000",
+    "version": 5,
+    "startDate": "2024-06-06T12:17:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "unkontrollierte Ausbreitung von Brandrauch - 31863 Coppenbrügge"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
