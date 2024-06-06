@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240601-001",
-    "version": 5,
-    "startDate": "2024-06-01T02:10:34+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Überschwemmung im Ortsgebiet Gessertshausen - Gessertshausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240601-50-000",
     "version": 5,
     "startDate": "2024-06-01T11:32:57+02:00",
@@ -725,6 +711,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240606-000",
+    "version": 5,
+    "startDate": "2024-06-06T09:23:55+02:00",
+    "expiresDate": "2024-06-06T15:23:55+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Überschwemmung im Ortsgebiet Gessertshausen - Gessertshausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
     }
   }
 ]
