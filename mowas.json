@@ -546,20 +546,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240606-50-000",
-    "version": 5,
-    "startDate": "2024-06-06T02:09:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bevölkerungsinformation zur Durchnässung des Dammes des Taufach-Fetzach-Mooses  - 88299 Leutkirch im Allgäu- Urlau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-AM-W129-20240606-000",
     "version": 5,
     "startDate": "2024-06-06T07:43:05+02:00",
@@ -684,6 +670,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240607-50-000",
+    "version": 5,
+    "startDate": "2024-06-07T08:35:31+02:00",
+    "expiresDate": "2024-06-07T14:35:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bevölkerungsinformation zur Durchnässung des Dammes des Taufach-Fetzac - 88299 Leutkirch im Allgäu- Urlau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
