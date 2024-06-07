@@ -266,20 +266,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20240603-003",
-    "version": 5,
-    "startDate": "2024-06-03T16:19:06+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Drohende Überschwemmung südlich vom Deich Probierlweg/Westliche Ringstraße - Bereich südlich Deich Probierlweg / Westliche Ringstraße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-FFB-W143-20240603-002",
     "version": 5,
     "startDate": "2024-06-03T17:22:31+02:00",
@@ -690,6 +676,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20240607-003",
+    "version": 5,
+    "startDate": "2024-06-07T15:09:27+02:00",
+    "expiresDate": "2024-06-07T21:09:27+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Drohende Überschwemmung südlich vom Deich Probierlweg/Westliche Ringst - Bereich südlich Deich Probierlweg / Westliche Ringstraße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
