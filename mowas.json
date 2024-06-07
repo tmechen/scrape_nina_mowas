@@ -84,20 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240601-016",
-    "version": 5,
-    "startDate": "2024-06-01T22:49:05+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser Lage Evakuierung - Donauwörth, Nordheim, Auchsesheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20240602-84-004",
     "version": 5,
     "startDate": "2024-06-02T14:14:58+02:00",
@@ -691,6 +677,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240607-000",
+    "version": 5,
+    "startDate": "2024-06-07T16:28:27+02:00",
+    "expiresDate": "2024-06-07T22:28:27+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasser Lage Evakuierung - Donauwörth, Nordheim, Auchsesheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-071"
     }
   }
 ]
