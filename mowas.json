@@ -378,20 +378,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20240604-001",
-    "version": 5,
-    "startDate": "2024-06-04T15:33:34+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Information über den Anstieg des Grundwasserspiegels im Stadtgebiet Ingolstadt - Stadt Ingolstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240604-017",
     "version": 5,
     "startDate": "2024-06-04T18:59:32+02:00",
@@ -487,20 +473,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-NI-NOM-W210-20240605-000",
-    "version": 5,
-    "startDate": "2024-06-05T20:34:34+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kontakt mit Trinkwasser vermeiden - Sudershausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
     }
   },
   {
@@ -602,21 +574,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20240607-000",
-    "version": 5,
-    "startDate": "2024-06-07T06:47:03+02:00",
-    "expiresDate": "2024-06-07T12:47:03+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahr von Überschwemmung für den Ortsteil Gaden im Gemeindegebiet Pfö - Ortsteil Gaden im Gemeindegebiet Pförring"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240607-000",
     "version": 5,
     "startDate": "2024-06-07T08:22:18+02:00",
@@ -657,20 +614,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-NI-WTM-W213-20240607-000",
-    "version": 5,
-    "startDate": "2024-06-07T12:03:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung Großbrand - 26789 Leer"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
     }
   },
   {
@@ -715,6 +658,51 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20240607-002",
+    "version": 5,
+    "startDate": "2024-06-07T12:47:57+02:00",
+    "expiresDate": "2024-06-07T18:47:57+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Information über den Anstieg des Grundwasserspiegels im Stadtgebiet In - Stadt Ingolstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NI-NOM-W210-20240607-000",
+    "version": 5,
+    "startDate": "2024-06-07T13:06:57+02:00",
+    "expiresDate": "2024-06-07T19:06:57+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kontakt mit Trinkwasser vermeiden - Sudershausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-NI-WTM-W213-20240607-001",
+    "version": 5,
+    "startDate": "2024-06-07T13:12:48+02:00",
+    "expiresDate": "2024-06-07T19:12:48+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung Großbrand - 26789 Leer"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
