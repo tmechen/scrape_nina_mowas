@@ -532,21 +532,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KL-SE112-20240608-112-001",
-    "version": 5,
-    "startDate": "2024-06-08T14:30:31+02:00",
-    "expiresDate": "2024-06-08T20:30:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Es kann  zu Geruchsbelästigungen und Sichtbehinderungen kommen - Bischheim VG Kirchheimbolanden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240608-000",
     "version": 5,
     "startDate": "2024-06-08T15:49:31+02:00",
