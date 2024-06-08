@@ -154,20 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240602-012",
-    "version": 5,
-    "startDate": "2024-06-02T21:31:17+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sofortige Evakuierung in mehreren Bereichen erforderlich - Donauwörth"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240602-014",
     "version": 5,
     "startDate": "2024-06-02T21:49:41+02:00",
@@ -558,6 +544,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240608-000",
+    "version": 5,
+    "startDate": "2024-06-08T15:49:31+02:00",
+    "expiresDate": "2024-06-08T21:49:31+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sofortige Evakuierung in mehreren Bereichen erforderlich - Donauwörth"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
