@@ -546,14 +546,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-DN-SE054-20240609-54-000",
+    "id": "mow.DE-NW-DN-SE054-20240609-54-001",
     "version": 5,
-    "startDate": "2024-06-09T14:00:06+02:00",
+    "startDate": "2024-06-09T14:42:30+02:00",
+    "expiresDate": "2024-06-09T20:42:30+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase im Tagebau Hambach - Gemeinde Merzenich und Gemeinde Niederzier"
+      "de": "Entwarnung: Rauchgase im Tagebau Hambach - Gemeinde Merzenich und Gemeinde Niederzier"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
