@@ -532,21 +532,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-NOM-W210-20240609-001",
-    "version": 5,
-    "startDate": "2024-06-09T06:39:23+02:00",
-    "expiresDate": "2024-06-09T12:39:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase durch Scheunenbrand - Lauenberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-LD-SE117-20240609-121-000",
     "version": 5,
     "startDate": "2024-06-09T12:01:06+02:00",
