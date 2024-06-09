@@ -561,14 +561,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-PB-SE093-20240609-93-000",
+    "id": "mow.DE-NW-PB-SE093-20240609-93-001",
     "version": 5,
-    "startDate": "2024-06-09T15:34:04+02:00",
+    "startDate": "2024-06-09T16:27:15+02:00",
+    "expiresDate": "2024-06-09T22:27:15+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung - Niederntudorf"
+      "de": "Entwarnung: Rauchentwicklung - Niederntudorf"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
