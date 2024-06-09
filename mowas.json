@@ -518,20 +518,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20240609-121-000",
-    "version": 5,
-    "startDate": "2024-06-09T12:01:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gebäudebrand in Birkweiler - Türen und Fenster im Umfeld geschlossen halten - Birkweiler"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-DN-SE054-20240609-54-001",
     "version": 5,
     "startDate": "2024-06-09T14:42:30+02:00",
@@ -573,6 +559,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LD-SE117-20240609-121-001",
+    "version": 5,
+    "startDate": "2024-06-09T18:55:04+02:00",
+    "expiresDate": "2024-06-10T00:55:04+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gebäudebrand in Birkweiler - Türen und Fenster im Umfeld geschlossen h - Birkweiler"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
