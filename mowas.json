@@ -476,21 +476,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KN-W131-20240610-001",
-    "version": 5,
-    "startDate": "2024-06-10T07:20:50+02:00",
-    "expiresDate": "2024-06-10T13:20:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnug vor Überflutung im Ortsbereich - Öhningen und Ortsteile"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20240610-000",
     "version": 5,
     "startDate": "2024-06-10T08:31:59+02:00",
@@ -547,6 +532,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-RO-W136-20240610-001",
+    "version": 5,
+    "startDate": "2024-06-10T13:21:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasserverschmutzung  - Gemeinde Bad Feilnbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
