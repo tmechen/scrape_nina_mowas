@@ -406,20 +406,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-WN-W053-20240606-001",
-    "version": 5,
-    "startDate": "2024-06-06T17:28:03+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserverunreinigung in Rudersberg - Update - Rudersberg, Teilort Oberndorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-FR-W022-20240606-000",
     "version": 5,
     "startDate": "2024-06-06T18:17:23+02:00",
@@ -541,6 +527,35 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Anordnung zum Abkochen des Trinkwassers  - Marktgemeinde Kaisheim, Ortsteile Sulzdorf und Gunzenheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BW-WN-W053-20240610-000",
+    "version": 5,
+    "startDate": "2024-06-10T17:07:05+02:00",
+    "expiresDate": "2024-06-10T23:07:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasserverunreinigung in Rudersberg - Update - Rudersberg, Teilort Oberndorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-WEN-W130-20240610-000",
+    "version": 5,
+    "startDate": "2024-06-10T17:18:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Beeinträchtigung der Trinkwasserqualität - Stadtgebiet Erbendorf mit Ortsteilen"
     },
     "transKeys": {
       "event": "BBK-EVC-069"
