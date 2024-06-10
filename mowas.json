@@ -490,21 +490,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-WN-W053-20240610-000",
-    "version": 5,
-    "startDate": "2024-06-10T17:07:05+02:00",
-    "expiresDate": "2024-06-10T23:07:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserverunreinigung in Rudersberg - Update - Rudersberg, Teilort Oberndorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-WEN-W130-20240610-000",
     "version": 5,
     "startDate": "2024-06-10T17:18:06+02:00",
@@ -549,14 +534,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-W163-20240610-000",
+    "id": "mow.DE-BY-N-W163-20240610-001",
     "version": 5,
-    "startDate": "2024-06-10T22:07:30+02:00",
+    "startDate": "2024-06-10T23:01:01+02:00",
+    "expiresDate": "2024-06-11T05:01:01+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Dachstuhlbrand - Nürnberg - Gaismannshof"
+      "de": "Entwarnung: Rauchentwicklung durch Dachstuhlbrand - Nürnberg - Gaismannshof"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
