@@ -518,14 +518,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-KN-W131-20240610-000",
+    "id": "mow.DE-BW-KN-W131-20240610-001",
     "version": 5,
-    "startDate": "2024-06-10T02:07:56+02:00",
+    "startDate": "2024-06-10T07:20:50+02:00",
+    "expiresDate": "2024-06-10T13:20:50+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Warnug vor Überflutung im Ortsbereich - Öhningen und Ortsteile"
+      "de": "Entwarnung: Warnug vor Überflutung im Ortsbereich - Öhningen und Ortsteile"
     },
     "transKeys": {
       "event": "BBK-EVC-062"
