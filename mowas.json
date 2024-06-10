@@ -547,5 +547,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-TH-AP-W115-20240610-000",
+    "version": 5,
+    "startDate": "2024-06-10T13:40:23+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand Lagerhalle - Isseroda"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
