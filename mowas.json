@@ -84,20 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20240602-007",
-    "version": 5,
-    "startDate": "2024-06-02T16:46:14+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Drohende Überschwemmungen im Naherholungsgebiet Baggersee / Roter Gries  - Naherholungsgebiet Baggersee / Roter Gries"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240602-009",
     "version": 5,
     "startDate": "2024-06-02T17:59:39+02:00",
@@ -490,20 +476,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20240607-001",
-    "version": 5,
-    "startDate": "2024-06-07T12:38:50+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasser  - Erneut ansteigende Pegel nicht ausgeschlossen. - Neuburg-Schrobenhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240609-50-002",
     "version": 5,
     "startDate": "2024-06-09T18:44:40+02:00",
@@ -530,6 +502,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-062"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20240610-000",
+    "version": 5,
+    "startDate": "2024-06-10T08:31:59+02:00",
+    "expiresDate": "2024-06-10T14:31:59+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Drohende Überschwemmungen im Naherholungsgebiet Baggersee / Roter Grie - Naherholungsgebiet Baggersee / Roter Gries"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20240610-001",
+    "version": 5,
+    "startDate": "2024-06-10T08:34:02+02:00",
+    "expiresDate": "2024-06-10T14:34:02+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Aufhebung des Katastrophenfalles im Landkreis Neuburg-Schrobenhausen - Neuburg-Schrobenhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
