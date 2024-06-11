@@ -448,21 +448,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-AP-W115-20240611-000",
-    "version": 5,
-    "startDate": "2024-06-11T07:25:12+02:00",
-    "expiresDate": "2024-06-11T13:25:12+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand Lagerhalle - Isseroda"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-AM-W129-20240611-000",
     "version": 5,
     "startDate": "2024-06-11T09:22:01+02:00",
