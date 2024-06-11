@@ -434,20 +434,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20240611-000",
-    "version": 5,
-    "startDate": "2024-06-11T10:33:46+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchbelästigung durch Brandgase - Graben-Neudorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240611-50-000",
     "version": 5,
     "startDate": "2024-06-11T17:26:12+02:00",
@@ -459,6 +445,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20240611-001",
+    "version": 5,
+    "startDate": "2024-06-11T18:13:59+02:00",
+    "expiresDate": "2024-06-12T00:13:59+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchbelästigung durch Brandgase - Graben-Neudorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
