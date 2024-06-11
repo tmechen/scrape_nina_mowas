@@ -448,21 +448,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-AN-W166-20240611-001",
-    "version": 5,
-    "startDate": "2024-06-11T10:16:23+02:00",
-    "expiresDate": "2024-06-11T16:16:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung und Geruchsbelästigung durch Brand - östliches Stadtgebiet Stadt Ansbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-KA-W138-20240611-000",
     "version": 5,
     "startDate": "2024-06-11T10:33:46+02:00",
