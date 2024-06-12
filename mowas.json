@@ -126,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20240602-017",
-    "version": 5,
-    "startDate": "2024-06-02T23:06:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Landkreis Günzburg ruft Katastrophenfall aufgrund Starkregens aus  - Landkreis Günzburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240602-50-004",
     "version": 5,
     "startDate": "2024-06-02T23:30:51+02:00",
@@ -460,6 +446,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240612-000",
+    "version": 5,
+    "startDate": "2024-06-12T09:08:30+02:00",
+    "expiresDate": "2024-06-12T15:08:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landkreis Günzburg ruft Katastrophenfall aufgrund Starkregens aus  - Landkreis Günzburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
     }
   }
 ]
