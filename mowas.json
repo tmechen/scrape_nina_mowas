@@ -462,5 +462,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240612-001",
+    "version": 5,
+    "startDate": "2024-06-12T11:31:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abkochgebot ab Mittwoch 12.06.2024 - Gemeinde Bibertal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
