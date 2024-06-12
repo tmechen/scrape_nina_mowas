@@ -448,14 +448,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20240611-106-000",
+    "id": "mow.DE-HE-KS-SE106-20240612-106-000",
     "version": 5,
-    "startDate": "2024-06-11T19:53:35+02:00",
+    "startDate": "2024-06-12T03:18:33+02:00",
+    "expiresDate": "2024-06-12T09:18:33+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand mit Rauchwolke - Vellmar"
+      "de": "Entwarnung: Brand mit Rauchwolke - Vellmar"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
