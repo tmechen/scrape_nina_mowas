@@ -434,20 +434,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MS-SE043-20240612-43-000",
-    "version": 5,
-    "startDate": "2024-06-12T14:28:32+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund MS - Münster - Waldeyerstraße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240612-002",
     "version": 5,
     "startDate": "2024-06-12T15:25:32+02:00",
@@ -502,6 +488,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MS-SE043-20240612-43-001",
+    "version": 5,
+    "startDate": "2024-06-12T17:45:25+02:00",
+    "expiresDate": "2024-06-12T23:45:25+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund MS - Münster - Waldeyerstraße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
