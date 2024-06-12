@@ -475,5 +475,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240612-002",
+    "version": 5,
+    "startDate": "2024-06-12T15:25:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abkochgebot Gemeinde Ichenhausen und Ortsteil Unterrohr - Gemeinde Ichenhausen und Ortsteil Unterrohr"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
