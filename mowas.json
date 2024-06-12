@@ -434,21 +434,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20240612-106-000",
-    "version": 5,
-    "startDate": "2024-06-12T03:18:33+02:00",
-    "expiresDate": "2024-06-12T09:18:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand mit Rauchwolke - Vellmar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240612-000",
     "version": 5,
     "startDate": "2024-06-12T09:08:30+02:00",
@@ -461,6 +446,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-062"
+    }
+  },
+  {
+    "id": "mow.DE-NW-UN-SE068-20240612-68-001",
+    "version": 5,
+    "startDate": "2024-06-12T09:36:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung/Rauchgase - Stadt Lünen, Ortsteil Brambauer"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
