@@ -364,21 +364,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240613-000",
-    "version": 5,
-    "startDate": "2024-06-13T09:18:07+02:00",
-    "expiresDate": "2024-06-13T15:18:07+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Dämme und Deiche nicht betreten - Kreis Donau Ries"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BW-WN-W053-20240613-000",
     "version": 5,
     "startDate": "2024-06-13T09:38:12+02:00",
