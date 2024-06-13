@@ -70,20 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240602-84-004",
-    "version": 5,
-    "startDate": "2024-06-02T14:14:58+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromabschaltung im Ortsteil Göttschlag - Gemeinde Allershausen - Ortsteil Göttschlag"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240602-008",
     "version": 5,
     "startDate": "2024-06-02T18:39:59+02:00",
@@ -474,6 +460,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240613-84-000",
+    "version": 5,
+    "startDate": "2024-06-13T08:30:11+02:00",
+    "expiresDate": "2024-06-13T14:30:11+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromabschaltung im Ortsteil Göttschlag - Gemeinde Allershausen - Ortsteil Göttschlag"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
