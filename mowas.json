@@ -336,21 +336,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-WES-SE097-20240613-97-001",
-    "version": 5,
-    "startDate": "2024-06-13T19:36:25+02:00",
-    "expiresDate": "2024-06-14T01:36:25+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Kamp-Lintfort - Kamp-Lintfort am Ortsrand zu den Städten Moers und Neukirchen-Vluyn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-KL-SE112-20240613-112-001",
     "version": 5,
     "startDate": "2024-06-13T20:14:21+02:00",
