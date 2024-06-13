@@ -509,5 +509,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-WES-SE097-20240613-97-000",
+    "version": 5,
+    "startDate": "2024-06-13T13:18:00+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Kamp-Lintfort - Kamp-Lintfort am Ortsrand zu den Städten Moers und Neukirchen-Vluyn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
