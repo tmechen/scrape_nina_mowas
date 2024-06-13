@@ -364,21 +364,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-WN-W053-20240613-000",
-    "version": 5,
-    "startDate": "2024-06-13T09:38:12+02:00",
-    "expiresDate": "2024-06-13T15:38:12+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung Trinkwasserverunreinigung Ortsnetz Schlichenweiler - Althütte"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-RP-KL-SE112-20240613-112-000",
     "version": 5,
     "startDate": "2024-06-13T10:14:23+02:00",
