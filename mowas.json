@@ -392,21 +392,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-ED-W186-20240613-002",
-    "version": 5,
-    "startDate": "2024-06-13T08:10:42+02:00",
-    "expiresDate": "2024-06-13T14:10:42+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Information für Amperregion Landkreis Freising - Fahrenzhausen  bis Volkmannsdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20240613-84-000",
     "version": 5,
     "startDate": "2024-06-13T08:30:11+02:00",
