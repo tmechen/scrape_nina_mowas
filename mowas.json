@@ -446,35 +446,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-BY-FFB-W143-20240612-000",
-    "version": 5,
-    "startDate": "2024-06-12T19:57:59+02:00",
-    "expiresDate": "2024-06-13T01:57:59+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserwarnung vor Ausuferung und Überschwemmungen - Herrsching, insbesondere \"Mühlfeld\", Seepromenade und Keramikstraße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-FFB-W143-20240612-001",
-    "version": 5,
-    "startDate": "2024-06-12T20:05:27+02:00",
-    "expiresDate": "2024-06-13T02:05:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserwarnung vor Ausuferungen und Überschwemmungen - Inning/Stegen, insbesondere Landsberger Straße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
   }
 ]
