@@ -460,5 +460,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-HE-FB-W193-20240613-000",
+    "version": 5,
+    "startDate": "2024-06-13T07:40:48+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Installation einer neuen Sirene - Butzbach-Ostheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
