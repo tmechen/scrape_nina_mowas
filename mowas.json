@@ -336,21 +336,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240613-001",
-    "version": 5,
-    "startDate": "2024-06-13T14:38:07+02:00",
-    "expiresDate": "2024-06-13T20:38:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Abwassersystem in Nordendorf aktuell noch nicht wieder intakt - Nordendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-HE-FB-W193-20240613-001",
     "version": 5,
     "startDate": "2024-06-13T15:03:37+02:00",
