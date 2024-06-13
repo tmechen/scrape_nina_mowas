@@ -182,20 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240604-018",
-    "version": 5,
-    "startDate": "2024-06-04T19:08:52+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Abwassersystem in Nordendorf aktuell noch nicht wieder intakt - Nordendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240606-002",
     "version": 5,
     "startDate": "2024-06-06T12:00:49+02:00",
@@ -392,21 +378,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240613-84-000",
-    "version": 5,
-    "startDate": "2024-06-13T08:30:11+02:00",
-    "expiresDate": "2024-06-13T14:30:11+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromabschaltung im Ortsteil Göttschlag - Gemeinde Allershausen - Ortsteil Göttschlag"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240613-000",
     "version": 5,
     "startDate": "2024-06-13T09:18:07+02:00",
@@ -507,6 +478,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240613-001",
+    "version": 5,
+    "startDate": "2024-06-13T14:38:07+02:00",
+    "expiresDate": "2024-06-13T20:38:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Abwassersystem in Nordendorf aktuell noch nicht wieder intakt - Nordendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
