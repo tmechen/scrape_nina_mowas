@@ -182,20 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240606-001",
-    "version": 5,
-    "startDate": "2024-06-06T12:07:51+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Keinesfalls Öl in die Kanalisation leiten - Landkreis Augsburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-073"
-    }
-  },
-  {
     "id": "mow.DE-BW-FR-W022-20240606-000",
     "version": 5,
     "startDate": "2024-06-06T18:17:23+02:00",
@@ -207,20 +193,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240606-003",
-    "version": 5,
-    "startDate": "2024-06-06T18:35:34+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hochwasserlage im Landkreis Augsburg - Landkreis Augsburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
     }
   },
   {
@@ -362,6 +334,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240614-001",
+    "version": 5,
+    "startDate": "2024-06-14T07:34:14+02:00",
+    "expiresDate": "2024-06-14T13:34:14+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserlage im Landkreis Augsburg - Landkreis Augsburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240614-002",
+    "version": 5,
+    "startDate": "2024-06-14T07:34:20+02:00",
+    "expiresDate": "2024-06-14T13:34:20+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Keinesfalls Öl in die Kanalisation leiten - Landkreis Augsburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-073"
     }
   }
 ]
