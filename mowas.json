@@ -336,14 +336,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20240613-31-000",
+    "id": "mow.DE-NW-D-SE020-20240614-20-000",
     "version": 5,
-    "startDate": "2024-06-13T23:32:41+02:00",
+    "startDate": "2024-06-14T03:49:23+02:00",
+    "expiresDate": "2024-06-14T09:49:23+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund in Voerde - Voerde"
+      "de": "Entwarnung: Kampfmittelfund in Voerde - Voerde"
     },
     "transKeys": {
       "event": "BBK-EVC-009"
