@@ -294,14 +294,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-DA-W184-20240614-000",
+    "id": "mow.DE-HE-DA-W184-20240614-001",
     "version": 5,
-    "startDate": "2024-06-14T12:38:22+02:00",
+    "startDate": "2024-06-14T19:56:17+02:00",
+    "expiresDate": "2024-06-15T01:56:17+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Einsatz der Feuerwehr im Bereich Darmstadt Arheilgen und Wixhausen - Darmstadt"
+      "de": "Entwarnung: Einsatz der Feuerwehr im Bereich Darmstadt Arheilgen und Wixhausen - Darmstadt"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
