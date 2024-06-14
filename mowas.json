@@ -294,21 +294,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20240614-106-001",
-    "version": 5,
-    "startDate": "2024-06-14T12:03:15+02:00",
-    "expiresDate": "2024-06-14T18:03:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Installation einer neuen Sirene - Butzbach-Ostheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-BY-WEN-W130-20240614-000",
     "version": 5,
     "startDate": "2024-06-14T12:12:06+02:00",
