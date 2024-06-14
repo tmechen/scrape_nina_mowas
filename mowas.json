@@ -294,21 +294,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240614-003",
-    "version": 5,
-    "startDate": "2024-06-14T10:14:43+02:00",
-    "expiresDate": "2024-06-14T16:14:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung  - Mödishofen, Kutzenhausen, Häder"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20240614-106-001",
     "version": 5,
     "startDate": "2024-06-14T12:03:15+02:00",
