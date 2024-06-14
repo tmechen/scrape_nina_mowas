@@ -294,21 +294,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WEN-W130-20240614-000",
-    "version": 5,
-    "startDate": "2024-06-14T12:12:06+02:00",
-    "expiresDate": "2024-06-14T18:12:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Beeinträchtigung der Trinkwasserqualität - Stadtgebiet Erbendorf mit Ortsteilen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-HE-DA-W184-20240614-000",
     "version": 5,
     "startDate": "2024-06-14T12:38:22+02:00",
