@@ -182,20 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-FR-W022-20240606-000",
-    "version": 5,
-    "startDate": "2024-06-06T18:17:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Abkochgebot ! Wasservorsorgungszone oberes Kappler Tal - Freiburg-Kappel, Oberes Kappler Tal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240607-000",
     "version": 5,
     "startDate": "2024-06-07T08:22:18+02:00",
@@ -320,6 +306,34 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20240615-89-001",
+    "version": 5,
+    "startDate": "2024-06-15T07:56:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahreninformation  - Kreis Soest"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-FR-W022-20240615-000",
+    "version": 5,
+    "startDate": "2024-06-15T08:05:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Abkochgebot ! Wasservorsorgungszone oberes Kappler Tal - Freiburg-Kappel, Oberes Kappler Tal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
