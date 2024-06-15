@@ -294,21 +294,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20240615-89-002",
-    "version": 5,
-    "startDate": "2024-06-15T16:53:18+02:00",
-    "expiresDate": "2024-06-15T22:53:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahreninformation  - Kreis Soest"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20240615-001",
     "version": 5,
     "startDate": "2024-06-15T21:50:18+02:00",
