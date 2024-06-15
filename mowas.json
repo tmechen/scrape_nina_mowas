@@ -280,21 +280,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20240615-89-000",
-    "version": 5,
-    "startDate": "2024-06-15T05:22:29+02:00",
-    "expiresDate": "2024-06-15T11:22:29+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz  - Möhnesee Wippringsen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-SO-SE089-20240615-89-001",
     "version": 5,
     "startDate": "2024-06-15T07:56:30+02:00",
