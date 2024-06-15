@@ -295,20 +295,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-HO-W142-20240615-000",
-    "version": 5,
-    "startDate": "2024-06-15T07:42:14+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "im Bereich Rehau Ortsteil Kühschwitz Entstehen Rauchgase - Bereiche Kühschwitz, Draisendorf, Regnitzlosau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-SO-SE089-20240615-89-001",
     "version": 5,
     "startDate": "2024-06-15T07:56:30+02:00",
@@ -334,6 +320,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-HO-W142-20240615-001",
+    "version": 5,
+    "startDate": "2024-06-15T08:59:48+02:00",
+    "expiresDate": "2024-06-15T14:59:48+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: im Bereich Rehau Ortsteil Kühschwitz Entstehen Rauchgase - Bereiche Kühschwitz, Draisendorf, Regnitzlosau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
