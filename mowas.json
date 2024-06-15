@@ -336,5 +336,33 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240615-18-000",
+    "version": 5,
+    "startDate": "2024-06-15T09:50:46+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenenprobealarm - Gemeindegebiet Wurmberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240615-18-001",
+    "version": 5,
+    "startDate": "2024-06-15T09:54:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenenprobealarm - Gemeindegebiet Ispringen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
