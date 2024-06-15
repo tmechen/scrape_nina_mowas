@@ -351,31 +351,33 @@
     }
   },
   {
-    "id": "mow.DE-NI-GF-W216-20240615-000",
+    "id": "mow.DE-TH-HIG-W111-20240615-001",
     "version": 5,
-    "startDate": "2024-06-15T11:27:11+02:00",
+    "startDate": "2024-06-15T12:11:29+02:00",
+    "expiresDate": "2024-06-15T18:11:29+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Probealarm zur Warnung der Bevölkerung im Landkreis Gifhorn - Landkreis Gifhorn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-TH-HIG-W111-20240615-000",
-    "version": 5,
-    "startDate": "2024-06-15T11:27:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenen-Funktionsprobe - VG Leinetal und Landgemeinde Uder"
+      "de": "Entwarnung: Sirenen-Funktionsprobe - VG Leinetal und Landgemeinde Uder"
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NI-GF-W216-20240615-001",
+    "version": 5,
+    "startDate": "2024-06-15T12:16:48+02:00",
+    "expiresDate": "2024-06-15T18:16:48+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Probealarm zur Warnung der Bevölkerung im Landkreis Gifhorn - Landkreis Gifhorn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
     }
   }
 ]
