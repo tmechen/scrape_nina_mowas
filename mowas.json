@@ -294,21 +294,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-UN-SE068-20240616-68-001",
-    "version": 5,
-    "startDate": "2024-06-16T14:42:48+02:00",
-    "expiresDate": "2024-06-16T20:42:48+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase - Unna- östliche Mitte"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20240616-106-001",
     "version": 5,
     "startDate": "2024-06-16T17:29:04+02:00",
