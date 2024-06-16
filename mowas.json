@@ -292,20 +292,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-HE-KS-SE106-20240616-106-001",
-    "version": 5,
-    "startDate": "2024-06-16T17:29:04+02:00",
-    "expiresDate": "2024-06-16T23:29:04+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand mit Rauchwolke - Fuldatal-Ihringshausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
