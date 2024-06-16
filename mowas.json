@@ -294,14 +294,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20240615-001",
+    "id": "mow.DE-TH-G-W109-20240616-000",
     "version": 5,
-    "startDate": "2024-06-15T21:50:18+02:00",
+    "startDate": "2024-06-16T02:49:58+02:00",
+    "expiresDate": "2024-06-16T08:49:58+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Schmölln OT Sommeritz"
+      "de": "Entwarnung: Starke Rauchentwicklung - Schmölln OT Sommeritz"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
