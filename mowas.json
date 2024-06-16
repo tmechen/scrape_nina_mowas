@@ -292,5 +292,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NW-UN-SE068-20240616-68-000",
+    "version": 5,
+    "startDate": "2024-06-16T10:53:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase - Unna- östliche Mitte"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
