@@ -252,21 +252,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20240617-106-004",
-    "version": 5,
-    "startDate": "2024-06-17T14:48:27+02:00",
-    "expiresDate": "2024-06-17T20:48:27+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gasaustritt durch bei Bauarbeiten beschädigte Gasleitung - Stockstadt am Rhein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-BW-HN-W045-20240617-000",
     "version": 5,
     "startDate": "2024-06-17T16:50:14+02:00",
