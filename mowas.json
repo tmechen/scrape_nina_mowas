@@ -154,20 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20240607-000",
-    "version": 5,
-    "startDate": "2024-06-07T08:22:18+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Aktualisierung - Vorsorgemaßnahme(n) bei der Trinkwasserversorgung  - Stadt Memmingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-RO-W136-20240610-001",
     "version": 5,
     "startDate": "2024-06-10T13:21:30+02:00",
@@ -252,21 +238,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KN-W131-20240617-000",
-    "version": 5,
-    "startDate": "2024-06-17T08:40:54+02:00",
-    "expiresDate": "2024-06-17T14:40:54+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserverunreinigung Gemeinde Öhningen Ortsteil Schienen - Schienen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240617-50-000",
     "version": 5,
     "startDate": "2024-06-17T09:09:13+02:00",
@@ -327,20 +298,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20240617-106-000",
-    "version": 5,
-    "startDate": "2024-06-17T13:34:59+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gasaustritt durch bei Bauarbeiten beschädigte Gasleitung - Stockstadt am Rhein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20240617-106-002",
     "version": 5,
     "startDate": "2024-06-17T14:31:30+02:00",
@@ -350,6 +307,50 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Defekte Gasleitung  - Ahnatal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240617-000",
+    "version": 5,
+    "startDate": "2024-06-17T14:39:14+02:00",
+    "expiresDate": "2024-06-17T20:39:14+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Aktualisierung - Vorsorgemaßnahme(n) bei der Trinkwasserversorgung  - Stadt Memmingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20240617-106-003",
+    "version": 5,
+    "startDate": "2024-06-17T14:40:44+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Betrieb Bürgertelefon im Rahmen des Ausbruchs der Afrikanischen Schweinepest - Landkreis Groß-Gerau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-067"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20240617-106-004",
+    "version": 5,
+    "startDate": "2024-06-17T14:48:27+02:00",
+    "expiresDate": "2024-06-17T20:48:27+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gasaustritt durch bei Bauarbeiten beschädigte Gasleitung - Stockstadt am Rhein"
     },
     "transKeys": {
       "event": "BBK-EVC-027"
