@@ -280,20 +280,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-WTM-W213-20240618-000",
-    "version": 5,
-    "startDate": "2024-06-18T04:07:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung Großbrand - Voßbarg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-PF-W024-20240618-002",
     "version": 5,
     "startDate": "2024-06-18T10:34:21+02:00",
@@ -321,6 +307,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-WTM-W213-20240618-001",
+    "version": 5,
+    "startDate": "2024-06-18T15:12:07+02:00",
+    "expiresDate": "2024-06-18T21:12:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand - Voßbarg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
