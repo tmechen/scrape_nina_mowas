@@ -280,20 +280,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20240617-89-000",
-    "version": 5,
-    "startDate": "2024-06-17T20:39:47+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase in Möhnesee Wippringsen - Möhnesee-Wippringsen, Soest-Ruploh, Soest-Deiringsen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NI-WTM-W213-20240618-000",
     "version": 5,
     "startDate": "2024-06-18T04:07:06+02:00",
@@ -320,6 +306,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20240618-89-000",
+    "version": 5,
+    "startDate": "2024-06-18T14:17:12+02:00",
+    "expiresDate": "2024-06-18T20:17:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase in Möhnesee Wippringsen - Möhnesee-Wippringsen, Soest-Ruploh, Soest-Deiringsen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
