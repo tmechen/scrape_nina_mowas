@@ -306,5 +306,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-BW-PF-W024-20240618-000",
+    "version": 5,
+    "startDate": "2024-06-18T05:03:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung im Stadtgebiet - Stadt Pforzheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
