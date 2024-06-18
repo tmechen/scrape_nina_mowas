@@ -323,5 +323,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-NW-RE-SE078-20240618-78-000",
+    "version": 5,
+    "startDate": "2024-06-18T15:19:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "1.2 Bombenfund Warnung  - Stadt Recklinghausen, Stadtteil Ost"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
