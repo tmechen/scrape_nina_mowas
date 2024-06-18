@@ -321,5 +321,19 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20240618-12-000",
+    "version": 5,
+    "startDate": "2024-06-18T22:03:02+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Brand - Stadt Weimar - Ortsteile Legefeld, Gelmeroda, Teile Südstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
