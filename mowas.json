@@ -308,20 +308,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BO-SE077-20240619-77-000",
-    "version": 5,
-    "startDate": "2024-06-19T07:17:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in Bochum Gerthe - Bochum"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-SN-Z-SE122-20240619-154-000",
     "version": 5,
     "startDate": "2024-06-19T07:40:46+02:00",
@@ -334,6 +320,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BO-SE077-20240619-77-001",
+    "version": 5,
+    "startDate": "2024-06-19T08:51:41+02:00",
+    "expiresDate": "2024-06-19T14:51:41+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung in Bochum Gerthe - Bochum"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
