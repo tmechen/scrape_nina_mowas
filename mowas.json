@@ -306,5 +306,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20240619-82-000",
+    "version": 5,
+    "startDate": "2024-06-19T15:21:10+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand einer Lagerhalle in Babelsberg - Potsdam Babelsberg, Sophie-Faber-Str."
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
