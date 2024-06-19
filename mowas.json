@@ -280,21 +280,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20240619-82-001",
-    "version": 5,
-    "startDate": "2024-06-19T18:12:55+02:00",
-    "expiresDate": "2024-06-20T00:12:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand einer Lagerhalle in Babelsberg - Potsdam Babelsberg, Sophie-Faber-Str."
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-HSK-SE096-20240619-96-001",
     "version": 5,
     "startDate": "2024-06-19T21:37:33+02:00",
