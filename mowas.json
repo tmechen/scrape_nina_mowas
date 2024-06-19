@@ -306,20 +306,5 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
-  },
-  {
-    "id": "mow.DE-NW-BO-SE077-20240619-77-001",
-    "version": 5,
-    "startDate": "2024-06-19T08:51:41+02:00",
-    "expiresDate": "2024-06-19T14:51:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Bochum Gerthe - Bochum"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
