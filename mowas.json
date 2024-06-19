@@ -337,5 +337,19 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-NW-HSK-SE096-20240619-96-000",
+    "version": 5,
+    "startDate": "2024-06-19T20:06:10+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Giftige Rauchwolke durch Brand eines Altpapierlagers - Sundern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
