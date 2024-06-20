@@ -280,21 +280,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HSK-SE096-20240619-96-001",
-    "version": 5,
-    "startDate": "2024-06-19T21:37:33+02:00",
-    "expiresDate": "2024-06-20T03:37:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Giftige Rauchwolke durch Brand eines Altpapierlagers - Sundern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20240619-125-002",
     "version": 5,
     "startDate": "2024-06-20T00:10:11+02:00",
@@ -306,6 +291,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BW-BL-W128-20240620-000",
+    "version": 5,
+    "startDate": "2024-06-20T03:35:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchwolke durch Schuppenbrand - Geislingen und Umgebung"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
