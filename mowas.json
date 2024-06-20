@@ -309,5 +309,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BW-S-SE127-20240620-214-000",
+    "version": 5,
+    "startDate": "2024-06-20T09:32:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "starke Rauchentwicklung durch Großbrand einer Lagerhalle - Stuttgart-Zuffenhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
