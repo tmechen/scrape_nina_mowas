@@ -297,20 +297,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20240620-4-000",
-    "version": 5,
-    "startDate": "2024-06-20T14:46:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bestätigte Ausströmung von Gas aus einer Bodenleitung - Binsfeld Ortslage"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20240620-000",
     "version": 5,
     "startDate": "2024-06-20T14:51:46+02:00",
@@ -322,6 +308,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20240620-4-001",
+    "version": 5,
+    "startDate": "2024-06-20T15:38:02+02:00",
+    "expiresDate": "2024-06-20T21:38:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bestätigte Ausströmung von Gas aus einer Bodenleitung - Binsfeld Ortslage"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
     }
   }
 ]
