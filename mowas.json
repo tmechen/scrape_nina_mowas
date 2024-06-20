@@ -252,21 +252,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-BL-W128-20240620-001",
-    "version": 5,
-    "startDate": "2024-06-20T05:53:24+02:00",
-    "expiresDate": "2024-06-20T11:53:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Schuppenbrand - Geislingen und Umgebung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20240620-125-000",
     "version": 5,
     "startDate": "2024-06-20T06:08:28+02:00",
