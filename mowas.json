@@ -224,21 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WEN-W130-20240620-001",
-    "version": 5,
-    "startDate": "2024-06-20T14:45:25+02:00",
-    "expiresDate": "2024-06-20T20:45:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Störung der Notrufnummer 112 - Stadt Weiden, Landkreis Neustadt a.d. WN und Landkreis Tirschenreuth"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-004"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20240620-000",
     "version": 5,
     "startDate": "2024-06-20T14:51:46+02:00",
