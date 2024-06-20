@@ -252,34 +252,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-C-W092-20240618-000",
-    "version": 5,
-    "startDate": "2024-06-18T16:52:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Strohballenbrand - Großweitzschen OT Strocken"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-SN-HY-SE048-20240618-122-000",
-    "version": 5,
-    "startDate": "2024-06-18T17:19:29+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Strohballenbrand - Großweitzschen OT Strocken"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-BL-W128-20240620-001",
     "version": 5,
     "startDate": "2024-06-20T05:53:24+02:00",
@@ -306,6 +278,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-SN-C-W092-20240620-000",
+    "version": 5,
+    "startDate": "2024-06-20T06:49:04+02:00",
+    "expiresDate": "2024-06-20T12:49:04+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Strohballenbrand - Großweitzschen OT Strocken"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20240620-122-000",
+    "version": 5,
+    "startDate": "2024-06-20T07:04:19+02:00",
+    "expiresDate": "2024-06-20T13:04:19+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Strohballenbrand - Großweitzschen OT Strocken"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
