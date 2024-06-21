@@ -267,20 +267,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20240621-33-000",
-    "version": 5,
-    "startDate": "2024-06-21T20:10:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Hamburg-St. Georg / Hammerbrook / Hohenfelde / Borgfelde"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20240621-106-000",
     "version": 5,
     "startDate": "2024-06-21T20:22:48+02:00",
@@ -292,6 +278,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20240621-33-001",
+    "version": 5,
+    "startDate": "2024-06-21T22:48:23+02:00",
+    "expiresDate": "2024-06-22T04:48:23+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Hamburg-St. Georg / Hammerbrook / Hohenfelde / Borgfelde"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
