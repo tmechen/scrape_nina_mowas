@@ -266,14 +266,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-KN-W131-20240621-000",
+    "id": "mow.DE-BW-KN-W131-20240621-001",
     "version": 5,
-    "startDate": "2024-06-21T02:26:51+02:00",
+    "startDate": "2024-06-21T04:37:12+02:00",
+    "expiresDate": "2024-06-21T10:37:12+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brandrauch  - Singen Südstadt"
+      "de": "Entwarnung: Brandrauch  - Singen Südstadt"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
