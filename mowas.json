@@ -265,5 +265,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20240621-33-000",
+    "version": 5,
+    "startDate": "2024-06-21T20:10:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Hamburg-St. Georg / Hammerbrook / Hohenfelde / Borgfelde"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
