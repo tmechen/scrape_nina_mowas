@@ -252,21 +252,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-RE-SE078-20240621-78-001",
-    "version": 5,
-    "startDate": "2024-06-21T19:18:02+02:00",
-    "expiresDate": "2024-06-22T01:18:02+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 1.1 Standard Warnung   - Marl"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20240621-106-000",
     "version": 5,
     "startDate": "2024-06-21T20:22:48+02:00",
