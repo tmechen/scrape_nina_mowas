@@ -250,20 +250,5 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
-  },
-  {
-    "id": "mow.DE-TH-G-W109-20240621-000",
-    "version": 5,
-    "startDate": "2024-06-21T07:50:14+02:00",
-    "expiresDate": "2024-06-21T13:50:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brand - weira"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
