@@ -264,5 +264,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20240622-4-000",
+    "version": 5,
+    "startDate": "2024-06-22T07:58:00+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Notruf 112 - Leitstellenbereich Trier"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
+    }
   }
 ]
