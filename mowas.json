@@ -264,20 +264,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-TH-UH-W116-20240623-001",
-    "version": 5,
-    "startDate": "2024-06-23T16:08:45+02:00",
-    "expiresDate": "2024-06-23T22:08:45+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gebäudebrand  - Mühlhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
