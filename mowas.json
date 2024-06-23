@@ -266,18 +266,17 @@
     }
   },
   {
-    "id": "mow.DE-NW-OB-SE055-20240622-55-001",
+    "id": "mow.DE-ST-MD-SE022-20240623-143-001",
     "version": 5,
-    "startDate": "2024-06-22T21:53:03+02:00",
-    "expiresDate": "2024-06-23T03:53:03+02:00",
+    "startDate": "2024-06-23T04:09:43+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Entwarnung: Brand mit starker Rauchentwicklung in Oberhausen - Sterkrade - Oberhausen"
+      "de": "Stromausfall mit abweichender Erreichbarkeit der Rettungsleitstelle (112) - Halle (Saale)"
     },
     "transKeys": {
-      "event": "BBK-EVC-010"
+      "event": "BBK-EVC-063"
     }
   }
 ]
