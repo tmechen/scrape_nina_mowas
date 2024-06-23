@@ -266,21 +266,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20240623-143-002",
-    "version": 5,
-    "startDate": "2024-06-23T04:21:06+02:00",
-    "expiresDate": "2024-06-23T10:21:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall mit abweichender Erreichbarkeit der Rettungsleitstelle (1 - Halle (Saale)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240623-50-001",
     "version": 5,
     "startDate": "2024-06-23T04:40:17+02:00",
