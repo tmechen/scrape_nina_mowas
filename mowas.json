@@ -266,21 +266,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-BS-W091-20240623-001",
-    "version": 5,
-    "startDate": "2024-06-23T14:02:27+02:00",
-    "expiresDate": "2024-06-23T20:02:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brand einer Trafostation - Braunschweig Weststadt, Broitzem, Gartenstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20240623-18-001",
     "version": 5,
     "startDate": "2024-06-23T14:32:20+02:00",
