@@ -252,29 +252,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-ED-W186-20240624-000",
+    "id": "mow.DE-BY-M-SE125-20240624-153-001",
     "version": 5,
-    "startDate": "2024-06-24T07:16:13+02:00",
-    "expiresDate": "2024-06-24T13:16:13+02:00",
-    "severity": "Severe",
+    "startDate": "2024-06-24T13:18:07+02:00",
+    "expiresDate": "2024-06-24T19:18:07+02:00",
+    "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: erhöhter Grundwasserspiegel im Bereich Moosburg zu erwarten - Stadt Moosburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-BY-M-SE125-20240624-153-000",
-    "version": 5,
-    "startDate": "2024-06-24T12:52:17+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung - München Ramersdorf"
+      "de": "Entwarnung: Starke Rauchentwicklung - München Ramersdorf"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
