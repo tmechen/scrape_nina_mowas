@@ -236,5 +236,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240624-50-000",
+    "version": 5,
+    "startDate": "2024-06-24T22:50:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand einer Biogasanlage - Horb am Neckar, Ortsteil Altheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
