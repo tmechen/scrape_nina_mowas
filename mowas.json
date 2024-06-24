@@ -236,20 +236,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-BY-RO-W136-20240624-000",
-    "version": 5,
-    "startDate": "2024-06-24T16:29:11+02:00",
-    "expiresDate": "2024-06-24T22:29:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserverschmutzung  - Gemeinde Bad Feilnbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
   }
 ]
