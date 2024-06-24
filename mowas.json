@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-ED-W186-20240602-004",
-    "version": 5,
-    "startDate": "2024-06-02T19:05:15+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "erhöhter Grundwasserspiegel im Bereich Moosburg zu erwarten - Stadt Moosburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240602-014",
     "version": 5,
     "startDate": "2024-06-02T21:49:41+02:00",
@@ -263,6 +249,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-ED-W186-20240624-000",
+    "version": 5,
+    "startDate": "2024-06-24T07:16:13+02:00",
+    "expiresDate": "2024-06-24T13:16:13+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: erhöhter Grundwasserspiegel im Bereich Moosburg zu erwarten - Stadt Moosburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
