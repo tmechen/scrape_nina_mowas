@@ -238,21 +238,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-M-SE125-20240624-153-001",
-    "version": 5,
-    "startDate": "2024-06-24T13:18:07+02:00",
-    "expiresDate": "2024-06-24T19:18:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung - München Ramersdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-RO-W136-20240624-000",
     "version": 5,
     "startDate": "2024-06-24T16:29:11+02:00",
