@@ -282,5 +282,33 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NW-WAF-SE045-20240625-45-000",
+    "version": 5,
+    "startDate": "2024-06-25T16:25:45+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase im Stadtgebiet Telgte - Telgte"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-H-SE110-20240625-110-000",
+    "version": 5,
+    "startDate": "2024-06-25T16:26:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund - Hannover - Bothfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
