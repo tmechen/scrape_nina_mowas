@@ -280,5 +280,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-BB-CB-SE036-20240625-36-000",
+    "version": 5,
+    "startDate": "2024-06-25T20:25:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Dachstuhlbrand - Cottbus"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
