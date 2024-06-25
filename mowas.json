@@ -225,20 +225,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240625-84-000",
-    "version": 5,
-    "startDate": "2024-06-25T15:58:47+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Fund einer Fliegerbombe in Regensburg-Großprüfening - Regensburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NI-H-SE110-20240625-110-000",
     "version": 5,
     "startDate": "2024-06-25T16:26:21+02:00",
@@ -293,6 +279,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240625-84-003",
+    "version": 5,
+    "startDate": "2024-06-25T21:19:38+02:00",
+    "expiresDate": "2024-06-26T03:19:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Fund einer Fliegerbombe in Regensburg-Großprüfening - Regensburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
