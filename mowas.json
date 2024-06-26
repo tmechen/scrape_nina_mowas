@@ -210,21 +210,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20240626-001",
-    "version": 5,
-    "startDate": "2024-06-26T19:01:41+02:00",
-    "expiresDate": "2024-06-27T01:01:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Brand einer Lagerhalle - Linkenheim-Hochstetten"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SN-Z-SE122-20240626-154-002",
     "version": 5,
     "startDate": "2024-06-26T19:13:20+02:00",
