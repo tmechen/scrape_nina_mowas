@@ -210,21 +210,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-BT-W082-20240626-001",
-    "version": 5,
-    "startDate": "2024-06-26T18:03:26+02:00",
-    "expiresDate": "2024-06-27T00:03:26+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandgase durch Großbrand - Kulmbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-KA-W138-20240626-001",
     "version": 5,
     "startDate": "2024-06-26T19:01:41+02:00",
