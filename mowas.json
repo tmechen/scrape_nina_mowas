@@ -194,20 +194,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-BB-CB-SE036-20240625-36-001",
-    "version": 5,
-    "startDate": "2024-06-26T01:15:53+02:00",
-    "expiresDate": "2024-06-26T07:15:53+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Dachstuhlbrand - Cottbus"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
