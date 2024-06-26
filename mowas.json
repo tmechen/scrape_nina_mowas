@@ -237,5 +237,33 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20240626-28-000",
+    "version": 5,
+    "startDate": "2024-06-26T12:47:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Marne"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-SN-Z-SE122-20240626-154-000",
+    "version": 5,
+    "startDate": "2024-06-26T13:05:45+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Landkreis Vogtlandkreis, Kauschwitz, Zwoschwitz und Syrau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
