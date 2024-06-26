@@ -168,20 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20240620-125-001",
-    "version": 5,
-    "startDate": "2024-06-20T16:34:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Stromausfall in weiten Teilen der Gemeinde Budenheim  - Gemeinde Budenheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20240621-106-000",
     "version": 5,
     "startDate": "2024-06-21T20:22:48+02:00",
@@ -239,20 +225,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20240626-28-000",
-    "version": 5,
-    "startDate": "2024-06-26T12:47:42+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Marne"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SN-Z-SE122-20240626-154-000",
     "version": 5,
     "startDate": "2024-06-26T13:05:45+02:00",
@@ -264,6 +236,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20240626-125-000",
+    "version": 5,
+    "startDate": "2024-06-26T13:55:25+02:00",
+    "expiresDate": "2024-06-26T19:55:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall in weiten Teilen der Gemeinde Budenheim  - Gemeinde Budenheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20240626-28-001",
+    "version": 5,
+    "startDate": "2024-06-26T14:18:12+02:00",
+    "expiresDate": "2024-06-26T20:18:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Marne"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
