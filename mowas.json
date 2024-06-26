@@ -224,14 +224,15 @@
     }
   },
   {
-    "id": "mow.DE-BB-EW-SE079-20240626-79-001",
+    "id": "mow.DE-BB-EW-SE079-20240626-79-002",
     "version": 5,
-    "startDate": "2024-06-26T11:35:34+02:00",
+    "startDate": "2024-06-26T12:16:10+02:00",
+    "expiresDate": "2024-06-26T18:16:10+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sichtbehinderung Autobahn A11 - Bernau; Schwanbeck"
+      "de": "Entwarnung: Sichtbehinderung Autobahn A11 - Bernau; Schwanbeck"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
