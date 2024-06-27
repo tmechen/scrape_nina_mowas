@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240604-017",
-    "version": 5,
-    "startDate": "2024-06-04T18:59:32+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor dem Betreten von Dämmen und Deichen - Landkreis Dillingen a.d. Donau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240606-002",
     "version": 5,
     "startDate": "2024-06-06T12:00:49+02:00",
@@ -222,6 +208,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240627-000",
+    "version": 5,
+    "startDate": "2024-06-27T10:31:23+02:00",
+    "expiresDate": "2024-06-27T16:31:23+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor dem Betreten von Dämmen und Deichen - Landkreis Dillingen a.d. Donau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
