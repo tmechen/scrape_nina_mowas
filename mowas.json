@@ -182,21 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240627-50-000",
-    "version": 5,
-    "startDate": "2024-06-27T07:28:13+02:00",
-    "expiresDate": "2024-06-27T13:28:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rottach und kleiner Flüsse über die Ufer getreten. - Deggenhausertal - Bereich Urnau & Fuchstobel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240627-000",
     "version": 5,
     "startDate": "2024-06-27T10:31:23+02:00",
