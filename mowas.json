@@ -210,5 +210,19 @@
     "transKeys": {
       "event": "BBK-EVC-071"
     }
+  },
+  {
+    "id": "mow.DE-BY-CO-W141-20240627-000",
+    "version": 5,
+    "startDate": "2024-06-27T13:49:16+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abkochanordnung für die Trinkwasserversorgung des Stadtteils Stublang ab 27.06.24 - Bad Staffelstein, Stadtteil Stublang"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
