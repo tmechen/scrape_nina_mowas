@@ -182,21 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KN-W131-20240627-000",
-    "version": 5,
-    "startDate": "2024-06-27T12:38:47+02:00",
-    "expiresDate": "2024-06-27T18:38:47+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hochwasserwarnung - Rielasingen-Worblingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-BY-CO-W141-20240627-000",
     "version": 5,
     "startDate": "2024-06-27T13:49:16+02:00",
