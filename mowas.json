@@ -182,21 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-Z-SE122-20240628-154-000",
-    "version": 5,
-    "startDate": "2024-06-28T17:10:31+02:00",
-    "expiresDate": "2024-06-28T23:10:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Stadt Plauen, Gemeinde Rosenbach/Vogtl."
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20240628-001",
     "version": 5,
     "startDate": "2024-06-28T19:43:20+02:00",
