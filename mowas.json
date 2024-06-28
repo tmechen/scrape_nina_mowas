@@ -210,14 +210,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-NOM-W210-20240628-000",
+    "id": "mow.DE-NI-NOM-W210-20240628-001",
     "version": 5,
-    "startDate": "2024-06-28T10:44:47+02:00",
+    "startDate": "2024-06-28T12:20:23+02:00",
+    "expiresDate": "2024-06-28T18:20:23+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in Sohlingen - Stadt Uslar - Ortschaft Sohlingen"
+      "de": "Entwarnung: Rauchgase in Sohlingen - Stadt Uslar - Ortschaft Sohlingen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
