@@ -194,20 +194,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-BY-BA-W140-20240627-001",
-    "version": 5,
-    "startDate": "2024-06-27T21:12:21+02:00",
-    "expiresDate": "2024-06-28T03:12:21+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung - Pinzberg - Gosberg (Landkreis Forchheim)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
