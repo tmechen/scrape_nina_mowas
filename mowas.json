@@ -168,20 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-Z-SE122-20240626-154-002",
-    "version": 5,
-    "startDate": "2024-06-26T19:13:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Stadt Plauen, Gemeinde Rosenbach/Vogtl."
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-CO-W141-20240627-000",
     "version": 5,
     "startDate": "2024-06-27T13:49:16+02:00",
@@ -219,6 +205,21 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Rauchgase in Sohlingen - Stadt Uslar - Ortschaft Sohlingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SN-Z-SE122-20240628-154-000",
+    "version": 5,
+    "startDate": "2024-06-28T17:10:31+02:00",
+    "expiresDate": "2024-06-28T23:10:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Stadt Plauen, Gemeinde Rosenbach/Vogtl."
     },
     "transKeys": {
       "event": "BBK-EVC-010"
