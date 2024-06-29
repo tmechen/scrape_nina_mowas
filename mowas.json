@@ -182,34 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-W054-20240629-000",
-    "version": 5,
-    "startDate": "2024-06-29T21:11:16+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Schweres Gewitter mit großem Hagel und Sturmböen - gesamter Regionalverband"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-086"
-    }
-  },
-  {
-    "id": "mow.DE-SL-NK-W048-20240629-000",
-    "version": 5,
-    "startDate": "2024-06-29T21:31:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor Unwetter im Landkreis Neunkirchen - Landkreis Neunkirchen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-086"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20240629-001",
     "version": 5,
     "startDate": "2024-06-29T22:33:59+02:00",
@@ -222,6 +194,50 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-W054-20240629-001",
+    "version": 5,
+    "startDate": "2024-06-29T22:51:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gewitter - gesamter Regionalverband"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-031"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-W054-20240629-002",
+    "version": 5,
+    "startDate": "2024-06-29T22:53:07+02:00",
+    "expiresDate": "2024-06-30T04:53:07+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Schweres Gewitter mit großem Hagel und Sturmböen - gesamter Regionalverband"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-086"
+    }
+  },
+  {
+    "id": "mow.DE-SL-NK-W048-20240629-001",
+    "version": 5,
+    "startDate": "2024-06-29T23:12:29+02:00",
+    "expiresDate": "2024-06-30T05:12:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor Unwetter im Landkreis Neunkirchen - Landkreis Neunkirchen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-086"
     }
   }
 ]
