@@ -180,20 +180,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-ST-SLK-W069-20240629-002",
-    "version": 5,
-    "startDate": "2024-06-29T13:49:17+02:00",
-    "expiresDate": "2024-06-29T19:49:17+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: **Großbrand Ortslage Könnern** - Könnern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
