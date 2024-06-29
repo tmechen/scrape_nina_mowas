@@ -211,14 +211,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20240629-000",
+    "id": "mow.DE-BW-KA-W138-20240629-001",
     "version": 5,
-    "startDate": "2024-06-29T10:50:07+02:00",
+    "startDate": "2024-06-29T11:46:22+02:00",
+    "expiresDate": "2024-06-29T17:46:22+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Probealarm des Sirenenwarnsystems Stadt Rheinstetten - Rheinstetten"
+      "de": "Entwarnung: Probealarm des Sirenenwarnsystems Stadt Rheinstetten - Rheinstetten"
     },
     "transKeys": {
       "event": "BBK-EVC-060"
