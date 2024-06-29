@@ -180,5 +180,33 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20240629-000",
+    "version": 5,
+    "startDate": "2024-06-29T21:05:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall - Bischweier"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-W054-20240629-000",
+    "version": 5,
+    "startDate": "2024-06-29T21:11:16+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Schweres Gewitter mit großem Hagel und Sturmböen - gesamter Regionalverband"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-086"
+    }
   }
 ]
