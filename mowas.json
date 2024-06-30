@@ -182,20 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-AP-W115-20240630-000",
-    "version": 5,
-    "startDate": "2024-06-30T07:20:46+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand Batterie-Container - Ortslage Isseroda und umliegende Ortschaften"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE049-20240630-49-001",
     "version": 5,
     "startDate": "2024-06-30T12:55:52+02:00",
@@ -208,6 +194,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-TH-AP-W115-20240630-001",
+    "version": 5,
+    "startDate": "2024-06-30T18:17:10+02:00",
+    "expiresDate": "2024-07-01T00:17:10+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand Batterie-Container - Ortslage Isseroda und umliegende Ortschaften"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
