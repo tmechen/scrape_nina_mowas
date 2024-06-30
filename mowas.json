@@ -240,14 +240,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-HAM-SE085-20240630-85-000",
+    "id": "mow.DE-NW-HAM-SE085-20240630-85-001",
     "version": 5,
-    "startDate": "2024-06-30T09:45:05+02:00",
+    "startDate": "2024-06-30T10:05:24+02:00",
+    "expiresDate": "2024-06-30T16:05:24+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Belästigung durch Rauchgase in der Stadt Hamm - HAMM - Mitte"
+      "de": "Entwarnung: Belästigung durch Rauchgase in der Stadt Hamm - HAMM - Mitte"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
