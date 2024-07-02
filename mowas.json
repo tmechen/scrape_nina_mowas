@@ -181,5 +181,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20240702-99-001",
+    "version": 5,
+    "startDate": "2024-07-02T10:37:26+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Gefahreninformation Feuerwehreinsatz - Schacht-Audorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
