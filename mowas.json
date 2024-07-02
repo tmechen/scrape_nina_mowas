@@ -168,21 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20240702-000",
-    "version": 5,
-    "startDate": "2024-07-02T09:07:47+02:00",
-    "expiresDate": "2024-07-02T15:07:47+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Abkochgebot ab Mittwoch 12.06.2024 - Gemeinde Bibertal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20240702-99-003",
     "version": 5,
     "startDate": "2024-07-02T11:34:01+02:00",
