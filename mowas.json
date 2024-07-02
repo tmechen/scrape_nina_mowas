@@ -168,21 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20240702-99-005",
-    "version": 5,
-    "startDate": "2024-07-02T19:05:04+02:00",
-    "expiresDate": "2024-07-03T01:05:04+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Schacht-Audorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20240702-125-000",
     "version": 5,
     "startDate": "2024-07-02T20:58:00+02:00",
