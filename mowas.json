@@ -253,5 +253,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-RP-KO-SE113-20240703-113-000",
+    "version": 5,
+    "startDate": "2024-07-03T11:30:41+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung aufgrund eines Brandes - Mendig"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
