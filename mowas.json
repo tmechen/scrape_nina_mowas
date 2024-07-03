@@ -168,21 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-WW-SE116-20240703-123-001",
-    "version": 5,
-    "startDate": "2024-07-03T09:50:25+02:00",
-    "expiresDate": "2024-07-03T15:50:25+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Dachstuhlbrand - Bad Ems"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20240703-125-000",
     "version": 5,
     "startDate": "2024-07-03T09:56:57+02:00",
