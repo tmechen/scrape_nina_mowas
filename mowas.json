@@ -226,20 +226,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EA-W114-20240703-000",
-    "version": 5,
-    "startDate": "2024-07-03T10:57:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchwolke nach LKW Brand auf der BAB 4 - BAB 4 / Bereich Eisenach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-MR-W190-20240703-000",
     "version": 5,
     "startDate": "2024-07-03T11:08:36+02:00",
@@ -251,6 +237,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EA-W114-20240703-001",
+    "version": 5,
+    "startDate": "2024-07-03T11:19:25+02:00",
+    "expiresDate": "2024-07-03T17:19:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: ENTWARNUNG - Rauchwolke nach LKW Brand auf der BAB 4 - BAB 4 / Bereich Eisenach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
