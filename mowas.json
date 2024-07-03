@@ -182,21 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-RE-SE078-20240703-78-002",
-    "version": 5,
-    "startDate": "2024-07-03T17:56:27+02:00",
-    "expiresDate": "2024-07-03T23:56:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 1.2 Bombenfund Warnung  - Datteln"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-HE-F-SE119-20240703-128-003",
     "version": 5,
     "startDate": "2024-07-03T22:46:33+02:00",
