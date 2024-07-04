@@ -166,35 +166,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-NW-ME-SE071-20240704-71-001",
-    "version": 5,
-    "startDate": "2024-07-04T18:17:41+02:00",
-    "expiresDate": "2024-07-05T00:17:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Information für die Bürger der Stadt Haan: Telefonausfall im Stadtgebi - Haan"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-006"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-SE033-20240704-33-001",
-    "version": 5,
-    "startDate": "2024-07-04T18:18:09+02:00",
-    "expiresDate": "2024-07-05T00:18:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 250 kg-Bombe gefunden - Hamburg-Heimfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
   }
 ]
