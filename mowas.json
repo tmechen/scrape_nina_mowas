@@ -154,34 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20240703-125-000",
-    "version": 5,
-    "startDate": "2024-07-03T09:56:57+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Fund einer Weltkriegsbombe: Entschärfung/Evakuierung am Donnerstag, 4. Juli - Hartenberg-Münchfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-RP-MZ-SE114-20240703-125-001",
-    "version": 5,
-    "startDate": "2024-07-03T10:03:56+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Fund einer Weltkriegsbombe - Massive Verkehrsbehinderungen am Donnerstag - Stadtgebiet Mainz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-LIP-SE041-20240704-41-001",
     "version": 5,
     "startDate": "2024-07-04T11:24:17+02:00",
@@ -223,6 +195,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-006"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20240704-125-000",
+    "version": 5,
+    "startDate": "2024-07-04T14:15:24+02:00",
+    "expiresDate": "2024-07-04T20:15:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Fund einer Weltkriegsbombe - Massive Verkehrsbehinderungen am Donnerst - Stadtgebiet Mainz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20240704-125-001",
+    "version": 5,
+    "startDate": "2024-07-04T14:15:28+02:00",
+    "expiresDate": "2024-07-04T20:15:28+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Fund einer Weltkriegsbombe: Entschärfung/Evakuierung am Donnerstag, 4. - Hartenberg-Münchfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
