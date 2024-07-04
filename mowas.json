@@ -210,5 +210,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-NW-ME-SE071-20240704-71-000",
+    "version": 5,
+    "startDate": "2024-07-04T12:39:04+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Information für die Bürger der Stadt Haan: Telefonausfall im Stadtgebiet - Haan"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
+    }
   }
 ]
