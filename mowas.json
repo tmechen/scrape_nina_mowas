@@ -180,5 +180,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NW-LIP-SE041-20240704-41-000",
+    "version": 5,
+    "startDate": "2024-07-04T09:30:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch einen Brand  - Lage - Innenstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
