@@ -182,21 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20240705-001",
-    "version": 5,
-    "startDate": "2024-07-05T16:30:53+02:00",
-    "expiresDate": "2024-07-05T22:30:53+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenentest in Hockenheim - Hockenheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-HE-GG-W222-20240705-000",
     "version": 5,
     "startDate": "2024-07-05T21:50:05+02:00",
