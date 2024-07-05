@@ -195,5 +195,19 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240705-50-000",
+    "version": 5,
+    "startDate": "2024-07-05T14:35:44+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasserverunreinigung  - Durbach-Ebersweier, Unterweiler"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
