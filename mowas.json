@@ -168,21 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240706-50-000",
-    "version": 5,
-    "startDate": "2024-07-06T15:33:56+02:00",
-    "expiresDate": "2024-07-06T21:33:56+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserverunreinigung  - Durbach-Ebersweier, Unterweiler"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BB-P-SE082-20240706-82-000",
     "version": 5,
     "startDate": "2024-07-06T17:29:06+02:00",
@@ -222,6 +207,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20240706-100-000",
+    "version": 5,
+    "startDate": "2024-07-06T22:12:09+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Deutschland Sankt Peter Ording"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-064"
     }
   }
 ]
