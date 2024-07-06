@@ -195,5 +195,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BB-EW-SE079-20240705-79-000",
+    "version": 5,
+    "startDate": "2024-07-06T01:56:11+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gasgeruch im Stadtgebiet Angermünde - Angermünde"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
