@@ -242,14 +242,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240706-84-000",
+    "id": "mow.DE-BY-R-SE084-20240706-84-001",
     "version": 5,
-    "startDate": "2024-07-06T11:16:33+02:00",
+    "startDate": "2024-07-06T11:39:16+02:00",
+    "expiresDate": "2024-07-06T17:39:16+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Probealarm Feuerwehr Landkreis Neuburg - Schrobenhausen - Neuburg-Schrobenhausen"
+      "de": "Entwarnung: Probealarm Feuerwehr Landkreis Neuburg - Schrobenhausen - Neuburg-Schrobenhausen"
     },
     "transKeys": {
       "event": "BBK-EVC-060"
