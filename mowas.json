@@ -168,51 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240706-84-001",
-    "version": 5,
-    "startDate": "2024-07-06T11:39:16+02:00",
-    "expiresDate": "2024-07-06T17:39:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm Feuerwehr Landkreis Neuburg - Schrobenhausen - Neuburg-Schrobenhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RA-W025-20240706-003",
-    "version": 5,
-    "startDate": "2024-07-06T12:05:16+02:00",
-    "expiresDate": "2024-07-06T18:05:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenen-Probealarm - Loffenau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029-20240706-29-001",
-    "version": 5,
-    "startDate": "2024-07-06T12:12:57+02:00",
-    "expiresDate": "2024-07-06T18:12:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kreisweiter Warntag - Landkreis Hameln-Pyrmont"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-NW-HAM-SE085-20240706-85-001",
     "version": 5,
     "startDate": "2024-07-06T13:21:54+02:00",
