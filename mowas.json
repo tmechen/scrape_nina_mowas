@@ -182,21 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-EW-SE079-20240706-79-000",
-    "version": 5,
-    "startDate": "2024-07-06T05:38:20+02:00",
-    "expiresDate": "2024-07-06T11:38:20+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gasgeruch im Stadtgebiet Angermünde - Angermünde"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-TH-AP-W115-20240706-001",
     "version": 5,
     "startDate": "2024-07-06T10:13:38+02:00",
@@ -254,6 +239,50 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20240706-003",
+    "version": 5,
+    "startDate": "2024-07-06T12:05:16+02:00",
+    "expiresDate": "2024-07-06T18:05:16+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Probealarm - Loffenau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HAM-SE085-20240706-85-000",
+    "version": 5,
+    "startDate": "2024-07-06T12:07:53+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Belästigung durch Rauchgase in der Stadt Hamm - HAMM - Mitte"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20240706-29-001",
+    "version": 5,
+    "startDate": "2024-07-06T12:12:57+02:00",
+    "expiresDate": "2024-07-06T18:12:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kreisweiter Warntag - Landkreis Hameln-Pyrmont"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
     }
   }
 ]
