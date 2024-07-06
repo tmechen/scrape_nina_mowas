@@ -168,20 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240705-50-000",
-    "version": 5,
-    "startDate": "2024-07-05T14:35:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserverunreinigung  - Durbach-Ebersweier, Unterweiler"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-TH-AP-W115-20240706-001",
     "version": 5,
     "startDate": "2024-07-06T10:13:38+02:00",
@@ -284,6 +270,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240706-50-000",
+    "version": 5,
+    "startDate": "2024-07-06T15:33:56+02:00",
+    "expiresDate": "2024-07-06T21:33:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasserverunreinigung  - Durbach-Ebersweier, Unterweiler"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
