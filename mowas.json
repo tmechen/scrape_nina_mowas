@@ -241,5 +241,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20240706-82-000",
+    "version": 5,
+    "startDate": "2024-07-06T17:29:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sturmschäden - Stadtgebiet Premnitz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-064"
+    }
   }
 ]
