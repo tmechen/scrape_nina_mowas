@@ -182,21 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-GG-W222-20240705-001",
-    "version": 5,
-    "startDate": "2024-07-06T00:26:51+02:00",
-    "expiresDate": "2024-07-06T06:26:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauch und Geruchsbelästigung - Gemeinde Trebur"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BB-EW-SE079-20240706-79-000",
     "version": 5,
     "startDate": "2024-07-06T05:38:20+02:00",
