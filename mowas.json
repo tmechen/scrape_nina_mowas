@@ -196,35 +196,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20240707-57-000",
-    "version": 5,
-    "startDate": "2024-07-07T05:47:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in Meckenheim - Stadt Meckenheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NW-HF-SE039-20240707-39-001",
-    "version": 5,
-    "startDate": "2024-07-07T13:58:18+02:00",
-    "expiresDate": "2024-07-07T19:58:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Herford - Herford"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20240707-99-000",
     "version": 5,
     "startDate": "2024-07-07T16:10:28+02:00",
@@ -262,6 +233,35 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "RAUCHENTWICKLUNG - Altdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SU-SE057-20240707-57-001",
+    "version": 5,
+    "startDate": "2024-07-07T19:49:15+02:00",
+    "expiresDate": "2024-07-08T01:49:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung in Meckenheim - Stadt Meckenheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-WES-SE097-20240707-97-000",
+    "version": 5,
+    "startDate": "2024-07-07T20:18:35+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Alpen - Kreis Wesel"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
