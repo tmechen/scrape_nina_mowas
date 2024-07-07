@@ -182,21 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20240706-82-001",
-    "version": 5,
-    "startDate": "2024-07-06T23:29:15+02:00",
-    "expiresDate": "2024-07-07T05:29:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sturmschäden - Stadtgebiet Premnitz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-064"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20240706-29-002",
     "version": 5,
     "startDate": "2024-07-06T23:40:42+02:00",
