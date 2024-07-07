@@ -212,20 +212,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-WES-SE097-20240707-97-000",
-    "version": 5,
-    "startDate": "2024-07-07T20:18:35+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase in Alpen - Kreis Wesel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20240707-99-001",
     "version": 5,
     "startDate": "2024-07-07T20:51:49+02:00",
@@ -265,6 +251,21 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: RAUCHENTWICKLUNG - Altdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-WES-SE097-20240707-97-001",
+    "version": 5,
+    "startDate": "2024-07-07T21:49:27+02:00",
+    "expiresDate": "2024-07-08T03:49:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase in Alpen - Kreis Wesel"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
