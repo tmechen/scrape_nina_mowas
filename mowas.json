@@ -182,21 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BI-SE070-20240707-70-002",
-    "version": 5,
-    "startDate": "2024-07-07T17:01:25+02:00",
-    "expiresDate": "2024-07-07T23:01:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: ---Geruchsbelästigung--- - Bielefeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-SU-SE057-20240707-57-001",
     "version": 5,
     "startDate": "2024-07-07T19:49:15+02:00",
