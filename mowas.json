@@ -138,5 +138,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240708-50-000",
+    "version": 5,
+    "startDate": "2024-07-09T01:34:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gebäudebrand - Ravensburg, Umkreis 5 Km"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
