@@ -154,5 +154,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BY-CO-W141-20240708-000",
+    "version": 5,
+    "startDate": "2024-07-08T15:55:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abkochanordnung für die zentrale Trinkwasserversorgung  - Ortsteile von Lichtenfels, Bad Staffelstein und Itzgrund"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
