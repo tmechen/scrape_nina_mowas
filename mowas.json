@@ -1,19 +1,5 @@
 [
   {
-    "id": "mow.DE-BY-KRU-W174-20240601-004",
-    "version": 5,
-    "startDate": "2024-06-01T13:42:14+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vermeidung persönlicher Gefährdung - Warnmeldung des Landratsamtes Unterallgäu - Landkreis Unterallgäu"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20240601-84-003",
     "version": 5,
     "startDate": "2024-06-01T17:16:34+02:00",
@@ -25,34 +11,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-071"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KRU-W174-20240601-009",
-    "version": 5,
-    "startDate": "2024-06-01T18:16:30+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Vorsorgemaßnahme(n) im Landkreis Unterallgäu - AKTUALISIERUNG - Landkreis Unterallgäu"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KRU-W174-20240602-014",
-    "version": 5,
-    "startDate": "2024-06-02T21:49:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Information zu Grundversorgung und Notunterbringung - Landkreis Unterallgäu - Gemeindegebiet Babenhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
     }
   },
   {
@@ -179,6 +137,51 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240708-000",
+    "version": 5,
+    "startDate": "2024-07-08T07:59:13+02:00",
+    "expiresDate": "2024-07-08T13:59:13+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Vermeidung persönlicher Gefährdung - Warnmeldung des Landratsamtes Unt - Landkreis Unterallgäu"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240708-001",
+    "version": 5,
+    "startDate": "2024-07-08T07:59:38+02:00",
+    "expiresDate": "2024-07-08T13:59:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Vorsorgemaßnahme(n) im Landkreis Unterallgäu - AKTUALISIERUNG - Landkreis Unterallgäu"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240708-002",
+    "version": 5,
+    "startDate": "2024-07-08T07:59:57+02:00",
+    "expiresDate": "2024-07-08T13:59:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Information zu Grundversorgung und Notunterbringung - Landkreis Unterallgäu - Gemeindegebiet Babenhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
