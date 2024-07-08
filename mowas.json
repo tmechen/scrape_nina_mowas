@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KN-W131-20240708-000",
-    "version": 5,
-    "startDate": "2024-07-08T15:46:00+02:00",
-    "expiresDate": "2024-07-08T21:46:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: bakterielle Verunreinigung des Trinkwassers - Volkertshausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-CO-W141-20240708-000",
     "version": 5,
     "startDate": "2024-07-08T15:55:30+02:00",
