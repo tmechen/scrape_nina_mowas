@@ -182,51 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20240707-57-001",
-    "version": 5,
-    "startDate": "2024-07-07T19:49:15+02:00",
-    "expiresDate": "2024-07-08T01:49:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Meckenheim - Stadt Meckenheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-SH-KI-SE099-20240707-99-001",
-    "version": 5,
-    "startDate": "2024-07-07T20:51:49+02:00",
-    "expiresDate": "2024-07-08T02:51:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Schönberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NW-BI-SE070-20240707-70-003",
-    "version": 5,
-    "startDate": "2024-07-07T21:10:03+02:00",
-    "expiresDate": "2024-07-08T03:10:03+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung  - Bielefeld Schildesche"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-N-W163-20240707-001",
     "version": 5,
     "startDate": "2024-07-07T21:22:37+02:00",
