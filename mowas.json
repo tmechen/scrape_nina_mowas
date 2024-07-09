@@ -140,18 +140,17 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240709-50-000",
+    "id": "mow.DE-ST-SK-W070-20240709-000",
     "version": 5,
-    "startDate": "2024-07-09T04:46:59+02:00",
-    "expiresDate": "2024-07-09T10:46:59+02:00",
+    "startDate": "2024-07-09T10:50:11+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Gebäudebrand - Ravensburg, Umkreis 5 Km"
+      "de": "Fliegerbombe bei Krumpa wird am 10. Juli entschärft - Teilweise Evakuierung nötig  - Braunsbedra"
     },
     "transKeys": {
-      "event": "BBK-EVC-010"
+      "event": "BBK-EVC-079"
     }
   }
 ]
