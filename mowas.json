@@ -156,20 +156,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-NOM-W210-20240710-001",
-    "version": 5,
-    "startDate": "2024-07-10T17:50:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Ausfall der Trinkwasserversorgung - Hardegsen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-UN-SE068-20240710-68-000",
     "version": 5,
     "startDate": "2024-07-10T19:34:33+02:00",
@@ -181,6 +167,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-014"
+    }
+  },
+  {
+    "id": "mow.DE-NI-NOM-W210-20240710-002",
+    "version": 5,
+    "startDate": "2024-07-10T20:49:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Ausfall der Trinkwasserversorgung - Hardegsen, Lutterhausen, Ertinghausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
