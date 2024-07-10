@@ -196,5 +196,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20240710-000",
+    "version": 5,
+    "startDate": "2024-07-10T09:00:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenentest in Hockenheim - Hockenheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
