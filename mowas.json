@@ -142,28 +142,28 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20240711-106-000",
+    "id": "mow.DE-HE-KS-SE106-20240711-106-001",
     "version": 5,
-    "startDate": "2024-07-11T13:37:58+02:00",
+    "startDate": "2024-07-11T14:03:40+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
     "i18nTitle": {
-      "de": "Betrieb Bürgertelefon im Rahmen des Ausbruchs der Afrikanischen Schweinepest - Landkreis Groß-Gerau"
+      "de": "Betrieb Infotelefon im Rahmen des Ausbruchs der Afrikanischen Schweinepest - Landkreis Groß-Gerau"
     },
     "transKeys": {
       "event": "BBK-EVC-067"
     }
   },
   {
-    "id": "mow.DE-MV-HST-W239-20240711-000",
+    "id": "mow.DE-MV-HST-W239-20240711-001",
     "version": 5,
-    "startDate": "2024-07-11T13:44:09+02:00",
+    "startDate": "2024-07-11T14:08:23+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Vorabinformation bevorstehender Gefahren im Amtsbereich Mönchgut-Granitz  - Amt Mönchgut-Granitz"
+      "de": "Gefahren im Amtsbereich nach Unwetter  - Amt Mönchgut-Granitz"
     },
     "transKeys": {
       "event": "BBK-EVC-062"
