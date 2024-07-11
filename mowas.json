@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-UN-SE068-20240711-68-000",
-    "version": 5,
-    "startDate": "2024-07-11T13:20:55+02:00",
-    "expiresDate": "2024-07-11T19:20:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Schadstofffreisetzung - Unna A1"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-014"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20240711-106-001",
     "version": 5,
     "startDate": "2024-07-11T14:03:40+02:00",
