@@ -152,5 +152,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NW-LIP-SE041-20240711-41-000",
+    "version": 5,
+    "startDate": "2024-07-12T00:37:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung - Lage"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
