@@ -213,5 +213,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-BB-EW-SE079-20240712-79-000",
+    "version": 5,
+    "startDate": "2024-07-12T21:04:22+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brandgase durch Brand eines Gebäudes - Landkreis Barnim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
