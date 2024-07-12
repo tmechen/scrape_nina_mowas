@@ -126,34 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-SK-W070-20240711-000",
-    "version": 5,
-    "startDate": "2024-07-11T22:07:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Erneuerter Bombenfund bei Krumpa - Evakuierung für den 12. Juli angeordnet - Braunsbedra"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-ST-SK-W070-20240712-001",
-    "version": 5,
-    "startDate": "2024-07-12T07:00:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Erneuerter Bombenfund bei Krumpa - Evakuierung für den 12. Juli angeordnet - Braunsbedra"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-MV-HST-W239-20240712-000",
     "version": 5,
     "startDate": "2024-07-12T10:10:15+02:00",
@@ -180,6 +152,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-ST-SK-W070-20240712-002",
+    "version": 5,
+    "startDate": "2024-07-12T15:19:43+02:00",
+    "expiresDate": "2024-07-12T21:19:43+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Erneuerter Bombenfund bei Krumpa - Evakuierung für den 12. Juli angeor - Braunsbedra"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-ST-SK-W070-20240712-004",
+    "version": 5,
+    "startDate": "2024-07-12T15:20:12+02:00",
+    "expiresDate": "2024-07-12T21:20:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Erneuerter Bombenfund bei Krumpa - Evakuierung für den 12. Juli angeor - Braunsbedra"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
