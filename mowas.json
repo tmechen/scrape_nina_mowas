@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20240712-001",
-    "version": 5,
-    "startDate": "2024-07-12T15:34:22+02:00",
-    "expiresDate": "2024-07-12T21:34:22+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Gebäudebrand in Heddesbach - Heddesbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-BN-SE060-20240712-60-002",
     "version": 5,
     "startDate": "2024-07-12T17:58:53+02:00",
