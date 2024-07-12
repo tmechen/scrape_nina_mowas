@@ -154,21 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-LIP-SE041-20240712-41-000",
-    "version": 5,
-    "startDate": "2024-07-12T07:08:13+02:00",
-    "expiresDate": "2024-07-12T13:08:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Lage"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-MV-HST-W239-20240712-000",
     "version": 5,
     "startDate": "2024-07-12T10:10:15+02:00",
