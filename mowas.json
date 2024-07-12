@@ -199,5 +199,19 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-BY-KE-W173-20240712-000",
+    "version": 5,
+    "startDate": "2024-07-12T20:17:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "erhöhtes Notrufaufkommen auf der 112 wegen Unwetter - Lkr. Lindau / Oberallgäu / Ostallgäu; Städte Kempten und Kaufbeuren"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
