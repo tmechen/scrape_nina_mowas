@@ -126,35 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-EW-SE079-20240712-79-000",
-    "version": 5,
-    "startDate": "2024-07-12T21:04:22+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brandgase durch Brand eines Gebäudes - Landkreis Barnim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KE-W173-20240712-002",
-    "version": 5,
-    "startDate": "2024-07-12T22:46:04+02:00",
-    "expiresDate": "2024-07-13T04:46:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: erhöhtes Notrufaufkommen auf der 112 wegen Unwetter - Lkr. Lindau / Oberallgäu / Ostallgäu; Städte Kempten und Kaufbeuren"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-KE-W173-20240712-003",
     "version": 5,
     "startDate": "2024-07-12T23:27:25+02:00",
@@ -167,6 +138,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-071"
+    }
+  },
+  {
+    "id": "mow.DE-BB-EW-SE079-20240713-79-000",
+    "version": 5,
+    "startDate": "2024-07-13T04:46:33+02:00",
+    "expiresDate": "2024-07-13T10:46:33+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandgase durch Brand eines Gebäudes - Landkreis Barnim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
