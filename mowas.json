@@ -139,5 +139,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NI-NOM-W210-20240714-000",
+    "version": 5,
+    "startDate": "2024-07-14T18:01:02+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Bodenfelde - Bodenfelde"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
