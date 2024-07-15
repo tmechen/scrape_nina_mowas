@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-NOM-W210-20240715-001",
-    "version": 5,
-    "startDate": "2024-07-15T07:16:08+02:00",
-    "expiresDate": "2024-07-15T13:16:08+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase durch Brand mehrerer Gartenlauben - Einbeck"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BR-B-SE017-20240715-17-001",
     "version": 5,
     "startDate": "2024-07-15T08:21:29+02:00",
