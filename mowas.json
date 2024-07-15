@@ -170,14 +170,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-SWA-W096-20240715-000",
+    "id": "mow.DE-HE-SWA-W096-20240715-001",
     "version": 5,
-    "startDate": "2024-07-15T17:01:52+02:00",
+    "startDate": "2024-07-15T19:31:21+02:00",
+    "expiresDate": "2024-07-16T01:31:21+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Entschärfung einer Weltkriegsbombe - Rüdesheim am Rhein"
+      "de": "Entwarnung: Entschärfung einer Weltkriegsbombe - Rüdesheim am Rhein"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
