@@ -155,14 +155,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20240715-28-000",
+    "id": "mow.DE-SH-EH-SE028-20240715-28-001",
     "version": 5,
-    "startDate": "2024-07-15T22:14:28+02:00",
+    "startDate": "2024-07-15T23:53:28+02:00",
+    "expiresDate": "2024-07-16T05:53:28+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Fahrenkrug"
+      "de": "Entwarnung: Feuerwehreinsatz - Fahrenkrug"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
