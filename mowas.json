@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-SE017-20240715-17-001",
-    "version": 5,
-    "startDate": "2024-07-15T08:21:29+02:00",
-    "expiresDate": "2024-07-15T14:21:29+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch einen Brand - 12098 Berlin Tempelhof"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BB-EW-SE079-20240715-79-000",
     "version": 5,
     "startDate": "2024-07-15T10:14:43+02:00",
