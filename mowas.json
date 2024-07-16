@@ -183,5 +183,19 @@
     "transKeys": {
       "event": "BBK-EVC-027"
     }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240716-000",
+    "version": 5,
+    "startDate": "2024-07-16T17:14:15+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "starke Rauchentwicklung - Nordendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
