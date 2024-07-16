@@ -169,14 +169,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20240716-12-002",
+    "id": "mow.DE-TH-EF-SE012-20240716-12-003",
     "version": 5,
-    "startDate": "2024-07-16T15:55:12+02:00",
+    "startDate": "2024-07-16T16:28:04+02:00",
+    "expiresDate": "2024-07-16T22:28:04+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Amts- und Servicenummer der Rettungsleitstelle Suhl - Suhl, Sonneberg, Hildburghausen"
+      "de": "Entwarnung: Ausfall Amts- und Servicenummer der Rettungsleitstelle Suhl - Suhl, Sonneberg, Hildburghausen"
     },
     "transKeys": {
       "event": "BBK-EVC-006"
