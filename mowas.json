@@ -126,35 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-EW-SE079-20240715-79-000",
-    "version": 5,
-    "startDate": "2024-07-15T10:14:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brandgeruch / Rauchentwicklung - Angermünde"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-HE-F-SE119-20240716-128-001",
-    "version": 5,
-    "startDate": "2024-07-16T14:40:27+02:00",
-    "expiresDate": "2024-07-16T20:40:27+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sprengung einer Weltkriegsbombe - Sperrungen - Rüdesheim am Rhein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20240716-12-003",
     "version": 5,
     "startDate": "2024-07-16T16:28:04+02:00",
@@ -197,6 +168,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BB-EW-SE079-20240716-79-000",
+    "version": 5,
+    "startDate": "2024-07-16T20:47:57+02:00",
+    "expiresDate": "2024-07-17T02:47:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandgeruch / Rauchentwicklung - Angermünde"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
