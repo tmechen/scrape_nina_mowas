@@ -153,5 +153,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20240716-12-000",
+    "version": 5,
+    "startDate": "2024-07-16T03:58:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Amts- und Servicenummer der Rettungsleitstelle Suhl - Suhl, Sonneberg, Hildburghausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
+    }
   }
 ]
