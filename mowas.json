@@ -84,36 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240717-000",
-    "version": 5,
-    "startDate": "2024-07-17T11:56:40+02:00",
-    "expiresDate": "2024-07-17T17:56:40+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Anordnung zum Abkochen des Trinkwassers  - Marktgemeinde Kaisheim, Ortsteile Sulzdorf und Gunzenheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240717-001",
-    "version": 5,
-    "startDate": "2024-07-17T11:57:57+02:00",
-    "expiresDate": "2024-07-17T17:57:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Empfehlung zum Abkochen des Trinkwassers - Landkreis Donau-Ries"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-KE-W173-20240717-001",
     "version": 5,
     "startDate": "2024-07-17T13:00:07+02:00",
@@ -185,6 +155,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-KR-SE075-20240717-75-000",
+    "version": 5,
+    "startDate": "2024-07-17T18:00:24+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Krefeld - Krefeld-Benrad"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
