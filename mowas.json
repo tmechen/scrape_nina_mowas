@@ -159,14 +159,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-EN-SE069-20240717-69-000",
+    "id": "mow.DE-NW-EN-SE069-20240717-69-001",
     "version": 5,
-    "startDate": "2024-07-17T15:05:18+02:00",
+    "startDate": "2024-07-17T15:33:35+02:00",
+    "expiresDate": "2024-07-17T21:33:35+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung in der Stadt Gevelsberg - Stadt Gevelsberg"
+      "de": "Entwarnung: Geruchsbelästigung in der Stadt Gevelsberg - Stadt Gevelsberg"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
