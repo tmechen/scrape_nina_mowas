@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KE-W173-20240717-000",
-    "version": 5,
-    "startDate": "2024-07-17T11:23:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz Brand - Fischen im Allgäu"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20240717-000",
     "version": 5,
     "startDate": "2024-07-17T11:56:40+02:00",
@@ -153,6 +139,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KE-W173-20240717-001",
+    "version": 5,
+    "startDate": "2024-07-17T13:00:07+02:00",
+    "expiresDate": "2024-07-17T19:00:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz Brand - Fischen im Allgäu"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
