@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240603-007",
-    "version": 5,
-    "startDate": "2024-06-03T19:31:45+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Empfehlung zum Abkochen des Trinkwassers - Landkreis Donau-Ries"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240606-002",
     "version": 5,
     "startDate": "2024-06-06T12:00:49+02:00",
@@ -50,20 +36,6 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Information zur Trinkwasserversorgung im Landkreis Unterallgäu - Landkreis Unterallgäu"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20240610-000",
-    "version": 5,
-    "startDate": "2024-06-10T16:44:16+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Anordnung zum Abkochen des Trinkwassers  - Marktgemeinde Kaisheim, Ortsteile Sulzdorf und Gunzenheim"
     },
     "transKeys": {
       "event": "BBK-EVC-069"
@@ -151,6 +123,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240717-000",
+    "version": 5,
+    "startDate": "2024-07-17T11:56:40+02:00",
+    "expiresDate": "2024-07-17T17:56:40+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Anordnung zum Abkochen des Trinkwassers  - Marktgemeinde Kaisheim, Ortsteile Sulzdorf und Gunzenheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240717-001",
+    "version": 5,
+    "startDate": "2024-07-17T11:57:57+02:00",
+    "expiresDate": "2024-07-17T17:57:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Empfehlung zum Abkochen des Trinkwassers - Landkreis Donau-Ries"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
