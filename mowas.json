@@ -124,20 +124,5 @@
     "transKeys": {
       "event": "BBK-EVC-067"
     }
-  },
-  {
-    "id": "mow.DE-BB-EW-SE079-20240716-79-000",
-    "version": 5,
-    "startDate": "2024-07-16T20:47:57+02:00",
-    "expiresDate": "2024-07-17T02:47:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandgeruch / Rauchentwicklung - Angermünde"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
