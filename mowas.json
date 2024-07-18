@@ -82,20 +82,5 @@
     "transKeys": {
       "event": "BBK-EVC-067"
     }
-  },
-  {
-    "id": "mow.DE-BB-EW-SE079-20240717-79-002",
-    "version": 5,
-    "startDate": "2024-07-17T23:00:21+02:00",
-    "expiresDate": "2024-07-18T05:00:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung - Schwedt / Kuhheide"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
