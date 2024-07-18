@@ -82,5 +82,19 @@
     "transKeys": {
       "event": "BBK-EVC-067"
     }
+  },
+  {
+    "id": "mow.DE-BY-WM-W167-20240718-000",
+    "version": 5,
+    "startDate": "2024-07-18T10:01:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Verunreinigung des Trinkwassers  - Gemeindegebiete Pähl und Wielenbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
