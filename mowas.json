@@ -84,21 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20240719-106-002",
-    "version": 5,
-    "startDate": "2024-07-19T15:30:03+02:00",
-    "expiresDate": "2024-07-19T21:30:03+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung bei Waldbrand - Rund um  den kleinen Feldberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-NW-GT-SE040-20240719-40-001",
     "version": 5,
     "startDate": "2024-07-19T18:45:43+02:00",
@@ -114,14 +99,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20240719-106-003",
+    "id": "mow.DE-HE-KS-SE106-20240719-106-004",
     "version": 5,
-    "startDate": "2024-07-19T20:10:40+02:00",
+    "startDate": "2024-07-19T21:39:23+02:00",
+    "expiresDate": "2024-07-20T03:39:23+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung  - Oberursel Mitte und Oberstedten"
+      "de": "Entwarnung: Rauchentwicklung  - Oberursel Mitte und Oberstedten"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
