@@ -112,5 +112,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20240719-106-001",
+    "version": 5,
+    "startDate": "2024-07-19T14:53:59+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung bei Waldbrand - Rund um  den kleinen Feldberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
   }
 ]
