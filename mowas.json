@@ -112,5 +112,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20240719-106-003",
+    "version": 5,
+    "startDate": "2024-07-19T20:10:40+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung  - Oberursel Mitte und Oberstedten"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
