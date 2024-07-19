@@ -84,21 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GT-SE040-20240719-40-001",
-    "version": 5,
-    "startDate": "2024-07-19T18:45:43+02:00",
-    "expiresDate": "2024-07-20T00:45:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Steinhagen / Amshausen - Steinhagen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20240719-106-004",
     "version": 5,
     "startDate": "2024-07-19T21:39:23+02:00",
