@@ -98,14 +98,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-AM-W129-20240720-000",
+    "id": "mow.DE-BY-AM-W129-20240720-001",
     "version": 5,
-    "startDate": "2024-07-20T13:27:55+02:00",
+    "startDate": "2024-07-20T19:00:41+02:00",
+    "expiresDate": "2024-07-21T01:00:41+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung aufgrund ein Brandes in Wackersdorf - Wackersdorf"
+      "de": "Entwarnung: Rauchentwicklung aufgrund ein Brandes in Wackersdorf - Wackersdorf"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
