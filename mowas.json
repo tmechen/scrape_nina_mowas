@@ -84,14 +84,15 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-SE017-20240720-17-000",
+    "id": "mow.DE-BR-B-SE017-20240720-17-001",
     "version": 5,
-    "startDate": "2024-07-20T05:45:24+02:00",
+    "startDate": "2024-07-20T08:08:58+02:00",
+    "expiresDate": "2024-07-20T14:08:58+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brandgase eines Lagerhallenbrandes - Berlin-Alt-Hohenschönhausen"
+      "de": "Entwarnung: Geruchsbelästigung durch Brandgase eines Lagerhallenbrandes - Berlin-Alt-Hohenschönhausen"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
