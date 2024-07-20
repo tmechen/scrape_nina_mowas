@@ -97,5 +97,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-TH-HIG-W111-20240720-000",
+    "version": 5,
+    "startDate": "2024-07-20T11:26:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenen-Funktionsprobe -  VG Eichsfeld-Wipperaue, Landgemeinden Am Ohmberg und Sonnenstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
