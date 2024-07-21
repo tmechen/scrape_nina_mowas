@@ -82,20 +82,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-BW-HD-W086-20240721-001",
-    "version": 5,
-    "startDate": "2024-07-21T16:37:34+02:00",
-    "expiresDate": "2024-07-21T22:37:34+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Strom im Bereich Angelbachtal sowie Waldangelloch - Angelbachtal und Waldangelloch"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
   }
 ]
