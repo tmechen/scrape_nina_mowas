@@ -114,20 +114,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240721-84-000",
-    "version": 5,
-    "startDate": "2024-07-21T14:33:57+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromabschaltung - Schwabach mit Ortsteilen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20240721-001",
     "version": 5,
     "startDate": "2024-07-21T14:52:35+02:00",
@@ -140,6 +126,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240721-84-001",
+    "version": 5,
+    "startDate": "2024-07-21T15:24:56+02:00",
+    "expiresDate": "2024-07-21T21:24:56+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromabschaltung - Schwabach mit Ortsteilen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
