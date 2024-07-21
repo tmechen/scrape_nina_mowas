@@ -112,14 +112,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-WAF-SE045-20240721-45-000",
+    "id": "mow.DE-NW-WAF-SE045-20240721-45-001",
     "version": 5,
-    "startDate": "2024-07-21T07:25:33+02:00",
+    "startDate": "2024-07-21T07:58:48+02:00",
+    "expiresDate": "2024-07-21T13:58:48+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung in Sendenhorst - Sendenhorst"
+      "de": "Entwarnung: Geruchsbelästigung in Sendenhorst - Sendenhorst"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
