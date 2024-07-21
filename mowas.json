@@ -142,5 +142,19 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20240721-000",
+    "version": 5,
+    "startDate": "2024-07-21T16:11:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Strom im Bereich Angelbachtal sowie Waldangelloch - Angelbachtal und Waldangelloch"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
