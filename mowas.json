@@ -82,20 +82,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-HE-FB-W193-20240720-001",
-    "version": 5,
-    "startDate": "2024-07-20T20:40:28+02:00",
-    "expiresDate": "2024-07-21T02:40:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehrübung ist beendet - Butzbach Kernstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-075"
-    }
   }
 ]
