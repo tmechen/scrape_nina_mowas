@@ -82,5 +82,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240721-000",
+    "version": 5,
+    "startDate": "2024-07-22T00:09:44+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser und Unwetter durch Starkregen - Zell, Bad Grönenbach und Umland"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-021"
+    }
   }
 ]
