@@ -84,21 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20240721-35-001",
-    "version": 5,
-    "startDate": "2024-07-21T14:12:05+02:00",
-    "expiresDate": "2024-07-21T20:12:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall durch Brandereignis - Niederwürzbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20240721-001",
     "version": 5,
     "startDate": "2024-07-21T14:52:35+02:00",
