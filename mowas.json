@@ -82,20 +82,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-RP-TR-SE004-20240722-4-001",
-    "version": 5,
-    "startDate": "2024-07-22T08:12:06+02:00",
-    "expiresDate": "2024-07-22T14:12:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand mit Belästigung Rauchwolke ohne Gesundheitsgefahr - Tawern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
