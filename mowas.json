@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ST-SE032-20240723-165-000",
-    "version": 5,
-    "startDate": "2024-07-23T16:13:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in Ibbenbüren - Ibbenbüren-Süd"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-OB-SE055-20240723-55-001",
     "version": 5,
     "startDate": "2024-07-23T16:39:27+02:00",
@@ -138,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ST-SE032-20240723-165-001",
+    "version": 5,
+    "startDate": "2024-07-23T19:23:44+02:00",
+    "expiresDate": "2024-07-24T01:23:44+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung in Ibbenbüren - Ibbenbüren-Süd"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
