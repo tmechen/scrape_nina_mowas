@@ -84,36 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20240723-18-002",
-    "version": 5,
-    "startDate": "2024-07-23T11:40:08+02:00",
-    "expiresDate": "2024-07-23T17:40:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall in Wiesloch Kernstadt und Stadtteil Frauenweiler, sowie R - Wiesloch Kernstadt, Stadtteil Frauenweiler und Stadt Rauenberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-BB-P-SE082-20240723-82-001",
-    "version": 5,
-    "startDate": "2024-07-23T11:47:13+02:00",
-    "expiresDate": "2024-07-23T17:47:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahr von Rauch- und Geruchsbelästigung durch Brandereignis - Nauen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HE-DA-W184-20240723-000",
     "version": 5,
     "startDate": "2024-07-23T14:28:14+02:00",
