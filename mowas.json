@@ -82,5 +82,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240723-18-000",
+    "version": 5,
+    "startDate": "2024-07-23T09:34:19+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall in Wiesloch Kernstadt und Stadtteil Frauenweiler, sowie Rauenberg - Wiesloch Kernstadt, Stadtteil Frauenweiler und Stadt Rauenberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
