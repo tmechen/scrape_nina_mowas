@@ -84,20 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20240723-18-001",
-    "version": 5,
-    "startDate": "2024-07-23T10:50:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Stromausfall in Wiesloch Kernstadt und Stadtteil Frauenweiler, sowie Rauenberg - Wiesloch Kernstadt, Stadtteil Frauenweiler und Stadt Rauenberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BB-P-SE082-20240723-82-000",
     "version": 5,
     "startDate": "2024-07-23T11:14:20+02:00",
@@ -109,6 +95,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20240723-18-002",
+    "version": 5,
+    "startDate": "2024-07-23T11:40:08+02:00",
+    "expiresDate": "2024-07-23T17:40:08+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall in Wiesloch Kernstadt und Stadtteil Frauenweiler, sowie R - Wiesloch Kernstadt, Stadtteil Frauenweiler und Stadt Rauenberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
