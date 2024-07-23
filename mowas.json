@@ -140,5 +140,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NW-ST-SE032-20240723-165-000",
+    "version": 5,
+    "startDate": "2024-07-23T16:13:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in Ibbenbüren - Ibbenbüren-Süd"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
