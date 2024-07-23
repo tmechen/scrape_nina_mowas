@@ -128,20 +128,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-OB-SE055-20240723-55-000",
-    "version": 5,
-    "startDate": "2024-07-23T14:50:01+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Oberhausen - Oberhausen Dellwig"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-ST-SE032-20240723-165-000",
     "version": 5,
     "startDate": "2024-07-23T16:13:11+02:00",
@@ -153,6 +139,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-OB-SE055-20240723-55-001",
+    "version": 5,
+    "startDate": "2024-07-23T16:39:27+02:00",
+    "expiresDate": "2024-07-23T22:39:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Oberhausen - Oberhausen Dellwig"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
