@@ -84,20 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20240723-82-000",
-    "version": 5,
-    "startDate": "2024-07-23T11:14:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahr von Rauch- und Geruchsbelästigung durch Brandereignis - Nauen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20240723-18-002",
     "version": 5,
     "startDate": "2024-07-23T11:40:08+02:00",
@@ -110,6 +96,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20240723-82-001",
+    "version": 5,
+    "startDate": "2024-07-23T11:47:13+02:00",
+    "expiresDate": "2024-07-23T17:47:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahr von Rauch- und Geruchsbelästigung durch Brandereignis - Nauen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
