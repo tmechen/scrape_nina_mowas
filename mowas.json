@@ -140,21 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-OL-W015-20240724-001",
-    "version": 5,
-    "startDate": "2024-07-24T19:03:09+02:00",
-    "expiresDate": "2024-07-25T01:03:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand in der Stadt Cloppenburg   - Cloppenburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20240724-106-000",
     "version": 5,
     "startDate": "2024-07-24T19:13:40+02:00",
