@@ -154,21 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20240725-143-002",
-    "version": 5,
-    "startDate": "2024-07-25T09:05:21+02:00",
-    "expiresDate": "2024-07-25T15:05:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand eines Gebäudes  - Beesenstedt, Bahnhofstraße 11"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240725-000",
     "version": 5,
     "startDate": "2024-07-25T11:24:02+02:00",
