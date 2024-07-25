@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20240724-82-000",
-    "version": 5,
-    "startDate": "2024-07-24T09:48:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Brand  - Freyenstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240724-50-000",
     "version": 5,
     "startDate": "2024-07-24T16:06:45+02:00",
@@ -165,6 +151,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20240725-82-000",
+    "version": 5,
+    "startDate": "2024-07-25T07:18:53+02:00",
+    "expiresDate": "2024-07-25T13:18:53+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Brand  - Freyenstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
