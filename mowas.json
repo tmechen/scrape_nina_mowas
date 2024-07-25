@@ -197,5 +197,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BY-FFB-W143-20240725-000",
+    "version": 5,
+    "startDate": "2024-07-25T18:53:09+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Anordnung eines Abkochgebots - Trinkwasserversorgungsbereich Altogruppe Gde. Altomünster und Indersdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
