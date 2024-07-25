@@ -154,21 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KN-W131-20240725-001",
-    "version": 5,
-    "startDate": "2024-07-25T17:17:36+02:00",
-    "expiresDate": "2024-07-25T23:17:36+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Größeres Brandereignis - Konstanz Altstadt, Zollernstraße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-FFB-W143-20240725-000",
     "version": 5,
     "startDate": "2024-07-25T18:53:09+02:00",
