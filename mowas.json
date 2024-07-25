@@ -195,5 +195,19 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20240725-143-003",
+    "version": 5,
+    "startDate": "2024-07-25T20:56:47+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand in Halle - Stadt Halle"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
