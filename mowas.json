@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20240723-99-000",
-    "version": 5,
-    "startDate": "2024-07-23T17:42:54+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelentschärfung im Kieler Stadtgebiet - Kiel - Wellingdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240724-50-000",
     "version": 5,
     "startDate": "2024-07-24T16:06:45+02:00",
@@ -208,6 +194,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20240726-99-000",
+    "version": 5,
+    "startDate": "2024-07-26T09:38:14+02:00",
+    "expiresDate": "2024-07-26T15:38:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelentschärfung im Kieler Stadtgebiet - Kiel - Wellingdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
