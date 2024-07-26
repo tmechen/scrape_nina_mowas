@@ -199,20 +199,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DN-SE054-20240726-54-000",
-    "version": 5,
-    "startDate": "2024-07-26T12:51:28+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall Stromversorgung in Stadt Düren - Ortsteile Berzbuir, Birgel, Lendersdorf und Niederau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240726-50-000",
     "version": 5,
     "startDate": "2024-07-26T13:06:13+02:00",
@@ -225,6 +211,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20240726-54-001",
+    "version": 5,
+    "startDate": "2024-07-26T14:09:22+02:00",
+    "expiresDate": "2024-07-26T20:09:22+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall Stromversorgung in Stadt Düren - Ortsteile Berzbuir, Birgel, Lendersdorf und Niederau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
