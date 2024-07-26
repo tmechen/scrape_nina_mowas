@@ -154,21 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240726-50-000",
-    "version": 5,
-    "startDate": "2024-07-26T13:06:13+02:00",
-    "expiresDate": "2024-07-26T19:06:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trübung des Trinkwassers - Bad Peterstal-Griesbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NW-DN-SE054-20240726-54-001",
     "version": 5,
     "startDate": "2024-07-26T14:09:22+02:00",
