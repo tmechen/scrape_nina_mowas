@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240724-50-000",
-    "version": 5,
-    "startDate": "2024-07-24T16:06:45+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trübung des Trinkwassers - Bad Peterstal-Griesbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-CO-W141-20240725-000",
     "version": 5,
     "startDate": "2024-07-25T08:54:51+02:00",
@@ -210,6 +196,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20240726-54-000",
+    "version": 5,
+    "startDate": "2024-07-26T12:51:28+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung in Stadt Düren - Ortsteile Berzbuir, Birgel, Lendersdorf und Niederau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240726-50-000",
+    "version": 5,
+    "startDate": "2024-07-26T13:06:13+02:00",
+    "expiresDate": "2024-07-26T19:06:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trübung des Trinkwassers - Bad Peterstal-Griesbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
