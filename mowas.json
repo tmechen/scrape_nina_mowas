@@ -226,5 +226,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-TH-J-W110-20240727-001",
+    "version": 5,
+    "startDate": "2024-07-27T14:55:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Wasserbeeinträchtigung im Bereich des Flusses \"Orla\" - Flusslauf der Orla"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-081"
+    }
   }
 ]
