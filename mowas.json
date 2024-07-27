@@ -168,21 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20240727-001",
-    "version": 5,
-    "startDate": "2024-07-27T13:56:38+02:00",
-    "expiresDate": "2024-07-27T19:56:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in Hettstedt, Gewerbegiet Ritteröder Straße - Hettstedt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-TH-J-W110-20240727-001",
     "version": 5,
     "startDate": "2024-07-27T14:55:32+02:00",
