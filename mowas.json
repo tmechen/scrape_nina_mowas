@@ -154,20 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HA-SE087-20240726-149-000",
-    "version": 5,
-    "startDate": "2024-07-26T21:51:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in Selbecke - Hagen - Selbecke"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-ST-MSH-W058-20240727-000",
     "version": 5,
     "startDate": "2024-07-27T02:55:23+02:00",
@@ -190,6 +176,21 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Geruchsbelästigung in Wermelskirchen Stadtmitte - Wermelskirchen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HA-SE087-20240727-149-000",
+    "version": 5,
+    "startDate": "2024-07-27T07:20:54+02:00",
+    "expiresDate": "2024-07-27T13:20:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung in Selbecke - Hagen - Selbecke"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
