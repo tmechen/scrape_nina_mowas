@@ -196,5 +196,33 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20240727-000",
+    "version": 5,
+    "startDate": "2024-07-27T11:44:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenentest im Stadtgebiet - Oberursel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20240727-001",
+    "version": 5,
+    "startDate": "2024-07-27T11:46:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenentest im Stadtgebiet - Friedrichsdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
