@@ -154,21 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20240727-002",
-    "version": 5,
-    "startDate": "2024-07-27T12:06:38+02:00",
-    "expiresDate": "2024-07-27T18:06:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenentest im Stadtgebiet - Friedrichsdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20240727-003",
     "version": 5,
     "startDate": "2024-07-27T12:10:09+02:00",
