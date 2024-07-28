@@ -168,21 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20240728-36-001",
-    "version": 5,
-    "startDate": "2024-07-28T11:27:04+02:00",
-    "expiresDate": "2024-07-28T17:27:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand einer Lagerhalle - Guben"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-TH-J-W110-20240728-000",
     "version": 5,
     "startDate": "2024-07-28T16:52:12+02:00",
