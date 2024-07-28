@@ -180,5 +180,19 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
+  },
+  {
+    "id": "mow.DE-BB-CB-SE036-20240728-36-000",
+    "version": 5,
+    "startDate": "2024-07-28T06:19:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand einer Lagerhalle - Guben"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
