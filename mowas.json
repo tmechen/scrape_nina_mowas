@@ -168,20 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BO-SE077-20240729-77-000",
-    "version": 5,
-    "startDate": "2024-07-29T11:50:30+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Fund einer Weltkriegsbombe - Bochum-Grumme"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20240729-33-001",
     "version": 5,
     "startDate": "2024-07-29T12:24:29+02:00",
@@ -208,6 +194,34 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BO-SE077-20240729-77-001",
+    "version": 5,
+    "startDate": "2024-07-29T13:47:53+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Fund einer Weltkriegsbombe - Bochum-Grumme"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BY-CO-W141-20240729-000",
+    "version": 5,
+    "startDate": "2024-07-29T13:59:50+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abkochanordnung für die zentrale Trinkwasserversorgung in Oeslau - Stadt Rödental"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
