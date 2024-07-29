@@ -182,36 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-WAF-SE045-20240729-45-001",
-    "version": 5,
-    "startDate": "2024-07-29T17:29:21+02:00",
-    "expiresDate": "2024-07-29T23:29:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall Ortsteil Walstedde - Drensteinfurt Ortsteil Walstedde"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-NI-NOM-W210-20240729-001",
-    "version": 5,
-    "startDate": "2024-07-29T17:33:32+02:00",
-    "expiresDate": "2024-07-29T23:33:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Bad Gandersheim - OT Gehrenrode"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240729-50-001",
     "version": 5,
     "startDate": "2024-07-29T18:15:13+02:00",
