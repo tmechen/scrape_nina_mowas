@@ -237,5 +237,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-WAF-SE045-20240729-45-000",
+    "version": 5,
+    "startDate": "2024-07-29T16:58:40+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall Ortsteil Walstedde - Drensteinfurt Ortsteil Walstedde"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
