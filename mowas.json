@@ -194,5 +194,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-RP-LU-SE005-20240729-5-000",
+    "version": 5,
+    "startDate": "2024-07-29T12:54:21+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung Großbrand - Stadt Ludwigshafen am Rhein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
