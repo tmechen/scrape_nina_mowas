@@ -194,20 +194,5 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
-  },
-  {
-    "id": "mow.DE-RP-KL-SE112-20240729-112-001",
-    "version": 5,
-    "startDate": "2024-07-30T00:53:42+02:00",
-    "expiresDate": "2024-07-30T06:53:42+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung und Sichtbehinderung durch Brandgase - Kirchheimbolanden und Bischheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
