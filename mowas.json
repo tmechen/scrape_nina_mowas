@@ -196,21 +196,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ME-SE071-20240731-71-001",
-    "version": 5,
-    "startDate": "2024-07-31T17:21:25+02:00",
-    "expiresDate": "2024-07-31T23:21:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Ratingen - Stadt Ratingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20240731-001",
     "version": 5,
     "startDate": "2024-07-31T19:40:43+02:00",
