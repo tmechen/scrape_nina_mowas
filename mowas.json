@@ -196,14 +196,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-BA-W140-20240731-000",
+    "id": "mow.DE-BY-BA-W140-20240731-001",
     "version": 5,
-    "startDate": "2024-07-31T05:35:27+02:00",
+    "startDate": "2024-07-31T07:25:12+02:00",
+    "expiresDate": "2024-07-31T13:25:12+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Größerer Feuerwehreinsatz - Zapfendorf"
+      "de": "Entwarnung: Größerer Feuerwehreinsatz - Zapfendorf"
     },
     "transKeys": {
       "event": "BBK-EVC-012"
