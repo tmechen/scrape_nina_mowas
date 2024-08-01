@@ -237,5 +237,19 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20240801-106-000",
+    "version": 5,
+    "startDate": "2024-08-02T01:18:08+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Überschwemmungsgefahr durch Starkregen - Kassel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
+    }
   }
 ]
