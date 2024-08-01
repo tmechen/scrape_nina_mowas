@@ -209,5 +209,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-NW-GT-SE040-20240801-40-000",
+    "version": 5,
+    "startDate": "2024-08-01T09:06:36+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gasfreisetzung in Langenberg Benteler - Langenberg/Benteler -Kreis Gütersloh"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
