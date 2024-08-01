@@ -196,29 +196,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20240731-001",
+    "id": "mow.DE-NW-GM-SE088-20240731-88-001",
     "version": 5,
-    "startDate": "2024-07-31T19:40:43+02:00",
-    "expiresDate": "2024-08-01T01:40:43+02:00",
+    "startDate": "2024-08-01T01:57:00+02:00",
+    "expiresDate": "2024-08-01T07:57:00+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung bei Großbrand - Ehekirchen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-NW-GM-SE088-20240731-88-000",
-    "version": 5,
-    "startDate": "2024-08-01T00:44:07+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausbreitung von Brandrauch durch Brandereignis - Gemeinde Nümbrecht"
+      "de": "Entwarnung: Ausbreitung von Brandrauch durch Brandereignis - Gemeinde Nümbrecht"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
