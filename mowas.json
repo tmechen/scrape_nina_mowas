@@ -196,20 +196,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20240802-106-001",
-    "version": 5,
-    "startDate": "2024-08-02T05:23:05+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Überschwemmungsgefahr durch Starkregen - Hofgeismar-Hombressen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
     "id": "mow.DE-NW-GT-SE040-20240802-40-001",
     "version": 5,
     "startDate": "2024-08-02T05:41:11+02:00",
@@ -282,6 +268,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-014"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20240802-106-004",
+    "version": 5,
+    "startDate": "2024-08-02T10:40:22+02:00",
+    "expiresDate": "2024-08-02T16:40:22+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Überschwemmungsgefahr durch Starkregen - Hofgeismar-Hombressen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
     }
   }
 ]
