@@ -251,5 +251,19 @@
     "transKeys": {
       "event": "BBK-EVC-062"
     }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20240802-106-000",
+    "version": 5,
+    "startDate": "2024-08-02T02:37:31+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Überschwemmungsgefahr durch Starkregen - Bad Karlshafen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
+    }
   }
 ]
