@@ -154,20 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20240727-000",
-    "version": 5,
-    "startDate": "2024-07-27T13:53:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Austritt von Reinigungstensiden in Fließgewässer - Nimritz und Umgebung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-014"
-    }
-  },
-  {
     "id": "mow.DE-BY-CO-W141-20240729-000",
     "version": 5,
     "startDate": "2024-07-29T13:59:50+02:00",
@@ -281,6 +267,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20240802-000",
+    "version": 5,
+    "startDate": "2024-08-02T10:11:43+02:00",
+    "expiresDate": "2024-08-02T16:11:43+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Austritt von Reinigungstensiden in Fließgewässer - Nimritz und Umgebung"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-014"
     }
   }
 ]
