@@ -182,21 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-OE-SE086-20240802-86-000",
-    "version": 5,
-    "startDate": "2024-08-02T08:48:31+02:00",
-    "expiresDate": "2024-08-02T14:48:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Schadstofffreisetzung - Lennestadt-Halberbracht   Bermkebach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20240802-000",
     "version": 5,
     "startDate": "2024-08-02T10:11:43+02:00",
