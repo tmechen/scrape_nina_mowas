@@ -224,34 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20240801-106-000",
-    "version": 5,
-    "startDate": "2024-08-02T01:18:08+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Überschwemmungsgefahr durch Starkregen - Kassel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
-    "id": "mow.DE-HE-KS-SE106-20240802-106-000",
-    "version": 5,
-    "startDate": "2024-08-02T02:37:31+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Überschwemmungsgefahr durch Starkregen - Bad Karlshafen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20240802-106-001",
     "version": 5,
     "startDate": "2024-08-02T05:23:05+02:00",
@@ -278,6 +250,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20240802-106-002",
+    "version": 5,
+    "startDate": "2024-08-02T07:53:34+02:00",
+    "expiresDate": "2024-08-02T13:53:34+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Überschwemmungsgefahr durch Starkregen - Kassel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20240802-106-003",
+    "version": 5,
+    "startDate": "2024-08-02T07:54:40+02:00",
+    "expiresDate": "2024-08-02T13:54:40+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Überschwemmungsgefahr durch Starkregen - Bad Karlshafen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
     }
   }
 ]
