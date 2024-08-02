@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-CO-W141-20240725-000",
-    "version": 5,
-    "startDate": "2024-07-25T08:54:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Abkochanordnung für die zentrale Trinkwasserversorgung in Theisau - Theisau (Stadt Burgkuntsadt)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20240725-000",
     "version": 5,
     "startDate": "2024-07-25T11:24:02+02:00",
@@ -283,6 +269,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-062"
+    }
+  },
+  {
+    "id": "mow.DE-BY-CO-W141-20240802-000",
+    "version": 5,
+    "startDate": "2024-08-02T11:17:14+02:00",
+    "expiresDate": "2024-08-02T17:17:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Abkochanordnung für die zentrale Trinkwasserversorgung in Theisau - Theisau (Stadt Burgkuntsadt)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
