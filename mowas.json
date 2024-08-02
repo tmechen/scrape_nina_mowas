@@ -70,20 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WM-W167-20240718-000",
-    "version": 5,
-    "startDate": "2024-07-18T10:01:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Verunreinigung des Trinkwassers  - Gemeindegebiete Pähl und Wielenbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-HE-DA-W184-20240723-000",
     "version": 5,
     "startDate": "2024-07-23T14:28:14+02:00",
@@ -206,6 +192,35 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Abkochanordnung für die zentrale Trinkwasserversorgung in Oeslau - Stadt Rödental"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-WM-W167-20240802-000",
+    "version": 5,
+    "startDate": "2024-08-02T19:48:59+02:00",
+    "expiresDate": "2024-08-03T01:48:59+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Verunreinigung des Trinkwassers  - Gemeindegebiete Pähl und Wielenbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-WM-W167-20240802-001",
+    "version": 5,
+    "startDate": "2024-08-02T20:03:55+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Verunreinigung des Trinkwassers im Gemeindegebiet Wielenbach - Gemeindebereich Wielenbach"
     },
     "transKeys": {
       "event": "BBK-EVC-069"
