@@ -195,5 +195,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20240802-28-000",
+    "version": 5,
+    "startDate": "2024-08-03T00:32:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Bilsen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
