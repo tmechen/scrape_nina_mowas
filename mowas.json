@@ -264,5 +264,19 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20240802-106-001",
+    "version": 5,
+    "startDate": "2024-08-02T05:23:05+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Überschwemmungsgefahr durch Starkregen - Hofgeismar-Hombressen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
+    }
   }
 ]
