@@ -168,21 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WM-W167-20240802-000",
-    "version": 5,
-    "startDate": "2024-08-02T19:48:59+02:00",
-    "expiresDate": "2024-08-03T01:48:59+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Verunreinigung des Trinkwassers  - Gemeindegebiete Pähl und Wielenbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-WM-W167-20240802-001",
     "version": 5,
     "startDate": "2024-08-02T20:03:55+02:00",
@@ -197,14 +182,14 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20240802-28-000",
+    "id": "mow.DE-SH-EH-SE028-20240803-28-000",
     "version": 5,
-    "startDate": "2024-08-03T00:32:11+02:00",
+    "startDate": "2024-08-03T02:31:32+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Bilsen"
+      "de": "Feuerwehreinsatz - Bilsen & Quickborn"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
