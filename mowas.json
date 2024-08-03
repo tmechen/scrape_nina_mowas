@@ -168,21 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-GS-W211-20240803-001",
-    "version": 5,
-    "startDate": "2024-08-03T18:31:38+02:00",
-    "expiresDate": "2024-08-04T00:31:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Waldbrandübung - Landkreis Goslar - Bereich Ahrendsberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20240803-28-005",
     "version": 5,
     "startDate": "2024-08-03T20:31:15+02:00",
