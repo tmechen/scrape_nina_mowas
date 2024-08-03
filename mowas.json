@@ -285,5 +285,19 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-NW-MI-SE073-20240803-73-000",
+    "version": 5,
+    "startDate": "2024-08-03T13:14:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Espelkamp - Espelkamp"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
