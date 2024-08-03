@@ -168,35 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-GS-W211-20240803-000",
-    "version": 5,
-    "startDate": "2024-08-03T07:54:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Waldbrandübung - Landkreis Goslar - Bereich Ahrendsberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RA-W025-20240803-001",
-    "version": 5,
-    "startDate": "2024-08-03T12:11:17+02:00",
-    "expiresDate": "2024-08-03T18:11:17+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenen-Probealarm - Loffenau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-NW-MI-SE073-20240803-73-001",
     "version": 5,
     "startDate": "2024-08-03T16:38:05+02:00",
@@ -223,6 +194,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NI-GS-W211-20240803-001",
+    "version": 5,
+    "startDate": "2024-08-03T18:31:38+02:00",
+    "expiresDate": "2024-08-04T00:31:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Waldbrandübung - Landkreis Goslar - Bereich Ahrendsberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
