@@ -168,21 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MI-SE073-20240803-73-001",
-    "version": 5,
-    "startDate": "2024-08-03T16:38:05+02:00",
-    "expiresDate": "2024-08-03T22:38:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Espelkamp - Espelkamp"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-GS-W211-20240803-001",
     "version": 5,
     "startDate": "2024-08-03T18:31:38+02:00",
