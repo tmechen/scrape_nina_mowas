@@ -168,20 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20240804-143-001",
-    "version": 5,
-    "startDate": "2024-08-04T06:27:06+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Extreme Rauchentwicklung - Klötze"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20240804-35-000",
     "version": 5,
     "startDate": "2024-08-04T07:58:56+02:00",
@@ -193,6 +179,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20240804-143-002",
+    "version": 5,
+    "startDate": "2024-08-04T08:49:06+02:00",
+    "expiresDate": "2024-08-04T14:49:06+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Extreme Rauchentwicklung - Klötze"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
