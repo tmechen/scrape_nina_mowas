@@ -168,12 +168,12 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20240804-143-000",
+    "id": "mow.DE-ST-MD-SE022-20240804-143-001",
     "version": 5,
-    "startDate": "2024-08-04T05:39:45+02:00",
+    "startDate": "2024-08-04T06:27:06+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Extreme Rauchentwicklung - Klötze"
     },
