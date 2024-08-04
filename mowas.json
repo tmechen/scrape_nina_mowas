@@ -180,5 +180,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240804-35-000",
+    "version": 5,
+    "startDate": "2024-08-04T07:58:56+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bombenfund - EVAKUIERUNG HEUTE - Schutzbereich sofort verlassen - Saarbrücken, Stadtteil St. Johann"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
