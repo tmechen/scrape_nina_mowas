@@ -126,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WM-W167-20240802-001",
-    "version": 5,
-    "startDate": "2024-08-02T20:03:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Verunreinigung des Trinkwassers im Gemeindegebiet Wielenbach - Gemeindebereich Wielenbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NI-H-SE110-20240805-110-000",
     "version": 5,
     "startDate": "2024-08-05T06:57:52+02:00",
@@ -164,6 +150,21 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Abkochanordnung für die zentrale Trinkwasserversorgung in Oeslau - Stadt Rödental"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-WM-W167-20240805-000",
+    "version": 5,
+    "startDate": "2024-08-05T09:25:44+02:00",
+    "expiresDate": "2024-08-05T15:25:44+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Verunreinigung des Trinkwassers im Gemeindegebiet Wielenbach - Gemeindebereich Wielenbach"
     },
     "transKeys": {
       "event": "BBK-EVC-069"
