@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20240805-29-001",
-    "version": 5,
-    "startDate": "2024-08-05T18:57:55+02:00",
-    "expiresDate": "2024-08-06T00:57:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand in Assel Gemeinde Drochtersen - Assel Johann-Grothmann-Straße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-KLE-SE058-20240805-58-000",
     "version": 5,
     "startDate": "2024-08-05T21:06:07+02:00",
