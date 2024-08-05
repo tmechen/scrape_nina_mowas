@@ -98,35 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20240805-28-000",
-    "version": 5,
-    "startDate": "2024-08-05T10:07:36+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Hasloh"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-BY-FFB-W143-20240805-000",
-    "version": 5,
-    "startDate": "2024-08-05T10:32:31+02:00",
-    "expiresDate": "2024-08-05T16:32:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Anordnung eines Abkochgebots - Trinkwasserversorgungsbereich Altogruppe Gde. Altomünster und Indersdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20240805-29-000",
     "version": 5,
     "startDate": "2024-08-05T13:12:06+02:00",
@@ -153,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-081"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20240805-28-001",
+    "version": 5,
+    "startDate": "2024-08-05T16:31:27+02:00",
+    "expiresDate": "2024-08-05T22:31:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Hasloh"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
