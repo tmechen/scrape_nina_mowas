@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240725-50-000",
-    "version": 5,
-    "startDate": "2024-07-25T20:43:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Mikrobiologische Grenzwertüberschreitungen des Trinkwassers - Metzingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-081"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20240805-28-000",
     "version": 5,
     "startDate": "2024-08-05T10:07:36+02:00",
@@ -152,6 +138,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240805-50-000",
+    "version": 5,
+    "startDate": "2024-08-05T15:50:20+02:00",
+    "expiresDate": "2024-08-05T21:50:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Mikrobiologische Grenzwertüberschreitungen des Trinkwassers - Metzingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-081"
     }
   }
 ]
