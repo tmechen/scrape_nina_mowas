@@ -154,20 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-H-SE110-20240804-110-000",
-    "version": 5,
-    "startDate": "2024-08-04T20:35:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung aufgrund eines Großbrandes in Wunstorf - Stadt Wunstorf (Kernstadt)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BR-B-SE017-20240805-17-000",
     "version": 5,
     "startDate": "2024-08-05T02:20:57+02:00",
@@ -180,6 +166,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-H-SE110-20240805-110-000",
+    "version": 5,
+    "startDate": "2024-08-05T06:57:52+02:00",
+    "expiresDate": "2024-08-05T12:57:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung aufgrund eines Großbrandes in Wunstorf - Stadt Wunstorf (Kernstadt)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
