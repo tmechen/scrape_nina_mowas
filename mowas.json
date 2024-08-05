@@ -168,14 +168,15 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-SE017-20240804-17-000",
+    "id": "mow.DE-BR-B-SE017-20240805-17-000",
     "version": 5,
-    "startDate": "2024-08-05T00:28:00+02:00",
+    "startDate": "2024-08-05T02:20:57+02:00",
+    "expiresDate": "2024-08-05T08:20:57+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Auftretende Geruchsbelästigung - 13055 Berlin Alt-Hohenschönhausen"
+      "de": "Entwarnung: Auftretende Geruchsbelästigung - 13055 Berlin Alt-Hohenschönhausen"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
