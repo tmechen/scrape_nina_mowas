@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20240806-31-000",
-    "version": 5,
-    "startDate": "2024-08-06T09:07:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bombenfund - Köln-Rodenkirchen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-ST-SDL-W029-20240806-001",
     "version": 5,
     "startDate": "2024-08-06T11:55:16+02:00",
@@ -138,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20240806-31-001",
+    "version": 5,
+    "startDate": "2024-08-06T17:34:57+02:00",
+    "expiresDate": "2024-08-06T23:34:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenfund - Köln-Rodenkirchen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
