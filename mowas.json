@@ -112,14 +112,15 @@
     }
   },
   {
-    "id": "mow.DE-ST-SDL-W029-20240806-000",
+    "id": "mow.DE-ST-SDL-W029-20240806-001",
     "version": 5,
-    "startDate": "2024-08-06T09:28:22+02:00",
+    "startDate": "2024-08-06T11:55:16+02:00",
+    "expiresDate": "2024-08-06T17:55:16+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brandgeruch und Rauch - Stendal"
+      "de": "Entwarnung: Entwarnung - Stendal"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
