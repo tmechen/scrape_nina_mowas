@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20240806-31-001",
-    "version": 5,
-    "startDate": "2024-08-06T17:34:57+02:00",
-    "expiresDate": "2024-08-06T23:34:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenfund - Köln-Rodenkirchen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NI-NOM-W210-20240806-001",
     "version": 5,
     "startDate": "2024-08-06T20:58:48+02:00",
