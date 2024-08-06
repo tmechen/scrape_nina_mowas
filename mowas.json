@@ -98,18 +98,17 @@
     }
   },
   {
-    "id": "mow.DE-NW-KLE-SE058-20240806-58-000",
+    "id": "mow.DE-NW-K-SE031-20240806-31-000",
     "version": 5,
-    "startDate": "2024-08-06T02:41:22+02:00",
-    "expiresDate": "2024-08-06T08:41:22+02:00",
+    "startDate": "2024-08-06T09:07:57+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Kleve - Kleve"
+      "de": "Bombenfund - Köln-Rodenkirchen"
     },
     "transKeys": {
-      "event": "BBK-EVC-030"
+      "event": "BBK-EVC-009"
     }
   }
 ]
