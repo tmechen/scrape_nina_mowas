@@ -142,20 +142,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-DI-W104-20240807-000",
-    "version": 5,
-    "startDate": "2024-08-07T14:42:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall - 64380 Roßdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-RP-KL-SE112-20240807-112-001",
     "version": 5,
     "startDate": "2024-08-07T16:54:48+02:00",
@@ -165,6 +151,21 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Stromausfall  - Miesau, Bruchmühlbach, Buchholz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-HE-DI-W104-20240807-001",
+    "version": 5,
+    "startDate": "2024-08-07T17:41:31+02:00",
+    "expiresDate": "2024-08-07T23:41:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall - 64380 Roßdorf"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
