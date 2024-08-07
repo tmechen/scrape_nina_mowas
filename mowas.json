@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-DI-W104-20240807-001",
-    "version": 5,
-    "startDate": "2024-08-07T17:41:31+02:00",
-    "expiresDate": "2024-08-07T23:41:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall - 64380 Roßdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20240807-31-001",
     "version": 5,
     "startDate": "2024-08-07T18:10:03+02:00",
