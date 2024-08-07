@@ -124,5 +124,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20240807-31-000",
+    "version": 5,
+    "startDate": "2024-08-07T10:58:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bombenfund - Stadt Köln"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
