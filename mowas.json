@@ -98,32 +98,18 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20240806-143-000",
+    "id": "mow.DE-ST-MD-SE022-20240807-143-000",
     "version": 5,
-    "startDate": "2024-08-06T21:45:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bombenfund in Magdeburg - Magdeburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20240806-18-001",
-    "version": 5,
-    "startDate": "2024-08-06T22:18:26+02:00",
-    "expiresDate": "2024-08-07T04:18:26+02:00",
+    "startDate": "2024-08-07T04:32:09+02:00",
+    "expiresDate": "2024-08-07T10:32:09+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung in der Innenstadt von Pforzheim - Pforzheim"
+      "de": "Entwarnung: Bombenfund in Magdeburg - Magdeburg"
     },
     "transKeys": {
-      "event": "BBK-EVC-010"
+      "event": "BBK-EVC-079"
     }
   }
 ]
