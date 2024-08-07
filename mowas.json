@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20240807-143-000",
-    "version": 5,
-    "startDate": "2024-08-07T04:32:09+02:00",
-    "expiresDate": "2024-08-07T10:32:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenfund in Magdeburg - Magdeburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NI-GS-W211-20240807-000",
     "version": 5,
     "startDate": "2024-08-07T09:05:46+02:00",
