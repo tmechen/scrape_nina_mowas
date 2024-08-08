@@ -96,5 +96,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20240808-105-000",
+    "version": 5,
+    "startDate": "2024-08-08T15:02:28+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Sagau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
