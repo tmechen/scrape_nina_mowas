@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240809-84-001",
-    "version": 5,
-    "startDate": "2024-08-09T13:06:12+02:00",
-    "expiresDate": "2024-08-09T19:06:12+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase / Rauchsäule - Ortsbereich Bad Wörishofen / Untergammenried ..."
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-M-W168-20240809-000",
     "version": 5,
     "startDate": "2024-08-09T17:21:39+02:00",
