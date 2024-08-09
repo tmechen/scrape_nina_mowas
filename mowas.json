@@ -112,29 +112,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-M-SE010-20240808-10-001",
+    "id": "mow.DE-NI-BS-W091-20240809-000",
     "version": 5,
-    "startDate": "2024-08-08T23:50:27+02:00",
-    "expiresDate": "2024-08-09T05:50:27+02:00",
-    "severity": "Severe",
+    "startDate": "2024-08-09T06:02:52+02:00",
+    "expiresDate": "2024-08-09T12:02:52+02:00",
+    "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Öffentlichkeitsfahndung: Flucht eines wegen Totschlags untergebrachten - Bereich Plattling"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-NI-BS-W091-20240808-000",
-    "version": 5,
-    "startDate": "2024-08-08T23:56:35+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Brand einer Lagerhalle - Stadt Peine, Ortsteil Stederdorf"
+      "de": "Entwarnung: Rauchentwicklung durch Brand einer Lagerhalle - Stadt Peine, Ortsteil Stederdorf"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
