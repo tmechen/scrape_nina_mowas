@@ -127,14 +127,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20240810-12-001",
+    "id": "mow.DE-TH-EF-SE012-20240810-12-002",
     "version": 5,
-    "startDate": "2024-08-10T18:48:35+02:00",
+    "startDate": "2024-08-10T22:22:13+02:00",
+    "expiresDate": "2024-08-11T04:22:13+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "starke Rauchentwicklung durch Gebäudebrand - Eisenach / Stregda"
+      "de": "Entwarnung: starke Rauchentwicklung durch Gebäudebrand - Eisenach / Stregda"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
