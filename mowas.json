@@ -126,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-LOE-W023-20240810-000",
-    "version": 5,
-    "startDate": "2024-08-10T03:57:46+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung - Efringen-Kirchen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20240810-000",
     "version": 5,
     "startDate": "2024-08-10T05:54:36+02:00",
@@ -148,6 +134,21 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Rauchwolke durch Brand mit Geuchsbelästigung - Niederpöllnitz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-LOE-W023-20240810-001",
+    "version": 5,
+    "startDate": "2024-08-10T08:24:29+02:00",
+    "expiresDate": "2024-08-10T14:24:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung - Efringen-Kirchen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
