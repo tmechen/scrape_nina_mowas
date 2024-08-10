@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20240810-122-000",
-    "version": 5,
-    "startDate": "2024-08-10T14:14:38+02:00",
-    "expiresDate": "2024-08-10T20:14:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Strohballenbrand - Stadtgebiet Zschopau und Umgebung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BB-P-SE082-20240810-82-001",
     "version": 5,
     "startDate": "2024-08-10T18:09:20+02:00",
