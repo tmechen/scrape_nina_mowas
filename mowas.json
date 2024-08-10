@@ -127,14 +127,15 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20240810-82-000",
+    "id": "mow.DE-BB-P-SE082-20240810-82-001",
     "version": 5,
-    "startDate": "2024-08-10T14:52:51+02:00",
+    "startDate": "2024-08-10T18:09:20+02:00",
+    "expiresDate": "2024-08-11T00:09:20+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in Gumtow - Gumtow Prignitz"
+      "de": "Entwarnung: Brand in Gumtow - Gumtow Prignitz"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
