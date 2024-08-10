@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-LOE-W023-20240810-001",
-    "version": 5,
-    "startDate": "2024-08-10T08:24:29+02:00",
-    "expiresDate": "2024-08-10T14:24:29+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Efringen-Kirchen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20240810-001",
     "version": 5,
     "startDate": "2024-08-10T11:01:50+02:00",
@@ -151,6 +136,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Rauchwolke durch Strohballenbrand - Stadtgebiet Zschopau und Umgebung"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20240810-82-000",
+    "version": 5,
+    "startDate": "2024-08-10T14:52:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand in Gumtow - Gumtow Prignitz"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
