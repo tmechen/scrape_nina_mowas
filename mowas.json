@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20240811-001",
-    "version": 5,
-    "startDate": "2024-08-11T18:27:09+02:00",
-    "expiresDate": "2024-08-12T00:27:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Freisetzung einer Rauchwolke durch einen Brand  - Walzbachtal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-AP-W115-20240811-002",
     "version": 5,
     "startDate": "2024-08-11T23:05:01+02:00",
