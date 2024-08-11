@@ -140,5 +140,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-TH-AP-W115-20240811-000",
+    "version": 5,
+    "startDate": "2024-08-11T19:23:10+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahr durch Brandrauch und Brandgase - Ortslage Isseroda und angrenzende Ortschaften"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
