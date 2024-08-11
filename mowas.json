@@ -139,5 +139,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-TH-EF-W108-20240811-000",
+    "version": 5,
+    "startDate": "2024-08-11T23:52:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Brand - Stadt Erfurt (Erfurt-Süd / Erfurt-Südost)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
