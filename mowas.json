@@ -112,36 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-EW-SE079-20240811-79-001",
-    "version": 5,
-    "startDate": "2024-08-11T12:05:10+02:00",
-    "expiresDate": "2024-08-11T18:05:10+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung durch einen Gebäudebrand - Sophienstädt, Ruhlsdorf, Marienwerder"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20240811-28-001",
-    "version": 5,
-    "startDate": "2024-08-11T12:06:43+02:00",
-    "expiresDate": "2024-08-11T18:06:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Wesselburen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-KA-W138-20240811-000",
     "version": 5,
     "startDate": "2024-08-11T15:02:17+02:00",
