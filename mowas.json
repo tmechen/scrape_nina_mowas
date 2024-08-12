@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KE-W173-20240812-000",
-    "version": 5,
-    "startDate": "2024-08-12T08:04:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz chemischer Unfall - Landkreise Lindau, Oberallgäu, Ostallgäu, Städte Kempten und Kaufbeuren"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-014"
-    }
-  },
-  {
     "id": "mow.DE-TH-AP-W115-20240812-000",
     "version": 5,
     "startDate": "2024-08-12T09:08:28+02:00",
@@ -153,6 +139,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KE-W173-20240812-001",
+    "version": 5,
+    "startDate": "2024-08-12T09:25:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz chemischer Unfall - Landkreis Oberallgäu - Gemeinden Blaichach und Burgberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-014"
     }
   }
 ]
