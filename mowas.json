@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE113-20240812-113-000",
-    "version": 5,
-    "startDate": "2024-08-12T18:12:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Gebäudebrand - Hönningen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-ST-SE032-20240812-165-001",
     "version": 5,
     "startDate": "2024-08-12T18:30:43+02:00",
@@ -138,6 +124,34 @@
     },
     "transKeys": {
       "event": "BBK-EVC-006"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20240812-56-000",
+    "version": 5,
+    "startDate": "2024-08-12T19:40:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in  Hückelhoven-Doveren - Doveren, Rathausstr. 5"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KO-SE113-20240812-113-001",
+    "version": 5,
+    "startDate": "2024-08-12T19:41:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Gebäudebrand - Hönningen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
