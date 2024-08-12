@@ -154,5 +154,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NW-MG-SE053-20240812-53-000",
+    "version": 5,
+    "startDate": "2024-08-12T22:43:40+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Mönchengladbach - südliche Stadtteile von Mönchengladbach und Jüchen (Rhein -Kreis Neuss)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
