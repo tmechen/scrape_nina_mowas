@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE113-20240812-113-001",
-    "version": 5,
-    "startDate": "2024-08-12T19:41:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Gebäudebrand - Hönningen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-MG-SE053-20240812-53-001",
     "version": 5,
     "startDate": "2024-08-13T01:47:38+02:00",
@@ -138,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KO-SE113-20240813-113-000",
+    "version": 5,
+    "startDate": "2024-08-13T06:26:06+02:00",
+    "expiresDate": "2024-08-13T12:26:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Gebäudebrand - Hönningen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
