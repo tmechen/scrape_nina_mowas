@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240813-50-002",
-    "version": 5,
-    "startDate": "2024-08-13T11:11:24+02:00",
-    "expiresDate": "2024-08-13T17:11:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserverunreinigung/Chlorung des Trinkwassers - 88693 Deggenhausertal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-HE-ERB-W191-20240813-000",
     "version": 5,
     "startDate": "2024-08-13T12:05:32+02:00",
