@@ -127,28 +127,30 @@
     }
   },
   {
-    "id": "mow.DE-NW-WES-SE097-20240813-97-000",
+    "id": "mow.DE-NW-WES-SE097-20240813-97-001",
     "version": 5,
-    "startDate": "2024-08-13T15:08:01+02:00",
+    "startDate": "2024-08-13T20:38:38+02:00",
+    "expiresDate": "2024-08-14T02:38:38+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund in Rheinberg - Rheinberg"
+      "de": "Entwarnung: Kampfmittelfund in Rheinberg - Rheinberg"
     },
     "transKeys": {
       "event": "BBK-EVC-009"
     }
   },
   {
-    "id": "mow.DE-NW-BOR-SE059-20240813-59-000",
+    "id": "mow.DE-NW-BOR-SE059-20240813-59-001",
     "version": 5,
-    "startDate": "2024-08-13T19:32:34+02:00",
+    "startDate": "2024-08-13T20:40:02+02:00",
+    "expiresDate": "2024-08-14T02:40:02+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Unwetterwarnung für den Kreis Borken - Kreis Borken"
+      "de": "Entwarnung: Unwetterwarnung für den Kreis Borken - Kreis Borken"
     },
     "transKeys": {
       "event": "BBK-EVC-021"
