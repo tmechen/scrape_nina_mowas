@@ -169,5 +169,19 @@
     "transKeys": {
       "event": "BBK-EVC-082"
     }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20240813-000",
+    "version": 5,
+    "startDate": "2024-08-14T00:38:44+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Schnell ansteigendes Hochwasser - Heidelsheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
