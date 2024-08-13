@@ -42,20 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240706-50-001",
-    "version": 5,
-    "startDate": "2024-07-06T19:17:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserverunreinigung/Chlorung des Trinkwassers - 88693 Deggenhausertal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20240711-106-001",
     "version": 5,
     "startDate": "2024-07-11T14:03:40+02:00",
@@ -153,6 +139,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240813-50-002",
+    "version": 5,
+    "startDate": "2024-08-13T11:11:24+02:00",
+    "expiresDate": "2024-08-13T17:11:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasserverunreinigung/Chlorung des Trinkwassers - 88693 Deggenhausertal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
