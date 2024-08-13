@@ -139,5 +139,19 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240813-50-000",
+    "version": 5,
+    "startDate": "2024-08-13T09:15:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trafobrand - 74676 Niedernhall Giebelheide"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
