@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20240813-31-001",
-    "version": 5,
-    "startDate": "2024-08-13T15:04:04+02:00",
-    "expiresDate": "2024-08-13T21:04:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenfund - Köln"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NW-WES-SE097-20240813-97-001",
     "version": 5,
     "startDate": "2024-08-13T20:38:38+02:00",
@@ -154,6 +139,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-021"
+    }
+  },
+  {
+    "id": "mow.DE-NW-AC-SE090-20240813-90-000",
+    "version": 5,
+    "startDate": "2024-08-13T21:13:09+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase - Würselen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
