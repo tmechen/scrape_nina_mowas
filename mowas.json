@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MG-SE053-20240812-53-001",
-    "version": 5,
-    "startDate": "2024-08-13T01:47:38+02:00",
-    "expiresDate": "2024-08-13T07:47:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Mönchengladbach - südliche Stadtteile von Mönchengladbach und Jüchen (Rhein -Kreis Neuss)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-RP-KO-SE113-20240813-113-000",
     "version": 5,
     "startDate": "2024-08-13T06:26:06+02:00",
@@ -139,6 +124,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20240813-31-000",
+    "version": 5,
+    "startDate": "2024-08-13T08:10:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bombenfund - Köln"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
