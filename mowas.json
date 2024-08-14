@@ -167,5 +167,19 @@
     "transKeys": {
       "event": "BBK-EVC-082"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20240814-33-001",
+    "version": 5,
+    "startDate": "2024-08-14T11:06:36+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "250 kg-Bombe gefunden - Hamburg-Waltershof"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
