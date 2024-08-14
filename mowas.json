@@ -229,14 +229,15 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20240814-33-003",
+    "id": "mow.DE-HH-HH-SE033-20240814-33-004",
     "version": 5,
-    "startDate": "2024-08-14T16:02:08+02:00",
+    "startDate": "2024-08-14T16:40:55+02:00",
+    "expiresDate": "2024-08-14T22:40:55+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "250 kg-Bombe gefunden - Hamburg-Heimfeld"
+      "de": "Entwarnung: 250 kg-Bombe gefunden - Hamburg-Heimfeld"
     },
     "transKeys": {
       "event": "BBK-EVC-009"
