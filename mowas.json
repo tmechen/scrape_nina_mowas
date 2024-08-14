@@ -213,5 +213,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-BB-CB-SE036-20240814-36-000",
+    "version": 5,
+    "startDate": "2024-08-14T15:14:50+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand in einer Abfallbehandlungsanlage - Königs Wusterhausen / Niederlehme"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
