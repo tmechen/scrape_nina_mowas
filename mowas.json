@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20240814-33-002",
-    "version": 5,
-    "startDate": "2024-08-14T12:27:53+02:00",
-    "expiresDate": "2024-08-14T18:27:53+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 250 kg-Bombe gefunden - Hamburg-Waltershof"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-BW-KA-W138-20240814-003",
     "version": 5,
     "startDate": "2024-08-14T12:31:53+02:00",
