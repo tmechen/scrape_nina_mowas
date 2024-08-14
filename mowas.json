@@ -140,21 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MS-SE043-20240814-43-002",
-    "version": 5,
-    "startDate": "2024-08-14T17:15:57+02:00",
-    "expiresDate": "2024-08-14T23:15:57+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Aktualisierung: Kampfmittelfund Münster - Münster - Höltenweg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-HE-ERB-W191-20240814-001",
     "version": 5,
     "startDate": "2024-08-14T23:10:49+02:00",
