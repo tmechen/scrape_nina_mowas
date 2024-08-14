@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20240813-90-001",
-    "version": 5,
-    "startDate": "2024-08-13T21:53:57+02:00",
-    "expiresDate": "2024-08-14T03:53:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase - Würselen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20240813-29-000",
     "version": 5,
     "startDate": "2024-08-13T22:34:28+02:00",
