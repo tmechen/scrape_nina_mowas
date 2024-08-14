@@ -126,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20240813-001",
-    "version": 5,
-    "startDate": "2024-08-14T01:25:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Schnell ansteigendes Hochwasser - Bruchsal Innenstadt und Heidelsheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-HE-F-SE119-20240814-128-000",
     "version": 5,
     "startDate": "2024-08-14T02:16:01+02:00",
@@ -151,6 +137,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20240814-000",
+    "version": 5,
+    "startDate": "2024-08-14T04:53:18+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Schnell ansteigendes Hochwasser - Bruchsal Innenstadt und Heidelsheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
