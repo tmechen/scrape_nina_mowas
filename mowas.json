@@ -201,20 +201,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MS-SE043-20240814-43-000",
-    "version": 5,
-    "startDate": "2024-08-14T14:24:57+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund Münster - Münster - Höltenweg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BB-CB-SE036-20240814-36-000",
     "version": 5,
     "startDate": "2024-08-14T15:14:50+02:00",
@@ -226,6 +212,34 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MS-SE043-20240814-43-001",
+    "version": 5,
+    "startDate": "2024-08-14T15:46:25+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Aktualisierung: Kampfmittelfund Münster - Münster - Höltenweg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20240814-33-003",
+    "version": 5,
+    "startDate": "2024-08-14T16:02:08+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "250 kg-Bombe gefunden - Hamburg-Heimfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
