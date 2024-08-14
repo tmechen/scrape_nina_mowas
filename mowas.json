@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-F-SE119-20240814-128-000",
-    "version": 5,
-    "startDate": "2024-08-14T02:16:01+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brandereignis in Frankfurt-Seckbach - Frankfurt-Seckbach in Richtung SÜDWEST"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-KA-W138-20240814-001",
     "version": 5,
     "startDate": "2024-08-14T08:57:25+02:00",
@@ -137,20 +123,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-SN-HY-SE048-20240814-122-000",
-    "version": 5,
-    "startDate": "2024-08-14T09:50:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Pobershau/ Erzgebirge"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
     }
   },
   {
@@ -180,6 +152,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-HE-F-SE119-20240814-128-001",
+    "version": 5,
+    "startDate": "2024-08-14T11:49:53+02:00",
+    "expiresDate": "2024-08-14T17:49:53+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brandereignis in Frankfurt-Seckbach - Frankfurt-Seckbach in Richtung SÜDWEST"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20240814-122-001",
+    "version": 5,
+    "startDate": "2024-08-14T12:15:44+02:00",
+    "expiresDate": "2024-08-14T18:15:44+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Pobershau/ Erzgebirge"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
