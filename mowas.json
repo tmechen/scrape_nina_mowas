@@ -112,36 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GE-SE064-20240815-64-001",
-    "version": 5,
-    "startDate": "2024-08-15T12:44:56+02:00",
-    "expiresDate": "2024-08-15T18:44:56+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Entschärfung einer Weltkriegsbombe - Gelsenkirchen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
-    "id": "mow.DE-RP-WW-SE116-20240815-123-001",
-    "version": 5,
-    "startDate": "2024-08-15T12:54:00+02:00",
-    "expiresDate": "2024-08-15T18:54:00+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gasaustritt aus Wagon - Stadt Unkel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20240815-99-001",
     "version": 5,
     "startDate": "2024-08-15T14:37:09+02:00",
