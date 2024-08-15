@@ -126,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE113-20240815-113-000",
-    "version": 5,
-    "startDate": "2024-08-15T04:33:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall Stadt Sinzig  - Sinzig"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BB-CB-SE036-20240815-36-000",
     "version": 5,
     "startDate": "2024-08-15T05:34:42+02:00",
@@ -163,6 +149,35 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Brand/Großbrand in (ORT) - Biberach an der Riß"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KO-SE113-20240815-113-001",
+    "version": 5,
+    "startDate": "2024-08-15T05:57:20+02:00",
+    "expiresDate": "2024-08-15T11:57:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall Stadt Sinzig  - Sinzig"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240815-35-000",
+    "version": 5,
+    "startDate": "2024-08-15T06:01:09+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand - Mittelstadt Völklingen, Stadtteil Fürstenhausen"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
