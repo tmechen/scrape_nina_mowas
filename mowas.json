@@ -171,14 +171,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20240815-99-000",
+    "id": "mow.DE-SH-KI-SE099-20240815-99-001",
     "version": 5,
-    "startDate": "2024-08-15T13:02:44+02:00",
+    "startDate": "2024-08-15T14:37:09+02:00",
+    "expiresDate": "2024-08-15T20:37:09+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gefahreninformation Feuerwehreinsatz - Rendsburg"
+      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Rendsburg"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
