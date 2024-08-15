@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-BC-W124-20240815-001",
-    "version": 5,
-    "startDate": "2024-08-15T09:30:31+02:00",
-    "expiresDate": "2024-08-15T15:30:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand/Großbrand in (ORT) - Biberach an der Riß"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-GE-SE064-20240815-64-001",
     "version": 5,
     "startDate": "2024-08-15T12:44:56+02:00",
