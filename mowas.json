@@ -169,5 +169,34 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-MK-SE095-20240815-95-001",
+    "version": 5,
+    "startDate": "2024-08-15T16:06:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Verkeimung Trinkwasser - Werdohl, Kettling"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-NI-WTM-W213-20240815-001",
+    "version": 5,
+    "startDate": "2024-08-15T16:15:32+02:00",
+    "expiresDate": "2024-08-15T22:15:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Personensuche im Stadtgebiet Aurich  - Stadt Aurich"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
