@@ -156,20 +156,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GE-SE064-20240815-64-000",
-    "version": 5,
-    "startDate": "2024-08-15T09:46:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Entschärfung einer Weltkriegsbombe - Gelsenkirchen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-RP-WW-SE116-20240815-123-000",
     "version": 5,
     "startDate": "2024-08-15T12:24:29+02:00",
@@ -181,6 +167,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-NW-GE-SE064-20240815-64-001",
+    "version": 5,
+    "startDate": "2024-08-15T12:44:56+02:00",
+    "expiresDate": "2024-08-15T18:44:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Entschärfung einer Weltkriegsbombe - Gelsenkirchen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
