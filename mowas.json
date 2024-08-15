@@ -153,5 +153,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-RP-KO-SE113-20240815-113-000",
+    "version": 5,
+    "startDate": "2024-08-15T04:33:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall Stadt Sinzig  - Sinzig"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
