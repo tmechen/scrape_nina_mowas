@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20240815-36-000",
-    "version": 5,
-    "startDate": "2024-08-15T05:34:42+02:00",
-    "expiresDate": "2024-08-15T11:34:42+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in einer Abfallbehandlungsanlage - Königs Wusterhausen / Niederlehme"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-KO-SE113-20240815-113-001",
     "version": 5,
     "startDate": "2024-08-15T05:57:20+02:00",
