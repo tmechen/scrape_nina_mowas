@@ -168,5 +168,19 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-RP-WW-SE116-20240815-123-000",
+    "version": 5,
+    "startDate": "2024-08-15T12:24:29+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gasaustritt aus Wagon - Stadt Unkel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
