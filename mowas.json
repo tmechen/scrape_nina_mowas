@@ -140,5 +140,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240816-50-000",
+    "version": 5,
+    "startDate": "2024-08-16T19:53:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gebäudebrand in Tettnang Obereisenbach - 88069 Tettnang Ortsteile Obereisenbach und Krumbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
