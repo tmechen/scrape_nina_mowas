@@ -154,5 +154,33 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20240816-000",
+    "version": 5,
+    "startDate": "2024-08-16T20:25:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchwolke durch  Brand im Stadtwald - Gera"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-NI-NOM-W210-20240816-000",
+    "version": 5,
+    "startDate": "2024-08-16T20:29:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall der Trinkwasserversorgung - Greene - Leinestraße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
