@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20240814-003",
-    "version": 5,
-    "startDate": "2024-08-14T12:31:53+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bruchsal Heidelsheim und Bruchsal Helmsheim - Bruchsal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-MK-SE095-20240815-95-001",
     "version": 5,
     "startDate": "2024-08-15T16:06:27+02:00",
@@ -151,6 +137,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20240816-000",
+    "version": 5,
+    "startDate": "2024-08-16T12:24:48+02:00",
+    "expiresDate": "2024-08-16T18:24:48+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bruchsal Heidelsheim und Bruchsal Helmsheim - Bruchsal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
