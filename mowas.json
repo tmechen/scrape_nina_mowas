@@ -98,33 +98,17 @@
     }
   },
   {
-    "id": "mow.DE-NW-MK-SE095-20240817-95-000",
+    "id": "mow.DE-MV-SN-SE049-20240817-49-000",
     "version": 5,
-    "startDate": "2024-08-17T11:43:07+02:00",
-    "expiresDate": "2024-08-17T17:43:07+02:00",
+    "startDate": "2024-08-17T18:03:15+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Verkeimung Trinkwasser - Werdohl, Kettling"
+      "de": "Geruchsbelästigung durch Brand - Schwerin"
     },
     "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-TH-HIG-W111-20240817-001",
-    "version": 5,
-    "startDate": "2024-08-17T12:06:21+02:00",
-    "expiresDate": "2024-08-17T18:06:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenen-Funktionsprobe - Landgemeinde Dingelstädt und VG Hanstein-Rusteberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
+      "event": "BBK-EVC-030"
     }
   }
 ]
