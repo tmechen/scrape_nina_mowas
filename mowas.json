@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-LIP-SE041-20240817-41-001",
-    "version": 5,
-    "startDate": "2024-08-17T07:37:41+02:00",
-    "expiresDate": "2024-08-17T13:37:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Extertal Almena"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-MK-SE095-20240817-95-000",
     "version": 5,
     "startDate": "2024-08-17T11:43:07+02:00",
