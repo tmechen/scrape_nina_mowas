@@ -84,20 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MK-SE095-20240815-95-001",
-    "version": 5,
-    "startDate": "2024-08-15T16:06:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Verkeimung Trinkwasser - Werdohl, Kettling"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NW-EU-SE091-20240816-109-000",
     "version": 5,
     "startDate": "2024-08-16T08:48:15+02:00",
@@ -138,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MK-SE095-20240817-95-000",
+    "version": 5,
+    "startDate": "2024-08-17T11:43:07+02:00",
+    "expiresDate": "2024-08-17T17:43:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Verkeimung Trinkwasser - Werdohl, Kettling"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
