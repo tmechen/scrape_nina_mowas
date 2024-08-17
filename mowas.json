@@ -124,5 +124,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-SH-NMS-SE101-20240817-101-000",
+    "version": 5,
+    "startDate": "2024-08-17T22:46:22+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Neumünster"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
