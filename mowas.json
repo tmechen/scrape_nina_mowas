@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-EU-SE091-20240818-109-000",
-    "version": 5,
-    "startDate": "2024-08-18T16:19:12+02:00",
-    "expiresDate": "2024-08-18T22:19:12+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Mögliche Trinkwasserverunreinigung im Stadtgebiet Mechernich - Teile des Stadtgebietes Mechernich"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-HE-FD-W183-20240818-001",
     "version": 5,
     "startDate": "2024-08-18T17:54:00+02:00",
