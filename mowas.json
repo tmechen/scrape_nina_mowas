@@ -126,5 +126,19 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-SN-PIR-W200-20240818-000",
+    "version": 5,
+    "startDate": "2024-08-18T21:44:50+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Extremer Starkregen mit Sturzfluten - Kreischa OT Babisnau, Kautzsch, Bärenklause"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
+    }
   }
 ]
