@@ -113,14 +113,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-FD-W183-20240818-000",
+    "id": "mow.DE-HE-FD-W183-20240818-001",
     "version": 5,
-    "startDate": "2024-08-18T17:36:30+02:00",
+    "startDate": "2024-08-18T17:54:00+02:00",
+    "expiresDate": "2024-08-18T23:54:00+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Stromversorgung in (Hofbieber - Kleinsassen, Schackau, Langenbieber) - Hofbieber"
+      "de": "Entwarnung: Ausfall Stromversorgung in (Hofbieber - Kleinsassen, Schackau, Langenb - Hofbieber"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
