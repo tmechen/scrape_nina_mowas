@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-NMS-SE101-20240817-101-000",
-    "version": 5,
-    "startDate": "2024-08-17T22:46:22+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Neumünster"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-MV-NB-W076-20240817-001",
     "version": 5,
     "startDate": "2024-08-18T00:04:21+02:00",
@@ -138,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-NMS-SE101-20240818-101-000",
+    "version": 5,
+    "startDate": "2024-08-18T03:12:29+02:00",
+    "expiresDate": "2024-08-18T09:12:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Neumünster"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
