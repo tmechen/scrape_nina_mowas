@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-PIR-W200-20240818-001",
-    "version": 5,
-    "startDate": "2024-08-19T00:52:36+02:00",
-    "expiresDate": "2024-08-19T06:52:36+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Extremer Starkregen mit Sturzfluten - Kreischa OT Babisnau, Kautzsch, Bärenklause"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20240819-84-000",
     "version": 5,
     "startDate": "2024-08-19T06:14:06+02:00",
