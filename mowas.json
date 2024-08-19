@@ -110,5 +110,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-RP-BIR-W246-20240819-000",
+    "version": 5,
+    "startDate": "2024-08-19T14:11:08+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasser-Abkochgebot aufgrund des Verdachts einer Keimbelastung - 51 Gemeinden im Kreis Birkenfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
