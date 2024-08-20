@@ -84,20 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240819-84-000",
-    "version": 5,
-    "startDate": "2024-08-19T06:14:06+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand in der Altdorfer Str. - Schließen Sie Türen und Fenster - Landshut Wolfgang"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-BIR-W246-20240819-001",
     "version": 5,
     "startDate": "2024-08-19T15:01:53+02:00",
@@ -137,6 +123,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20240820-84-000",
+    "version": 5,
+    "startDate": "2024-08-20T11:53:51+02:00",
+    "expiresDate": "2024-08-20T17:53:51+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand in der Altdorfer Str. - Schließen Sie Türen und Fenster - Landshut Wolfgang"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20240820-19-000",
+    "version": 5,
+    "startDate": "2024-08-20T12:08:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Notruf 112  - Stadt Bremen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
     }
   }
 ]
