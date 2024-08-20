@@ -124,5 +124,33 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-RP-LD-SE117-20240820-121-000",
+    "version": 5,
+    "startDate": "2024-08-20T21:38:52+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Industriebrand in Höhfröschen - Türen, Fenter geschlossen halten - Höhfröschen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-ST-HZ-W050-20240820-000",
+    "version": 5,
+    "startDate": "2024-08-20T21:45:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Öl auf Gewässer - Ilse Flusslauf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
