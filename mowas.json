@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20240820-19-002",
-    "version": 5,
-    "startDate": "2024-08-20T13:00:31+02:00",
-    "expiresDate": "2024-08-20T19:00:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Einschränkung Notruf 112  - Stadt Bremen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-005"
-    }
-  },
-  {
     "id": "mow.DE-RP-WO-W242-20240820-001",
     "version": 5,
     "startDate": "2024-08-20T14:09:03+02:00",
