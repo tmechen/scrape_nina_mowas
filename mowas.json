@@ -124,5 +124,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-RP-WO-W242-20240820-000",
+    "version": 5,
+    "startDate": "2024-08-20T07:43:22+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand von Rundballen - Worms Ibersheim, Worms Rheindürkheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
