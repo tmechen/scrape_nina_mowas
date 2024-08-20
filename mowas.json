@@ -141,17 +141,31 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20240820-19-000",
+    "id": "mow.DE-HB-HB-SE019-20240820-19-001",
     "version": 5,
-    "startDate": "2024-08-20T12:08:42+02:00",
+    "startDate": "2024-08-20T12:34:49+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Einschränkung Notruf 112  - Stadt Bremen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240820-50-000",
+    "version": 5,
+    "startDate": "2024-08-20T12:44:00+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Ausfall Notruf 112  - Stadt Bremen"
+      "de": "Trinkwasserverunreinigung - 74632 Neuenstein, Landkreis Hohenlohe"
     },
     "transKeys": {
-      "event": "BBK-EVC-005"
+      "event": "BBK-EVC-069"
     }
   }
 ]
