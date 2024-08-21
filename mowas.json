@@ -140,21 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-HN-W045-20240821-001",
-    "version": 5,
-    "startDate": "2024-08-21T14:49:14+02:00",
-    "expiresDate": "2024-08-21T20:49:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Gebäudebrand - Gemeinde Oedheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-RP-LD-SE117-20240821-121-000",
     "version": 5,
     "startDate": "2024-08-21T17:26:18+02:00",
