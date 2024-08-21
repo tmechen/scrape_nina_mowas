@@ -166,5 +166,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-BB-CB-SE036-20240821-36-000",
+    "version": 5,
+    "startDate": "2024-08-21T10:41:50+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Munitionsentschärfung / ggf. Sprengung - Ortsverbindung L49 Dubrau - Kathlow"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
