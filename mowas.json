@@ -196,5 +196,19 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-NI-BS-W091-20240821-000",
+    "version": 5,
+    "startDate": "2024-08-21T20:11:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchwolke durch brennende Grünabfälle - Braunschweig"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
