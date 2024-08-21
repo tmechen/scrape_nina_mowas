@@ -196,5 +196,33 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20240821-82-000",
+    "version": 5,
+    "startDate": "2024-08-21T14:00:47+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand in Neustadt (Dosse) - Neustadt und Wusterhausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-HN-W045-20240821-000",
+    "version": 5,
+    "startDate": "2024-08-21T14:10:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Gebäudebrand - Gemeinde Oedheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
