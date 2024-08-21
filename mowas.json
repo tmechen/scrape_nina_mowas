@@ -126,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20240820-121-000",
-    "version": 5,
-    "startDate": "2024-08-20T21:38:52+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Industriebrand in Höhfröschen - Türen, Fenter geschlossen halten - Höhfröschen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-ST-HZ-W050-20240820-000",
     "version": 5,
     "startDate": "2024-08-20T21:45:20+02:00",
@@ -151,21 +137,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BW-HD-W086-20240821-001",
-    "version": 5,
-    "startDate": "2024-08-21T11:10:23+02:00",
-    "expiresDate": "2024-08-21T17:10:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in Ketsch - Ketsch"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
     }
   },
   {
@@ -221,6 +192,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Rauchentwicklung durch Gebäudebrand - Gemeinde Oedheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LD-SE117-20240821-121-000",
+    "version": 5,
+    "startDate": "2024-08-21T17:26:18+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Aktuelle Informationen zu Brandeinsatz - Höhfröschen"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
