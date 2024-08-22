@@ -140,20 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20240822-000",
-    "version": 5,
-    "startDate": "2024-08-22T06:43:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Freisetzung einer Rauchwolke durch Brand - Bruchsal und Karlsdorf-Neuthard"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-WES-SE097-20240822-97-002",
     "version": 5,
     "startDate": "2024-08-22T16:34:28+02:00",
@@ -192,6 +178,21 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Geruchsbelästigung durch Brand - Schwerin Wüstmark"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20240822-001",
+    "version": 5,
+    "startDate": "2024-08-22T21:59:40+02:00",
+    "expiresDate": "2024-08-23T03:59:40+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Freisetzung einer Rauchwolke durch Brand - Bruchsal und Karlsdorf-Neuthard"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
