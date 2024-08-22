@@ -168,12 +168,12 @@
     }
   },
   {
-    "id": "mow.DE-NW-WES-SE097-20240822-97-000",
+    "id": "mow.DE-NW-WES-SE097-20240822-97-001",
     "version": 5,
-    "startDate": "2024-08-22T14:26:48+02:00",
+    "startDate": "2024-08-22T15:07:09+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Kampfmittelfund in Moers - Moers"
     },
