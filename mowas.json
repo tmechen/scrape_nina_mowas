@@ -181,5 +181,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20240822-000",
+    "version": 5,
+    "startDate": "2024-08-22T06:43:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Freisetzung einer Rauchwolke durch Brand - Bruchsal und Karlsdorf-Neuthard"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
