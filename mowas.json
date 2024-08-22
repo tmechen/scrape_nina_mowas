@@ -168,21 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20240822-121-000",
-    "version": 5,
-    "startDate": "2024-08-22T08:30:45+02:00",
-    "expiresDate": "2024-08-22T14:30:45+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Aktuelle Informationen zu Brandeinsatz - Höhfröschen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-WES-SE097-20240822-97-000",
     "version": 5,
     "startDate": "2024-08-22T14:26:48+02:00",
