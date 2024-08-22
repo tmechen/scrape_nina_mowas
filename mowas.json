@@ -140,21 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-BIR-W246-20240822-000",
-    "version": 5,
-    "startDate": "2024-08-22T18:12:13+02:00",
-    "expiresDate": "2024-08-23T00:12:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gesundheitsamt hebt Trinkwasser-Abkochgebot auf - 53 Gemeinden im Kreis Birkenfeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE049-20240822-49-000",
     "version": 5,
     "startDate": "2024-08-22T21:16:03+02:00",
