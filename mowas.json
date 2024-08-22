@@ -182,5 +182,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE049-20240822-49-000",
+    "version": 5,
+    "startDate": "2024-08-22T21:16:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Brand - Schwerin Wüstmark"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
