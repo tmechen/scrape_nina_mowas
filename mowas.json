@@ -181,5 +181,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-NW-WES-SE097-20240822-97-000",
+    "version": 5,
+    "startDate": "2024-08-22T14:26:48+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Moers - Moers"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
