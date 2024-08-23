@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-BS-W091-20240821-000",
-    "version": 5,
-    "startDate": "2024-08-21T20:11:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchwolke durch brennende Grünabfälle - Braunschweig"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NI-GF-W216-20240821-000",
     "version": 5,
     "startDate": "2024-08-21T23:57:58+02:00",
@@ -168,17 +154,32 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20240823-28-000",
+    "id": "mow.DE-SH-EH-SE028-20240823-28-001",
     "version": 5,
-    "startDate": "2024-08-23T13:05:28+02:00",
+    "startDate": "2024-08-23T14:03:48+02:00",
+    "expiresDate": "2024-08-23T20:03:48+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Henstedt-Ulzburg"
+      "de": "Entwarnung: Feuerwehreinsatz - Henstedt-Ulzburg"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NI-BS-W091-20240823-000",
+    "version": 5,
+    "startDate": "2024-08-23T14:23:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchwolke durch brennende Grünabfälle - Braunschweig"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
