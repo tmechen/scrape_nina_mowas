@@ -126,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20240823-000",
-    "version": 5,
-    "startDate": "2024-08-23T08:26:48+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor einer Sturmflut - Nordfriesische Küste"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20240823-28-001",
     "version": 5,
     "startDate": "2024-08-23T14:03:48+02:00",
@@ -209,6 +195,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20240823-001",
+    "version": 5,
+    "startDate": "2024-08-23T18:49:47+02:00",
+    "expiresDate": "2024-08-24T00:49:47+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einer Sturmflut - Nordfriesische Küste"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
     }
   }
 ]
