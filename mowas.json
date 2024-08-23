@@ -154,21 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20240823-129-000",
-    "version": 5,
-    "startDate": "2024-08-23T05:03:47+02:00",
-    "expiresDate": "2024-08-23T11:03:47+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch einen Brand in einer Lagerhalle - Salzgitter Thiede"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20240823-000",
     "version": 5,
     "startDate": "2024-08-23T08:26:48+02:00",
