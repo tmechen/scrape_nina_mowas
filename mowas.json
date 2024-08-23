@@ -169,20 +169,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20240823-122-000",
-    "version": 5,
-    "startDate": "2024-08-23T18:46:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Silobrand - Mittweida"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20240823-001",
     "version": 5,
     "startDate": "2024-08-23T18:49:47+02:00",
@@ -195,6 +181,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20240823-122-001",
+    "version": 5,
+    "startDate": "2024-08-23T21:13:03+02:00",
+    "expiresDate": "2024-08-24T03:13:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Silobrand - Mittweida"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
