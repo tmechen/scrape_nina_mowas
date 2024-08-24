@@ -140,14 +140,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-NDH-W019-20240824-000",
+    "id": "mow.DE-TH-NDH-W019-20240824-001",
     "version": 5,
-    "startDate": "2024-08-24T18:31:48+02:00",
+    "startDate": "2024-08-24T19:06:44+02:00",
+    "expiresDate": "2024-08-25T01:06:44+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Nordhausen, Lange Straße"
+      "de": "Entwarnung: Starke Rauchentwicklung - Nordhausen, Lange Straße"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
