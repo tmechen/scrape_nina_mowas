@@ -140,20 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-HGW-W005-20240825-001",
-    "version": 5,
-    "startDate": "2024-08-25T10:34:52+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "FEUERWEHREINSATZ - Menzlin"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20240825-29-001",
     "version": 5,
     "startDate": "2024-08-25T14:35:18+02:00",
@@ -166,6 +152,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-MV-HGW-W005-20240825-002",
+    "version": 5,
+    "startDate": "2024-08-25T16:46:55+02:00",
+    "expiresDate": "2024-08-25T22:46:55+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: FEUERWEHREINSATZ - Menzlin"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
