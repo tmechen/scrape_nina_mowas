@@ -154,21 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-HGW-W005-20240826-001",
-    "version": 5,
-    "startDate": "2024-08-26T18:31:02+02:00",
-    "expiresDate": "2024-08-27T00:31:02+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: FEUERWEHREINSATZ - Menzlin"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BB-FF-SE080-20240826-80-001",
     "version": 5,
     "startDate": "2024-08-26T21:15:58+02:00",
