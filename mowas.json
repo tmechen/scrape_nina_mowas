@@ -140,20 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-HGW-W005-20240826-000",
-    "version": 5,
-    "startDate": "2024-08-26T14:30:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "FEUERWEHREINSATZ - Menzlin"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20240826-105-001",
     "version": 5,
     "startDate": "2024-08-26T14:57:18+02:00",
@@ -180,6 +166,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-006"
+    }
+  },
+  {
+    "id": "mow.DE-MV-HGW-W005-20240826-001",
+    "version": 5,
+    "startDate": "2024-08-26T18:31:02+02:00",
+    "expiresDate": "2024-08-27T00:31:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: FEUERWEHREINSATZ - Menzlin"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BB-FF-SE080-20240826-80-000",
+    "version": 5,
+    "startDate": "2024-08-26T18:34:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Munitionsfund  - Strausberg Kirschallee"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
