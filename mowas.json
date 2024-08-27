@@ -154,21 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-FF-SE080-20240826-80-001",
-    "version": 5,
-    "startDate": "2024-08-26T21:15:58+02:00",
-    "expiresDate": "2024-08-27T03:15:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Munitionsfund  - Strausberg Kirschallee"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-RP-LD-SE117-20240827-121-000",
     "version": 5,
     "startDate": "2024-08-27T03:19:14+02:00",
