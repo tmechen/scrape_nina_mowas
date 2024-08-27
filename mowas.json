@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GT-SE040-20240827-40-001",
-    "version": 5,
-    "startDate": "2024-08-27T11:33:45+02:00",
-    "expiresDate": "2024-08-27T17:33:45+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Harsewinkel und Versmold - Harsewinkel und Versmold"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-SO-SE089-20240827-89-001",
     "version": 5,
     "startDate": "2024-08-27T14:27:52+02:00",
