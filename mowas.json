@@ -126,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-BS-W091-20240823-000",
-    "version": 5,
-    "startDate": "2024-08-23T14:23:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchwolke durch brennende Grünabfälle - Braunschweig"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-LD-SE117-20240827-121-001",
     "version": 5,
     "startDate": "2024-08-27T05:12:18+02:00",
@@ -167,6 +153,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-006"
+    }
+  },
+  {
+    "id": "mow.DE-NI-BS-W091-20240827-000",
+    "version": 5,
+    "startDate": "2024-08-27T09:42:33+02:00",
+    "expiresDate": "2024-08-27T15:42:33+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchwolke durch brennende Grünabfälle - Braunschweig"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
