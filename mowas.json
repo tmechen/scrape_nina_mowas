@@ -156,14 +156,15 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20240827-33-000",
+    "id": "mow.DE-HH-HH-SE033-20240827-33-001",
     "version": 5,
-    "startDate": "2024-08-27T14:33:57+02:00",
+    "startDate": "2024-08-27T16:26:08+02:00",
+    "expiresDate": "2024-08-27T22:26:08+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Hamburg-Billbrook"
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Hamburg-Billbrook"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
