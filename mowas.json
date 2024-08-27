@@ -167,5 +167,19 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-RP-LD-SE117-20240827-121-000",
+    "version": 5,
+    "startDate": "2024-08-27T03:19:14+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Örtlich begrenzte Störung der Stromversorgung im Bereich Kirchberg - Pirmasens - Kirchberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
