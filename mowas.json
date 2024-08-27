@@ -157,14 +157,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-VER-W077-20240827-000",
+    "id": "mow.DE-NI-VER-W077-20240827-001",
     "version": 5,
-    "startDate": "2024-08-27T19:58:53+02:00",
+    "startDate": "2024-08-27T21:22:33+02:00",
+    "expiresDate": "2024-08-28T03:22:33+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in Langwedel - Flecken Langwedel"
+      "de": "Entwarnung: Brand in Langwedel - Flecken Langwedel"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
