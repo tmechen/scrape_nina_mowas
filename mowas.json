@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20240827-121-001",
-    "version": 5,
-    "startDate": "2024-08-27T05:12:18+02:00",
-    "expiresDate": "2024-08-27T11:12:18+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Örtlich begrenzte Störung der Stromversorgung im Bereich Kirchberg - Pirmasens - Kirchberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-HB-HB-SE019-20240827-19-000",
     "version": 5,
     "startDate": "2024-08-27T07:28:53+02:00",
