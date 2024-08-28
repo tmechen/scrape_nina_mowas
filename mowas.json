@@ -125,5 +125,19 @@
     "transKeys": {
       "event": "BBK-EVC-029"
     }
+  },
+  {
+    "id": "mow.DE-NW-ST-SE032-20240828-165-000",
+    "version": 5,
+    "startDate": "2024-08-28T16:47:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in Greven - Greven, zwischen Greven und Sprakel im Bereich Aldrup"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
