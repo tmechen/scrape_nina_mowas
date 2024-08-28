@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20240828-84-001",
-    "version": 5,
-    "startDate": "2024-08-28T11:47:20+02:00",
-    "expiresDate": "2024-08-28T17:47:20+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefährdung durch Gefahrgutunfall - Stadtgebiet Regensburg - Konradsiedlung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-029"
-    }
-  },
-  {
     "id": "mow.DE-NW-ST-SE032-20240828-165-000",
     "version": 5,
     "startDate": "2024-08-28T16:47:25+02:00",
