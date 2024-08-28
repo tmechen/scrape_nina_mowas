@@ -125,5 +125,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NI-WTM-W213-20240828-000",
+    "version": 5,
+    "startDate": "2024-08-28T19:46:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung Großbrand - Südbrookmerland"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
