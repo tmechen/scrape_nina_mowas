@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-NE-SE044-20240828-44-000",
-    "version": 5,
-    "startDate": "2024-08-28T22:27:30+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brandgeruch  - Stadt Grevenbroich"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-LU-SE005-20240829-5-000",
     "version": 5,
     "startDate": "2024-08-29T04:22:44+02:00",
@@ -138,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-NE-SE044-20240829-44-000",
+    "version": 5,
+    "startDate": "2024-08-29T07:12:16+02:00",
+    "expiresDate": "2024-08-29T13:12:16+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandgeruch  - Stadt Grevenbroich"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
