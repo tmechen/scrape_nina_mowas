@@ -152,5 +152,19 @@
     "transKeys": {
       "event": "BBK-EVC-077"
     }
+  },
+  {
+    "id": "mow.DE-BW-BL-W128-20240829-001",
+    "version": 5,
+    "startDate": "2024-08-29T17:35:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Schadstofffreisetzung - im Gebäude bleiben - Rosenfeld Stadt + Ortsteil Bickelsberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-047"
+    }
   }
 ]
