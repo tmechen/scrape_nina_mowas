@@ -154,14 +154,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-BL-W128-20240829-001",
+    "id": "mow.DE-BW-BL-W128-20240829-002",
     "version": 5,
-    "startDate": "2024-08-29T17:35:15+02:00",
+    "startDate": "2024-08-29T18:16:40+02:00",
+    "expiresDate": "2024-08-30T00:16:40+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Schadstofffreisetzung - im Gebäude bleiben - Rosenfeld Stadt + Ortsteil Bickelsberg"
+      "de": "Entwarnung: Schadstofffreisetzung - im Gebäude bleiben - Rosenfeld Stadt + Ortsteil Bickelsberg"
     },
     "transKeys": {
       "event": "BBK-EVC-047"
