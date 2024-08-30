@@ -154,21 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-WAF-SE045-20240830-45-001",
-    "version": 5,
-    "startDate": "2024-08-30T06:28:30+02:00",
-    "expiresDate": "2024-08-30T12:28:30+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall der Krankentransportnummer - Kreis Warendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-006"
-    }
-  },
-  {
     "id": "mow.DE-NI-DH-W233-20240830-001",
     "version": 5,
     "startDate": "2024-08-30T07:40:53+02:00",
