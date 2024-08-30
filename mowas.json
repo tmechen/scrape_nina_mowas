@@ -152,20 +152,5 @@
     "transKeys": {
       "event": "BBK-EVC-077"
     }
-  },
-  {
-    "id": "mow.DE-NW-HX-SE092-20240829-92-001",
-    "version": 5,
-    "startDate": "2024-08-29T20:14:21+02:00",
-    "expiresDate": "2024-08-30T02:14:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Beverungen  Richtung Blankenau - Beverungen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
