@@ -155,20 +155,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-C-W092-20240830-000",
-    "version": 5,
-    "startDate": "2024-08-30T13:29:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch starke Rauchentwicklung  - Chemnitz Glösa und nähere Umgebung"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BB-BRB-SE081-20240830-81-000",
     "version": 5,
     "startDate": "2024-08-30T14:15:17+02:00",
@@ -180,6 +166,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-SN-C-W092-20240830-001",
+    "version": 5,
+    "startDate": "2024-08-30T15:34:07+02:00",
+    "expiresDate": "2024-08-30T21:34:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch starke Rauchentwicklung  - Chemnitz Glösa und nähere Umgebung"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
