@@ -166,5 +166,19 @@
     "transKeys": {
       "event": "BBK-EVC-006"
     }
+  },
+  {
+    "id": "mow.DE-NI-DH-W233-20240830-000",
+    "version": 5,
+    "startDate": "2024-08-30T05:41:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall im Stadtgebiet Twistringen - Twistringen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
