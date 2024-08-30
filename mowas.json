@@ -182,5 +182,19 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-BB-FF-SE080-20240830-80-000",
+    "version": 5,
+    "startDate": "2024-08-30T07:49:43+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bombensprengung auf landwirtschaftlicher Fläche zwischen Booßen und Treplin - Frankfurt(Oder) - Ortsteil Booßen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
