@@ -152,20 +152,5 @@
     "transKeys": {
       "event": "BBK-EVC-077"
     }
-  },
-  {
-    "id": "mow.DE-NW-ST-SE032-20240830-165-001",
-    "version": 5,
-    "startDate": "2024-08-30T23:28:55+02:00",
-    "expiresDate": "2024-08-31T05:28:55+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Wettringen - Wettringen, Rothenberge, Ochtrup, Wellbergen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
