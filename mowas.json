@@ -140,20 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE024-20240831-24-000",
-    "version": 5,
-    "startDate": "2024-08-31T12:30:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "SCHADENEREIGNIS - Ostseebad Zinnowitz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-NI-WOB-W212-20240831-001",
     "version": 5,
     "startDate": "2024-08-31T13:14:11+02:00",
@@ -181,6 +167,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE024-20240831-24-001",
+    "version": 5,
+    "startDate": "2024-08-31T17:19:17+02:00",
+    "expiresDate": "2024-08-31T23:19:17+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: SCHADENEREIGNIS - Ostseebad Zinnowitz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
     }
   }
 ]
