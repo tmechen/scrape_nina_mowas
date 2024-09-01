@@ -153,5 +153,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240901-50-000",
+    "version": 5,
+    "startDate": "2024-09-02T01:26:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand auf einem landwirtschaftlichen Anwesen - Stadt Esslingen, Unterensingen, Köngen,Denkendorf Ostfildern, Wendlingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
