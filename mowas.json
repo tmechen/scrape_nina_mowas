@@ -138,5 +138,19 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
+  },
+  {
+    "id": "mow.DE-NW-KR-SE075-20240901-75-001",
+    "version": 5,
+    "startDate": "2024-09-01T23:29:58+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in Krefeld - Hafen Krefeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
