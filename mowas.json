@@ -140,20 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-H-SE110-20240901-110-000",
-    "version": 5,
-    "startDate": "2024-09-01T03:44:34+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Einschränkung der Trinkwasserversorgung in Teilen der Stadt Burgdorf - Burgdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-SN-C-W092-20240901-001",
     "version": 5,
     "startDate": "2024-09-01T06:23:52+02:00",
@@ -180,6 +166,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NI-H-SE110-20240901-110-001",
+    "version": 5,
+    "startDate": "2024-09-01T06:37:38+02:00",
+    "expiresDate": "2024-09-01T12:37:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Einschränkung der Trinkwasserversorgung in Teilen der Stadt Burgdorf - Burgdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
