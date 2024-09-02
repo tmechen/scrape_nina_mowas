@@ -199,20 +199,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LU-SE005-20240902-5-000",
-    "version": 5,
-    "startDate": "2024-09-02T18:15:24+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand Dannstadt-Schauernheim - Verbandsgemeinde Dannstadt-Schauernheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W226-20240902-000",
     "version": 5,
     "startDate": "2024-09-02T19:24:09+02:00",
@@ -251,6 +237,21 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand  - Forchheim/ Döbeln"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LU-SE005-20240902-5-001",
+    "version": 5,
+    "startDate": "2024-09-02T20:30:08+02:00",
+    "expiresDate": "2024-09-03T02:30:08+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand Dannstadt-Schauernheim - Verbandsgemeinde Dannstadt-Schauernheim"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
