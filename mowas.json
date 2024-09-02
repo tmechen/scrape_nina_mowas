@@ -154,21 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20240902-4-004",
-    "version": 5,
-    "startDate": "2024-09-02T19:26:39+02:00",
-    "expiresDate": "2024-09-03T01:26:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Unwetter in Schönecken - Schönecken"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-SN-C-W092-20240902-001",
     "version": 5,
     "startDate": "2024-09-02T19:40:31+02:00",
