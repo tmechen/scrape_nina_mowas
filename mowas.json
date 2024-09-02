@@ -140,21 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-KR-SE075-20240901-75-003",
-    "version": 5,
-    "startDate": "2024-09-02T00:18:26+02:00",
-    "expiresDate": "2024-09-02T06:18:26+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Krefeld - Hafen Krefeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240901-50-000",
     "version": 5,
     "startDate": "2024-09-02T01:26:24+02:00",
