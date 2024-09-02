@@ -155,20 +155,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ST-SE032-20240902-165-000",
-    "version": 5,
-    "startDate": "2024-09-02T16:02:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Ladbergen - Ladbergen Kreis Steinfurt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-GL-SE063-20240902-63-001",
     "version": 5,
     "startDate": "2024-09-02T16:23:28+02:00",
@@ -221,6 +207,49 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Starke Rauchentwicklung durch Großbrand  - Forchheim/ Döbeln"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ST-SE032-20240902-165-001",
+    "version": 5,
+    "startDate": "2024-09-02T17:48:04+02:00",
+    "expiresDate": "2024-09-02T23:48:04+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Ladbergen - Ladbergen Kreis Steinfurt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20240902-28-000",
+    "version": 5,
+    "startDate": "2024-09-02T18:06:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Lunden"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LU-SE005-20240902-5-000",
+    "version": 5,
+    "startDate": "2024-09-02T18:15:24+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand Dannstadt-Schauernheim - Verbandsgemeinde Dannstadt-Schauernheim"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
