@@ -210,5 +210,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-VIE-SE074-20240903-74-000",
+    "version": 5,
+    "startDate": "2024-09-04T00:26:26+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung in Teilen des Stadtgebietes Kempen  - Ortsteile Tönisberg und St.Hubert"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
