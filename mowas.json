@@ -154,20 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240903-50-002",
-    "version": 5,
-    "startDate": "2024-09-03T13:03:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung nach Schadenfeuer - Reutlingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-OB-SE055-20240903-55-001",
     "version": 5,
     "startDate": "2024-09-03T14:08:01+02:00",
@@ -179,20 +165,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-MV-HGW-W005-20240903-001",
-    "version": 5,
-    "startDate": "2024-09-03T14:25:37+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "FEUERWEHREINSATZ - Greifswald"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
     }
   },
   {
@@ -220,6 +192,36 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Geruchsbelästigung in Erkrath-Hochdahl - Erkrath"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-MV-HGW-W005-20240903-002",
+    "version": 5,
+    "startDate": "2024-09-03T16:56:11+02:00",
+    "expiresDate": "2024-09-03T22:56:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: FEUERWEHREINSATZ - Greifswald"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240903-50-003",
+    "version": 5,
+    "startDate": "2024-09-03T17:14:37+02:00",
+    "expiresDate": "2024-09-03T23:14:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung nach Schadenfeuer - Reutlingen"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
