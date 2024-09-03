@@ -140,20 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20240902-28-000",
-    "version": 5,
-    "startDate": "2024-09-02T18:06:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Lunden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240903-50-000",
     "version": 5,
     "startDate": "2024-09-03T05:01:57+02:00",
@@ -165,6 +151,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20240903-28-000",
+    "version": 5,
+    "startDate": "2024-09-03T06:02:12+02:00",
+    "expiresDate": "2024-09-03T12:02:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Lunden"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
