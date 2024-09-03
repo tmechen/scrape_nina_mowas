@@ -194,5 +194,33 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-OB-SE055-20240903-55-001",
+    "version": 5,
+    "startDate": "2024-09-03T14:08:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Oberhausen - Holten"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-MV-HGW-W005-20240903-001",
+    "version": 5,
+    "startDate": "2024-09-03T14:25:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "FEUERWEHREINSATZ - Greifswald"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
