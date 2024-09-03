@@ -180,5 +180,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-ME-SE071-20240903-71-000",
+    "version": 5,
+    "startDate": "2024-09-03T13:38:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in Erkrath-Hochdahl - Erkrath"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
