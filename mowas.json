@@ -168,20 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ME-SE071-20240903-71-000",
-    "version": 5,
-    "startDate": "2024-09-03T13:38:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in Erkrath-Hochdahl - Erkrath"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-OB-SE055-20240903-55-001",
     "version": 5,
     "startDate": "2024-09-03T14:08:01+02:00",
@@ -222,6 +208,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ME-SE071-20240903-71-001",
+    "version": 5,
+    "startDate": "2024-09-03T16:20:14+02:00",
+    "expiresDate": "2024-09-03T22:20:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung in Erkrath-Hochdahl - Erkrath"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
