@@ -241,5 +241,33 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20240903-28-001",
+    "version": 5,
+    "startDate": "2024-09-03T20:58:18+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Lieth und Hemmingstedt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-MOS-W031-20240903-002",
+    "version": 5,
+    "startDate": "2024-09-03T21:13:43+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gewässerverunreinigung durch Heizöl - Schwarzach und angrenzende Gemeinden"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
