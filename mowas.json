@@ -196,5 +196,19 @@
     "transKeys": {
       "event": "BBK-EVC-067"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20240904-29-000",
+    "version": 5,
+    "startDate": "2024-09-04T16:24:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Allgemeine Information der Großleitstelle Oldenburg - der gesamte Bereich der Grossleitstelle Oldenburger Land"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-082"
+    }
   }
 ]
