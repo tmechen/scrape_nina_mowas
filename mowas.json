@@ -197,5 +197,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-MS-SE043-20240905-43-000",
+    "version": 5,
+    "startDate": "2024-09-05T09:57:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund im Lütkenbecker Weg - Münster Gremmendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
