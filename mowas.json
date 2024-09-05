@@ -183,14 +183,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-OF-W106-20240905-000",
+    "id": "mow.DE-HE-OF-W106-20240905-001",
     "version": 5,
-    "startDate": "2024-09-05T03:08:56+02:00",
+    "startDate": "2024-09-05T04:26:47+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Gefahr durch Rauchgase aufgrund eines Großbrandes in Offenbach - Offenbach am Main, Stadtteil: Offenbach-Ost"
+      "de": "Weiterhin Gefahr durch Rauchgase aufgrund eines Großbrandes in Offenbach - Offenbach am Main, Stadtteil: Offenbach-Ost"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
