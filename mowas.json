@@ -169,17 +169,46 @@
     }
   },
   {
-    "id": "mow.DE-NW-MS-SE043-20240905-43-001",
+    "id": "mow.DE-NW-MS-SE043-20240905-43-002",
     "version": 5,
-    "startDate": "2024-09-05T12:32:09+02:00",
+    "startDate": "2024-09-05T14:51:03+02:00",
+    "expiresDate": "2024-09-05T20:51:03+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund im Lütkenbecker Weg - Münster Gremmendorf"
+      "de": "Entwarnung: Kampfmittelfund im Lütkenbecker Weg - Münster Gremmendorf"
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-BB-BRB-SE081-20240905-81-000",
+    "version": 5,
+    "startDate": "2024-09-05T14:51:09+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Waldbrand - Nuthe-Urstromtal / Ruhlsdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20240905-28-000",
+    "version": 5,
+    "startDate": "2024-09-05T14:59:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Êlmshorn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
