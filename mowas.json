@@ -154,20 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20240905-000",
-    "version": 5,
-    "startDate": "2024-09-05T16:48:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchwolke durch Brand von Wald und Grasfläche - Ronneburg   Neue Landschaft Bugagelände"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20240905-28-001",
     "version": 5,
     "startDate": "2024-09-05T17:48:21+02:00",
@@ -206,6 +192,21 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Rauch / Brandgeruch im Bereich Niederlehme - Königs Wusterhausen OT Niederlehme"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20240905-001",
+    "version": 5,
+    "startDate": "2024-09-05T23:13:53+02:00",
+    "expiresDate": "2024-09-06T05:13:53+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchwolke durch Brand von Wald und Grasfläche - Ronneburg   Neue Landschaft Bugagelände"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
