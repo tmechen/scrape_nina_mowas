@@ -154,21 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-RE-SE078-20240905-78-001",
-    "version": 5,
-    "startDate": "2024-09-05T08:53:50+02:00",
-    "expiresDate": "2024-09-05T14:53:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Marl Brassert - Marl"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-MS-SE043-20240905-43-002",
     "version": 5,
     "startDate": "2024-09-05T14:51:03+02:00",
@@ -184,20 +169,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-BRB-SE081-20240905-81-000",
-    "version": 5,
-    "startDate": "2024-09-05T14:51:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Waldbrand - Nuthe-Urstromtal / Ruhlsdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20240905-28-000",
     "version": 5,
     "startDate": "2024-09-05T14:59:21+02:00",
@@ -209,6 +180,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BB-BRB-SE081-20240905-81-001",
+    "version": 5,
+    "startDate": "2024-09-05T15:10:44+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Waldbrand - Nuthe-Urstromtal / Ruhlsdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
