@@ -154,21 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20240904-19-001",
-    "version": 5,
-    "startDate": "2024-09-05T01:56:29+02:00",
-    "expiresDate": "2024-09-05T07:56:29+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Unwetter über Bremen - Stadtgemeinde Bremen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
     "id": "mow.DE-HE-OF-W106-20240905-002",
     "version": 5,
     "startDate": "2024-09-05T05:31:54+02:00",
