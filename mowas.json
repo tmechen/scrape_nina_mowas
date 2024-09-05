@@ -154,21 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MS-SE043-20240905-43-002",
-    "version": 5,
-    "startDate": "2024-09-05T14:51:03+02:00",
-    "expiresDate": "2024-09-05T20:51:03+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund im Lütkenbecker Weg - Münster Gremmendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20240905-000",
     "version": 5,
     "startDate": "2024-09-05T16:48:24+02:00",
