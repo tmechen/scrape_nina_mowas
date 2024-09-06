@@ -152,20 +152,5 @@
     "transKeys": {
       "event": "BBK-EVC-067"
     }
-  },
-  {
-    "id": "mow.DE-BB-CB-SE036-20240905-36-001",
-    "version": 5,
-    "startDate": "2024-09-06T00:02:31+02:00",
-    "expiresDate": "2024-09-06T06:02:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauch / Brandgeruch im Bereich Niederlehme - Königs Wusterhausen OT Niederlehme"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
