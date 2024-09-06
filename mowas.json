@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-GT-W112-20240906-001",
-    "version": 5,
-    "startDate": "2024-09-06T10:02:10+02:00",
-    "expiresDate": "2024-09-06T16:02:10+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Munitionsfund - Tambach-Dietharz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE049-20240906-49-000",
     "version": 5,
     "startDate": "2024-09-06T11:28:08+02:00",
