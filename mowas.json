@@ -209,5 +209,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240907-50-000",
+    "version": 5,
+    "startDate": "2024-09-07T23:55:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brandereignis - Göppingen-Schiefergrube"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
