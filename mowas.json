@@ -211,5 +211,20 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20240907-001",
+    "version": 5,
+    "startDate": "2024-09-07T12:03:56+02:00",
+    "expiresDate": "2024-09-07T18:03:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Probealarm - Loffenau"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
