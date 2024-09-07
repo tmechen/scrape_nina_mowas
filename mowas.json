@@ -196,5 +196,19 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-TH-UH-W116-20240907-000",
+    "version": 5,
+    "startDate": "2024-09-07T10:35:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Funktionsüberprüfung der Sirenen und Funkmeldeempfänger im Unstrut-Hainich-Kreis - Unstrut-Hainich-Kreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
