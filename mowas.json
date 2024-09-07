@@ -210,5 +210,19 @@
     "transKeys": {
       "event": "BBK-EVC-077"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20240907-29-001",
+    "version": 5,
+    "startDate": "2024-09-07T16:28:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahr durch Brandrauch - Salzgitter-Lebenstedt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
