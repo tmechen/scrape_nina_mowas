@@ -154,21 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-UH-W116-20240907-001",
-    "version": 5,
-    "startDate": "2024-09-07T11:09:25+02:00",
-    "expiresDate": "2024-09-07T17:09:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Funktionsüberprüfung der Sirenen und Funkmeldeempfänger im Unstrut-Hai - Unstrut-Hainich-Kreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20240907-001",
     "version": 5,
     "startDate": "2024-09-07T12:03:56+02:00",
