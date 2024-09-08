@@ -126,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20240907-000",
-    "version": 5,
-    "startDate": "2024-09-07T04:20:54+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand einer Lagerhalle - Kissing"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20240907-143-000",
     "version": 5,
     "startDate": "2024-09-07T06:20:03+02:00",
@@ -208,6 +194,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20240908-000",
+    "version": 5,
+    "startDate": "2024-09-08T08:41:45+02:00",
+    "expiresDate": "2024-09-08T14:41:45+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand einer Lagerhalle - Kissing"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
