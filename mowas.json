@@ -196,5 +196,19 @@
     "transKeys": {
       "event": "BBK-EVC-077"
     }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20240908-143-000",
+    "version": 5,
+    "startDate": "2024-09-08T14:07:49+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brockenbereich meiden und umgehend verlassen  - :  Brockenbereich umgehend verlassen ( LK Harz und Goslar)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
