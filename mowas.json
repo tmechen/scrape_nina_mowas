@@ -211,14 +211,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-J-W110-20240908-000",
+    "id": "mow.DE-TH-J-W110-20240908-001",
     "version": 5,
-    "startDate": "2024-09-08T14:54:16+02:00",
+    "startDate": "2024-09-08T17:15:44+02:00",
+    "expiresDate": "2024-09-08T23:15:44+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung mit Geruchsbelästigung - Bereich Unterwellenborn und Saalfeld/Gorndorf"
+      "de": "Entwarnung: Rauchentwicklung mit Geruchsbelästigung - Bereich Unterwellenborn und Saalfeld/Gorndorf"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
