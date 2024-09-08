@@ -211,14 +211,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-UN-SE068-20240908-68-000",
+    "id": "mow.DE-NW-UN-SE068-20240908-68-001",
     "version": 5,
-    "startDate": "2024-09-08T03:43:24+02:00",
+    "startDate": "2024-09-08T04:42:06+02:00",
+    "expiresDate": "2024-09-08T10:42:06+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase - Im Kreis Unna /Lünen- Alstedde / Selm-Bork"
+      "de": "Entwarnung: Rauchgase - Im Kreis Unna /Lünen- Alstedde / Selm-Bork"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
