@@ -182,21 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ST-SE032-20240909-165-001",
-    "version": 5,
-    "startDate": "2024-09-09T15:48:13+02:00",
-    "expiresDate": "2024-09-09T21:48:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Lengerich - Lengerich"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BR-B-SE017-20240909-17-001",
     "version": 5,
     "startDate": "2024-09-09T20:25:11+02:00",
