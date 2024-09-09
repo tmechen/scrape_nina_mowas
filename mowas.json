@@ -182,21 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20240909-12-001",
-    "version": 5,
-    "startDate": "2024-09-09T11:01:17+02:00",
-    "expiresDate": "2024-09-09T17:01:17+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Störung Notruf 112 der Zentralen Leitstelle Erfurt - Stadt Erfurt, Weimar, Landkreis Sömmerda"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-005"
-    }
-  },
-  {
     "id": "mow.DE-NW-ST-SE032-20240909-165-001",
     "version": 5,
     "startDate": "2024-09-09T15:48:13+02:00",
