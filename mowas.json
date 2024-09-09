@@ -182,21 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20240909-29-000",
-    "version": 5,
-    "startDate": "2024-09-09T09:09:38+02:00",
-    "expiresDate": "2024-09-09T15:09:38+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sperrung Brockengebiet - Landkreis Goslar und Landkreis Harz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20240909-12-001",
     "version": 5,
     "startDate": "2024-09-09T11:01:17+02:00",
