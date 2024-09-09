@@ -197,14 +197,15 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-SE017-20240909-17-000",
+    "id": "mow.DE-BR-B-SE017-20240909-17-001",
     "version": 5,
-    "startDate": "2024-09-09T19:29:55+02:00",
+    "startDate": "2024-09-09T20:25:11+02:00",
+    "expiresDate": "2024-09-10T02:25:11+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Auftretende Geruchsbelästigung - 12043 Berlin-Neukölln"
+      "de": "Entwarnung: Auftretende Geruchsbelästigung - 12043 Berlin-Neukölln"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
