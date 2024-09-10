@@ -240,14 +240,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-BO-SE077-20240910-77-001",
+    "id": "mow.DE-NW-BO-SE077-20240910-77-002",
     "version": 5,
-    "startDate": "2024-09-10T11:13:03+02:00",
+    "startDate": "2024-09-10T11:43:42+02:00",
+    "expiresDate": "2024-09-10T17:43:42+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in Bochum Linden - Bochum"
+      "de": "Entwarnung: Rauchgase in Bochum Linden - Bochum"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
