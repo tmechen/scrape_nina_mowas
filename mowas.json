@@ -226,20 +226,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-EN-SE069-20240910-69-000",
-    "version": 5,
-    "startDate": "2024-09-10T11:12:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brandereignis in Bochum mit Geruchsbelästigung - Hattingen Stadtteile Winz, Baak und Rauendahl"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-BO-SE077-20240910-77-002",
     "version": 5,
     "startDate": "2024-09-10T11:43:42+02:00",
@@ -252,6 +238,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-EN-SE069-20240910-69-001",
+    "version": 5,
+    "startDate": "2024-09-10T12:10:39+02:00",
+    "expiresDate": "2024-09-10T18:10:39+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandereignis in Bochum mit Geruchsbelästigung - Hattingen Stadtteile Winz, Baak und Rauendahl"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
