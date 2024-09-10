@@ -309,5 +309,19 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-NW-RE-SE078-20240910-78-000",
+    "version": 5,
+    "startDate": "2024-09-10T21:02:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Standard Warnung   - Dorsten (Holsterhausen, Hervest, Feldmark, Hardt, Tönsholt)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
