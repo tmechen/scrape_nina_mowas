@@ -194,5 +194,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-NW-LIP-SE041-20240910-41-000",
+    "version": 5,
+    "startDate": "2024-09-10T09:12:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung in der Innenstadt Bad Salzuflen - Bad Salzuflen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
