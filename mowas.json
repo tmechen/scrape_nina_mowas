@@ -211,20 +211,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BO-SE077-20240910-77-000",
-    "version": 5,
-    "startDate": "2024-09-10T10:33:36+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase in Bochum Linden - Bochum"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20240910-105-001",
     "version": 5,
     "startDate": "2024-09-10T10:39:56+02:00",
@@ -237,6 +223,34 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-EN-SE069-20240910-69-000",
+    "version": 5,
+    "startDate": "2024-09-10T11:12:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brandereignis in Bochum mit Geruchsbelästigung - Hattingen Stadtteile Winz, Baak und Rauendahl"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BO-SE077-20240910-77-001",
+    "version": 5,
+    "startDate": "2024-09-10T11:13:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchgase in Bochum Linden - Bochum"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
