@@ -196,21 +196,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HER-SE083-20240910-133-001",
-    "version": 5,
-    "startDate": "2024-09-10T19:10:24+02:00",
-    "expiresDate": "2024-09-11T01:10:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Herne - Herne Börnig/Holthausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NW-RE-SE078-20240910-78-000",
     "version": 5,
     "startDate": "2024-09-10T21:02:05+02:00",
