@@ -299,5 +299,33 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BB-EW-SE079-20240911-79-000",
+    "version": 5,
+    "startDate": "2024-09-11T05:15:10+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchwolke durch einen Brand von Strohballen - Ahrensfelde"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20240911-28-000",
+    "version": 5,
+    "startDate": "2024-09-11T05:15:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Hennstedt (Kreis Dithmarschen)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
