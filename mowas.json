@@ -56,20 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-M-W168-20240809-000",
-    "version": 5,
-    "startDate": "2024-08-09T17:21:39+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Verunreinigung Trinkwasser im Gemeindegebiet Baierbrunn - Baierbrunn Landkreis München"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240820-50-000",
     "version": 5,
     "startDate": "2024-08-20T12:44:00+02:00",
@@ -196,18 +182,18 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20240911-28-001",
+    "id": "mow.DE-BY-M-W168-20240911-000",
     "version": 5,
-    "startDate": "2024-09-11T09:38:54+02:00",
-    "expiresDate": "2024-09-11T15:38:54+02:00",
-    "severity": "Minor",
+    "startDate": "2024-09-11T16:08:23+02:00",
+    "expiresDate": "2024-09-11T22:08:23+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Hennstedt (Kreis Dithmarschen)"
+      "de": "Entwarnung: Verunreinigung Trinkwasser im Gemeindegebiet Baierbrunn - Baierbrunn Landkreis München"
     },
     "transKeys": {
-      "event": "BBK-EVC-010"
+      "event": "BBK-EVC-069"
     }
   }
 ]
