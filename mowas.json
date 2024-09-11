@@ -196,66 +196,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DU-SE038-20240910-38-002",
-    "version": 5,
-    "startDate": "2024-09-10T23:26:30+02:00",
-    "expiresDate": "2024-09-11T05:26:30+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wichtige Warnung der Stadt Duisburg (Großbrand) - Duisburg- Hamborn / Marxloh"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-NW-OB-SE055-20240910-55-001",
-    "version": 5,
-    "startDate": "2024-09-10T23:26:53+02:00",
-    "expiresDate": "2024-09-11T05:26:53+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Oberhausen im Nördlichen Stadtgebiet - Oberhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NW-DU-SE038-20240910-38-003",
-    "version": 5,
-    "startDate": "2024-09-10T23:27:24+02:00",
-    "expiresDate": "2024-09-11T05:27:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wichtige Warnung der Stadt Duisburg (Großbrand) - Duisburg-[Stadtteil]"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-NW-BOT-SE062-20240910-62-001",
-    "version": 5,
-    "startDate": "2024-09-10T23:30:35+02:00",
-    "expiresDate": "2024-09-11T05:30:35+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch einen Großbrand in Duisburg - Bottrop"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20240910-31-001",
     "version": 5,
     "startDate": "2024-09-11T00:16:34+02:00",
