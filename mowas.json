@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20240911-105-002",
-    "version": 5,
-    "startDate": "2024-09-11T17:16:38+02:00",
-    "expiresDate": "2024-09-11T23:16:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gasaustritt - Ovendorf der Gemeinde Ratekau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20240911-000",
     "version": 5,
     "startDate": "2024-09-11T17:30:07+02:00",
