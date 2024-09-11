@@ -112,48 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20240907-143-000",
-    "version": 5,
-    "startDate": "2024-09-07T06:20:03+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Waldbrand im Bereich Brocken  - Brocken"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-ST-MD-SE022-20240907-143-002",
-    "version": 5,
-    "startDate": "2024-09-07T18:44:38+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sperrung Brockengebiet  - Landkreis Harz und Landkreis Goslar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-ST-MD-SE022-20240908-143-000",
-    "version": 5,
-    "startDate": "2024-09-08T14:07:49+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brockenbereich meiden und umgehend verlassen  - :  Brockenbereich umgehend verlassen ( LK Harz und Goslar)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-SN-DD-W094-20240911-000",
     "version": 5,
     "startDate": "2024-09-11T06:15:30+02:00",
@@ -224,6 +182,51 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20240911-143-001",
+    "version": 5,
+    "startDate": "2024-09-11T17:38:02+02:00",
+    "expiresDate": "2024-09-11T23:38:02+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brockenbereich meiden und umgehend verlassen  - :  Brockenbereich umgehend verlassen ( LK Harz und Goslar)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20240911-143-002",
+    "version": 5,
+    "startDate": "2024-09-11T17:38:18+02:00",
+    "expiresDate": "2024-09-11T23:38:18+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sperrung Brockengebiet  - Landkreis Harz und Landkreis Goslar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20240911-143-003",
+    "version": 5,
+    "startDate": "2024-09-11T17:38:47+02:00",
+    "expiresDate": "2024-09-11T23:38:47+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Waldbrand im Bereich Brocken  - Brocken"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
