@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20240606-002",
-    "version": 5,
-    "startDate": "2024-06-06T12:00:49+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Information zur Trinkwasserversorgung im Landkreis Unterallgäu - Landkreis Unterallgäu"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-HE-DA-W184-20240723-000",
     "version": 5,
     "startDate": "2024-07-23T14:28:14+02:00",
@@ -196,6 +182,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240912-000",
+    "version": 5,
+    "startDate": "2024-09-12T13:35:09+02:00",
+    "expiresDate": "2024-09-12T19:35:09+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Information zur Trinkwasserversorgung im Landkreis Unterallgäu - Landkreis Unterallgäu"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
