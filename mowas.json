@@ -140,28 +140,30 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE013-20240912-120-000",
+    "id": "mow.DE-NW-BN-SE030-20240912-30-002",
     "version": 5,
-    "startDate": "2024-09-12T10:45:05+02:00",
-    "severity": "Severe",
+    "startDate": "2024-09-12T11:45:11+02:00",
+    "expiresDate": "2024-09-12T17:45:11+02:00",
+    "severity": "Extreme",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Bundesweiter Warntag und Sirenentest vor Beginn der Sturmflutsaison - Hamburg"
+      "de": "Entwarnung: Bundesweiter Warntag 2024 - Probewarnung - Deutschland"
     },
     "transKeys": {
       "event": "BBK-EVC-050"
     }
   },
   {
-    "id": "mow.DE-NW-BN-SE030-20240912-30-001",
+    "id": "mow.DE-HH-HH-SE013-20240912-120-001",
     "version": 5,
-    "startDate": "2024-09-12T11:00:06+02:00",
-    "severity": "Extreme",
+    "startDate": "2024-09-12T11:46:06+02:00",
+    "expiresDate": "2024-09-12T17:46:06+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Bundesweiter Warntag 2024 - Probewarnung - Deutschland"
+      "de": "Entwarnung: Bundesweiter Warntag und Sirenentest vor Beginn der Sturmflutsaison - Hamburg"
     },
     "transKeys": {
       "event": "BBK-EVC-050"
