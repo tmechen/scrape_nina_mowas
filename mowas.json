@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20240725-000",
-    "version": 5,
-    "startDate": "2024-07-25T11:24:02+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Abkochgebot ab Mittwoch 24.07.2024 - Gemeinde Bibertal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240820-50-000",
     "version": 5,
     "startDate": "2024-08-20T12:44:00+02:00",
@@ -194,6 +180,20 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Information zur Trinkwasserversorgung im Landkreis Unterallgäu - Landkreis Unterallgäu"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240912-001",
+    "version": 5,
+    "startDate": "2024-09-12T15:13:53+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Abkochgebot ab Mittwoch 24.07.2024 - Gemeinde Bibertal"
     },
     "transKeys": {
       "event": "BBK-EVC-069"
