@@ -152,5 +152,19 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-NW-ST-SE032-20240913-165-000",
+    "version": 5,
+    "startDate": "2024-09-13T09:31:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall der Krankentransportnummer - Kreis Steinfurt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
+    }
   }
 ]
