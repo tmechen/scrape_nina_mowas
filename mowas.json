@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-SLK-W069-20240913-001",
-    "version": 5,
-    "startDate": "2024-09-13T09:50:52+02:00",
-    "expiresDate": "2024-09-13T15:50:52+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall / Eventuell auftretende Rauchentwicklung - Calbe (Saale)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-ST-SK-W070-20240913-000",
     "version": 5,
     "startDate": "2024-09-13T12:34:59+02:00",
