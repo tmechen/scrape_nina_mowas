@@ -138,5 +138,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-ST-SLK-W069-20240913-000",
+    "version": 5,
+    "startDate": "2024-09-13T08:51:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Eventuell auftretende Rauchentwicklung - Calbe (Saale)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
