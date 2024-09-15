@@ -152,20 +152,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-MV-SN-SE049-20240915-49-001",
-    "version": 5,
-    "startDate": "2024-09-15T15:01:50+02:00",
-    "expiresDate": "2024-09-15T21:01:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgasbelästigung nach Gebäudebrand - Sukow"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
