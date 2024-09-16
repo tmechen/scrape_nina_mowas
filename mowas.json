@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240820-50-000",
-    "version": 5,
-    "startDate": "2024-08-20T12:44:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserverunreinigung - 74632 Neuenstein, Landkreis Hohenlohe"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240829-50-000",
     "version": 5,
     "startDate": "2024-08-29T12:13:34+02:00",
@@ -151,6 +137,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20240916-50-000",
+    "version": 5,
+    "startDate": "2024-09-16T11:23:21+02:00",
+    "expiresDate": "2024-09-16T17:23:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasserverunreinigung - 74632 Neuenstein, Landkreis Hohenlohe"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
