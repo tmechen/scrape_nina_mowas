@@ -166,5 +166,33 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BY-RO-W136-20240917-000",
+    "version": 5,
+    "startDate": "2024-09-17T10:48:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Wasserrückstau im Kanal - Waldheim und Heufeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20240917-001",
+    "version": 5,
+    "startDate": "2024-09-17T11:02:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "In Bad Homburg Innenstadt ist es zu einem Feuer gekommen - Bad Homburg Innenstadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
