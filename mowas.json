@@ -227,14 +227,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20240917-67-001",
+    "id": "mow.DE-NW-DO-SE067-20240917-67-002",
     "version": 5,
-    "startDate": "2024-09-17T17:48:55+02:00",
+    "startDate": "2024-09-17T19:47:39+02:00",
+    "expiresDate": "2024-09-18T01:47:39+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gasaustritt aus einer Baugrube - Dortmund"
+      "de": "Entwarnung: Gasaustritt aus einer Baugrube - Dortmund"
     },
     "transKeys": {
       "event": "BBK-EVC-027"
