@@ -140,20 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20240916-36-000",
-    "version": 5,
-    "startDate": "2024-09-16T19:22:53+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Information zum Hochwasser im Amt Döbern -Land - Gemeinde Neiße-Malxetal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-RO-W136-20240917-000",
     "version": 5,
     "startDate": "2024-09-17T10:48:34+02:00",
@@ -180,6 +166,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BB-CB-SE036-20240918-36-000",
+    "version": 5,
+    "startDate": "2024-09-18T09:43:58+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Information zum Hochwasser im Amt Döbern -Land - Gemeinde Neiße-Malxetal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
