@@ -181,5 +181,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-NW-EN-SE069-20240918-69-000",
+    "version": 5,
+    "startDate": "2024-09-18T10:51:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Herdecke - Stadt Herdecke, Wetterstraße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
