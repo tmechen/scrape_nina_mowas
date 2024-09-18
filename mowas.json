@@ -138,20 +138,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-RP-WW-W261-20240918-001",
-    "version": 5,
-    "startDate": "2024-09-18T19:23:18+02:00",
-    "expiresDate": "2024-09-19T01:23:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall - Herschbach U/WW"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
   }
 ]
