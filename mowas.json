@@ -182,29 +182,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20240917-67-002",
+    "id": "mow.DE-BR-B-SE017-20240918-17-000",
     "version": 5,
-    "startDate": "2024-09-17T19:47:39+02:00",
-    "expiresDate": "2024-09-18T01:47:39+02:00",
+    "startDate": "2024-09-18T02:58:58+02:00",
+    "expiresDate": "2024-09-18T08:58:58+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Gasaustritt aus einer Baugrube - Dortmund"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
-    "id": "mow.DE-BR-B-SE017-20240917-17-000",
-    "version": 5,
-    "startDate": "2024-09-17T23:18:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand im Bereich Reinickendorf (östlich des ehemaligen Flughafens TXL) - Berlin Reinickendorf"
+      "de": "Entwarnung: Brand im Bereich Reinickendorf (östlich des ehemaligen Flughafens TXL) - Berlin Reinickendorf"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
