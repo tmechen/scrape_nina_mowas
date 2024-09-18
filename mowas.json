@@ -154,20 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-NB-W076-20240917-000",
-    "version": 5,
-    "startDate": "2024-09-17T05:01:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Gefahr durch Rauchentwicklung - Jürgenstorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-RO-W136-20240917-000",
     "version": 5,
     "startDate": "2024-09-17T10:48:34+02:00",
@@ -194,6 +180,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-MV-NB-W076-20240918-000",
+    "version": 5,
+    "startDate": "2024-09-18T06:41:47+02:00",
+    "expiresDate": "2024-09-18T12:41:47+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Entwarnung- Gefahr durch Rauchentwicklung - Jürgenstorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
