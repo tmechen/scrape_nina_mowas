@@ -210,5 +210,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-BW-PF-W024-20240919-000",
+    "version": 5,
+    "startDate": "2024-09-19T20:42:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Mühlacker - Industriegebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
