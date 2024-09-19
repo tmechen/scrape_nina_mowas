@@ -196,5 +196,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20240919-54-000",
+    "version": 5,
+    "startDate": "2024-09-19T15:11:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Teilweise gestörte Mobilfunktelefonie - Stadt Düren und Gemeinden Kreuzau, Nörvenich und Vettweiß"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
+    }
   }
 ]
