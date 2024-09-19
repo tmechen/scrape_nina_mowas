@@ -211,14 +211,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-PF-W024-20240919-001",
+    "id": "mow.DE-BW-PF-W024-20240919-002",
     "version": 5,
-    "startDate": "2024-09-19T23:03:47+02:00",
+    "startDate": "2024-09-20T00:00:47+02:00",
+    "expiresDate": "2024-09-20T06:00:47+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Mühlacker - Industriegebiet"
+      "de": "Entwarnung: Feuerwehreinsatz - Mühlacker - Industriegebiet"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
