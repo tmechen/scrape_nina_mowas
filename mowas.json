@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-RO-W136-20240920-001",
-    "version": 5,
-    "startDate": "2024-09-20T12:58:37+02:00",
-    "expiresDate": "2024-09-20T18:58:37+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserverunreinigung - Abkochverfügung - Gemeinde Eiselfing"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240920-50-000",
     "version": 5,
     "startDate": "2024-09-20T15:52:17+02:00",
