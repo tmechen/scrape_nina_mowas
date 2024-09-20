@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20240920-35-001",
-    "version": 5,
-    "startDate": "2024-09-20T17:09:23+02:00",
-    "expiresDate": "2024-09-20T23:09:23+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Verunreinigung Trinkwasser durch Schaummittel - Stadt St. Ingbert"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20240920-50-001",
     "version": 5,
     "startDate": "2024-09-20T22:02:57+02:00",
