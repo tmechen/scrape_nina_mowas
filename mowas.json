@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20240920-35-000",
-    "version": 5,
-    "startDate": "2024-09-20T06:47:34+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Verunreinigung Trinkwasser durch Schaummittel - Stadt St. Ingbert"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-RO-W136-20240920-000",
     "version": 5,
     "startDate": "2024-09-20T11:55:38+02:00",
@@ -179,6 +165,21 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Verunreinigung des Trinkwassers durch coliforme Keime - 77876 Kappelrodeck mit Ortsteil Waldulm"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240920-35-001",
+    "version": 5,
+    "startDate": "2024-09-20T17:09:23+02:00",
+    "expiresDate": "2024-09-20T23:09:23+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Verunreinigung Trinkwasser durch Schaummittel - Stadt St. Ingbert"
     },
     "transKeys": {
       "event": "BBK-EVC-069"
