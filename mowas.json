@@ -182,35 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-L-W093-20240919-000",
-    "version": 5,
-    "startDate": "2024-09-19T22:29:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Brandereignis - LK Nordsachsen, Gemeinde Wiedemar, OT Lissa"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BW-PF-W024-20240919-002",
-    "version": 5,
-    "startDate": "2024-09-20T00:00:47+02:00",
-    "expiresDate": "2024-09-20T06:00:47+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Mühlacker - Industriegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-SH-FL-SE100-20240920-100-000",
     "version": 5,
     "startDate": "2024-09-20T03:31:23+02:00",
@@ -223,6 +194,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-SN-L-W093-20240920-000",
+    "version": 5,
+    "startDate": "2024-09-20T05:53:27+02:00",
+    "expiresDate": "2024-09-20T11:53:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Brandereignis - LK Nordsachsen, Gemeinde Wiedemar, OT Lissa"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
