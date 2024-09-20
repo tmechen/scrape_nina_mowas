@@ -168,20 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20240919-35-001",
-    "version": 5,
-    "startDate": "2024-09-19T21:47:49+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Verunreinigung Trinkwasser durch Schaummittel - Stadt St. Ingbert"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-SH-FL-SE100-20240920-100-000",
     "version": 5,
     "startDate": "2024-09-20T03:31:23+02:00",
@@ -209,6 +195,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20240920-35-000",
+    "version": 5,
+    "startDate": "2024-09-20T06:47:34+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Verunreinigung Trinkwasser durch Schaummittel - Stadt St. Ingbert"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
