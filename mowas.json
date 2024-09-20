@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-RO-W136-20240920-000",
-    "version": 5,
-    "startDate": "2024-09-20T11:55:38+02:00",
-    "expiresDate": "2024-09-20T17:55:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wasserrückstau im Kanal - Waldheim und Heufeld"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-DN-SE054-20240920-54-000",
     "version": 5,
     "startDate": "2024-09-20T12:25:35+02:00",
