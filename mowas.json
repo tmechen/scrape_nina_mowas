@@ -110,5 +110,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-HE-OF-W106-20240921-000",
+    "version": 5,
+    "startDate": "2024-09-21T06:32:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahr durch Rauchgase aufgrund eines Großbrandes in Offenbach - Offenbach am Main, Stadtteil OF Ost und Bieber"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
