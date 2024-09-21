@@ -138,5 +138,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BY-FFB-W143-20240921-000",
+    "version": 5,
+    "startDate": "2024-09-21T09:33:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "ÜBUNG Stadtbereich Starnberg ÜBUNG - Stadt Starnberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
