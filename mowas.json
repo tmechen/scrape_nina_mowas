@@ -112,9 +112,23 @@
     }
   },
   {
-    "id": "mow.DE-HE-OF-W106-20240921-001",
+    "id": "mow.DE-HE-GG-W222-20240921-000",
     "version": 5,
-    "startDate": "2024-09-21T07:34:49+02:00",
+    "startDate": "2024-09-21T09:17:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Großbrand in Offenbach am Main - Mörfelden-Walldorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HE-OF-W106-20240921-002",
+    "version": 5,
+    "startDate": "2024-09-21T09:25:56+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
