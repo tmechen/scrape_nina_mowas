@@ -140,21 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-FFB-W143-20240921-001",
-    "version": 5,
-    "startDate": "2024-09-21T12:54:21+02:00",
-    "expiresDate": "2024-09-21T18:54:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: ÜBUNG Stadtbereich Starnberg ÜBUNG - Stadt Starnberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-HE-OF-W106-20240921-004",
     "version": 5,
     "startDate": "2024-09-21T15:02:50+02:00",
