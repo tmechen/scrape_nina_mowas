@@ -110,20 +110,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-HE-OF-W106-20240922-001",
-    "version": 5,
-    "startDate": "2024-09-22T09:45:54+02:00",
-    "expiresDate": "2024-09-22T15:45:54+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahr durch Rauchgase aufgrund eines Brandes in Offenbach Kaiserlei - Offenbach am Main, Stadtteil: Kaiserlei"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
