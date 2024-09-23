@@ -98,14 +98,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20240923-125-000",
+    "id": "mow.DE-RP-MZ-SE114-20240923-125-001",
     "version": 5,
-    "startDate": "2024-09-23T17:51:43+02:00",
+    "startDate": "2024-09-23T21:21:09+02:00",
+    "expiresDate": "2024-09-24T03:21:09+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung durch eine chemische Reaktion - Mainz Gonsenheim"
+      "de": "Entwarnung: Geruchsbelästigung durch eine chemische Reaktion - Mainz Gonsenheim"
     },
     "transKeys": {
       "event": "BBK-EVC-029"
