@@ -140,5 +140,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20240923-143-000",
+    "version": 5,
+    "startDate": "2024-09-23T11:34:46+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großflächiger Stromausfall - Ortslage Friedrichsbrunn und Allrode"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-059"
+    }
   }
 ]
