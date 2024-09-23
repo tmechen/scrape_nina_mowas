@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MK-SE095-20240923-95-000",
-    "version": 5,
-    "startDate": "2024-09-23T06:45:26+02:00",
-    "expiresDate": "2024-09-23T12:45:26+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase - Iserlohn Sümmern / Rombrock"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-UN-SE068-20240923-68-001",
     "version": 5,
     "startDate": "2024-09-23T09:45:30+02:00",
@@ -142,28 +127,30 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20240923-143-000",
+    "id": "mow.DE-ST-MD-SE022-20240923-143-002",
     "version": 5,
-    "startDate": "2024-09-23T11:34:46+02:00",
+    "startDate": "2024-09-23T12:59:03+02:00",
+    "expiresDate": "2024-09-23T18:59:03+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großflächiger Stromausfall - Ortslage Friedrichsbrunn und Allrode"
+      "de": "Entwarnung: Großflächiger Stromausfall - Ortslage Friedrichsbrunn und Allrode"
     },
     "transKeys": {
       "event": "BBK-EVC-059"
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20240923-143-001",
+    "id": "mow.DE-ST-MD-SE022-20240923-143-003",
     "version": 5,
-    "startDate": "2024-09-23T11:43:00+02:00",
+    "startDate": "2024-09-23T13:02:13+02:00",
+    "expiresDate": "2024-09-23T19:02:13+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großflächiger Stromausfall - Ortslage Friedrichsbrunn und Allrode"
+      "de": "Entwarnung: Großflächiger Stromausfall - Ortslage Friedrichsbrunn und Allrode"
     },
     "transKeys": {
       "event": "BBK-EVC-059"
