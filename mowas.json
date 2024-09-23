@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MK-SE095-20240922-95-000",
-    "version": 5,
-    "startDate": "2024-09-23T01:54:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase - Iserlohn Sümmern / Rombrock"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-UN-SE068-20240923-68-000",
     "version": 5,
     "startDate": "2024-09-23T04:21:25+02:00",
@@ -137,6 +123,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MK-SE095-20240923-95-000",
+    "version": 5,
+    "startDate": "2024-09-23T06:45:26+02:00",
+    "expiresDate": "2024-09-23T12:45:26+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase - Iserlohn Sümmern / Rombrock"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
