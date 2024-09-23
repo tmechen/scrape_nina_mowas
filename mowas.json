@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-UN-SE068-20240923-68-001",
-    "version": 5,
-    "startDate": "2024-09-23T09:45:30+02:00",
-    "expiresDate": "2024-09-23T15:45:30+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch ein Brandereignis in Iserlohn  - Fröndenberg, Unna"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20240923-143-002",
     "version": 5,
     "startDate": "2024-09-23T12:59:03+02:00",
