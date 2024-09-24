@@ -96,5 +96,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20240924-143-001",
+    "version": 5,
+    "startDate": "2024-09-25T01:28:57+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Brandrauch - Wasserleben"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
