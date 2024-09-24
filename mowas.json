@@ -128,14 +128,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-KLE-SE058-20240924-58-000",
+    "id": "mow.DE-NW-KLE-SE058-20240924-58-001",
     "version": 5,
-    "startDate": "2024-09-24T13:51:17+02:00",
+    "startDate": "2024-09-24T16:53:52+02:00",
+    "expiresDate": "2024-09-24T22:53:52+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund in Rees Millingen - 46459 Millingen"
+      "de": "Entwarnung: Kampfmittelfund in Rees Millingen - 46459 Millingen"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
