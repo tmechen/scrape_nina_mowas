@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-NMS-SE101-20240924-101-001",
-    "version": 5,
-    "startDate": "2024-09-24T13:27:07+02:00",
-    "expiresDate": "2024-09-24T19:27:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Schadenereignis - Neumünster"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-KLE-SE058-20240924-58-001",
     "version": 5,
     "startDate": "2024-09-24T16:53:52+02:00",
