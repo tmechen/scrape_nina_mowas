@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20240925-19-000",
-    "version": 5,
-    "startDate": "2024-09-25T06:24:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuer in einem Umspannwerk - Bremen - In den Hufen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-SN-L-W093-20240925-000",
     "version": 5,
     "startDate": "2024-09-25T07:38:42+02:00",
@@ -137,6 +123,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20240925-19-001",
+    "version": 5,
+    "startDate": "2024-09-25T08:17:26+02:00",
+    "expiresDate": "2024-09-25T14:17:26+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuer in einem Umspannwerk - Bremen - In den Hufen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
