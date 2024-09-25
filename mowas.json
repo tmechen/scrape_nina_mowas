@@ -140,5 +140,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20240925-000",
+    "version": 5,
+    "startDate": "2024-09-25T11:35:46+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Unterbrechung der Wasserversorgung - Glashütten - Schloßborn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
