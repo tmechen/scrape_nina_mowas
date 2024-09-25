@@ -154,5 +154,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BY-RO-W136-20240925-000",
+    "version": 5,
+    "startDate": "2024-09-25T13:28:55+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Schwefel-Wasserstoff - Stadt Wasserburg am Inn, Gemeinde Eiselfing"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
