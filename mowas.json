@@ -110,5 +110,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20240925-19-000",
+    "version": 5,
+    "startDate": "2024-09-25T06:24:28+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuer in einem Umspannwerk - Bremen - In den Hufen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
