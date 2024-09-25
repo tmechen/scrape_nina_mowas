@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20240925-143-001",
-    "version": 5,
-    "startDate": "2024-09-25T12:11:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brandrauch - Wasserleben"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-RO-W136-20240925-000",
     "version": 5,
     "startDate": "2024-09-25T13:28:55+02:00",
@@ -138,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20240925-143-002",
+    "version": 5,
+    "startDate": "2024-09-25T18:10:42+02:00",
+    "expiresDate": "2024-09-26T00:10:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung:  Geruchsbelästigung durch Brandrauch - Wasserleben"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
