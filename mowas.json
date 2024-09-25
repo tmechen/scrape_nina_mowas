@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20240925-001",
-    "version": 5,
-    "startDate": "2024-09-25T15:36:25+02:00",
-    "expiresDate": "2024-09-25T21:36:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Unterbrechung der Wasserversorgung - Glashütten - Schloßborn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20240925-143-002",
     "version": 5,
     "startDate": "2024-09-25T18:10:42+02:00",
