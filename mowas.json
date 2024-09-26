@@ -124,5 +124,19 @@
     "transKeys": {
       "event": "BBK-EVC-045"
     }
+  },
+  {
+    "id": "mow.DE-RP-KL-SE112-20240926-112-000",
+    "version": 5,
+    "startDate": "2024-09-26T19:34:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bombenfund auf dem ehemaligen Pfaffgelände - Kaiserslautern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
