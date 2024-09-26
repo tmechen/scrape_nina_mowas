@@ -110,5 +110,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-RP-KH-SE111-20240926-114-000",
+    "version": 5,
+    "startDate": "2024-09-26T19:14:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abkochgebot Trinkwasser - 55624 Schwerbach + 55624 Gösenroth"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-045"
+    }
   }
 ]
