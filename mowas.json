@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KH-SE111-20240926-114-000",
-    "version": 5,
-    "startDate": "2024-09-26T19:14:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Abkochgebot Trinkwasser - 55624 Schwerbach + 55624 Gösenroth"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-045"
-    }
-  },
-  {
     "id": "mow.DE-RP-KL-SE112-20240926-112-000",
     "version": 5,
     "startDate": "2024-09-26T19:34:13+02:00",
@@ -137,6 +123,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KH-SE111-20240926-114-001",
+    "version": 5,
+    "startDate": "2024-09-26T19:39:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Abkochgebot Trinkwasser - 55624 Schwerbach + 55624 Gösenroth"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-045"
     }
   }
 ]
