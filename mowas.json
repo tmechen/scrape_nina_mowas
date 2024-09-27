@@ -126,17 +126,46 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20240927-000",
+    "id": "mow.DE-BW-KA-W138-20240927-001",
     "version": 5,
-    "startDate": "2024-09-27T11:10:32+02:00",
+    "startDate": "2024-09-27T11:54:24+02:00",
+    "expiresDate": "2024-09-27T17:54:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Probealarm: Kommunaler Warntag der Gemeinde Malsch - 76316 Malsch"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NW-UN-SE068-20240927-68-000",
+    "version": 5,
+    "startDate": "2024-09-27T12:02:13+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Probealarm: Kommunaler Warntag der Gemeinde Malsch - 76316 Malsch"
+      "de": "Rauchgase - Kamen, Kreis Unna"
     },
     "transKeys": {
-      "event": "BBK-EVC-060"
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NI-CE-W087-20240927-000",
+    "version": 5,
+    "startDate": "2024-09-27T12:12:43+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Übung Wald- und Vegetationsbrand im Bereich der Klosterforst Miele - Stadt Celle, Stadt Bergen, Gemeinde Südheide, Gemeinde Eschede"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
