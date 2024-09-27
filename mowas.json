@@ -124,5 +124,19 @@
     "transKeys": {
       "event": "BBK-EVC-045"
     }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20240927-000",
+    "version": 5,
+    "startDate": "2024-09-27T11:10:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Probealarm: Kommunaler Warntag der Gemeinde Malsch - 76316 Malsch"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
