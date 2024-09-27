@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20240927-001",
-    "version": 5,
-    "startDate": "2024-09-27T11:54:24+02:00",
-    "expiresDate": "2024-09-27T17:54:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm: Kommunaler Warntag der Gemeinde Malsch - 76316 Malsch"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-NW-UN-SE068-20240927-68-000",
     "version": 5,
     "startDate": "2024-09-27T12:02:13+02:00",
