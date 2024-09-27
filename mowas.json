@@ -1,19 +1,5 @@
 [
   {
-    "id": "mow.DE-BY-KRU-W174-20240603-003",
-    "version": 5,
-    "startDate": "2024-06-03T17:46:54+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Abschaltung Trinkwasserversorgung in Leipheim, Abkochgebot nach Wiederanschaltung - Stadt Leipheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-HE-DA-W184-20240723-000",
     "version": 5,
     "startDate": "2024-07-23T14:28:14+02:00",
@@ -155,17 +141,31 @@
     }
   },
   {
-    "id": "mow.DE-NI-CE-W087-20240927-000",
+    "id": "mow.DE-NI-STD-SE029B-20240927-129-000",
     "version": 5,
-    "startDate": "2024-09-27T12:12:43+02:00",
+    "startDate": "2024-09-27T13:10:04+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Übung Wald- und Vegetationsbrand im Bereich der Klosterforst Miele - Stadt Celle, Stadt Bergen, Gemeinde Südheide, Gemeinde Eschede"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20240927-000",
+    "version": 5,
+    "startDate": "2024-09-27T13:10:19+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Aufhebung Abkochgebot Stadt Leipheim, Achtung: Abkochgebot für Ortsteile bleibt - Stadt Leipheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
