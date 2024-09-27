@@ -140,21 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20240927-50-000",
-    "version": 5,
-    "startDate": "2024-09-27T16:22:11+02:00",
-    "expiresDate": "2024-09-27T22:22:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kontamination Trinkwasserüberschr. mit E.Coli, iEnterokokken, Coliform - Wasserverband Beltersrot, Ortsnetz Beltersrot (74635)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NW-UN-SE068-20240927-68-001",
     "version": 5,
     "startDate": "2024-09-27T18:30:21+02:00",
@@ -178,6 +163,20 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Starke Rauchentwicklung durch Brand einer Lagerhalle - Mainz, Hechtsheim Gewerbegebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HE-GG-W222-20240927-000",
+    "version": 5,
+    "startDate": "2024-09-27T22:40:55+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung - Ginsheim-Gustavsburg"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
