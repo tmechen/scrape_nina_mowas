@@ -167,5 +167,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NW-GT-SE040-20240927-40-000",
+    "version": 5,
+    "startDate": "2024-09-27T16:12:08+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vorsorgliche Information für Teilbereiche der Gemeinde Langenberg und Mastholte - Langenberg, Mastholte"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
