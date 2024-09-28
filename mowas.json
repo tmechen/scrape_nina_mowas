@@ -112,36 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GT-SE040-20240928-40-000",
-    "version": 5,
-    "startDate": "2024-09-28T09:12:15+02:00",
-    "expiresDate": "2024-09-28T15:12:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Vorsorgliche Information für Teilbereiche der Gemeinde Langenberg und  - Langenberg, Mastholte"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-RP-MZ-SE114-20240928-125-000",
-    "version": 5,
-    "startDate": "2024-09-28T09:13:06+02:00",
-    "expiresDate": "2024-09-28T15:13:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Entwarnung vor starker Rauchentwicklung - Mainz, Hechtsheim Gewerbegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-KA-W138-20240928-001",
     "version": 5,
     "startDate": "2024-09-28T11:06:34+02:00",
