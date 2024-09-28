@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-GG-W222-20240928-001",
-    "version": 5,
-    "startDate": "2024-09-28T08:20:31+02:00",
-    "expiresDate": "2024-09-28T14:20:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Ginsheim-Gustavsburg, Gemeinde Trebur, Gemeinde Nauheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20240928-29-000",
     "version": 5,
     "startDate": "2024-09-28T09:02:03+02:00",
