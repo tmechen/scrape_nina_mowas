@@ -140,20 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-GG-W222-20240927-000",
-    "version": 5,
-    "startDate": "2024-09-27T22:40:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung - Ginsheim-Gustavsburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20240927-125-001",
     "version": 5,
     "startDate": "2024-09-28T00:35:41+02:00",
@@ -162,6 +148,20 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Starke Rauchentwicklung durch Brand einer Lagerhalle - Mainz, Hechtsheim Gewerbegebiet"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HE-GG-W222-20240928-000",
+    "version": 5,
+    "startDate": "2024-09-28T02:34:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung - Ginsheim-Gustavsburg, Gemeinde Trebur, Gemeinde Nauheim"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
