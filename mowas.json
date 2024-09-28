@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20240928-129-000",
-    "version": 5,
-    "startDate": "2024-09-28T13:31:55+02:00",
-    "expiresDate": "2024-09-28T19:31:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Übung Wald- und Vegetationsbrand im Bereich der Klosterforst Miele - Stadt Celle, Stadt Bergen, Gemeinde Südheide, Gemeinde Eschede"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20240928-29-001",
     "version": 5,
     "startDate": "2024-09-28T14:42:32+02:00",
