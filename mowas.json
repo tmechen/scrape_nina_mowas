@@ -183,5 +183,20 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20240928-001",
+    "version": 5,
+    "startDate": "2024-09-28T11:06:34+02:00",
+    "expiresDate": "2024-09-28T17:06:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Probealarm Sirenen Gemeinde Rheinstetten - Rheinstetten"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
