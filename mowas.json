@@ -125,5 +125,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-BY-M-SE125-20240929-153-000",
+    "version": 5,
+    "startDate": "2024-09-29T19:16:40+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sperrung S-Bahn Stammstrecke München DB - München und Landkreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-075"
+    }
   }
 ]
