@@ -127,12 +127,12 @@
     }
   },
   {
-    "id": "mow.DE-BY-M-SE125-20240929-153-000",
+    "id": "mow.DE-BY-M-SE125-20240929-153-001",
     "version": 5,
-    "startDate": "2024-09-29T19:16:40+02:00",
+    "startDate": "2024-09-29T21:02:57+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Sperrung S-Bahn Stammstrecke München DB - München und Landkreis"
     },
