@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DN-SE054-20240930-54-000",
-    "version": 5,
-    "startDate": "2024-09-30T13:37:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfung in Hürtgenwald Ortsteil Gey - hürtgenwald / Gey"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-RE-SE078-20240930-78-000",
     "version": 5,
     "startDate": "2024-09-30T13:44:31+02:00",
@@ -134,6 +120,21 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "1.2 Bombenfund Warnung  - Haltern"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20240930-54-001",
+    "version": 5,
+    "startDate": "2024-09-30T14:44:21+02:00",
+    "expiresDate": "2024-09-30T20:44:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfung in Hürtgenwald Ortsteil Gey - hürtgenwald / Gey"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
