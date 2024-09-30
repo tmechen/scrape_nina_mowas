@@ -142,14 +142,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20240930-28-000",
+    "id": "mow.DE-SH-EH-SE028-20240930-28-001",
     "version": 5,
-    "startDate": "2024-09-30T17:10:25+02:00",
+    "startDate": "2024-09-30T18:12:24+02:00",
+    "expiresDate": "2024-10-01T00:12:24+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Kellinghusen"
+      "de": "Entwarnung: Feuerwehreinsatz - Kellinghusen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
