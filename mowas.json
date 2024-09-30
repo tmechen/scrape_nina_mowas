@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-M-SE125-20240929-153-001",
-    "version": 5,
-    "startDate": "2024-09-29T21:02:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Sperrung S-Bahn Stammstrecke München DB - München und Landkreis"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-075"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20240929-28-001",
     "version": 5,
     "startDate": "2024-09-29T23:19:20+02:00",
@@ -138,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BY-M-SE125-20240930-153-000",
+    "version": 5,
+    "startDate": "2024-09-30T02:29:03+02:00",
+    "expiresDate": "2024-09-30T08:29:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sperrung S-Bahn Stammstrecke München DB - München und Landkreis"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-075"
     }
   }
 ]
