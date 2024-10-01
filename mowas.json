@@ -111,5 +111,33 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20241001-31-000",
+    "version": 5,
+    "startDate": "2024-10-01T12:48:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bombenfund - Köln-Eil"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20241001-67-000",
+    "version": 5,
+    "startDate": "2024-10-01T13:02:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund - Kirchderne"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
