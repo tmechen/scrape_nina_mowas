@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-RO-W136-20241001-000",
-    "version": 5,
-    "startDate": "2024-10-01T07:37:49+02:00",
-    "expiresDate": "2024-10-01T13:37:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Schwefel-Wasserstoff - Stadt Wasserburg am Inn, Gemeinde Eiselfing"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20241001-31-000",
     "version": 5,
     "startDate": "2024-10-01T12:48:02+02:00",
@@ -138,6 +123,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20241001-33-001",
+    "version": 5,
+    "startDate": "2024-10-01T14:27:23+02:00",
+    "expiresDate": "2024-10-01T20:27:23+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Hamburg-Bramfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
