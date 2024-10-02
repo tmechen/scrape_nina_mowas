@@ -111,5 +111,19 @@
     "transKeys": {
       "event": "BBK-EVC-027"
     }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20241002-82-000",
+    "version": 5,
+    "startDate": "2024-10-02T12:47:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand in der Ortsmitte von Rathenow - Rathenow"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
