@@ -96,5 +96,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20241002-84-000",
+    "version": 5,
+    "startDate": "2024-10-02T10:41:13+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gasaustritt - Bad Kötzting"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
