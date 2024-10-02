@@ -126,5 +126,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-DU-SE038-20241002-38-000",
+    "version": 5,
+    "startDate": "2024-10-02T15:22:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Wichtige Information der Stadt Duisburg (Kampfmittelfund) - Duisburg-Aldenrade/Fahrn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
