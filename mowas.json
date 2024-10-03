@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-SE017-20241003-17-001",
-    "version": 5,
-    "startDate": "2024-10-03T13:48:35+02:00",
-    "expiresDate": "2024-10-03T19:48:35+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Auftretende Geruchsbelästigung - 13727 Berlin Charlottenburg/Nord"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NI-WTM-W213-20241003-001",
     "version": 5,
     "startDate": "2024-10-03T17:47:57+02:00",
