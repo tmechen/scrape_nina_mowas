@@ -96,5 +96,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BR-B-SE017-20241003-17-000",
+    "version": 5,
+    "startDate": "2024-10-03T07:09:26+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Auftretende Geruchsbelästigung - 13727 Berlin Charlottenburg/Nord"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
