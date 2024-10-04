@@ -113,14 +113,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-GM-SE088-20241004-88-000",
+    "id": "mow.DE-NW-GM-SE088-20241004-88-001",
     "version": 5,
-    "startDate": "2024-10-04T07:24:59+02:00",
+    "startDate": "2024-10-04T10:41:10+02:00",
+    "expiresDate": "2024-10-04T16:41:10+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausbreitung von Rauchgasen - Wiehl Drabenderhöhe / Wiehl Brächen"
+      "de": "Entwarnung: Ausbreitung von Rauchgasen - Wiehl Drabenderhöhe / Wiehl Brächen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
