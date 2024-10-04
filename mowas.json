@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-GG-W222-20241004-001",
-    "version": 5,
-    "startDate": "2024-10-04T13:19:11+02:00",
-    "expiresDate": "2024-10-04T19:19:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Störung der Gasversorgung aufgrund einer Leckage - Mörfelden-Walldorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-003"
-    }
-  },
-  {
     "id": "mow.DE-SH-HL-SE103-20241004-103-000",
     "version": 5,
     "startDate": "2024-10-04T15:52:45+02:00",
@@ -127,14 +112,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20241004-4-001",
+    "id": "mow.DE-RP-TR-SE004-20241004-4-002",
     "version": 5,
-    "startDate": "2024-10-04T17:23:49+02:00",
+    "startDate": "2024-10-04T19:22:22+02:00",
+    "expiresDate": "2024-10-05T01:22:22+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Gebäudebrand - Traben-Trarbach"
+      "de": "Entwarnung: Rauchentwicklung durch Gebäudebrand - Traben-Trarbach"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
