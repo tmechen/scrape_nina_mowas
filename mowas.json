@@ -111,5 +111,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-HE-GG-W222-20241004-000",
+    "version": 5,
+    "startDate": "2024-10-04T12:35:48+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Störung der Gasversorgung aufgrund einer Leckage - Mörfelden-Walldorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-003"
+    }
   }
 ]
