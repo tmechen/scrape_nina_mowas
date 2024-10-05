@@ -98,36 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20241005-001",
-    "version": 5,
-    "startDate": "2024-10-05T11:39:58+02:00",
-    "expiresDate": "2024-10-05T17:39:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm Feuerwehr Landkreis Neuburg - Schrobenhausen - Neuburg-Schrobenhausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RA-W025-20241005-003",
-    "version": 5,
-    "startDate": "2024-10-05T12:04:24+02:00",
-    "expiresDate": "2024-10-05T18:04:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenen-Probealarm - Loffenau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-NI-HM-W214-20241005-001",
     "version": 5,
     "startDate": "2024-10-05T12:12:30+02:00",
