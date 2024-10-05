@@ -98,14 +98,29 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20241005-33-000",
+    "id": "mow.DE-MV-SN-SE049-20241005-49-000",
     "version": 5,
-    "startDate": "2024-10-05T19:27:33+02:00",
+    "startDate": "2024-10-06T00:18:46+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Hamburg-Finkenwerder"
+      "de": "Starke Rauchentwicklung  - Hagenow"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20241005-33-001",
+    "version": 5,
+    "startDate": "2024-10-06T00:29:39+02:00",
+    "expiresDate": "2024-10-06T06:29:39+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Hamburg-Finkenwerder"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
