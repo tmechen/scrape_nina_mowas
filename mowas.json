@@ -96,5 +96,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20241005-33-000",
+    "version": 5,
+    "startDate": "2024-10-05T19:27:33+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Hamburg-Finkenwerder"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
