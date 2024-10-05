@@ -96,20 +96,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-NI-HM-W214-20241005-001",
-    "version": 5,
-    "startDate": "2024-10-05T12:12:30+02:00",
-    "expiresDate": "2024-10-05T18:12:30+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kreisweiter Warntag - Landkreis Hameln-Pyrmont"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
   }
 ]
