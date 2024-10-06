@@ -139,5 +139,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20241006-33-000",
+    "version": 5,
+    "startDate": "2024-10-06T11:43:44+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Großbrand - Hamburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
