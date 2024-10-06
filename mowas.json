@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE049-20241006-49-000",
-    "version": 5,
-    "startDate": "2024-10-06T02:42:35+02:00",
-    "expiresDate": "2024-10-06T08:42:35+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung  - Hagenow"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE049-20241006-49-001",
     "version": 5,
     "startDate": "2024-10-06T06:48:47+02:00",
