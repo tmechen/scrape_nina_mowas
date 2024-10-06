@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-HGW-W005-20241006-000",
-    "version": 5,
-    "startDate": "2024-10-06T07:27:45+02:00",
-    "expiresDate": "2024-10-06T13:27:45+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: FEUERWEHREINSATZ - Torgelow"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-COE-SE051-20241006-124-001",
     "version": 5,
     "startDate": "2024-10-06T08:18:15+02:00",
