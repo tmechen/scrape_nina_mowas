@@ -113,20 +113,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-COE-SE051-20241006-124-000",
-    "version": 5,
-    "startDate": "2024-10-06T05:34:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase in Dülmen - Dülmen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE049-20241006-49-001",
     "version": 5,
     "startDate": "2024-10-06T06:48:47+02:00",
@@ -153,6 +139,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-COE-SE051-20241006-124-001",
+    "version": 5,
+    "startDate": "2024-10-06T08:18:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchgase in Dülmen - Dülmen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
