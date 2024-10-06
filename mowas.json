@@ -140,5 +140,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-COE-SE051-20241006-124-000",
+    "version": 5,
+    "startDate": "2024-10-06T05:34:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Dülmen - Dülmen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
