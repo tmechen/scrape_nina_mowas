@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GT-SE040-20241007-40-000",
-    "version": 5,
-    "startDate": "2024-10-07T06:29:35+02:00",
-    "expiresDate": "2024-10-07T12:29:35+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brand eines Gebäudes - Steinhagen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE049-20241007-49-000",
     "version": 5,
     "startDate": "2024-10-07T11:38:56+02:00",
@@ -121,6 +106,20 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Geruchsbelästigung durch Brandgase - Zülow"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-PF-W024-20241007-000",
+    "version": 5,
+    "startDate": "2024-10-07T12:25:39+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung in Enzberg - Enzberg"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
