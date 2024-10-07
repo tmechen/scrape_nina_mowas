@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20241007-000",
-    "version": 5,
-    "startDate": "2024-10-07T19:36:36+02:00",
-    "expiresDate": "2024-10-08T01:36:36+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Abkochgebot Trinkwasser im Versorgungsbereich der Eichstätter Berggrup - Trinkwasserversorgungsbereich Eichstätter Berggruppe"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NW-LIP-SE041-20241007-41-001",
     "version": 5,
     "startDate": "2024-10-07T22:37:31+02:00",
