@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE049-20241007-49-000",
-    "version": 5,
-    "startDate": "2024-10-07T11:38:56+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brandgase - Zülow"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-PF-W024-20241007-001",
     "version": 5,
     "startDate": "2024-10-07T14:45:41+02:00",
@@ -138,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-006"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE049-20241007-49-001",
+    "version": 5,
+    "startDate": "2024-10-07T18:56:41+02:00",
+    "expiresDate": "2024-10-08T00:56:41+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brandgase - Zülow"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
