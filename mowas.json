@@ -84,14 +84,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-GM-SE088-20241007-88-000",
+    "id": "mow.DE-NW-GM-SE088-20241008-88-000",
     "version": 5,
-    "startDate": "2024-10-07T16:23:43+02:00",
+    "startDate": "2024-10-08T06:30:30+02:00",
+    "expiresDate": "2024-10-08T12:30:30+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Festnetztelefonie - Stadt Radevormwald"
+      "de": "Entwarnung: Ausfall Festnetztelefonie - Stadt Radevormwald"
     },
     "transKeys": {
       "event": "BBK-EVC-006"
