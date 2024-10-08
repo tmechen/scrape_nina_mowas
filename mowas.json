@@ -99,14 +99,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-WUE-W164-20241008-000",
+    "id": "mow.DE-BY-WUE-W164-20241008-001",
     "version": 5,
-    "startDate": "2024-10-08T09:28:44+02:00",
+    "startDate": "2024-10-08T11:19:45+02:00",
+    "expiresDate": "2024-10-08T17:19:45+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Erhebliche Rauchentwicklung durch Brand in der Innenstadt von Marktheidenfeld - Marktheidenfeld"
+      "de": "Entwarnung: Erhebliche Rauchentwicklung durch Brand in der Innenstadt von Markthei - Marktheidenfeld"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
