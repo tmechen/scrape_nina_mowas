@@ -96,20 +96,5 @@
     "transKeys": {
       "event": "BBK-EVC-006"
     }
-  },
-  {
-    "id": "mow.DE-NW-LIP-SE041-20241007-41-001",
-    "version": 5,
-    "startDate": "2024-10-07T22:37:31+02:00",
-    "expiresDate": "2024-10-08T04:37:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch ein Brand im Stadtgebiet - Augustdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
