@@ -99,20 +99,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20241010-000",
-    "version": 5,
-    "startDate": "2024-10-10T10:25:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Freisetzung einer Rauchwolke durch Brand - Gemeinde Walzbachtal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20241010-50-000",
     "version": 5,
     "startDate": "2024-10-10T12:13:44+02:00",
@@ -138,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20241010-001",
+    "version": 5,
+    "startDate": "2024-10-10T13:36:59+02:00",
+    "expiresDate": "2024-10-10T19:36:59+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Freisetzung einer Rauchwolke durch Brand - Gemeinde Walzbachtal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
