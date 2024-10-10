@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-HN-W045-20241010-001",
-    "version": 5,
-    "startDate": "2024-10-10T14:37:45+02:00",
-    "expiresDate": "2024-10-10T20:37:45+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Chlor in Gundelsheim - Gundelsheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-M-SE010-20241010-10-001",
     "version": 5,
     "startDate": "2024-10-10T18:25:10+02:00",
