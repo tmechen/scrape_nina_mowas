@@ -111,5 +111,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20241010-50-000",
+    "version": 5,
+    "startDate": "2024-10-10T12:13:44+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasserverunreinigung in Teilen von Esslingen - Esslingen Stadtteile Liebersbronn und Wilfingshausen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
