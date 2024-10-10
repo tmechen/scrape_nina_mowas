@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-M-SE010-20241010-10-001",
-    "version": 5,
-    "startDate": "2024-10-10T18:25:10+02:00",
-    "expiresDate": "2024-10-11T00:25:10+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefährdung auf Grund eines Bombenfunds - Stadt Regensburg Burgweinting"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NW-RE-SE078-20241010-78-001",
     "version": 5,
     "startDate": "2024-10-10T22:23:12+02:00",
