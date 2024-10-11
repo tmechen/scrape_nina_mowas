@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20241011-31-000",
-    "version": 5,
-    "startDate": "2024-10-11T08:56:34+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bombenfund - Köln- Merheim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-BY-TS-W135-20241011-001",
     "version": 5,
     "startDate": "2024-10-11T14:55:26+02:00",
@@ -138,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20241011-31-001",
+    "version": 5,
+    "startDate": "2024-10-11T18:13:29+02:00",
+    "expiresDate": "2024-10-12T00:13:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenfund - Köln- Merheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
