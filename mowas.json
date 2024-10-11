@@ -127,14 +127,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-FR-W022-20241011-000",
+    "id": "mow.DE-BW-FR-W022-20241011-001",
     "version": 5,
-    "startDate": "2024-10-11T15:23:17+02:00",
+    "startDate": "2024-10-11T16:50:09+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Trinkwasserverschmutzung - Teile der Stadt Freiburg und des Landkreis Breisgau Hochschwarzwald"
+      "de": "Update: Trinkwasser wird gechlort und muss abgekocht werden - Teile der Stadt Freiburg und des Landkreis Breisgau Hochschwarzwald"
     },
     "transKeys": {
       "event": "BBK-EVC-069"
