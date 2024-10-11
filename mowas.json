@@ -112,14 +112,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20241011-000",
+    "id": "mow.DE-BY-TS-W135-20241011-001",
     "version": 5,
-    "startDate": "2024-10-11T11:28:47+02:00",
+    "startDate": "2024-10-11T14:55:26+02:00",
+    "expiresDate": "2024-10-11T20:55:26+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stadtgebiet Trostberg - Warnung der Bevölkerung - Trostberg"
+      "de": "Entwarnung: Stadtgebiet Trostberg - Aufhebung der Warnung ! - Trostberg"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
