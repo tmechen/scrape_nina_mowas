@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20241012-33-000",
-    "version": 5,
-    "startDate": "2024-10-12T20:04:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "500 kg-Bombe gefunden - Hamburg-Sternschanze"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NW-RE-SE078-20241012-78-001",
     "version": 5,
     "startDate": "2024-10-12T22:28:40+02:00",
@@ -138,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20241012-33-001",
+    "version": 5,
+    "startDate": "2024-10-13T00:15:42+02:00",
+    "expiresDate": "2024-10-13T06:15:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: 500 kg-Bombe gefunden - Hamburg-Sternschanze"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
