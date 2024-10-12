@@ -141,20 +141,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-NB-W076-20241012-000",
-    "version": 5,
-    "startDate": "2024-10-12T10:54:17+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Evakuierungsmeldung Ortslage Granzin - Granzin(Kratzeburg)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-NW-UN-SE068-20241012-68-002",
     "version": 5,
     "startDate": "2024-10-12T11:01:40+02:00",
@@ -167,6 +153,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-MV-NB-W076-20241012-001",
+    "version": 5,
+    "startDate": "2024-10-12T11:27:54+02:00",
+    "expiresDate": "2024-10-12T17:27:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Evakuierungsmeldung Ortslage Granzin - Granzin(Kratzeburg)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
     }
   }
 ]
