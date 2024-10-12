@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KL-SE112-20241011-112-001",
-    "version": 5,
-    "startDate": "2024-10-11T23:04:25+02:00",
-    "expiresDate": "2024-10-12T05:04:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz / Brand in / im Donnersbergkreis, 67813 St. Alban - St. Alban und Gerbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-TUE-W126-20241012-000",
     "version": 5,
     "startDate": "2024-10-12T04:29:32+02:00",
