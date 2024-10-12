@@ -140,5 +140,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20241012-33-000",
+    "version": 5,
+    "startDate": "2024-10-12T20:04:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "500 kg-Bombe gefunden - Hamburg-Sternschanze"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
