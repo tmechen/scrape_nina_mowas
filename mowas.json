@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-TUE-W126-20241012-002",
-    "version": 5,
-    "startDate": "2024-10-12T08:40:16+02:00",
-    "expiresDate": "2024-10-12T14:40:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase durch Großbrand  - Entringen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-UN-SE068-20241012-68-002",
     "version": 5,
     "startDate": "2024-10-12T11:01:40+02:00",
@@ -171,14 +156,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20241012-99-001",
+    "id": "mow.DE-SH-KI-SE099-20241012-99-002",
     "version": 5,
-    "startDate": "2024-10-12T14:27:37+02:00",
+    "startDate": "2024-10-12T14:46:26+02:00",
+    "expiresDate": "2024-10-12T20:46:26+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gefahreninformation Feuerwehreinsatz - Stadt Büdelsdorf"
+      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Stadt Büdelsdorf"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
