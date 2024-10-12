@@ -112,12 +112,12 @@
     }
   },
   {
-    "id": "mow.DE-BW-TUE-W126-20241012-000",
+    "id": "mow.DE-BW-TUE-W126-20241012-001",
     "version": 5,
-    "startDate": "2024-10-12T04:29:32+02:00",
+    "startDate": "2024-10-12T05:30:15+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Rauchgase durch Großbrand  - Entringen"
     },
