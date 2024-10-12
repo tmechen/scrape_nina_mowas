@@ -124,5 +124,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-NW-UN-SE068-20241012-68-001",
+    "version": 5,
+    "startDate": "2024-10-12T06:34:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Kampfmittelfund - Lünen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
