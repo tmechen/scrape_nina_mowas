@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-RE-SE078-20241012-78-001",
-    "version": 5,
-    "startDate": "2024-10-12T22:28:40+02:00",
-    "expiresDate": "2024-10-13T04:28:40+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 1.1 Standard Warnung   - Recklinghausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20241012-33-001",
     "version": 5,
     "startDate": "2024-10-13T00:15:42+02:00",
@@ -139,6 +124,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-NI-WTM-W213-20241013-000",
+    "version": 5,
+    "startDate": "2024-10-13T04:22:44+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung Großbrand - 26529 Upgant Schott / Siegelsum"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
