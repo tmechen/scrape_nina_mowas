@@ -139,5 +139,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20241013-28-000",
+    "version": 5,
+    "startDate": "2024-10-13T22:15:45+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Henstedt-Ulzburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
