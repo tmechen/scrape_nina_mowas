@@ -110,20 +110,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-NI-WTM-W213-20241013-001",
-    "version": 5,
-    "startDate": "2024-10-13T06:28:04+02:00",
-    "expiresDate": "2024-10-13T12:28:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung Großbrand - 26529 Upgant Schott / Siegelsum"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
