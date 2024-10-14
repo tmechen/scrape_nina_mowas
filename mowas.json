@@ -124,20 +124,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20241013-28-001",
-    "version": 5,
-    "startDate": "2024-10-14T00:48:51+02:00",
-    "expiresDate": "2024-10-14T06:48:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Henstedt-Ulzburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
