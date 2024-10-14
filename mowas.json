@@ -142,14 +142,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-FD-W183-20241014-000",
+    "id": "mow.DE-HE-FD-W183-20241014-001",
     "version": 5,
-    "startDate": "2024-10-14T20:48:34+02:00",
+    "startDate": "2024-10-14T21:56:36+02:00",
+    "expiresDate": "2024-10-15T03:56:36+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Stromversorgung im Innenstadtgebiet Fulda - Fulda"
+      "de": "Entwarnung: Ausfall Stromversorgung im Innenstadtgebiet Fulda - Fulda"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
