@@ -138,5 +138,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BY-HO-W142-20241014-000",
+    "version": 5,
+    "startDate": "2024-10-14T10:23:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Probealarmierung - Stadt Marktredwitz und Ortsteile"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
