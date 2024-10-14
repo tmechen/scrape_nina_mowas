@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-LRO-W007-20241014-001",
-    "version": 5,
-    "startDate": "2024-10-14T14:45:08+02:00",
-    "expiresDate": "2024-10-14T20:45:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Entwarung - Teschow"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20241014-50-000",
     "version": 5,
     "startDate": "2024-10-14T18:32:38+02:00",
