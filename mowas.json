@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-NOM-W210-20241015-000",
-    "version": 5,
-    "startDate": "2024-10-15T09:42:32+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase in Naensen - Naensen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20241015-106-000",
     "version": 5,
     "startDate": "2024-10-15T11:04:57+02:00",
@@ -153,6 +139,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NI-NOM-W210-20241015-001",
+    "version": 5,
+    "startDate": "2024-10-15T13:17:01+02:00",
+    "expiresDate": "2024-10-15T19:17:01+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase in Naensen - Naensen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
