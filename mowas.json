@@ -127,20 +127,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-HIG-W111-20241015-000",
-    "version": 5,
-    "startDate": "2024-10-15T21:11:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausbreitung von Brandrauch - Dingelstädt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20241015-143-002",
     "version": 5,
     "startDate": "2024-10-15T21:38:28+02:00",
@@ -167,6 +153,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-TH-HIG-W111-20241015-001",
+    "version": 5,
+    "startDate": "2024-10-16T00:02:13+02:00",
+    "expiresDate": "2024-10-16T06:02:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausbreitung von Brandrauch - Dingelstädt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
