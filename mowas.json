@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20241016-001",
-    "version": 5,
-    "startDate": "2024-10-16T17:36:11+02:00",
-    "expiresDate": "2024-10-16T23:36:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand in Eberbach Stadt - Eberbach Stadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-DO-SE067-20241016-67-001",
     "version": 5,
     "startDate": "2024-10-16T18:54:10+02:00",
