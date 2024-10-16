@@ -139,5 +139,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20241016-000",
+    "version": 5,
+    "startDate": "2024-10-16T10:46:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand in Eberbach Stadt - Eberbach Stadt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
