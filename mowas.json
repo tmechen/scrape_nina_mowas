@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-F-SE119-20241015-128-002",
-    "version": 5,
-    "startDate": "2024-10-16T00:32:37+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brandereignis  - Frankfurt, Offenbach, Bereiche der Landkreise MTK, GG und HG"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BB-CB-SE036-20241016-36-000",
     "version": 5,
     "startDate": "2024-10-16T04:14:38+02:00",
@@ -134,6 +120,21 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "starke Rauchentwicklung in folge Dachstuhlbrand  - Welzow"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HE-F-SE119-20241016-128-000",
+    "version": 5,
+    "startDate": "2024-10-16T08:24:00+02:00",
+    "expiresDate": "2024-10-16T14:24:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brandereignis  - Frankfurt, Offenbach, Bereiche der Landkreise MTK, GG und HG"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
