@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20241016-36-001",
-    "version": 5,
-    "startDate": "2024-10-16T11:55:07+02:00",
-    "expiresDate": "2024-10-16T17:55:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnmeldung wird hiermit aufgehoben. - Welzow"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-DO-SE067-20241016-67-000",
     "version": 5,
     "startDate": "2024-10-16T16:32:54+02:00",
