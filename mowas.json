@@ -140,17 +140,17 @@
     }
   },
   {
-    "id": "mow.DE-NW-WES-SE097-20241016-97-000",
+    "id": "mow.DE-NW-WES-SE097-20241017-97-000",
     "version": 5,
-    "startDate": "2024-10-17T01:51:05+02:00",
+    "startDate": "2024-10-17T04:52:25+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Geruchsbelästigung in Hünxe  - Hünxe Drevenack"
     },
     "transKeys": {
-      "event": "BBK-EVC-010"
+      "event": "BBK-EVC-078"
     }
   }
 ]
