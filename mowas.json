@@ -142,20 +142,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20241017-82-000",
-    "version": 5,
-    "startDate": "2024-10-17T18:13:40+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brandgase -  Mögelin und Rathenow Süd"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-WES-SE097-20241017-97-001",
     "version": 5,
     "startDate": "2024-10-17T19:07:20+02:00",
@@ -196,6 +182,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-012"
+    }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20241017-82-001",
+    "version": 5,
+    "startDate": "2024-10-17T20:12:13+02:00",
+    "expiresDate": "2024-10-18T02:12:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brandgase -  Mögelin und Rathenow Süd"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
