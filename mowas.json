@@ -169,5 +169,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20241017-82-000",
+    "version": 5,
+    "startDate": "2024-10-17T18:13:40+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Brandgase -  Mögelin und Rathenow Süd"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
