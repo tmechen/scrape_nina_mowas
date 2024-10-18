@@ -82,5 +82,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20241018-129-000",
+    "version": 5,
+    "startDate": "2024-10-19T00:11:45+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Großbrand - Starke Rauchentwicklung - Ortschaften Oker und Harlingerode"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
