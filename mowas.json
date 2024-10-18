@@ -82,20 +82,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-BW-BB-W125-20241018-001",
-    "version": 5,
-    "startDate": "2024-10-18T15:30:11+02:00",
-    "expiresDate": "2024-10-18T21:30:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Herrenberg-Gültstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
