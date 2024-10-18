@@ -111,5 +111,19 @@
     "transKeys": {
       "event": "BBK-EVC-012"
     }
+  },
+  {
+    "id": "mow.DE-BW-BB-W125-20241018-000",
+    "version": 5,
+    "startDate": "2024-10-18T04:47:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Herrenberg-Gültstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
