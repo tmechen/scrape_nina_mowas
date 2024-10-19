@@ -82,5 +82,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20241019-50-000",
+    "version": 5,
+    "startDate": "2024-10-19T19:55:17+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand eines landwirtschaftliches Anwesens - 74930 Ittlingen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
