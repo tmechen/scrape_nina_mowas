@@ -84,14 +84,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20241018-129-000",
+    "id": "mow.DE-NI-STD-SE029B-20241019-129-000",
     "version": 5,
-    "startDate": "2024-10-19T00:11:45+02:00",
-    "severity": "Severe",
+    "startDate": "2024-10-19T03:18:17+02:00",
+    "expiresDate": "2024-10-19T09:18:17+02:00",
+    "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand - Starke Rauchentwicklung - Ortschaften Oker und Harlingerode"
+      "de": "Entwarnung: Rauchentwicklung durch Industriebrand - Jürgenohl, Ohlhof, Oker und Harlingerode"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
