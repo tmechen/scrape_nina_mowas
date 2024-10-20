@@ -84,14 +84,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-AN-W166-20241020-000",
+    "id": "mow.DE-BY-AN-W166-20241020-001",
     "version": 5,
-    "startDate": "2024-10-20T17:33:34+02:00",
+    "startDate": "2024-10-20T20:14:15+02:00",
+    "expiresDate": "2024-10-21T02:14:15+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand zweier Lagerhallen bei Fa. Electrolux - Rothenburg ob der Tauber"
+      "de": "Entwarnung: Großbrand zweier Lagerhallen bei Fa. Electrolux - Rothenburg ob der Tauber"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
