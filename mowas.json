@@ -82,5 +82,19 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-SH-NMS-SE101-20241021-101-000",
+    "version": 5,
+    "startDate": "2024-10-21T16:18:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "starke Rauchentwicklung durch ein Feuer - Neumünster, Ortsteil Wittorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
