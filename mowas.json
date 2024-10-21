@@ -97,5 +97,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20241021-50-000",
+    "version": 5,
+    "startDate": "2024-10-21T18:07:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kontamination mit E.Coli, iEnterokokken, Coliformen Keimen - Wassergemeinschaft Grünbühl, Ortsnetz Grünbühl (74632)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
