@@ -84,21 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-NMS-SE101-20241021-101-001",
-    "version": 5,
-    "startDate": "2024-10-21T17:07:21+02:00",
-    "expiresDate": "2024-10-21T23:07:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung durch ein Feuer - Neumünster, Ortsteil Wittorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20241021-50-000",
     "version": 5,
     "startDate": "2024-10-21T18:07:14+02:00",
