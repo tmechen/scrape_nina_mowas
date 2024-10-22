@@ -96,5 +96,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NW-WES-SE097-20241022-97-000",
+    "version": 5,
+    "startDate": "2024-10-22T12:49:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Rheinberg - Rheinberg Bereich Bendstege"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
