@@ -98,34 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-WES-SE097-20241022-97-000",
-    "version": 5,
-    "startDate": "2024-10-22T12:49:01+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Rheinberg - Rheinberg Bereich Bendstege"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
-    "id": "mow.DE-NI-SZ-W179-20241022-000",
-    "version": 5,
-    "startDate": "2024-10-22T16:34:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund - A 39 AS Watenstedt / Industriestraße Mitte"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-UN-SE068-20241022-68-000",
     "version": 5,
     "startDate": "2024-10-22T16:37:41+02:00",
@@ -137,6 +109,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-WES-SE097-20241022-97-001",
+    "version": 5,
+    "startDate": "2024-10-22T18:26:52+02:00",
+    "expiresDate": "2024-10-23T00:26:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Rheinberg - Rheinberg Bereich Bendstege"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-NI-SZ-W179-20241022-001",
+    "version": 5,
+    "startDate": "2024-10-22T18:35:14+02:00",
+    "expiresDate": "2024-10-23T00:35:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund - A 39 AS Watenstedt / Industriestraße Mitte"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
