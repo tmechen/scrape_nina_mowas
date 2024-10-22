@@ -110,5 +110,19 @@
     "transKeys": {
       "event": "BBK-EVC-009"
     }
+  },
+  {
+    "id": "mow.DE-NI-SZ-W179-20241022-000",
+    "version": 5,
+    "startDate": "2024-10-22T16:34:41+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund - A 39 AS Watenstedt / Industriestraße Mitte"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
