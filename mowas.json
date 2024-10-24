@@ -113,12 +113,12 @@
     }
   },
   {
-    "id": "mow.DE-NW-LEV-SE046-20241024-46-000",
+    "id": "mow.DE-NW-LEV-SE046-20241024-46-001",
     "version": 5,
-    "startDate": "2024-10-24T15:00:17+02:00",
-    "severity": "Minor",
+    "startDate": "2024-10-24T16:02:13+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Rauchwolke durch Großbrand  - Leverkusen"
     },
