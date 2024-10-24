@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20241024-28-001",
-    "version": 5,
-    "startDate": "2024-10-24T12:24:21+02:00",
-    "expiresDate": "2024-10-24T18:24:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Wensin-Garbek"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-NW-LEV-SE046-20241024-46-001",
     "version": 5,
     "startDate": "2024-10-24T16:02:13+02:00",
