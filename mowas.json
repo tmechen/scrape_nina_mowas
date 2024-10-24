@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-LEV-SE046-20241024-46-001",
-    "version": 5,
-    "startDate": "2024-10-24T16:02:13+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchwolke durch Großbrand  - Leverkusen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20241024-31-000",
     "version": 5,
     "startDate": "2024-10-24T16:39:42+02:00",
@@ -155,17 +141,33 @@
     }
   },
   {
-    "id": "mow.DE-NI-NOM-W210-20241024-000",
+    "id": "mow.DE-NI-NOM-W210-20241024-001",
     "version": 5,
-    "startDate": "2024-10-24T20:12:55+02:00",
+    "startDate": "2024-10-24T20:55:51+02:00",
+    "expiresDate": "2024-10-25T02:55:51+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall der Trinkwasserversorgung - Teile des Fleckens Greene"
+      "de": "Entwarnung: Ausfall der Trinkwasserversorgung - Teile des Fleckens Greene"
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-LEV-SE046-20241024-46-002",
+    "version": 5,
+    "startDate": "2024-10-24T20:59:56+02:00",
+    "expiresDate": "2024-10-25T02:59:56+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchwolke durch Großbrand  - Leverkusen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
