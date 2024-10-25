@@ -111,5 +111,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-KLE-SE058-20241025-58-000",
+    "version": 5,
+    "startDate": "2024-10-25T12:33:08+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Weeze - Weeze"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
