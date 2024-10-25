@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-COE-SE051-20241025-124-001",
-    "version": 5,
-    "startDate": "2024-10-25T14:07:14+02:00",
-    "expiresDate": "2024-10-25T20:07:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Senden - Senden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-ERK-SE056-20241025-56-000",
     "version": 5,
     "startDate": "2024-10-25T14:34:05+02:00",
