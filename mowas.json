@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-KLE-SE058-20241025-58-000",
-    "version": 5,
-    "startDate": "2024-10-25T12:33:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase in Weeze - Weeze"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-COE-SE051-20241025-124-001",
     "version": 5,
     "startDate": "2024-10-25T14:07:14+02:00",
@@ -138,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-KLE-SE058-20241025-58-001",
+    "version": 5,
+    "startDate": "2024-10-25T15:17:03+02:00",
+    "expiresDate": "2024-10-25T21:17:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase in Weeze - Weeze"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
