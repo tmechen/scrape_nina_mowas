@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ST-SE032-20241025-165-000",
-    "version": 5,
-    "startDate": "2024-10-25T06:30:33+02:00",
-    "expiresDate": "2024-10-25T12:30:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Großbrand in Leverkusen - Langenfeld, Monheim am Rhein, Hilden"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-KLE-SE058-20241025-58-000",
     "version": 5,
     "startDate": "2024-10-25T12:33:08+02:00",
