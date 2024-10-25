@@ -110,5 +110,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-COE-SE051-20241025-124-000",
+    "version": 5,
+    "startDate": "2024-10-25T13:07:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Senden - Senden"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
