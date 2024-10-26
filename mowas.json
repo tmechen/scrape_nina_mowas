@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20241026-90-000",
-    "version": 5,
-    "startDate": "2024-10-26T03:39:57+02:00",
-    "expiresDate": "2024-10-26T09:39:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase - Aachen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-KE-W173-20241026-000",
     "version": 5,
     "startDate": "2024-10-26T08:26:26+02:00",
