@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20241026-105-000",
-    "version": 5,
-    "startDate": "2024-10-26T18:27:37+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz in Reinbek - Reinbek"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-TH-J-W110-20241026-001",
     "version": 5,
     "startDate": "2024-10-26T18:36:07+02:00",
@@ -124,6 +110,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20241026-105-001",
+    "version": 5,
+    "startDate": "2024-10-26T20:15:47+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz in Reinbek - Reinbek und östliches Hamburg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
