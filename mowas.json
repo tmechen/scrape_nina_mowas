@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KE-W173-20241026-001",
-    "version": 5,
-    "startDate": "2024-10-26T10:46:20+02:00",
-    "expiresDate": "2024-10-26T16:46:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz Brand - Balderschwang Gemeindegebiet"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20241026-002",
     "version": 5,
     "startDate": "2024-10-26T12:10:06+02:00",
