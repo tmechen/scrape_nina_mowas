@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20241026-105-002",
-    "version": 5,
-    "startDate": "2024-10-26T23:22:20+02:00",
-    "expiresDate": "2024-10-27T04:22:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz in Reinbek - Reinbek und östliches Hamburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20241026-28-001",
     "version": 5,
     "startDate": "2024-10-27T01:56:15+02:00",
