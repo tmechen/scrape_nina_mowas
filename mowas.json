@@ -111,5 +111,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20241027-19-000",
+    "version": 5,
+    "startDate": "2024-10-27T04:54:23+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchwolke/Geruchsbelästigung nördlich von Bremerhaven-Klushof - Bremerhaven-Klushof"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
