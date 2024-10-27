@@ -125,5 +125,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-SI-SE066-20241027-66-000",
+    "version": 5,
+    "startDate": "2024-10-27T11:20:13+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Festnetztelefonie - Siegen-Achenbach und umliegende Stadtbereiche"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
+    }
   }
 ]
