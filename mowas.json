@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20241029-19-000",
-    "version": 5,
-    "startDate": "2024-10-29T16:18:51+01:00",
-    "expiresDate": "2024-10-29T22:18:51+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Feuer in Bremen-Rablinghausen - Bremen-Rablinghausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-AC-SE090-20241029-90-000",
     "version": 5,
     "startDate": "2024-10-29T20:13:05+01:00",
