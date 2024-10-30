@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-BOE-W041-20241030-001",
-    "version": 5,
-    "startDate": "2024-10-30T08:39:08+01:00",
-    "expiresDate": "2024-10-30T14:39:08+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung aufgrund eines Gebäudebrandes  - Osterweddingen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-AC-SE090-20241030-90-000",
     "version": 5,
     "startDate": "2024-10-30T14:06:58+01:00",
