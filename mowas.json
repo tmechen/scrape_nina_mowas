@@ -141,14 +141,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-OB-SE055-20241030-55-000",
+    "id": "mow.DE-NW-OB-SE055-20241030-55-001",
     "version": 5,
-    "startDate": "2024-10-30T18:45:25+01:00",
+    "startDate": "2024-10-30T19:15:18+01:00",
+    "expiresDate": "2024-10-31T01:15:18+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenenprobe in Oberhausen zur Optimierung des Warnsystems - Oberhausen"
+      "de": "Entwarnung: Sirenenprobe in Oberhausen zur Optimierung des Warnsystems - Oberhausen"
     },
     "transKeys": {
       "event": "BBK-EVC-050"
