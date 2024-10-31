@@ -110,35 +110,5 @@
     "transKeys": {
       "event": "BBK-EVC-006"
     }
-  },
-  {
-    "id": "mow.DE-BY-KE-W173-20241031-002",
-    "version": 5,
-    "startDate": "2024-10-31T15:26:04+01:00",
-    "expiresDate": "2024-10-31T21:26:04+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz Brand - Günzach Aitranger Straße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20241031-84-001",
-    "version": 5,
-    "startDate": "2024-10-31T15:27:04+01:00",
-    "expiresDate": "2024-10-31T21:27:04+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz Brand - Günzach Aitranger Straße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
