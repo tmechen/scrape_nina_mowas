@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HX-SE092-20241101-92-002",
-    "version": 5,
-    "startDate": "2024-11-01T07:00:56+01:00",
-    "expiresDate": "2024-11-01T13:00:56+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke und Geruchsbelästigung - Bad Driburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20241101-28-000",
     "version": 5,
     "startDate": "2024-11-01T12:41:50+01:00",
