@@ -157,14 +157,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-EL-W089-20241102-000",
+    "id": "mow.DE-NI-EL-W089-20241102-001",
     "version": 5,
-    "startDate": "2024-11-02T13:54:22+01:00",
+    "startDate": "2024-11-02T14:17:05+01:00",
+    "expiresDate": "2024-11-02T20:17:05+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Lingen Ems"
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Lingen Ems"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
