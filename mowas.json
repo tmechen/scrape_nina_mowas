@@ -110,20 +110,5 @@
     "transKeys": {
       "event": "BBK-EVC-006"
     }
-  },
-  {
-    "id": "mow.DE-TH-G-W109-20241103-000",
-    "version": 5,
-    "startDate": "2024-11-03T02:14:42+01:00",
-    "expiresDate": "2024-11-03T08:14:42+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand - Gefahr durch Rauchentwicklung - Altenburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
