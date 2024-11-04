@@ -153,5 +153,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-AC-SE090-20241104-90-000",
+    "version": 5,
+    "startDate": "2024-11-04T10:00:23+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gasaustritt im Bereich Alsdorf von Harff Str. - Alsdorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
