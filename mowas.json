@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20241104-56-000",
-    "version": 5,
-    "startDate": "2024-11-04T06:49:37+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in Erkelenz - Stadt Erkelenz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-SN-Z-SE122-20241104-154-002",
     "version": 5,
     "startDate": "2024-11-04T07:30:20+01:00",
@@ -166,6 +152,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20241104-56-001",
+    "version": 5,
+    "startDate": "2024-11-04T16:39:27+01:00",
+    "expiresDate": "2024-11-04T22:39:27+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung in Erkelenz - Stadt Erkelenz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
