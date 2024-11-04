@@ -140,21 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20241104-90-001",
-    "version": 5,
-    "startDate": "2024-11-04T10:22:53+01:00",
-    "expiresDate": "2024-11-04T16:22:53+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gasaustritt im Bereich Alsdorf von Harff Str. - Alsdorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-NI-WTM-W213-20241104-001",
     "version": 5,
     "startDate": "2024-11-04T12:26:42+01:00",
