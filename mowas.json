@@ -112,14 +112,15 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-SE011-20241105-11-000",
+    "id": "mow.DE-SN-DD-SE011-20241105-11-001",
     "version": 5,
-    "startDate": "2024-11-05T19:51:10+01:00",
+    "startDate": "2024-11-05T21:12:54+01:00",
+    "expiresDate": "2024-11-06T03:12:54+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Fund einer 80 Kilogramm schweren Weltkriegsbombe russischer Bauart - Landkreis Bautzen, Gemeinde Großpostwitz, Ortsteil BINNEWITZ"
+      "de": "Entwarnung: Entwarnung: Fund einer 80 Kilogramm schweren Weltkriegsbombe russische - Landkreis Bautzen, Gemeinde Großpostwitz, Ortsteil BINNEWITZ"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
