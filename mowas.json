@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20241106-36-001",
-    "version": 5,
-    "startDate": "2024-11-06T11:50:27+01:00",
-    "expiresDate": "2024-11-06T17:50:27+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenentschärfung Weltkriegsbombe - Elsterwerda"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-SI-SE066-20241106-66-000",
     "version": 5,
     "startDate": "2024-11-06T12:43:33+01:00",
