@@ -70,20 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GT-SE040-20241013-40-000",
-    "version": 5,
-    "startDate": "2024-10-13T13:29:48+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vorsorgliche Information - Gemeinde Langenberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20241021-50-000",
     "version": 5,
     "startDate": "2024-10-21T18:07:14+02:00",
@@ -123,6 +109,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-GT-SE040-20241107-40-000",
+    "version": 5,
+    "startDate": "2024-11-07T14:33:31+01:00",
+    "expiresDate": "2024-11-07T20:33:31+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Vorsorgliche Information - Gemeinde Langenberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
