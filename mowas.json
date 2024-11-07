@@ -96,5 +96,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-HE-FD-W183-20241107-000",
+    "version": 5,
+    "startDate": "2024-11-07T08:48:49+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Entschärfung von Weltkriegsmunition in Fulda, Gallasiniring - Fulda, Gallasiniring"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
