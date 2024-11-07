@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GT-SE040-20241107-40-000",
-    "version": 5,
-    "startDate": "2024-11-07T14:33:31+01:00",
-    "expiresDate": "2024-11-07T20:33:31+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Vorsorgliche Information - Gemeinde Langenberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-HE-FD-W183-20241107-001",
     "version": 5,
     "startDate": "2024-11-07T17:15:56+01:00",
