@@ -113,12 +113,12 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-W094-20241107-000",
+    "id": "mow.DE-SN-DD-W094-20241107-001",
     "version": 5,
-    "startDate": "2024-11-07T21:21:37+01:00",
+    "startDate": "2024-11-07T22:36:26+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Trinkwasserhavarie - Hartha"
     },
