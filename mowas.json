@@ -110,5 +110,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NW-NE-SE044-20241109-44-000",
+    "version": 5,
+    "startDate": "2024-11-09T01:52:03+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in der Stadt Neuss  - Stadt Neuss"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
