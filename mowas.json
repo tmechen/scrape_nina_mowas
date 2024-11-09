@@ -112,14 +112,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-NE-SE044-20241109-44-000",
+    "id": "mow.DE-NW-NE-SE044-20241109-44-001",
     "version": 5,
-    "startDate": "2024-11-09T01:52:03+01:00",
+    "startDate": "2024-11-09T05:59:19+01:00",
+    "expiresDate": "2024-11-09T11:59:19+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung in der Stadt Neuss  - Stadt Neuss"
+      "de": "Entwarnung: Geruchsbelästigung in der Stadt Neuss  - Stadt Neuss"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
