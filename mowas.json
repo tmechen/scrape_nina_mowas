@@ -96,20 +96,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20241109-28-001",
-    "version": 5,
-    "startDate": "2024-11-10T00:36:00+01:00",
-    "expiresDate": "2024-11-10T06:36:00+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Wilster"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
