@@ -113,14 +113,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20241110-100-000",
+    "id": "mow.DE-SH-FL-SE100-20241110-100-001",
     "version": 5,
-    "startDate": "2024-11-10T22:25:10+01:00",
+    "startDate": "2024-11-11T00:57:30+01:00",
+    "expiresDate": "2024-11-11T06:57:30+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Großbrand - Freienwill OT Ost"
+      "de": "Entwarnung: Rauchentwicklung durch Großbrand - Freienwill OT Ost"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
