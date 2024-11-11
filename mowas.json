@@ -111,5 +111,20 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-NI-WTM-W213-20241111-001",
+    "version": 5,
+    "startDate": "2024-11-12T00:03:26+01:00",
+    "expiresDate": "2024-11-12T06:03:26+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: starke Rauchentwicklung durch einen Brand - Aurich"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
