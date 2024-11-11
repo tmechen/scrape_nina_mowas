@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20241111-82-001",
-    "version": 5,
-    "startDate": "2024-11-11T12:25:35+01:00",
-    "expiresDate": "2024-11-11T18:25:35+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Neustadt/Dosse - Neustadt/Dosse - Lindenstraße und Spiegelberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20241111-31-001",
     "version": 5,
     "startDate": "2024-11-11T17:31:40+01:00",
