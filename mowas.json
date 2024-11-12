@@ -125,5 +125,33 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-ST-SE032-20241112-165-000",
+    "version": 5,
+    "startDate": "2024-11-12T12:50:21+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in Ochtrup- Langenhorst und Ochtrup- Welbergen - Ochtrup"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HA-SE087-20241112-149-000",
+    "version": 5,
+    "startDate": "2024-11-12T13:05:34+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung in Hagen Dahl - Hagen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
