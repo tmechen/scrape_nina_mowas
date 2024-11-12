@@ -96,20 +96,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-HH-HH-SE033-20241112-33-002",
-    "version": 5,
-    "startDate": "2024-11-12T17:27:16+01:00",
-    "expiresDate": "2024-11-12T23:27:16+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenteile gefunden - Hamburg-Wilhelmsburg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
   }
 ]
