@@ -110,5 +110,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20241114-106-000",
+    "version": 5,
+    "startDate": "2024-11-14T13:10:30+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Evakuierung wegen Kampfmittel-Fund - Kassel-Rothenditmold"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
