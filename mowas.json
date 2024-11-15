@@ -124,5 +124,19 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-RP-WW-SE116-20241115-123-000",
+    "version": 5,
+    "startDate": "2024-11-15T12:51:26+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gruchsbelästigung Kaam, Adorf - Kraam, Adord"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
