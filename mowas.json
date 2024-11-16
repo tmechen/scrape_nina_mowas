@@ -155,14 +155,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-BT-W082-20241116-000",
+    "id": "mow.DE-BY-BT-W082-20241116-001",
     "version": 5,
-    "startDate": "2024-11-16T18:15:06+01:00",
+    "startDate": "2024-11-16T19:53:13+01:00",
+    "expiresDate": "2024-11-17T01:53:13+01:00",
     "severity": "Extreme",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Giftige Rauchmeldung  - Kulmbach"
+      "de": "Entwarnung: Giftige Rauchmeldung  - Kulmbach"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
