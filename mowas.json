@@ -126,14 +126,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20241116-106-000",
+    "id": "mow.DE-HE-KS-SE106-20241116-106-001",
     "version": 5,
-    "startDate": "2024-11-16T09:44:19+01:00",
+    "startDate": "2024-11-16T10:57:58+01:00",
+    "expiresDate": "2024-11-16T16:57:58+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand mit Rauchwolke - Kassel-Mitte"
+      "de": "Entwarnung: Brand mit Rauchwolke - Kassel-Mitte"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
