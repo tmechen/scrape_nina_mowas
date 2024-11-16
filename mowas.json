@@ -153,5 +153,19 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-BY-BT-W082-20241116-000",
+    "version": 5,
+    "startDate": "2024-11-16T18:15:06+01:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Giftige Rauchmeldung  - Kulmbach"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
