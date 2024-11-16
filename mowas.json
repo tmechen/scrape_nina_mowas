@@ -139,5 +139,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20241116-54-000",
+    "version": 5,
+    "startDate": "2024-11-16T14:05:05+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung in der Stadt Linnich - Deutschland"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
