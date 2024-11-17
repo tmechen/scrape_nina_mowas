@@ -181,5 +181,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20241117-29-000",
+    "version": 5,
+    "startDate": "2024-11-17T06:25:08+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bombenräumung 17.11.2024 - Stadt Osnabrück - Stadtteile Innenstadt, Fledder, Schinkel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
