@@ -168,21 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20241117-56-001",
-    "version": 5,
-    "startDate": "2024-11-17T06:09:53+01:00",
-    "expiresDate": "2024-11-17T12:09:53+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in [Erkelenz] - Stadtgebiet Erkelenz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20241117-29-000",
     "version": 5,
     "startDate": "2024-11-17T06:25:08+01:00",
