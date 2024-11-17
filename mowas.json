@@ -140,20 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20241116-35-000",
-    "version": 5,
-    "startDate": "2024-11-16T22:00:18+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Entschärfung einer Weltkriegsbombe  - Kreisstadt Homburg, betroffene Straßen:"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20241117-29-000",
     "version": 5,
     "startDate": "2024-11-17T06:25:08+01:00",
@@ -162,64 +148,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Bombenräumung 17.11.2024 - Stadt Osnabrück - Stadtteile Innenstadt, Fledder, Schinkel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-SL-SB-SE023-20241117-23-000",
-    "version": 5,
-    "startDate": "2024-11-17T12:41:59+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Weltkriegsbombe wird kontrolliert gesprengt - Kreisstadt Homburg, betroffene Straßen:"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-SL-SB-SE023-20241117-23-001",
-    "version": 5,
-    "startDate": "2024-11-17T12:45:01+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Weltkriegsbombe wird kontrolliert gesprengt - Kreisstadt Homburg, betroffene Straßen:"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-SL-SB-SE023-20241117-23-002",
-    "version": 5,
-    "startDate": "2024-11-17T14:27:15+01:00",
-    "expiresDate": "2024-11-17T20:27:15+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Weltkriegsbombe gesprengt - Kreisstadt Homburg, betroffene Straßen:"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-SL-SB-SE035-20241117-35-003",
-    "version": 5,
-    "startDate": "2024-11-17T14:37:30+01:00",
-    "expiresDate": "2024-11-17T20:37:30+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung:  Entschärfung einer Weltkriegsbombe  - Kreisstadt Homburg, betroffene Straßen:"
     },
     "transKeys": {
       "event": "BBK-EVC-079"
