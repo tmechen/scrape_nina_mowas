@@ -154,20 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-C-W092-20241117-000",
-    "version": 5,
-    "startDate": "2024-11-17T03:32:06+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchs- und Rauchbelästigung durch Großbrand - Sachsen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20241117-29-000",
     "version": 5,
     "startDate": "2024-11-17T06:25:08+01:00",
@@ -265,6 +251,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-SN-C-W092-20241117-001",
+    "version": 5,
+    "startDate": "2024-11-17T19:29:59+01:00",
+    "expiresDate": "2024-11-18T01:29:59+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchs- und Rauchbelästigung durch Großbrand - Sachsen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
