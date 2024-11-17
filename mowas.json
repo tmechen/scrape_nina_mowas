@@ -195,5 +195,20 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-RP-LU-W257-20241117-001",
+    "version": 5,
+    "startDate": "2024-11-17T21:15:29+01:00",
+    "expiresDate": "2024-11-18T03:15:29+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall der Stromversorgung in Iggelheim - Wochenendgebiet Iggelheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
