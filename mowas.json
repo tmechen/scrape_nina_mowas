@@ -210,5 +210,35 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20241117-29-001",
+    "version": 5,
+    "startDate": "2024-11-17T22:19:32+01:00",
+    "expiresDate": "2024-11-18T04:19:32+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenräumung 17.11.2024 - Stadt Osnabrück - Stadtteile Innenstadt, Fledder, Schinkel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20241117-29-002",
+    "version": 5,
+    "startDate": "2024-11-17T22:20:02+01:00",
+    "expiresDate": "2024-11-18T04:20:02+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ankündigung Bombenräumung 17.11.2024 - Stadt Osnabrück - Stadtteile Fledder, Innenstadt, Schinkel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
