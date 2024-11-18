@@ -126,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20241118-82-000",
-    "version": 5,
-    "startDate": "2024-11-18T15:21:38+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gasaustritt - Fehrbellin OT Hakenberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20241118-84-000",
     "version": 5,
     "startDate": "2024-11-18T15:53:07+01:00",
@@ -182,6 +168,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20241118-82-001",
+    "version": 5,
+    "startDate": "2024-11-18T17:14:43+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Gasaustritt - Fehrbellin OT Hakenberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
     }
   }
 ]
