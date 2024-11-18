@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20241118-50-000",
-    "version": 5,
-    "startDate": "2024-11-18T10:42:17+01:00",
-    "expiresDate": "2024-11-18T16:42:17+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kontamination mit E.Coli, iEnterokokken, Coliformen Keimen - Wassergemeinschaft Grünbühl, Ortsnetz Grünbühl (74632)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BB-P-SE082-20241118-82-000",
     "version": 5,
     "startDate": "2024-11-18T15:21:38+01:00",
@@ -185,14 +170,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-DN-SE054-20241118-54-000",
+    "id": "mow.DE-NW-DN-SE054-20241118-54-001",
     "version": 5,
-    "startDate": "2024-11-18T16:27:04+01:00",
+    "startDate": "2024-11-18T16:39:15+01:00",
+    "expiresDate": "2024-11-18T22:39:15+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Stromversorgung in Aldenhoven Freialdenhoven und Linnich Ederen - Aldenhoven Freialdenhoven und Linnich Ederen"
+      "de": "Entwarnung: Ausfall Stromversorgung in Aldenhoven Freialdenhoven und Linnich Edere - Aldenhoven Freialdenhoven und Linnich Ederen"
     },
     "transKeys": {
       "event": "BBK-EVC-063"
