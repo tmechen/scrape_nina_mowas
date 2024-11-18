@@ -70,20 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20241021-50-000",
-    "version": 5,
-    "startDate": "2024-10-21T18:07:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kontamination mit E.Coli, iEnterokokken, Coliformen Keimen - Wassergemeinschaft Grünbühl, Ortsnetz Grünbühl (74632)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20241108-84-000",
     "version": 5,
     "startDate": "2024-11-08T17:14:32+01:00",
@@ -148,6 +134,21 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Trinkwasserverschmutzung - Teile der VG Herrstein-Rhaunen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20241118-50-000",
+    "version": 5,
+    "startDate": "2024-11-18T10:42:17+01:00",
+    "expiresDate": "2024-11-18T16:42:17+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kontamination mit E.Coli, iEnterokokken, Coliformen Keimen - Wassergemeinschaft Grünbühl, Ortsnetz Grünbühl (74632)"
     },
     "transKeys": {
       "event": "BBK-EVC-069"
