@@ -126,36 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20241118-121-001",
-    "version": 5,
-    "startDate": "2024-11-18T16:22:00+01:00",
-    "expiresDate": "2024-11-18T22:22:00+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gebäudebrand in Pirmasens-Hengsberg - Pirmasens-Fehrbach"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-NW-DN-SE054-20241118-54-001",
-    "version": 5,
-    "startDate": "2024-11-18T16:39:15+01:00",
-    "expiresDate": "2024-11-18T22:39:15+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall Stromversorgung in Aldenhoven Freialdenhoven und Linnich Edere - Aldenhoven Freialdenhoven und Linnich Ederen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20241118-50-001",
     "version": 5,
     "startDate": "2024-11-18T20:16:17+01:00",
