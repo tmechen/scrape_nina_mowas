@@ -167,5 +167,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20241119-000",
+    "version": 5,
+    "startDate": "2024-11-19T18:14:57+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall - Bad Köstritz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
