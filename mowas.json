@@ -138,5 +138,33 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BY-RO-W136-20241119-000",
+    "version": 5,
+    "startDate": "2024-11-19T14:39:47+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung  - Thansau, Insbesondere Rosenheimer-, Neubeurer-, Wöhrstraße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ME-SE071-20241119-71-000",
+    "version": 5,
+    "startDate": "2024-11-19T14:45:46+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser / Gefahr der Überflutung - Velbert-Langenberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
