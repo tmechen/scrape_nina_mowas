@@ -140,21 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20241119-99-001",
-    "version": 5,
-    "startDate": "2024-11-19T15:19:44+01:00",
-    "expiresDate": "2024-11-19T21:19:44+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Heikendorf / Kitzeberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-ME-SE071-20241119-71-002",
     "version": 5,
     "startDate": "2024-11-19T19:53:40+01:00",
