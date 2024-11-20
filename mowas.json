@@ -138,5 +138,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20241120-82-000",
+    "version": 5,
+    "startDate": "2024-11-20T22:12:04+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung in Falkensee - Stadt Falkensee im Bereich Auerstraße, Straße der Einheit und Fischerstraße"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
