@@ -154,21 +154,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20241119-002",
-    "version": 5,
-    "startDate": "2024-11-19T19:55:07+01:00",
-    "expiresDate": "2024-11-20T01:55:07+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall - Bad Köstritz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-RP-LD-SE117-20241119-121-000",
     "version": 5,
     "startDate": "2024-11-20T00:28:38+01:00",
