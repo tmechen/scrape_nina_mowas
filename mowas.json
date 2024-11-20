@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20241120-121-000",
-    "version": 5,
-    "startDate": "2024-11-20T09:28:08+01:00",
-    "expiresDate": "2024-11-20T15:28:08+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Allgemeine Hochwasserwarnung - Ortsbereiche der Verbandsgemeinde Thaleischweiler-Wallhalben"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-TH-J-W110-20241120-001",
     "version": 5,
     "startDate": "2024-11-20T09:44:46+01:00",
