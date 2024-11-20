@@ -166,5 +166,19 @@
     "transKeys": {
       "event": "BBK-EVC-038"
     }
+  },
+  {
+    "id": "mow.DE-NW-E-SE052-20241120-52-000",
+    "version": 5,
+    "startDate": "2024-11-20T07:31:39+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Essen - Essen-Rüttenscheid"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
