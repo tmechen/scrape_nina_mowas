@@ -98,20 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KH-SE111-20241117-114-003",
-    "version": 5,
-    "startDate": "2024-11-17T19:16:00+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Trinkwasserverschmutzung - Teile der VG Herrstein-Rhaunen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20241121-000",
     "version": 5,
     "startDate": "2024-11-21T04:56:45+01:00",
@@ -206,6 +192,21 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Trinkwasserverunreinigung - Teile der VG Birkenfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KH-SE111-20241121-114-001",
+    "version": 5,
+    "startDate": "2024-11-21T18:31:01+01:00",
+    "expiresDate": "2024-11-22T00:31:01+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasserverschmutzung - Teile der VG Herrstein-Rhaunen"
     },
     "transKeys": {
       "event": "BBK-EVC-069"
