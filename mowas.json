@@ -126,20 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20241120-000",
-    "version": 5,
-    "startDate": "2024-11-20T11:21:31+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserverunreinigung - Pfaffenwiesbach & Friedrichsthal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BB-P-SE082-20241120-82-001",
     "version": 5,
     "startDate": "2024-11-21T00:40:44+01:00",
@@ -152,6 +138,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20241121-000",
+    "version": 5,
+    "startDate": "2024-11-21T04:56:45+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Trinkwasserverunreinigung - Pfaffenwiesbach & Friedrichsthal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
