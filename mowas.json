@@ -157,20 +157,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HF-SE039-20241121-39-000",
-    "version": 5,
-    "startDate": "2024-11-21T18:34:18+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall der Gasversorgung - Löhne"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-003"
-    }
-  },
-  {
     "id": "mow.DE-RP-KH-SE111-20241121-114-002",
     "version": 5,
     "startDate": "2024-11-21T18:35:06+01:00",
@@ -228,6 +214,20 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HF-SE039-20241121-39-001",
+    "version": 5,
+    "startDate": "2024-11-21T20:00:27+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Ausfall der Gasversorgung - Löhne"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-003"
     }
   }
 ]
