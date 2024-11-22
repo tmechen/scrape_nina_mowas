@@ -112,15 +112,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20241122-000",
+    "id": "mow.DE-SH-OD-SE105-20241122-105-000",
     "version": 5,
-    "startDate": "2024-11-22T15:56:25+01:00",
-    "expiresDate": "2024-11-22T21:56:25+01:00",
+    "startDate": "2024-11-22T21:59:41+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserverunreinigung - Pfaffenwiesbach & Friedrichsthal"
+      "de": "Abkochverfügung ab Freitag 22.11.2024 um 15:30 Uhr  - Gemeinde Großenbrode und Fehmarn"
     },
     "transKeys": {
       "event": "BBK-EVC-069"
