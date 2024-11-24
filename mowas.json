@@ -84,21 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20241124-105-000",
-    "version": 5,
-    "startDate": "2024-11-24T15:44:12+01:00",
-    "expiresDate": "2024-11-24T21:44:12+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Abkochverfügung ab Freitag 22.11.2024 um 15:30 Uhr  - Gemeinde Großenbrode und Fehmarn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-RP-KH-SE111-20241124-114-000",
     "version": 5,
     "startDate": "2024-11-24T16:15:18+01:00",
