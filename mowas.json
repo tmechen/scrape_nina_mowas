@@ -70,20 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KH-SE111-20241115-114-000",
-    "version": 5,
-    "startDate": "2024-11-15T18:31:38+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasser abkochen - Baumholder mit Ausnahme Reichenbach und Frauenberg"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-WUE-W164-20241122-000",
     "version": 5,
     "startDate": "2024-11-22T12:28:26+01:00",
@@ -124,6 +110,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KH-SE111-20241124-114-001",
+    "version": 5,
+    "startDate": "2024-11-24T19:48:09+01:00",
+    "expiresDate": "2024-11-25T01:48:09+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasser abkochen - Baumholder mit Ausnahme Reichenbach und Frauenberg"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
