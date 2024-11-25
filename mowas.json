@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-RO-W136-20241125-002",
-    "version": 5,
-    "startDate": "2024-11-25T07:30:30+01:00",
-    "expiresDate": "2024-11-25T13:30:30+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand eines Industriegebäudes - Feldkirchen-Westerham"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SN-HY-SE048-20241125-122-001",
     "version": 5,
     "startDate": "2024-11-25T09:20:01+01:00",
