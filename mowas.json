@@ -142,34 +142,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-LB-W026-20241126-000",
-    "version": 5,
-    "startDate": "2024-11-26T10:09:59+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenentest Gemeinde Freudental - Freudental"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
-    "id": "mow.DE-RP-KO-SE113-20241126-113-000",
-    "version": 5,
-    "startDate": "2024-11-26T11:16:54+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand Industriegebiet Adenau - Stadt Adenau"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20241126-129-000",
     "version": 5,
     "startDate": "2024-11-26T11:47:30+01:00",
@@ -182,6 +154,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KO-SE113-20241126-113-001",
+    "version": 5,
+    "startDate": "2024-11-26T11:52:01+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Großbrand Industriegebiet Adenau - Stadt Adenau, Gemeinden Leimbach und Dümpelfeld"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-LB-W026-20241126-001",
+    "version": 5,
+    "startDate": "2024-11-26T12:00:42+01:00",
+    "expiresDate": "2024-11-26T18:00:42+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenentest Gemeinde Freudental - Freudental"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
     }
   }
 ]
