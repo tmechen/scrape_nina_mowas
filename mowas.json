@@ -170,5 +170,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BY-NEW-W265-20241126-000",
+    "version": 5,
+    "startDate": "2024-11-26T16:51:40+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand- und Rauchentwicklung - Döllnitz bei Pressath"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
