@@ -112,36 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20241126-129-000",
-    "version": 5,
-    "startDate": "2024-11-26T11:47:30+01:00",
-    "expiresDate": "2024-11-26T17:47:30+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Schadstofffreisetzung im Stadtgebiet Syke - Syke"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
-    "id": "mow.DE-BW-LB-W026-20241126-001",
-    "version": 5,
-    "startDate": "2024-11-26T12:00:42+01:00",
-    "expiresDate": "2024-11-26T18:00:42+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenentest Gemeinde Freudental - Freudental"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20241126-31-001",
     "version": 5,
     "startDate": "2024-11-26T15:56:24+01:00",
