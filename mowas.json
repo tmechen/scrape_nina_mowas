@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-RO-W136-20241125-001",
-    "version": 5,
-    "startDate": "2024-11-25T07:14:32+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand einer Lagerhalle/ - Feldolling, Gemeinde Feldkirchen-Westerham"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-HIG-W111-20241126-000",
     "version": 5,
     "startDate": "2024-11-26T02:30:07+01:00",
@@ -138,6 +124,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-RO-W136-20241126-000",
+    "version": 5,
+    "startDate": "2024-11-26T07:28:59+01:00",
+    "expiresDate": "2024-11-26T13:28:59+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand einer Lagerhalle/ - Feldolling, Gemeinde Feldkirchen-Westerham"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HSK-SE096-20241126-96-000",
+    "version": 5,
+    "startDate": "2024-11-26T07:45:46+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brand einer KFZ Werkstatt - Arnsberg Niedereimer"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
