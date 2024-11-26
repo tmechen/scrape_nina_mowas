@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-NOM-W210-20241125-001",
-    "version": 5,
-    "startDate": "2024-11-25T23:07:55+01:00",
-    "expiresDate": "2024-11-26T05:07:55+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase im Bereich Scharnhorststraße - Northeim"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20241125-18-001",
     "version": 5,
     "startDate": "2024-11-26T00:58:07+01:00",
