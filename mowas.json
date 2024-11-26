@@ -156,20 +156,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20241126-29-000",
-    "version": 5,
-    "startDate": "2024-11-26T11:04:10+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Schadstofffreisetzung im Stadtgebiet Syke - Syke"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-RP-KO-SE113-20241126-113-000",
     "version": 5,
     "startDate": "2024-11-26T11:16:54+01:00",
@@ -181,6 +167,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20241126-129-000",
+    "version": 5,
+    "startDate": "2024-11-26T11:47:30+01:00",
+    "expiresDate": "2024-11-26T17:47:30+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Schadstofffreisetzung im Stadtgebiet Syke - Syke"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
     }
   }
 ]
