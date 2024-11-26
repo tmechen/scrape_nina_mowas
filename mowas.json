@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20241126-31-001",
-    "version": 5,
-    "startDate": "2024-11-26T15:56:24+01:00",
-    "expiresDate": "2024-11-26T21:56:24+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenfund - Köln- Deutz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-RP-KO-SE113-20241126-113-002",
     "version": 5,
     "startDate": "2024-11-26T16:29:13+01:00",
