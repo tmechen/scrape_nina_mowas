@@ -154,5 +154,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20241126-19-000",
+    "version": 5,
+    "startDate": "2024-11-26T19:01:07+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bombenräumung am Mittwoch, 27.11.24 - Bremen-Huchting"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
