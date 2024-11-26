@@ -126,21 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20241125-18-001",
-    "version": 5,
-    "startDate": "2024-11-26T00:58:07+01:00",
-    "expiresDate": "2024-11-26T06:58:07+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Fund einer Weltkriegsbombe - Ulm - Innenstadt"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-TH-HIG-W111-20241126-000",
     "version": 5,
     "startDate": "2024-11-26T02:30:07+01:00",
