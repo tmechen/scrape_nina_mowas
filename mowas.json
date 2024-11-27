@@ -112,20 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20241126-19-000",
-    "version": 5,
-    "startDate": "2024-11-26T19:01:07+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bombenräumung am Mittwoch, 27.11.24 - Bremen-Huchting"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20241127-35-001",
     "version": 5,
     "startDate": "2024-11-27T12:38:06+01:00",
@@ -138,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20241127-19-000",
+    "version": 5,
+    "startDate": "2024-11-27T13:51:35+01:00",
+    "expiresDate": "2024-11-27T19:51:35+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenräumung am Mittwoch, 27.11.24 - Bremen-Huchting"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
