@@ -70,20 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KH-SE111-20241124-114-002",
-    "version": 5,
-    "startDate": "2024-11-24T20:25:53+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserverunreinigung - Berglangenbach Fohren-Linden Heimbach Mettweiler"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20241128-99-000",
     "version": 5,
     "startDate": "2024-11-28T09:56:00+01:00",
@@ -153,6 +139,35 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KH-SE111-20241129-114-000",
+    "version": 5,
+    "startDate": "2024-11-29T13:40:56+01:00",
+    "expiresDate": "2024-11-29T19:40:56+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasserverunreinigung - Berglangenbach Fohren-Linden Heimbach Mettweiler"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KH-SE111-20241129-114-001",
+    "version": 5,
+    "startDate": "2024-11-29T14:02:00+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasserverunreinigung / Abkochgebot - Heimbach / Nahe"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
