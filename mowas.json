@@ -84,21 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KH-SE111-20241129-114-000",
-    "version": 5,
-    "startDate": "2024-11-29T13:40:56+01:00",
-    "expiresDate": "2024-11-29T19:40:56+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserverunreinigung - Berglangenbach Fohren-Linden Heimbach Mettweiler"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-RP-KH-SE111-20241129-114-001",
     "version": 5,
     "startDate": "2024-11-29T14:02:00+01:00",
