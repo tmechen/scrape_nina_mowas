@@ -84,21 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20241129-99-001",
-    "version": 5,
-    "startDate": "2024-11-29T13:27:32+01:00",
-    "expiresDate": "2024-11-29T19:27:32+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Schellhorn"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-KH-SE111-20241129-114-000",
     "version": 5,
     "startDate": "2024-11-29T13:40:56+01:00",
