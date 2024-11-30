@@ -110,5 +110,19 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-NI-H-SE110-20241130-110-000",
+    "version": 5,
+    "startDate": "2024-11-30T08:08:11+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelverdacht - Hannover-Groß-Buchholz"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
