@@ -126,14 +126,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20241130-000",
+    "id": "mow.DE-BY-A-W083-20241130-001",
     "version": 5,
-    "startDate": "2024-11-30T08:26:39+01:00",
+    "startDate": "2024-11-30T10:53:23+01:00",
+    "expiresDate": "2024-11-30T16:53:23+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung wegen Dachstuhlbrand - Wertingen"
+      "de": "Entwarnung: Starke Rauchentwicklung wegen Dachstuhlbrand - Wertingen"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
