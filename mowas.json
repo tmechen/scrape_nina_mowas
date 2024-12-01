@@ -124,5 +124,19 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20241201-105-000",
+    "version": 5,
+    "startDate": "2024-12-01T08:05:53+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Ostholstein"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
