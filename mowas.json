@@ -112,23 +112,38 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20241201-105-000",
+    "id": "mow.DE-SH-OD-SE105-20241201-105-001",
     "version": 5,
-    "startDate": "2024-12-01T08:05:53+01:00",
+    "startDate": "2024-12-01T08:49:14+01:00",
+    "expiresDate": "2024-12-01T14:49:14+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Ostholstein"
+      "de": "Entwarnung: Feuerwehreinsatz - Ostholstein"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
     }
   },
   {
-    "id": "mow.DE-ST-SK-W070-20241201-001",
+    "id": "mow.DE-BY-CO-W141-20241201-000",
     "version": 5,
-    "startDate": "2024-12-01T08:38:25+01:00",
+    "startDate": "2024-12-01T08:54:36+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase / Rauchsäule  - Stadtbereich Lichtenfels"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-ST-SK-W070-20241201-002",
+    "version": 5,
+    "startDate": "2024-12-01T08:55:57+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
