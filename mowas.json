@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20241201-105-001",
-    "version": 5,
-    "startDate": "2024-12-01T08:49:14+01:00",
-    "expiresDate": "2024-12-01T14:49:14+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Ostholstein"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-ST-SK-W070-20241201-002",
     "version": 5,
     "startDate": "2024-12-01T08:55:57+01:00",
