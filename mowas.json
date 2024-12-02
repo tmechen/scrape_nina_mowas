@@ -84,21 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-ERB-W191-20241202-002",
-    "version": 5,
-    "startDate": "2024-12-02T17:18:32+01:00",
-    "expiresDate": "2024-12-02T23:18:32+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in Erbach Haisterbach - Erbach West"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20241202-33-001",
     "version": 5,
     "startDate": "2024-12-02T18:38:27+01:00",
