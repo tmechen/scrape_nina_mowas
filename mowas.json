@@ -70,20 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KH-SE111-20241129-114-001",
-    "version": 5,
-    "startDate": "2024-11-29T14:02:00+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserverunreinigung / Abkochgebot - Heimbach / Nahe"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-FR-W022-20241129-000",
     "version": 5,
     "startDate": "2024-11-29T18:04:31+01:00",
@@ -98,14 +84,30 @@
     }
   },
   {
-    "id": "mow.DE-HE-ERB-W191-20241202-001",
+    "id": "mow.DE-RP-KH-SE111-20241202-114-000",
     "version": 5,
-    "startDate": "2024-12-02T11:47:51+01:00",
+    "startDate": "2024-12-02T16:49:57+01:00",
+    "expiresDate": "2024-12-02T22:49:57+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in Erbach Haisterbach - Erbach West"
+      "de": "Entwarnung: Trinkwasserverunreinigung / Abkochgebot - Heimbach / Nahe"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-HE-ERB-W191-20241202-002",
+    "version": 5,
+    "startDate": "2024-12-02T17:18:32+01:00",
+    "expiresDate": "2024-12-02T23:18:32+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand in Erbach Haisterbach - Erbach West"
     },
     "transKeys": {
       "event": "BBK-EVC-034"
