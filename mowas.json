@@ -96,20 +96,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-NW-D-SE047-20241201-47-001",
-    "version": 5,
-    "startDate": "2024-12-01T22:05:18+01:00",
-    "expiresDate": "2024-12-02T04:05:18+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch ein Feuer in Düsseldorf - Düsseldorf - Flingern"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
