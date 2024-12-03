@@ -84,21 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20241203-19-001",
-    "version": 5,
-    "startDate": "2024-12-03T07:43:04+01:00",
-    "expiresDate": "2024-12-03T13:43:04+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke aufgrund eines Lagerhallenbrandes - Bremen Industriehäfen, Ohlenhof, Oslebshausen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-AW-W255-20241203-000",
     "version": 5,
     "startDate": "2024-12-03T12:48:39+01:00",
