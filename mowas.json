@@ -84,21 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20241202-33-002",
-    "version": 5,
-    "startDate": "2024-12-03T00:23:19+01:00",
-    "expiresDate": "2024-12-03T06:23:19+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Hamburg-Schnelsen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HB-HB-SE019-20241203-19-000",
     "version": 5,
     "startDate": "2024-12-03T04:49:24+01:00",
