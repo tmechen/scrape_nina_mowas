@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-PB-SE093-20240829-93-000",
-    "version": 5,
-    "startDate": "2024-08-29T14:27:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Blaualgenbefall im Lippesee - Paderborn Sande"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-081"
-    }
-  },
-  {
     "id": "mow.DE-HE-F-SE119-20240904-128-000",
     "version": 5,
     "startDate": "2024-09-04T15:50:42+02:00",
@@ -139,6 +125,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-PB-SE093-20241204-93-000",
+    "version": 5,
+    "startDate": "2024-12-04T14:34:47+01:00",
+    "expiresDate": "2024-12-04T20:34:47+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Blaualgenbefall im Lippesee - Paderborn Sande"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-081"
     }
   }
 ]
