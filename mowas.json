@@ -99,20 +99,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-W094-20241204-000",
-    "version": 5,
-    "startDate": "2024-12-04T12:22:34+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "In Dresden-Rossendorf kommt es aufgrund eines Brandes zu starker Rauchentwicklung - Dresden - Rossendorf"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-N-W163-20241204-000",
     "version": 5,
     "startDate": "2024-12-04T12:38:05+01:00",
@@ -127,9 +113,9 @@
     }
   },
   {
-    "id": "mow.DE-BW-FR-W022-20241204-000",
+    "id": "mow.DE-BW-FR-W022-20241204-001",
     "version": 5,
-    "startDate": "2024-12-04T13:40:38+01:00",
+    "startDate": "2024-12-04T13:44:48+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
@@ -138,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-SN-DD-W094-20241204-001",
+    "version": 5,
+    "startDate": "2024-12-04T14:05:05+01:00",
+    "expiresDate": "2024-12-04T20:05:05+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: In Dresden-Rossendorf kommt es aufgrund eines Brandes zu starker Rauch - Dresden - Rossendorf"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
