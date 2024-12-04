@@ -125,5 +125,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-BY-N-W163-20241204-000",
+    "version": 5,
+    "startDate": "2024-12-04T12:38:05+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Entschärfung einer Weltkriegsbombe - Nürnberg, Bayernstraße 100, großer Dutzendteich"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
