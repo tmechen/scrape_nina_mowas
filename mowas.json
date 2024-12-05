@@ -113,14 +113,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-LU-SE005-20241205-5-000",
+    "id": "mow.DE-RP-LU-SE005-20241205-5-001",
     "version": 5,
-    "startDate": "2024-12-05T15:20:39+01:00",
+    "startDate": "2024-12-05T17:45:44+01:00",
+    "expiresDate": "2024-12-05T23:45:44+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gebäudebrand in Birkenheide - Birkenheide"
+      "de": "Entwarnung: Gebäudebrand in Birkenheide - Birkenheide"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
