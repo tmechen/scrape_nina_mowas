@@ -82,20 +82,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-ST-MSH-W058-20241204-001",
-    "version": 5,
-    "startDate": "2024-12-04T21:45:48+01:00",
-    "expiresDate": "2024-12-05T03:45:48+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brandrauch - Wolferode"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
