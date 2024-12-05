@@ -70,21 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-BB-W125-20241205-001",
-    "version": 5,
-    "startDate": "2024-12-05T07:36:07+01:00",
-    "expiresDate": "2024-12-05T13:36:07+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Rauchentwicklung - Sindelfingen (Innenstadt)"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20241205-000",
     "version": 5,
     "startDate": "2024-12-05T08:22:51+01:00",
