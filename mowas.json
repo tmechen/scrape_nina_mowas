@@ -84,36 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LU-SE005-20241205-5-001",
-    "version": 5,
-    "startDate": "2024-12-05T17:45:44+01:00",
-    "expiresDate": "2024-12-05T23:45:44+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gebäudebrand in Birkenheide - Birkenheide"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NW-GL-SE063-20241205-63-001",
-    "version": 5,
-    "startDate": "2024-12-05T18:02:43+01:00",
-    "expiresDate": "2024-12-06T00:02:43+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Kürten - Kürten - Bechen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-KL-SE112-20241205-112-003",
     "version": 5,
     "startDate": "2024-12-05T21:28:38+01:00",
