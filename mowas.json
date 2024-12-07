@@ -157,20 +157,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-LEV-SE046-20241207-46-000",
-    "version": 5,
-    "startDate": "2024-12-07T11:55:10+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenen-Probealarm in Leverkusen - Leverkusen"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20241207-001",
     "version": 5,
     "startDate": "2024-12-07T12:07:45+01:00",
@@ -213,6 +199,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NW-LEV-SE046-20241207-46-001",
+    "version": 5,
+    "startDate": "2024-12-07T12:30:48+01:00",
+    "expiresDate": "2024-12-07T18:30:48+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Probealarm in Leverkusen - Leverkusen"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
     }
   }
 ]
