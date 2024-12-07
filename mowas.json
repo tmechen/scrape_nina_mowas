@@ -84,20 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-W094-20241207-000",
-    "version": 5,
-    "startDate": "2024-12-07T05:25:11+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Halsbrücke"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-TH-UH-W116-20241207-002",
     "version": 5,
     "startDate": "2024-12-07T11:10:12+01:00",
@@ -110,20 +96,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
-    }
-  },
-  {
-    "id": "mow.DE-SN-C-W092-20241207-002",
-    "version": 5,
-    "startDate": "2024-12-07T11:14:45+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Großbrand - Halsbrücke"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
     }
   },
   {
@@ -199,6 +171,36 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-SN-C-W092-20241207-004",
+    "version": 5,
+    "startDate": "2024-12-07T17:06:12+01:00",
+    "expiresDate": "2024-12-07T23:06:12+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Großbrand - Halsbrücke"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SN-DD-W094-20241207-001",
+    "version": 5,
+    "startDate": "2024-12-07T17:16:07+01:00",
+    "expiresDate": "2024-12-07T23:16:07+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung - Halsbrücke"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
