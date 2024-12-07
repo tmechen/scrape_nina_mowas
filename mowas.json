@@ -84,21 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-W094-20241207-001",
-    "version": 5,
-    "startDate": "2024-12-07T17:16:07+01:00",
-    "expiresDate": "2024-12-07T23:16:07+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung - Halsbrücke"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20241207-18-000",
     "version": 5,
     "startDate": "2024-12-07T19:29:41+01:00",
