@@ -110,5 +110,20 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-TH-AP-W115-20241207-001",
+    "version": 5,
+    "startDate": "2024-12-07T10:01:32+01:00",
+    "expiresDate": "2024-12-07T16:01:32+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenenprobealarm - Weimarer Land"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
