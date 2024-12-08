@@ -112,5 +112,20 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-AC-SE090-20241208-90-001",
+    "version": 5,
+    "startDate": "2024-12-08T17:37:33+01:00",
+    "expiresDate": "2024-12-08T23:37:33+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Fehlerhaftes Auslösen einer Warnsirene im Bereich Eschweiler Röhe - Eschweiler"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
