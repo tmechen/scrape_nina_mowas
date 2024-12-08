@@ -96,5 +96,19 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20241208-000",
+    "version": 5,
+    "startDate": "2024-12-09T00:26:59+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brandeinsatz in Weinheim-Waid - Weinheim"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
