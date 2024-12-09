@@ -141,14 +141,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-OL-W015-20241209-000",
+    "id": "mow.DE-NI-OL-W015-20241209-001",
     "version": 5,
-    "startDate": "2024-12-09T21:27:06+01:00",
+    "startDate": "2024-12-09T22:09:38+01:00",
+    "expiresDate": "2024-12-10T04:09:38+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauch und Geruchsbelästigung durch Feuer - Ganderkesee"
+      "de": "Entwarnung: Rauch und Geruchsbelästigung durch Feuer - Ganderkesee"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
