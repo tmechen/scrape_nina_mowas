@@ -84,20 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-BL-W128-20241208-000",
-    "version": 5,
-    "startDate": "2024-12-08T19:34:41+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall - Burladingen, Stadtteil Hausen im Killertal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-SH-HL-SE103-20241209-103-000",
     "version": 5,
     "startDate": "2024-12-09T07:50:10+01:00",
@@ -112,14 +98,30 @@
     }
   },
   {
-    "id": "mow.DE-RP-WO-W242-20241209-000",
+    "id": "mow.DE-BW-BL-W128-20241209-000",
     "version": 5,
-    "startDate": "2024-12-09T11:58:15+01:00",
+    "startDate": "2024-12-09T12:32:12+01:00",
+    "expiresDate": "2024-12-09T18:32:12+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brandereigniss - Worms-Rheindürkheim"
+      "de": "Entwarnung: Stromausfall - Burladingen, Stadtteil Hausen im Killertal"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-RP-WO-W242-20241209-001",
+    "version": 5,
+    "startDate": "2024-12-09T12:43:05+01:00",
+    "expiresDate": "2024-12-09T18:43:05+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brandereigniss - Worms-Rheindürkheim"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
