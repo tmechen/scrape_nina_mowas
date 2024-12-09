@@ -126,5 +126,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20241209-33-001",
+    "version": 5,
+    "startDate": "2024-12-09T13:32:46+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Hamburg- Reitbrook"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
