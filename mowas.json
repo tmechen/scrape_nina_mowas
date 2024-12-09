@@ -125,5 +125,19 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20241209-106-000",
+    "version": 5,
+    "startDate": "2024-12-09T19:48:56+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Wasserversorgung - Gemeinde Söhrewald - Wellerode"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
