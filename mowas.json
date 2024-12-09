@@ -112,21 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20241209-33-002",
-    "version": 5,
-    "startDate": "2024-12-09T17:40:40+01:00",
-    "expiresDate": "2024-12-09T23:40:40+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Hamburg- Reitbrook"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20241209-106-000",
     "version": 5,
     "startDate": "2024-12-09T19:48:56+01:00",
