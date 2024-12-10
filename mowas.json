@@ -84,20 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-HL-SE103-20241209-103-000",
-    "version": 5,
-    "startDate": "2024-12-09T07:50:10+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasserwarnung - Lübeck"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20241209-143-000",
     "version": 5,
     "startDate": "2024-12-09T16:23:44+01:00",
@@ -138,6 +124,21 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-SH-HL-SE103-20241210-103-000",
+    "version": 5,
+    "startDate": "2024-12-10T07:34:18+01:00",
+    "expiresDate": "2024-12-10T13:34:18+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hochwasserwarnung - Lübeck"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
