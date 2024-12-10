@@ -127,20 +127,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20241210-105-000",
-    "version": 5,
-    "startDate": "2024-12-10T13:42:47+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase durch Schadensfeuer - Schwarzenbek, Möllner Straße,Kerntangente,Grandstieg, sowie Körnerplatz"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20241210-28-000",
     "version": 5,
     "startDate": "2024-12-10T15:09:35+01:00",
@@ -149,6 +135,21 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Feuerwehreinsatz - Norderstedt"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20241210-105-001",
+    "version": 5,
+    "startDate": "2024-12-10T15:38:03+01:00",
+    "expiresDate": "2024-12-10T21:38:03+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase durch Schadensfeuer - Schwarzenbek, Möllner Straße,Kerntangente,Grandstieg, sowie Körnerplatz"
     },
     "transKeys": {
       "event": "BBK-EVC-010"
