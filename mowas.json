@@ -98,21 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MS-SE043-20241210-43-003",
-    "version": 5,
-    "startDate": "2024-12-10T16:17:26+01:00",
-    "expiresDate": "2024-12-10T22:17:26+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund MS - Münster - Steinfurterstraße"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-DO-SE067-20241210-67-001",
     "version": 5,
     "startDate": "2024-12-10T17:49:09+01:00",
