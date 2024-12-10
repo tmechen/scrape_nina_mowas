@@ -84,21 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20241210-67-001",
-    "version": 5,
-    "startDate": "2024-12-10T17:49:09+01:00",
-    "expiresDate": "2024-12-10T23:49:09+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Blindgänger-Entschärfung an der Nierhausstraße - Dortmund"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20241210-106-001",
     "version": 5,
     "startDate": "2024-12-10T23:02:16+01:00",
