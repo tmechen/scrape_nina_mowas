@@ -139,5 +139,20 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-VIE-SE074-20241210-74-000",
+    "version": 5,
+    "startDate": "2024-12-10T02:20:11+01:00",
+    "expiresDate": "2024-12-10T08:20:11+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brandereignis - Bockert, Hoser, Helenabrunn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
