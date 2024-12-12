@@ -98,5 +98,19 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-HN-W045-20241212-000",
+    "version": 5,
+    "startDate": "2024-12-12T10:44:34+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kreisweiter Test der Warnsysteme - Landkreis Heilbronn"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
