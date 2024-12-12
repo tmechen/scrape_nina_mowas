@@ -84,14 +84,15 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20241212-33-000",
+    "id": "mow.DE-HH-HH-SE033-20241212-33-001",
     "version": 5,
-    "startDate": "2024-12-12T06:16:54+01:00",
+    "startDate": "2024-12-12T07:54:34+01:00",
+    "expiresDate": "2024-12-12T13:54:34+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Brand - Hamburg-Hammerbrook"
+      "de": "Entwarnung: Starke Rauchentwicklung durch Brand - Hamburg-Hammerbrook"
     },
     "transKeys": {
       "event": "BBK-EVC-030"
