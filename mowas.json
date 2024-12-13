@@ -113,14 +113,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-BT-W082-20241213-002",
+    "id": "mow.DE-BY-BT-W082-20241213-003",
     "version": 5,
-    "startDate": "2024-12-13T22:19:22+01:00",
+    "startDate": "2024-12-13T23:06:17+01:00",
+    "expiresDate": "2024-12-14T05:06:17+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung aufgrund Dachstuhlbrand - Waischenfeld",
+      "de": "Entwarnung: Rauchentwicklung aufgrund Dachstuhlbrand - Waischenfeld",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
