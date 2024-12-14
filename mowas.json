@@ -70,27 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WM-W167-20241212-000",
-    "version": 5,
-    "startDate": "2024-12-12T18:21:04+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Fäkalkeime in Trinkwasser - gesamte Ort Mittenwald, Außenbereiche Schmalensee, Buckelwiesen, Am Horn",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20241214-001",
     "version": 5,
     "startDate": "2024-12-14T11:03:42+01:00",
@@ -110,6 +89,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-BY-WM-W167-20241214-000",
+    "version": 5,
+    "startDate": "2024-12-14T13:52:23+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Trinkwasserkontamination Mittenwald Aktualisierung - gesamte Ort Mittenwald, Außenbereiche Schmalensee, Buckelwiesen, Am Horn",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
