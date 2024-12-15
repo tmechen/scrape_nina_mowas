@@ -91,27 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20241214-29-000",
-    "version": 5,
-    "startDate": "2024-12-14T16:18:18+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchgase in Syke Ristedt - Syke Ristedt, Ristedter Hauptstraße",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-LIP-SE041-20241214-41-001",
     "version": 5,
     "startDate": "2024-12-14T22:57:53+01:00",
@@ -131,6 +110,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20241215-29-000",
+    "version": 5,
+    "startDate": "2024-12-15T02:42:37+01:00",
+    "expiresDate": "2024-12-15T08:42:37+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase in Syke Ristedt - Syke Ristedt, Ristedter Hauptstraße",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
