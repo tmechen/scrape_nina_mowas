@@ -176,14 +176,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-GE-SE064-20241216-64-000",
+    "id": "mow.DE-NW-GE-SE064-20241216-64-001",
     "version": 5,
-    "startDate": "2024-12-16T20:37:17+01:00",
+    "startDate": "2024-12-16T23:00:44+01:00",
+    "expiresDate": "2024-12-17T05:00:44+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung und Geruchsbelästigung durch ein Brandereignis - Gelsenkirchen - Beckhausen",
+      "de": "Entwarnung: Rauchentwicklung und Geruchsbelästigung durch ein Brandereignis - Gelsenkirchen - Beckhausen",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
