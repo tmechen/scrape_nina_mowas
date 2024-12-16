@@ -91,28 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20241216-89-001",
-    "version": 5,
-    "startDate": "2024-12-16T10:57:35+01:00",
-    "expiresDate": "2024-12-16T16:57:35+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Dachstuhlbrand - Werl Ortsteil Büderich",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-WW-SE116-20241216-123-000",
     "version": 5,
     "startDate": "2024-12-16T13:02:47+01:00",
@@ -176,9 +154,9 @@
     }
   },
   {
-    "id": "mow.DE-ST-SK-W070-20241216-001",
+    "id": "mow.DE-ST-SK-W070-20241216-002",
     "version": 5,
-    "startDate": "2024-12-16T16:45:46+01:00",
+    "startDate": "2024-12-16T17:17:05+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
