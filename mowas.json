@@ -91,28 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-WW-SE116-20241217-123-001",
-    "version": 5,
-    "startDate": "2024-12-17T13:42:29+01:00",
-    "expiresDate": "2024-12-17T19:42:29+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandgase durch Gebäudebrand Wissen Walzwerkstraße - 57537 Wissen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-BOT-SE062-20241217-62-001",
     "version": 5,
     "startDate": "2024-12-17T15:00:36+01:00",
