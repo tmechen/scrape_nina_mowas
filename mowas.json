@@ -91,14 +91,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-WO-W242-20241218-000",
+    "id": "mow.DE-RP-WO-W242-20241218-001",
     "version": 5,
-    "startDate": "2024-12-18T08:48:31+01:00",
+    "startDate": "2024-12-18T12:09:39+01:00",
+    "expiresDate": "2024-12-18T18:09:39+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenentest - Stadt Worms",
+      "de": "Entwarnung: Sirenentest - Stadt Worms",
       "en": "Siren test",
       "ar": "تجربة صفارة الإنذار",
       "es": "Prueba de sirena",
