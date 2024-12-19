@@ -28,20 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20240912-001",
-    "version": 5,
-    "startDate": "2024-09-12T15:13:53+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Abkochgebot ab Mittwoch 24.07.2024 - Gemeinde Bibertal"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20241205-000",
     "version": 5,
     "startDate": "2024-12-05T08:22:51+01:00",
@@ -95,6 +81,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20241219-000",
+    "version": 5,
+    "startDate": "2024-12-19T08:27:25+01:00",
+    "expiresDate": "2024-12-19T14:27:25+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Abkochgebot ab Mittwoch 24.07.2024 - Gemeinde Bibertal",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
