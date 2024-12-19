@@ -168,14 +168,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-NW-W244-20241219-000",
+    "id": "mow.DE-RP-NW-W244-20241219-001",
     "version": 5,
-    "startDate": "2024-12-19T18:18:36+01:00",
+    "startDate": "2024-12-19T19:38:21+01:00",
+    "expiresDate": "2024-12-20T01:38:21+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke durch Dachstuhlbrand - Lachen-Speyerdorf",
+      "de": "Entwarnung: Rauchwolke durch Dachstuhlbrand - Lachen-Speyerdorf",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
