@@ -105,27 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-OB-SE055-20241219-55-000",
-    "version": 5,
-    "startDate": "2024-12-19T17:51:12+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung am Centro Oberhausen - Oberhausen",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20241219-002",
     "version": 5,
     "startDate": "2024-12-19T17:54:36+01:00",
@@ -229,6 +208,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-NW-OB-SE055-20241219-55-001",
+    "version": 5,
+    "startDate": "2024-12-19T22:32:37+01:00",
+    "expiresDate": "2024-12-20T04:32:37+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung am Centro Oberhausen - Oberhausen",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
