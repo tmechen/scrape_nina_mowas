@@ -77,28 +77,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KL-SE112-20241219-112-000",
-    "version": 5,
-    "startDate": "2024-12-19T01:56:31+01:00",
-    "expiresDate": "2024-12-19T07:56:31+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gebäudebrand Steinwenden, Ortsteil Weltersbach - Steinwenden, Ortsteil Weltersbach",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-MK-SE095-20241219-95-000",
     "version": 5,
     "startDate": "2024-12-19T05:45:32+01:00",
