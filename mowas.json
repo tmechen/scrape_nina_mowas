@@ -63,27 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20241219-002",
-    "version": 5,
-    "startDate": "2024-12-19T17:54:36+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor einer Sturmflut - Elbegebiet",
-      "en": "Storm surge",
-      "ar": "فيضان جراء عاصفة",
-      "es": "Marejada",
-      "fr": "Onde de tempête",
-      "pl": "Powódź spowodowana sztormem",
-      "ru": "Штормовой нагон",
-      "tr": "Fırtına seli"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20241219-004",
     "version": 5,
     "startDate": "2024-12-19T20:09:09+01:00",
@@ -200,6 +179,28 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Warnung vor einer Sturmflut - Nordfriesische Küste",
+      "en": "Storm surge",
+      "ar": "فيضان جراء عاصفة",
+      "es": "Marejada",
+      "fr": "Onde de tempête",
+      "pl": "Powódź spowodowana sztormem",
+      "ru": "Штормовой нагон",
+      "tr": "Fırtına seli"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20241220-003",
+    "version": 5,
+    "startDate": "2024-12-20T07:44:44+01:00",
+    "expiresDate": "2024-12-20T13:44:44+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einer Sturmflut - Elbegebiet",
       "en": "Storm surge",
       "ar": "فيضان جراء عاصفة",
       "es": "Marejada",
