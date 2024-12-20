@@ -63,28 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20241220-000",
-    "version": 5,
-    "startDate": "2024-12-20T04:17:33+01:00",
-    "expiresDate": "2024-12-20T10:17:33+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut - Ostfriesische Küste",
-      "en": "Storm surge",
-      "ar": "فيضان جراء عاصفة",
-      "es": "Marejada",
-      "fr": "Onde de tempête",
-      "pl": "Powódź spowodowana sztormem",
-      "ru": "Штормовой нагон",
-      "tr": "Fırtına seli"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-BB-CB-SE036-20241220-36-000",
     "version": 5,
     "startDate": "2024-12-20T06:00:04+01:00",
