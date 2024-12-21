@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-WM-W167-20241214-000",
+    "id": "mow.DE-BY-WM-W167-20241221-000",
     "version": 5,
-    "startDate": "2024-12-14T13:52:23+01:00",
+    "startDate": "2024-12-21T21:03:56+01:00",
+    "expiresDate": "2024-12-22T03:03:56+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Trinkwasserkontamination Mittenwald Aktualisierung - gesamte Ort Mittenwald, Außenbereiche Schmalensee, Buckelwiesen, Am Horn",
+      "de": "Entwarnung: Trinkwasserkontamination Mittenwald ENTWARNUNG - gesamte Ort Mittenwald, Außenbereiche Schmalensee, Buckelwiesen, Am Horn",
       "en": "Contaminated drinking water",
       "ar": "تلوث مياه الشرب",
       "es": "Contaminación de agua potable",
