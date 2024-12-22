@@ -167,5 +167,26 @@
     "transKeys": {
       "event": "BBK-EVC-065"
     }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20241222-33-000",
+    "version": 5,
+    "startDate": "2024-12-22T21:20:54+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sturmflut um 09:32 Uhr (23.12.) zw. +3,6 und +4,1 m üb. NHN. - Hamburger Elbgebiet",
+      "en": "Storm surge",
+      "ar": "فيضان جراء عاصفة",
+      "es": "Marejada",
+      "fr": "Onde de tempête",
+      "pl": "Powódź spowodowana sztormem",
+      "ru": "Штормовой нагон",
+      "tr": "Fırtına seli"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
   }
 ]
