@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20241222-31-000",
+    "id": "mow.DE-NW-K-SE031-20241222-31-001",
     "version": 5,
-    "startDate": "2024-12-22T09:41:27+01:00",
+    "startDate": "2024-12-22T12:26:17+01:00",
+    "expiresDate": "2024-12-22T18:26:17+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "großräumige Rauchausbreitung - Köln im Bereich Ebertplatz/Theodor-Heuss-Ring",
+      "de": "Entwarnung: großräumige Rauchausbreitung - Köln im Bereich Ebertplatz/Theodor-Heuss-Ring",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
