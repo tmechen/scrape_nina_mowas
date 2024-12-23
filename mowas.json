@@ -42,50 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20241223-001",
-    "version": 5,
-    "startDate": "2024-12-23T07:07:17+01:00",
-    "expiresDate": "2024-12-23T13:07:17+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut - Nordfriesische Küste",
-      "en": "Storm surge",
-      "ar": "فيضان جراء عاصفة",
-      "es": "Marejada",
-      "fr": "Onde de tempête",
-      "pl": "Powódź spowodowana sztormem",
-      "ru": "Штормовой нагон",
-      "tr": "Fırtına seli"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-W240-20241223-002",
-    "version": 5,
-    "startDate": "2024-12-23T07:38:20+01:00",
-    "expiresDate": "2024-12-23T13:38:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut - Wesergebiet",
-      "en": "Storm surge",
-      "ar": "فيضان جراء عاصفة",
-      "es": "Marejada",
-      "fr": "Onde de tempête",
-      "pl": "Powódź spowodowana sztormem",
-      "ru": "Штормовой нагон",
-      "tr": "Fırtına seli"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20241223-005",
     "version": 5,
     "startDate": "2024-12-23T09:00:20+01:00",
