@@ -64,14 +64,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20241224-99-000",
+    "id": "mow.DE-SH-KI-SE099-20241224-99-001",
     "version": 5,
-    "startDate": "2024-12-24T06:36:02+01:00",
+    "startDate": "2024-12-24T11:40:26+01:00",
+    "expiresDate": "2024-12-24T17:40:26+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall der Stromversorgung in Teilen von Rendsburg - Stadt Rendsburg",
+      "de": "Entwarnung: Ausfall der Stromversorgung in Teilen von Rendsburg - Stadt Rendsburg",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
