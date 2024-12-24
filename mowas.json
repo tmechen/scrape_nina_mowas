@@ -85,14 +85,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-M-SE125-20241224-153-000",
+    "id": "mow.DE-BY-M-SE125-20241224-153-001",
     "version": 5,
-    "startDate": "2024-12-24T15:58:17+01:00",
+    "startDate": "2024-12-24T17:39:33+01:00",
+    "expiresDate": "2024-12-24T23:39:33+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung mit Geruchsbelästigung - München, Altstadt, Lehel",
+      "de": "Entwarnung: Rauchentwicklung mit Geruchsbelästigung - München, Altstadt, Lehel",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
