@@ -42,28 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-HGW-W005-20241227-001",
-    "version": 5,
-    "startDate": "2024-12-27T21:26:24+01:00",
-    "expiresDate": "2024-12-28T03:26:24+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: FEUERWEHREINSATZ - Stadt Usedom",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-ST-BOE-W041-20241227-001",
     "version": 5,
     "startDate": "2024-12-28T00:47:44+01:00",
