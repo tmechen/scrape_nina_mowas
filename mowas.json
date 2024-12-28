@@ -42,27 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-BOE-W041-20241227-001",
-    "version": 5,
-    "startDate": "2024-12-28T00:47:44+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Rauchgase - 39397",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-ST-HZ-W050-20241228-000",
     "version": 5,
     "startDate": "2024-12-28T08:54:36+01:00",
@@ -104,6 +83,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-ST-BOE-W041-20241228-000",
+    "version": 5,
+    "startDate": "2024-12-28T11:28:47+01:00",
+    "expiresDate": "2024-12-28T17:28:47+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Rauchgase - 39397",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
