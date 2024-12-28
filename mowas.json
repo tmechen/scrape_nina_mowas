@@ -63,14 +63,15 @@
     }
   },
   {
-    "id": "mow.DE-ST-HZ-W050-20241227-000",
+    "id": "mow.DE-ST-HZ-W050-20241228-000",
     "version": 5,
-    "startDate": "2024-12-28T00:54:59+01:00",
+    "startDate": "2024-12-28T08:54:36+01:00",
+    "expiresDate": "2024-12-28T14:54:36+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung durch Rauchgase - 39397",
+      "de": "Entwarnung: Geruchsbelästigung durch Rauchgase - 39397",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
