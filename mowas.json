@@ -42,27 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-LOE-W023-20241229-001",
-    "version": 5,
-    "startDate": "2024-12-29T05:39:17+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Brandereignis in Lörrach - Lörrach, Lörrach Stadtbereich bis an die Schweizergrenze",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-ME-SE071-20241229-71-000",
     "version": 5,
     "startDate": "2024-12-29T11:58:02+01:00",
@@ -81,6 +60,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-075"
+    }
+  },
+  {
+    "id": "mow.DE-BW-LOE-W023-20241229-002",
+    "version": 5,
+    "startDate": "2024-12-29T13:06:19+01:00",
+    "expiresDate": "2024-12-29T19:06:19+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandereignis in Lörrach - Lörrach, Lörrach Stadtbereich bis an die Schweizergrenze",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
