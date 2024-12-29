@@ -64,14 +64,15 @@
     }
   },
   {
-    "id": "mow.DE-MV-NB-W076-20241229-000",
+    "id": "mow.DE-TH-G-W109-20241229-001",
     "version": 5,
-    "startDate": "2024-12-29T19:48:48+01:00",
+    "startDate": "2024-12-29T20:24:43+01:00",
+    "expiresDate": "2024-12-30T02:24:43+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuer Environplasma Verwertungscenter  - Friedland",
+      "de": "Entwarnung: Beeinträchtigung durch Brandgase - Gera",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -85,15 +86,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20241229-001",
+    "id": "mow.DE-MV-NB-W076-20241229-001",
     "version": 5,
-    "startDate": "2024-12-29T20:24:43+01:00",
-    "expiresDate": "2024-12-30T02:24:43+01:00",
+    "startDate": "2024-12-29T21:23:02+01:00",
+    "expiresDate": "2024-12-30T03:23:02+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Beeinträchtigung durch Brandgase - Gera",
+      "de": "Entwarnung: Feuer Environplasma Verwertungscenter  - Friedland",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
