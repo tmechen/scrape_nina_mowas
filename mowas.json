@@ -61,5 +61,26 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-ME-SE071-20241229-71-000",
+    "version": 5,
+    "startDate": "2024-12-29T11:58:02+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rutschgefahr durch Ölspur - Haan",
+      "en": "Traffic alert",
+      "ar": "تحذير مروري",
+      "es": "Advertencia de tráfico",
+      "fr": "Alerte trafic",
+      "pl": "Ostrzeżenie drogowe",
+      "ru": "Предупреждение о ситуации на дороге",
+      "tr": "Trafik uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-075"
+    }
   }
 ]
