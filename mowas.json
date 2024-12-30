@@ -50,9 +50,9 @@
     }
   },
   {
-    "id": "mow.DE-RP-AW-W255-20241230-000",
+    "id": "mow.DE-RP-MZ-SE003-20241230-3-000",
     "version": 5,
-    "startDate": "2024-12-30T13:07:08+01:00",
+    "startDate": "2024-12-30T13:42:13+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
@@ -71,14 +71,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE003-20241230-3-000",
+    "id": "mow.DE-RP-AW-W255-20241230-001",
     "version": 5,
-    "startDate": "2024-12-30T13:42:13+01:00",
+    "startDate": "2024-12-30T16:29:46+01:00",
+    "expiresDate": "2024-12-30T22:29:46+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke durch Großbrand einer Lagerhalle - Remagen-Kripp",
+      "de": "Entwarnung: Rauchwolke durch Großbrand einer Lagerhalle - Remagen-Kripp",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
