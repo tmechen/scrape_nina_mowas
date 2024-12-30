@@ -28,14 +28,22 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20241205-000",
+    "id": "mow.DE-BY-IN-W139-20241230-000",
     "version": 5,
-    "startDate": "2024-12-05T08:22:51+01:00",
+    "startDate": "2024-12-30T12:22:21+01:00",
+    "expiresDate": "2024-12-30T18:22:21+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Fäkalkeime im Trinkwassernetz der Beinberggruppe nachgewiesen! - Gachenbach und Aresing"
+      "de": "Entwarnung: Fäkalkeime im Trinkwassernetz der Beinberggruppe nachgewiesen! - Gachenbach und Aresing",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
     },
     "transKeys": {
       "event": "BBK-EVC-069"
