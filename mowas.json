@@ -42,28 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-NB-W076-20241229-001",
-    "version": 5,
-    "startDate": "2024-12-29T21:23:02+01:00",
-    "expiresDate": "2024-12-30T03:23:02+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuer Environplasma Verwertungscenter  - Friedland",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-BO-SE077-20241230-77-002",
     "version": 5,
     "startDate": "2024-12-30T03:30:20+01:00",
