@@ -28,14 +28,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-W108-20250102-000",
+    "id": "mow.DE-TH-EF-W108-20250102-001",
     "version": 5,
-    "startDate": "2025-01-02T16:27:46+01:00",
+    "startDate": "2025-01-02T20:01:12+01:00",
+    "expiresDate": "2025-01-03T02:01:12+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in Erfurt - Stadt Erfurt, Ortsteil Sulzer Siedlung",
+      "de": "Entwarnung: Brand in Erfurt - Stadt Erfurt, Ortsteil Sulzer Siedlung",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
