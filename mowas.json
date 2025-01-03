@@ -28,27 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GE-SE064-20250103-64-000",
-    "version": 5,
-    "startDate": "2025-01-03T06:56:05+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung aufgrund eines Brandereignisses - Gelsenkirchen-Rotthausen",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-SN-GR-W208-20250103-000",
     "version": 5,
     "startDate": "2025-01-03T12:02:49+01:00",
@@ -89,6 +68,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-GE-SE064-20250103-64-001",
+    "version": 5,
+    "startDate": "2025-01-03T18:09:11+01:00",
+    "expiresDate": "2025-01-04T00:09:11+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung aufgrund eines Brandereignisses - Gelsenkirchen-Rotthausen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
