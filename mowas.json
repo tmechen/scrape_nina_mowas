@@ -70,5 +70,26 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-SN-GR-W208-20250103-002",
+    "version": 5,
+    "startDate": "2025-01-03T21:52:56+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Glätte durch Schnee - Landkreise Bautzen (Westen, Mitte, Süden) und Görlitz (Mitte, Süden)",
+      "en": "Black ice",
+      "ar": "ثلج انزلاقي",
+      "es": "Superficies heladas",
+      "fr": "Verglas",
+      "pl": "Gołoledź",
+      "ru": "Гололед",
+      "tr": "Buzlanma"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-032"
+    }
   }
 ]
