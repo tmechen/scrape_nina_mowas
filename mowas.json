@@ -28,28 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-GR-W208-20250104-000",
-    "version": 5,
-    "startDate": "2025-01-04T05:36:39+01:00",
-    "expiresDate": "2025-01-04T11:36:39+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Glätte durch Schnee - Landkreise Bautzen (Westen, Mitte, Süden) und Görlitz (Mitte, Süden)",
-      "en": "Black ice",
-      "ar": "ثلج انزلاقي",
-      "es": "Superficies heladas",
-      "fr": "Verglas",
-      "pl": "Gołoledź",
-      "ru": "Гололед",
-      "tr": "Buzlanma"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-032"
-    }
-  },
-  {
     "id": "mow.DE-TH-AP-W115-20250104-001",
     "version": 5,
     "startDate": "2025-01-04T10:00:18+01:00",
@@ -116,14 +94,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20250104-000",
+    "id": "mow.DE-BY-IN-W139-20250104-001",
     "version": 5,
-    "startDate": "2025-01-04T11:26:37+01:00",
+    "startDate": "2025-01-04T11:34:07+01:00",
+    "expiresDate": "2025-01-04T17:34:07+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Probealarm Feuerwehr Landkreis Neuburg - Schrobenhausen - Neuburg-Schrobenhausen",
+      "de": "Entwarnung: Probealarm Feuerwehr Landkreis Neuburg - Schrobenhausen - Neuburg-Schrobenhausen",
       "en": "Siren test",
       "ar": "تجربة صفارة الإنذار",
       "es": "Prueba de sirena",
