@@ -28,14 +28,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-ST-SE032-20250106-165-001",
+    "id": "mow.DE-NW-ST-SE032-20250106-165-002",
     "version": 5,
-    "startDate": "2025-01-06T14:34:06+01:00",
+    "startDate": "2025-01-06T18:28:43+01:00",
+    "expiresDate": "2025-01-07T00:28:43+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Vorsorgliche Information - Wartungsarbeiten an der Telefonanlage - Kreis Steinfurt",
+      "de": "Entwarnung: Vorsorgliche Information - Wartungsarbeiten an der Telefonanlage - Kreis Steinfurt",
       "en": "Telephone line outage",
       "ar": "انقطاع خطوط الهاتف",
       "es": "Fallo de la línea telefónica",
