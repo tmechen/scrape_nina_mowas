@@ -50,14 +50,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-F-SE119-20250107-128-000",
+    "id": "mow.DE-HE-F-SE119-20250107-128-001",
     "version": 5,
-    "startDate": "2025-01-07T17:12:05+01:00",
+    "startDate": "2025-01-07T19:03:50+01:00",
+    "expiresDate": "2025-01-08T01:03:50+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelbeseitigung - Frankfurt-Bockenheim",
+      "de": "Entwarnung: Kampfmittelbeseitigung - Frankfurt-Bockenheim",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
