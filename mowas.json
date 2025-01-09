@@ -71,27 +71,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-AW-W255-20250109-001",
-    "version": 5,
-    "startDate": "2025-01-09T14:17:49+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall in der Ortsgemeinde Lind - Ortsgemeinde Lind",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-RP-AW-W255-20250109-002",
     "version": 5,
     "startDate": "2025-01-09T14:24:01+01:00",
@@ -152,6 +131,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-084"
+    }
+  },
+  {
+    "id": "mow.DE-RP-AW-W255-20250109-003",
+    "version": 5,
+    "startDate": "2025-01-09T15:51:22+01:00",
+    "expiresDate": "2025-01-09T21:51:22+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall in der Ortsgemeinde Lind - Ortsgemeinde Lind",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ST-SE032-20250109-165-000",
+    "version": 5,
+    "startDate": "2025-01-09T15:53:37+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vorsorgliche Information - Wartungsarbeiten an der Telefonanlage - Kreis Steinfurt",
+      "en": "Telephone line outage",
+      "ar": "انقطاع خطوط الهاتف",
+      "es": "Fallo de la línea telefónica",
+      "fr": "Défaillance de la ligne téléphonique",
+      "pl": "Awaria linii telefonicznej",
+      "ru": "Отказ линии телефонной сети",
+      "tr": "Telefon hattı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
     }
   }
 ]
