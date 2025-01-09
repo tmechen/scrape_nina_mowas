@@ -49,27 +49,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-AW-W255-20250109-002",
-    "version": 5,
-    "startDate": "2025-01-09T14:24:01+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser / Wintereinbruch - Ahranliegergemeinde in der Verbandsgemeinde Altenahr",
-      "en": "Flooding",
-      "ar": "فيضان",
-      "es": "Inundación",
-      "fr": "Crue",
-      "pl": "Powódź",
-      "ru": "Наводнение",
-      "tr": "Sel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20250109-000",
     "version": 5,
     "startDate": "2025-01-09T14:43:24+01:00",
@@ -134,27 +113,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ST-SE032-20250109-165-000",
-    "version": 5,
-    "startDate": "2025-01-09T15:53:37+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vorsorgliche Information - Wartungsarbeiten an der Telefonanlage - Kreis Steinfurt",
-      "en": "Telephone line outage",
-      "ar": "انقطاع خطوط الهاتف",
-      "es": "Fallo de la línea telefónica",
-      "fr": "Défaillance de la ligne téléphonique",
-      "pl": "Awaria linii telefonicznej",
-      "ru": "Отказ линии телефонной сети",
-      "tr": "Telefon hattı arızası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-006"
-    }
-  },
-  {
     "id": "mow.DE-NI-HI-W229-20250109-001",
     "version": 5,
     "startDate": "2025-01-09T19:22:09+01:00",
@@ -174,6 +132,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-RP-AW-W255-20250109-004",
+    "version": 5,
+    "startDate": "2025-01-09T19:49:39+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasser / Wintereinbruch - Ahranliegergemeinden in der Verbandsgemeinde Altenahr",
+      "en": "Flooding",
+      "ar": "فيضان",
+      "es": "Inundación",
+      "fr": "Crue",
+      "pl": "Powódź",
+      "ru": "Наводнение",
+      "tr": "Sel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ST-SE032-20250109-165-002",
+    "version": 5,
+    "startDate": "2025-01-09T20:01:10+01:00",
+    "expiresDate": "2025-01-10T02:01:10+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Vorsorgliche Information - Wartungsarbeiten an der Telefonanlage - Kreis Steinfurt",
+      "en": "Telephone line outage",
+      "ar": "انقطاع خطوط الهاتف",
+      "es": "Fallo de la línea telefónica",
+      "fr": "Défaillance de la ligne téléphonique",
+      "pl": "Awaria linii telefonicznej",
+      "ru": "Отказ линии телефонной сети",
+      "tr": "Telefon hattı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
     }
   }
 ]
