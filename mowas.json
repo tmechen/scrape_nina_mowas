@@ -69,5 +69,68 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-RP-AW-W255-20250109-000",
+    "version": 5,
+    "startDate": "2025-01-09T14:05:53+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vorwarnung bei Hochwasser/Überflutung - Bad Neuenahr-Ahrweiler",
+      "en": "Flooding",
+      "ar": "فيضان",
+      "es": "Inundación",
+      "fr": "Crue",
+      "pl": "Powódź",
+      "ru": "Наводнение",
+      "tr": "Sel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-RP-AW-W255-20250109-001",
+    "version": 5,
+    "startDate": "2025-01-09T14:17:49+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall in der Ortsgemeinde Lind - Ortsgemeinde Lind",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-RP-AW-W255-20250109-002",
+    "version": 5,
+    "startDate": "2025-01-09T14:24:01+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hochwasser / Wintereinbruch - Ahranliegergemeinde in der Verbandsgemeinde Altenahr",
+      "en": "Flooding",
+      "ar": "فيضان",
+      "es": "Inundación",
+      "fr": "Crue",
+      "pl": "Powódź",
+      "ru": "Наводнение",
+      "tr": "Sel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
+    }
   }
 ]
