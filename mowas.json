@@ -49,50 +49,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-AW-W255-20250110-000",
-    "version": 5,
-    "startDate": "2025-01-10T07:42:20+01:00",
-    "expiresDate": "2025-01-10T13:42:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Vorwarnung bei Hochwasser/Überflutung - Bad Neuenahr-Ahrweiler",
-      "en": "Flooding",
-      "ar": "فيضان",
-      "es": "Inundación",
-      "fr": "Crue",
-      "pl": "Powódź",
-      "ru": "Наводнение",
-      "tr": "Sel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
-    "id": "mow.DE-NW-MK-SE095-20250110-95-000",
-    "version": 5,
-    "startDate": "2025-01-10T07:49:38+01:00",
-    "expiresDate": "2025-01-10T13:49:38+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor extreme Glätte und Schneebruch - Märkischer Kreis",
-      "en": "Extremely heavy snowfall",
-      "ar": "سقوط الجليد بشدة",
-      "es": "Nevada extrema",
-      "fr": "Chute de neige extrême",
-      "pl": "Ekstremalnie silne opady śniegu",
-      "ru": "Очень сильный снежный занос",
-      "tr": "Aşırı yoğun kar yağışı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-084"
-    }
-  },
-  {
     "id": "mow.DE-RP-AW-W255-20250110-001",
     "version": 5,
     "startDate": "2025-01-10T10:48:57+01:00",
