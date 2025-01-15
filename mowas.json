@@ -70,70 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-BB-W125-20250115-000",
-    "version": 5,
-    "startDate": "2025-01-15T08:46:54+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor extremer Glätte und Blitzeis - Landkreis Böblingen",
-      "en": "Extreme black ice",
-      "ar": "جليد شديد",
-      "es": "Superficies heladas extremas",
-      "fr": "Verglas extrême",
-      "pl": "Ekstremalne oblodzenie",
-      "ru": "Экстремальный гололед",
-      "tr": "Şiddetli buzlanma"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-024"
-    }
-  },
-  {
-    "id": "mow.DE-NW-SI-SE066-20250115-66-001",
-    "version": 5,
-    "startDate": "2025-01-15T09:54:54+01:00",
-    "expiresDate": "2025-01-15T15:54:54+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Glätte im Kreisgebiet  - Kreis Siegen-Wittgenstein",
-      "en": "Black ice",
-      "ar": "ثلج انزلاقي",
-      "es": "Superficies heladas",
-      "fr": "Verglas",
-      "pl": "Gołoledź",
-      "ru": "Гололед",
-      "tr": "Buzlanma"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-032"
-    }
-  },
-  {
-    "id": "mow.DE-BW-LB-W026-20250115-001",
-    "version": 5,
-    "startDate": "2025-01-15T12:59:58+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Aktualisierung der Warnung vor extremer Glätte - Landkrreids Ludwigsburg",
-      "en": "Extreme black ice",
-      "ar": "جليد شديد",
-      "es": "Superficies heladas extremas",
-      "fr": "Verglas extrême",
-      "pl": "Ekstremalne oblodzenie",
-      "ru": "Экстремальный гололед",
-      "tr": "Şiddetli buzlanma"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-024"
-    }
-  },
-  {
     "id": "mow.DE-BY-AN-W166-20250115-002",
     "version": 5,
     "startDate": "2025-01-15T14:49:17+01:00",
@@ -165,6 +101,50 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Glatteis - Witterungsbedingter Schulausfall - Landkreis Ansbach und Stadt Ansbach",
+      "en": "Extreme black ice",
+      "ar": "جليد شديد",
+      "es": "Superficies heladas extremas",
+      "fr": "Verglas extrême",
+      "pl": "Ekstremalne oblodzenie",
+      "ru": "Экстремальный гололед",
+      "tr": "Şiddetli buzlanma"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-024"
+    }
+  },
+  {
+    "id": "mow.DE-BW-BB-W125-20250115-001",
+    "version": 5,
+    "startDate": "2025-01-15T15:51:19+01:00",
+    "expiresDate": "2025-01-15T21:51:19+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor extremer Glätte und Blitzeis - Landkreis Böblingen",
+      "en": "Extreme black ice",
+      "ar": "جليد شديد",
+      "es": "Superficies heladas extremas",
+      "fr": "Verglas extrême",
+      "pl": "Ekstremalne oblodzenie",
+      "ru": "Экстремальный гололед",
+      "tr": "Şiddetli buzlanma"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-024"
+    }
+  },
+  {
+    "id": "mow.DE-BW-LB-W026-20250115-002",
+    "version": 5,
+    "startDate": "2025-01-15T16:16:39+01:00",
+    "expiresDate": "2025-01-15T22:16:39+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Aktualisierung der Warnung vor extremer Glätte - Landkrreids Ludwigsburg",
       "en": "Extreme black ice",
       "ar": "جليد شديد",
       "es": "Superficies heladas extremas",
