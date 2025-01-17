@@ -49,36 +49,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-DU-SE038-20250116-38-001",
+    "id": "mow.DE-BY-LA-W144-20250117-002",
     "version": 5,
-    "startDate": "2025-01-16T23:11:55+01:00",
-    "expiresDate": "2025-01-17T05:11:55+01:00",
-    "severity": "Minor",
+    "startDate": "2025-01-17T05:31:21+01:00",
+    "expiresDate": "2025-01-17T11:31:21+01:00",
+    "severity": "Severe",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Wichtige Information der Stadt Duisburg (Kampfmittelfund)  - Duisburg - Walsum",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-BY-LA-W144-20250117-001",
-    "version": 5,
-    "startDate": "2025-01-17T02:50:56+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "41 - Brand - Neustadt/Do., Mühlhausen, Geibenstetten, Mauern, Schwaig, Münchsmünster",
+      "de": "Entwarnung: 41 - Brand - Neustadt/Do., Mühlhausen, Geibenstetten, Mauern, Schwaig, Münchsmünster",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
@@ -92,14 +71,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20250117-001",
+    "id": "mow.DE-BY-IN-W139-20250117-002",
     "version": 5,
-    "startDate": "2025-01-17T04:35:08+01:00",
+    "startDate": "2025-01-17T05:34:30+01:00",
+    "expiresDate": "2025-01-17T11:34:30+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Bei einem Brand kommt es zu starker Rauchentwicklung.  - Münchsmünster",
+      "de": "Entwarnung: ENTWARNUNG - Bei einem Brand kommt es zu starker Rauchentwicklung.  - Münchsmünster",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
