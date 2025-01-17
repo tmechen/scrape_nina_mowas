@@ -49,28 +49,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HX-SE092-20250116-92-001",
-    "version": 5,
-    "startDate": "2025-01-16T22:24:38+01:00",
-    "expiresDate": "2025-01-17T04:24:38+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke und Geruchsbelästigung  - Nieheim",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-DU-SE038-20250116-38-001",
     "version": 5,
     "startDate": "2025-01-16T23:11:55+01:00",
@@ -93,14 +71,14 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20250117-000",
+    "id": "mow.DE-BY-LA-W144-20250117-001",
     "version": 5,
-    "startDate": "2025-01-17T02:32:40+01:00",
+    "startDate": "2025-01-17T02:50:56+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Bei einem Brand kommt es zu starker Rauchentwicklung.  - Münchsmünster",
+      "de": "41 - Brand - Neustadt/Do., Mühlhausen, Geibenstetten, Mauern, Schwaig, Münchsmünster",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
@@ -114,14 +92,14 @@
     }
   },
   {
-    "id": "mow.DE-BY-LA-W144-20250117-001",
+    "id": "mow.DE-BY-IN-W139-20250117-001",
     "version": 5,
-    "startDate": "2025-01-17T02:50:56+01:00",
+    "startDate": "2025-01-17T04:35:08+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
     "type": "Update",
     "i18nTitle": {
-      "de": "41 - Brand - Neustadt/Do., Mühlhausen, Geibenstetten, Mauern, Schwaig, Münchsmünster",
+      "de": "Bei einem Brand kommt es zu starker Rauchentwicklung.  - Münchsmünster",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
