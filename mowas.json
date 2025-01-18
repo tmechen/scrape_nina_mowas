@@ -113,27 +113,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-GF-W216-20250118-000",
-    "version": 5,
-    "startDate": "2025-01-18T11:30:13+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Probealarm zur Warnung der Bevölkerung im Landkreis Gifhorn - Landkreis Gifhorn",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20250118-12-001",
     "version": 5,
     "startDate": "2025-01-18T12:05:15+01:00",
@@ -153,6 +132,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NI-GF-W216-20250118-001",
+    "version": 5,
+    "startDate": "2025-01-18T12:15:16+01:00",
+    "expiresDate": "2025-01-18T18:15:16+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Probealarm zur Warnung der Bevölkerung im Landkreis Gifhorn - Landkreis Gifhorn",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
     }
   }
 ]
