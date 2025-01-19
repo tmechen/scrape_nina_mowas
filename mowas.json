@@ -49,28 +49,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-NB-W076-20250119-000",
-    "version": 5,
-    "startDate": "2025-01-19T13:34:28+01:00",
-    "expiresDate": "2025-01-19T19:34:28+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sprengung der Nordbrücke über die Bahngleise in Waren (Müritz) - Schwe - Waren (Müritz) Schweriner Damm Eisenbahnbrücke B192 am Sonntag, 19.01.2025",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NI-NOM-W210-20250119-000",
     "version": 5,
     "startDate": "2025-01-19T15:19:13+01:00",
@@ -146,6 +124,27 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Großbrand - Pfullingen",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-W-SE061-20250119-61-000",
+    "version": 5,
+    "startDate": "2025-01-19T19:59:48+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase - Wuppertal",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
