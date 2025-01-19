@@ -91,35 +91,15 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20250119-35-000",
+    "id": "mow.DE-BW-WN-W053-20250119-001",
     "version": 5,
-    "startDate": "2025-01-19T07:01:16+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Entschärfung Weltkriegsbombe - Lebach",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-BW-WN-W053-20250119-000",
-    "version": 5,
-    "startDate": "2025-01-19T08:00:29+01:00",
+    "startDate": "2025-01-19T10:44:46+01:00",
+    "expiresDate": "2025-01-19T16:44:46+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Durch Großbrand, starke Rauchentwicklung - Schorndorf",
+      "de": "Entwarnung: Durch Großbrand, starke Rauchentwicklung - Schorndorf",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -130,6 +110,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20250119-35-001",
+    "version": 5,
+    "startDate": "2025-01-19T10:45:07+01:00",
+    "expiresDate": "2025-01-19T16:45:07+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Entschärfung Weltkriegsbombe - Lebach",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
