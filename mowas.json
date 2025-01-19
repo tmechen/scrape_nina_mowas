@@ -156,5 +156,26 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NI-VER-W077-20250119-000",
+    "version": 5,
+    "startDate": "2025-01-19T15:44:30+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung in Dörverden - Dörverden Bahnhofbereich",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
