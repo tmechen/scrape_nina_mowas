@@ -93,14 +93,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-RO-W136-20250121-000",
+    "id": "mow.DE-BY-RO-W136-20250121-001",
     "version": 5,
-    "startDate": "2025-01-21T18:26:34+01:00",
+    "startDate": "2025-01-21T19:58:13+01:00",
+    "expiresDate": "2025-01-22T01:58:13+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand mit extremer Rauchentwicklung - Kiefersfelden",
+      "de": "Entwarnung: Großbrand mit extremer Rauchentwicklung - Kiefersfelden",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
