@@ -94,14 +94,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-NE-SE044-20250122-44-000",
+    "id": "mow.DE-NW-NE-SE044-20250122-44-001",
     "version": 5,
-    "startDate": "2025-01-22T16:00:33+01:00",
+    "startDate": "2025-01-22T18:48:14+01:00",
+    "expiresDate": "2025-01-23T00:48:14+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Bombenfund auf der Rennbahn, 41460 Neuss - Neuss- Innenstadt",
+      "de": "Entwarnung: Bombenfund auf der Rennbahn, 41460 Neuss - Neuss- Innenstadt",
       "en": "Bomb/ammunition discovery",
       "ar": "العثور على قنابل/ذخيرة",
       "es": "Hallazgo de bomba/munición",
