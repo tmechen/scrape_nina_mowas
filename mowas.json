@@ -28,50 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-AB-W169-20250123-003",
-    "version": 5,
-    "startDate": "2025-01-23T14:18:31+01:00",
-    "expiresDate": "2025-01-23T20:18:31+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung! - Kleinwallstadt, Großwallstadt, Niedernberg, Sulzbach, Soden, Obernburg u.A.",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NW-BOT-SE062-20250123-62-001",
-    "version": 5,
-    "startDate": "2025-01-23T14:29:55+01:00",
-    "expiresDate": "2025-01-23T20:29:55+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Stadt Bottrop (Stadtteil Boy) - Stadt Bottrop, Stadtteil Boy",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BW-UL-W127-20250123-000",
     "version": 5,
     "startDate": "2025-01-23T14:45:52+01:00",
