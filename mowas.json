@@ -156,5 +156,26 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20250125-105-000",
+    "version": 5,
+    "startDate": "2025-01-25T17:23:08+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Allgemeiner Schadensfall Trinkwasser - Bad Schwartau, Mittelstraße, Kirchenstraße",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
