@@ -91,14 +91,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20250125-56-000",
+    "id": "mow.DE-NW-ERK-SE056-20250126-56-000",
     "version": 5,
-    "startDate": "2025-01-25T21:03:03+01:00",
+    "startDate": "2025-01-26T03:12:13+01:00",
+    "expiresDate": "2025-01-26T09:12:13+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in Hückelhoven - Hückelhoven, Himmerich, Porselen",
+      "de": "Entwarnung: Rauchgase in Hückelhoven - Hückelhoven, Himmerich, Porselen",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
