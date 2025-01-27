@@ -70,28 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20250127-001",
-    "version": 5,
-    "startDate": "2025-01-27T18:21:04+01:00",
-    "expiresDate": "2025-01-28T00:21:04+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Evakuierungsmaßnahmen aufgrund Kampfmittelfund - Augsburg Haunstetten Nord",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20250127-99-003",
     "version": 5,
     "startDate": "2025-01-27T20:36:16+01:00",
