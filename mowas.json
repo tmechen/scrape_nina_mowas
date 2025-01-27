@@ -49,27 +49,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20250125-105-000",
-    "version": 5,
-    "startDate": "2025-01-25T17:23:08+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Allgemeiner Schadensfall Trinkwasser - Bad Schwartau, Mittelstraße, Kirchenstraße",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-ERK-SE056-20250126-56-001",
     "version": 5,
     "startDate": "2025-01-26T15:18:50+01:00",
@@ -153,6 +132,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20250127-105-000",
+    "version": 5,
+    "startDate": "2025-01-27T14:41:06+01:00",
+    "expiresDate": "2025-01-27T20:41:06+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Allgemeiner Schadensfall Trinkwasser - Bad Schwartau, Mittelstraße, Kirchenstraße",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
