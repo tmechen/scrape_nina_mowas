@@ -28,36 +28,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-F-SE119-20250128-128-002",
+    "id": "mow.DE-SN-DD-W094-20250129-000",
     "version": 5,
-    "startDate": "2025-01-28T20:08:56+01:00",
-    "expiresDate": "2025-01-29T02:08:56+01:00",
+    "startDate": "2025-01-29T02:40:48+01:00",
+    "expiresDate": "2025-01-29T08:40:48+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Brand im Stadtgebiet Gernsheim im Industriegebiet - Kreis Groß-Gerau | Stadt Gernsheim",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-SN-DD-W094-20250128-000",
-    "version": 5,
-    "startDate": "2025-01-28T21:44:11+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gasausströmung bei Bauarbeiten in der Grundstraße Ecke Bautzner Landstraße - Dresden-Bühlau",
+      "de": "Entwarnung: Gasausströmung bei Bauarbeiten in der Grundstraße Ecke Bautzner Landst - Dresden-Bühlau",
       "en": "Gas leak",
       "ar": "تسرب غاز",
       "es": "Escape de gas",
