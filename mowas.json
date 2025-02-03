@@ -72,14 +72,15 @@
     }
   },
   {
-    "id": "mow.DE-BB-BRB-SE081-20250203-81-000",
+    "id": "mow.DE-BB-BRB-SE081-20250203-81-001",
     "version": 5,
-    "startDate": "2025-02-03T15:15:48+01:00",
+    "startDate": "2025-02-03T16:45:27+01:00",
+    "expiresDate": "2025-02-03T22:45:27+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "starke Rauchentwicklung durch LKW- Brand auf Bundesautobahn A10 - nördlich der A10 Richtung Michendorf",
+      "de": "Entwarnung: starke Rauchentwicklung durch LKW- Brand auf Bundesautobahn A10 - nördlich der A10 Richtung Michendorf",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
