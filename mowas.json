@@ -28,28 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-BRB-SE081-20250203-81-001",
-    "version": 5,
-    "startDate": "2025-02-03T16:45:27+01:00",
-    "expiresDate": "2025-02-03T22:45:27+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung durch LKW- Brand auf Bundesautobahn A10 - nördlich der A10 Richtung Michendorf",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20250203-31-001",
     "version": 5,
     "startDate": "2025-02-03T18:23:15+01:00",
@@ -112,6 +90,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-005"
+    }
+  },
+  {
+    "id": "mow.DE-TH-J-W110-20250203-000",
+    "version": 5,
+    "startDate": "2025-02-03T22:51:09+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand mehrerer Strohballen - Schkölen, Grabsdorf",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
