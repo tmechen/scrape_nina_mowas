@@ -26,5 +26,26 @@
     "transKeys": {
       "event": "BBK-EVC-067"
     }
+  },
+  {
+    "id": "mow.DE-NW-OE-SE086-20250205-86-000",
+    "version": 5,
+    "startDate": "2025-02-05T06:57:09+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Glätte im Kreisgebiet  - Kreis Olpe",
+      "en": "Black ice",
+      "ar": "ثلج انزلاقي",
+      "es": "Superficies heladas",
+      "fr": "Verglas",
+      "pl": "Gołoledź",
+      "ru": "Гололед",
+      "tr": "Buzlanma"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-032"
+    }
   }
 ]
