@@ -93,14 +93,14 @@
     }
   },
   {
-    "id": "mow.DE-TH-SHL-W117-20250207-000",
+    "id": "mow.DE-HB-HB-SE076-20250207-137-000",
     "version": 5,
-    "startDate": "2025-02-07T10:58:37+01:00",
+    "startDate": "2025-02-07T12:41:36+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Großfeuer - Lauscha",
+      "de": "Rauchbelästigung im Bereich der Weserstaße - Bremerhaven",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -114,14 +114,15 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE076-20250207-137-000",
+    "id": "mow.DE-TH-SHL-W117-20250207-001",
     "version": 5,
-    "startDate": "2025-02-07T12:41:36+01:00",
+    "startDate": "2025-02-07T13:39:21+01:00",
+    "expiresDate": "2025-02-07T19:39:21+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchbelästigung im Bereich der Weserstaße - Bremerhaven",
+      "de": "Entwarnung: Rauchentwicklung durch Großfeuer - Lauscha",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
