@@ -49,27 +49,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-LDK-W187-20250209-000",
-    "version": 5,
-    "startDate": "2025-02-09T15:03:35+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Brandereignis - Mittenaar-Ballersbach",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20250209-106-001",
     "version": 5,
     "startDate": "2025-02-09T19:54:13+01:00",
