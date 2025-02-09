@@ -26,5 +26,26 @@
     "transKeys": {
       "event": "BBK-EVC-067"
     }
+  },
+  {
+    "id": "mow.DE-NI-NOM-W210-20250209-000",
+    "version": 5,
+    "startDate": "2025-02-09T09:01:05+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Schulausfall am Gymnasium Uslar aufgrund von Feuerwehreinsatz - Uslar",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
