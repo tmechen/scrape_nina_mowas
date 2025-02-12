@@ -68,5 +68,152 @@
     "transKeys": {
       "event": "BBK-EVC-005"
     }
+  },
+  {
+    "id": "mow.DE-BW-LOE-W023-20250212-000",
+    "version": 5,
+    "startDate": "2025-02-12T12:52:21+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Akute Gefahrenlage - Schwörstadt",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SU-SE057-20250212-57-000",
+    "version": 5,
+    "startDate": "2025-02-12T12:54:10+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Notruf 112 und 110 über NetCologne im Rhein-Sieg-Kreis - Rhein-Sieg-Kreis",
+      "en": "Emergency number outage",
+      "ar": "انقطاع اتصال الطوارئ",
+      "es": "Fallo del número de emergencias",
+      "fr": "Défaillance de l'appel d'urgence",
+      "pl": "Awaria połączenia alarmowego",
+      "ru": "Отказ системы вызова экстренных оперативных служб",
+      "tr": "Acil çağrı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
+    }
+  },
+  {
+    "id": "mow.DE-NW-LEV-SE046-20250212-46-000",
+    "version": 5,
+    "startDate": "2025-02-12T13:08:40+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stadtgebiet Leverkusen von Notrufstörung Festnetz betroffen - Leverkusen",
+      "en": "Emergency number outage",
+      "ar": "انقطاع اتصال الطوارئ",
+      "es": "Fallo del número de emergencias",
+      "fr": "Défaillance de l'appel d'urgence",
+      "pl": "Awaria połączenia alarmowego",
+      "ru": "Отказ системы вызова экстренных оперативных служб",
+      "tr": "Acil çağrı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BN-SE060-20250212-60-001",
+    "version": 5,
+    "startDate": "2025-02-12T13:13:00+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Notruf 112 und 110 über NetCologne in der Bundesstadt Bonn - Bundesstadt Bonn",
+      "en": "Emergency number outage",
+      "ar": "انقطاع اتصال الطوارئ",
+      "es": "Fallo del número de emergencias",
+      "fr": "Défaillance de l'appel d'urgence",
+      "pl": "Awaria połączenia alarmowego",
+      "ru": "Отказ системы вызова экстренных оперативных служб",
+      "tr": "Acil çağrı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20250212-31-002",
+    "version": 5,
+    "startDate": "2025-02-12T13:14:32+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Notruf 112 und 110 über NetCologne in der Bundesstadt Bonn - Bundesstadt Bonn",
+      "en": "Emergency number outage",
+      "ar": "انقطاع اتصال الطوارئ",
+      "es": "Fallo del número de emergencias",
+      "fr": "Défaillance de l'appel d'urgence",
+      "pl": "Awaria połączenia alarmowego",
+      "ru": "Отказ системы вызова экстренных оперативных служб",
+      "tr": "Acil çağrı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20250212-54-000",
+    "version": 5,
+    "startDate": "2025-02-12T13:18:11+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Notruf 112 und 110 -Kreis Düren-. - Kreis Düren",
+      "en": "Emergency number outage",
+      "ar": "انقطاع اتصال الطوارئ",
+      "es": "Fallo del número de emergencias",
+      "fr": "Défaillance de l'appel d'urgence",
+      "pl": "Awaria połączenia alarmowego",
+      "ru": "Отказ системы вызова экстренных оперативных служб",
+      "tr": "Acil çağrı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ME-SE071-20250212-71-000",
+    "version": 5,
+    "startDate": "2025-02-12T13:34:42+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Notrufausfall über den Provider NetCologne - Kreis Mettmann",
+      "en": "Emergency number outage",
+      "ar": "انقطاع اتصال الطوارئ",
+      "es": "Fallo del número de emergencias",
+      "fr": "Défaillance de l'appel d'urgence",
+      "pl": "Awaria połączenia alarmowego",
+      "ru": "Отказ системы вызова экстренных оперативных служб",
+      "tr": "Acil çağrı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
+    }
   }
 ]
