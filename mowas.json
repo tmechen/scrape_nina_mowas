@@ -28,14 +28,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-HX-SE092-20250211-92-000",
+    "id": "mow.DE-BW-BC-W124-20250212-000",
     "version": 5,
-    "startDate": "2025-02-11T20:06:45+01:00",
+    "startDate": "2025-02-12T02:51:49+01:00",
+    "expiresDate": "2025-02-12T08:51:49+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand Lagerhalle - Brakel",
+      "de": "Entwarnung: Brand/Großbrand in (ORT) - Landkreis Biberach Gemeinde Maselheim",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
@@ -49,15 +50,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-BC-W124-20250212-000",
+    "id": "mow.DE-NW-HX-SE092-20250212-92-000",
     "version": 5,
-    "startDate": "2025-02-12T02:51:49+01:00",
-    "expiresDate": "2025-02-12T08:51:49+01:00",
+    "startDate": "2025-02-12T04:01:36+01:00",
+    "expiresDate": "2025-02-12T10:01:36+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Brand/Großbrand in (ORT) - Landkreis Biberach Gemeinde Maselheim",
+      "de": "Entwarnung: Großbrand Lagerhalle - Brakel",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
