@@ -28,35 +28,15 @@
     }
   },
   {
-    "id": "mow.DE-ST-SK-W070-20250212-000",
+    "id": "mow.DE-TH-EA-W114-20250213-001",
     "version": 5,
-    "startDate": "2025-02-12T18:07:56+01:00",
+    "startDate": "2025-02-13T11:07:18+01:00",
+    "expiresDate": "2025-02-13T17:07:18+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Entschärfung Kampfmittel - Merseburg, Ortsteil Trebnitz",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-TH-EA-W114-20250213-000",
-    "version": 5,
-    "startDate": "2025-02-13T06:50:31+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "starke Rauchentwicklung durch Brandereignis - Marksuhl",
+      "de": "Entwarnung: starke Rauchentwicklung durch Brandereignis - Marksuhl",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
@@ -67,6 +47,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-ST-SK-W070-20250213-000",
+    "version": 5,
+    "startDate": "2025-02-13T11:16:20+01:00",
+    "expiresDate": "2025-02-13T17:16:20+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Entschärfung Kampfmittel - Merseburg, Ortsteil Trebnitz",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
