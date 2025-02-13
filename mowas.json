@@ -49,14 +49,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-ED-W186-20250213-000",
+    "id": "mow.DE-BY-ED-W186-20250213-001",
     "version": 5,
-    "startDate": "2025-02-13T19:09:22+01:00",
+    "startDate": "2025-02-13T20:08:42+01:00",
+    "expiresDate": "2025-02-14T02:08:42+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke durch Großbrand in Halle - Industriegebiet Eching/Neufahrn (MAN-Gelände)",
+      "de": "Entwarnung: Rauchwolke durch Großbrand in Halle - Industriegebiet Eching/Neufahrn (MAN-Gelände)",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
