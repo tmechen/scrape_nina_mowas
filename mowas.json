@@ -71,14 +71,14 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20250214-000",
+    "id": "mow.DE-BY-TS-W135-20250214-001",
     "version": 5,
-    "startDate": "2025-02-14T11:14:40+01:00",
+    "startDate": "2025-02-14T11:24:30+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Gemeinde Tüßling",
+      "de": "Rauchentwicklung durch Großbrand in Tüßling - Gemeinde Tüßling",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
