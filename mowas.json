@@ -49,50 +49,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20250214-002",
-    "version": 5,
-    "startDate": "2025-02-14T13:45:41+01:00",
-    "expiresDate": "2025-02-14T19:45:41+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Großbrand in Tüßling - Gemeinde Tüßling",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20250214-28-001",
-    "version": 5,
-    "startDate": "2025-02-14T13:56:33+01:00",
-    "expiresDate": "2025-02-14T19:56:33+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall öffentliche Trinkwasserversorgung - Wakendorf II",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20250214-29-001",
     "version": 5,
     "startDate": "2025-02-14T18:00:33+01:00",
