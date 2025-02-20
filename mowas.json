@@ -49,28 +49,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20250220-28-001",
-    "version": 5,
-    "startDate": "2025-02-20T15:00:11+01:00",
-    "expiresDate": "2025-02-20T21:00:10+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Stadt Bad Segeberg",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20250220-125-001",
     "version": 5,
     "startDate": "2025-02-20T15:44:17+01:00",
