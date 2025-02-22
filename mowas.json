@@ -70,28 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20250222-36-001",
-    "version": 5,
-    "startDate": "2025-02-22T13:16:03+01:00",
-    "expiresDate": "2025-02-22T19:16:02+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung und Brandgeruch durch Brand in einem Reifenlager - im Bereich Dissen - Striesow und Schmogrow - Fehrow",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-GG-W222-20250222-002",
     "version": 5,
     "startDate": "2025-02-22T18:41:20+01:00",
