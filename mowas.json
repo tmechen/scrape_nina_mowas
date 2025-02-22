@@ -70,28 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE113-20250222-113-000",
-    "version": 5,
-    "startDate": "2025-02-22T08:11:22+01:00",
-    "expiresDate": "2025-02-22T14:11:21+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Unfall B262 zwischen Anschlussstelle Thür und Anschlusstelle Mendig/Pe - B 262 Thür sowie Mendig",
-      "en": "Dangerous goods accident",
-      "ar": "حادث مواد خطرة",
-      "es": "Accidente imputable a mercancías peligrosas",
-      "fr": "Accident impliquant des substances dangereuses",
-      "pl": "Wypadek z materiałami niebezpiecznymi",
-      "ru": "Авария при перевозке опасных грузов",
-      "tr": "Tehlikeli madde kazası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-029"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE024-20250222-24-001",
     "version": 5,
     "startDate": "2025-02-22T12:00:06+01:00",
