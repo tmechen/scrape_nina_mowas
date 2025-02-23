@@ -70,14 +70,15 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20250223-36-001",
+    "id": "mow.DE-BB-CB-SE036-20250223-36-002",
     "version": 5,
-    "startDate": "2025-02-23T11:02:25+01:00",
+    "startDate": "2025-02-23T17:10:42+01:00",
+    "expiresDate": "2025-02-23T23:10:41+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Stromversorgung in Cottbus - Cottbus",
+      "de": "Entwarnung: Ausfall Stromversorgung in Cottbus - Cottbus",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
