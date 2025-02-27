@@ -28,27 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-SR-W159-20250227-000",
-    "version": 5,
-    "startDate": "2025-02-27T08:34:20+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "DEG_004_Austritt giftiger Stoffe - Landkreis Deggendorf",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE049-20250227-49-000",
     "version": 5,
     "startDate": "2025-02-27T09:14:39+01:00",
@@ -89,6 +68,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-SR-W159-20250227-001",
+    "version": 5,
+    "startDate": "2025-02-27T12:32:56+01:00",
+    "expiresDate": "2025-02-27T18:32:55+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: DEG_004_Austritt giftiger Stoffe - Landkreis Deggendorf",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
