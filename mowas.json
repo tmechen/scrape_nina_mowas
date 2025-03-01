@@ -28,28 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-UH-W116-20250301-001",
-    "version": 5,
-    "startDate": "2025-03-01T11:09:31+01:00",
-    "expiresDate": "2025-03-01T17:09:31+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Funktionsüberprüfung der Sirenen und Funkmeldeempfänger im Unstrut-Hai - Unstrut-Hainich-Kreis",
-      "en": "Siren test",
-      "ar": "تجربة صفارة الإنذار",
-      "es": "Prueba de sirena",
-      "fr": "Test des sirènes",
-      "pl": "Test syren",
-      "ru": "Проверка средств оповещения",
-      "tr": "Siren testi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20250301-001",
     "version": 5,
     "startDate": "2025-03-01T12:11:17+01:00",
