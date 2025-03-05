@@ -48,5 +48,26 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NI-VEC-W078-20250305-002",
+    "version": 5,
+    "startDate": "2025-03-05T12:01:47+01:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahrstoffwolke - Lohne-Brägel",
+      "en": "Dangerous goods accident",
+      "ar": "حادث مواد خطرة",
+      "es": "Accidente imputable a mercancías peligrosas",
+      "fr": "Accident impliquant des substances dangereuses",
+      "pl": "Wypadek z materiałami niebezpiecznymi",
+      "ru": "Авария при перевозке опасных грузов",
+      "tr": "Tehlikeli madde kazası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-029"
+    }
   }
 ]
