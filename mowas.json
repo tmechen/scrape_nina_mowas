@@ -157,27 +157,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MI-SE073-20250305-73-002",
-    "version": 5,
-    "startDate": "2025-03-05T20:00:47+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase - Stadt Bad Oeynhausen, Stadt Porta Westfalica, Stadt Minden - Bad Oeynhausen, Porta Westfalica und Minden",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BY-WUE-W164-20250305-001",
     "version": 5,
     "startDate": "2025-03-05T20:10:24+01:00",
@@ -197,6 +176,48 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MI-SE073-20250305-73-003",
+    "version": 5,
+    "startDate": "2025-03-05T21:54:40+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Entwarnung Porta Westfalica und Minden - Warnung Bad Oeynhausen bleibt bestehen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MK-SE095-20250305-95-000",
+    "version": 5,
+    "startDate": "2025-03-05T22:02:51+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung in Hemer - Hemer",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
