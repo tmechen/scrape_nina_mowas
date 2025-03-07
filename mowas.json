@@ -71,27 +71,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HA-SE087-20250307-149-001",
-    "version": 5,
-    "startDate": "2025-03-07T13:47:36+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Hagen - Höing - Hagen",
-      "en": "Bomb/ammunition discovery",
-      "ar": "العثور على قنابل/ذخيرة",
-      "es": "Hallazgo de bomba/munición",
-      "fr": "Découverte de bombes / munitions",
-      "pl": "Odnalezienie bomb/amunicji",
-      "ru": "Обнаружение неразорвавшихся снарядов/боеприпасов",
-      "tr": "Bomba/Cephane buluntusu"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-HB-HB-SE019-20250307-19-002",
     "version": 5,
     "startDate": "2025-03-07T14:38:19+01:00",
@@ -110,6 +89,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HA-SE087-20250307-149-002",
+    "version": 5,
+    "startDate": "2025-03-07T15:20:50+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Hagen - Höing - Hagen",
+      "en": "Bomb/ammunition discovery",
+      "ar": "العثور على قنابل/ذخيرة",
+      "es": "Hallazgo de bomba/munición",
+      "fr": "Découverte de bombes / munitions",
+      "pl": "Odnalezienie bomb/amunicji",
+      "ru": "Обнаружение неразорвавшихся снарядов/боеприпасов",
+      "tr": "Bomba/Cephane buluntusu"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
