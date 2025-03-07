@@ -28,28 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-LOE-W023-20250307-001",
-    "version": 5,
-    "startDate": "2025-03-07T06:48:45+01:00",
-    "expiresDate": "2025-03-07T12:48:44+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brandgase - Stadt Zell im Wiesental Ortsteil Gresgen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-SE004-20250307-4-001",
     "version": 5,
     "startDate": "2025-03-07T08:23:35+01:00",
@@ -134,6 +112,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HA-SE087-20250307-149-000",
+    "version": 5,
+    "startDate": "2025-03-07T13:19:30+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Hagen - Höing - Hagen",
+      "en": "Bomb/ammunition discovery",
+      "ar": "العثور على قنابل/ذخيرة",
+      "es": "Hallazgo de bomba/munición",
+      "fr": "Découverte de bombes / munitions",
+      "pl": "Odnalezienie bomb/amunicji",
+      "ru": "Обнаружение неразорвавшихся снарядов/боеприпасов",
+      "tr": "Bomba/Cephane buluntusu"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
