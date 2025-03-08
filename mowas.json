@@ -70,28 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20250308-18-001",
-    "version": 5,
-    "startDate": "2025-03-08T11:04:55+01:00",
-    "expiresDate": "2025-03-08T17:04:55+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenen-Probealarm - Elchesheim-Illingen",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-NW-EN-SE069-20250308-69-002",
     "version": 5,
     "startDate": "2025-03-08T15:52:31+01:00",
