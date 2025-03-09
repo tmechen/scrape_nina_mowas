@@ -71,27 +71,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20250309-36-000",
-    "version": 5,
-    "startDate": "2025-03-09T03:34:45+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand in Silo - OV Tauer Jänschwalde",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HB-HB-SE019-20250309-19-000",
     "version": 5,
     "startDate": "2025-03-09T06:30:08+01:00",
@@ -110,6 +89,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BB-CB-SE036-20250309-36-001",
+    "version": 5,
+    "startDate": "2025-03-09T07:33:00+01:00",
+    "expiresDate": "2025-03-09T13:32:59+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand in Silo - OV Tauer Jänschwalde",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
