@@ -70,14 +70,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-MS-SE043-20250308-43-000",
+    "id": "mow.DE-NW-MS-SE043-20250309-43-000",
     "version": 5,
-    "startDate": "2025-03-08T23:57:03+01:00",
+    "startDate": "2025-03-09T03:30:36+01:00",
+    "expiresDate": "2025-03-09T09:30:36+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung - Münster Berg Fidel",
+      "de": "Entwarnung: Geruchsbelästigung - Münster Berg Fidel",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -88,6 +89,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BB-CB-SE036-20250309-36-000",
+    "version": 5,
+    "startDate": "2025-03-09T03:34:45+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand in Silo - OV Tauer Jänschwalde",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
