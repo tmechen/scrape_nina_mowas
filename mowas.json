@@ -157,27 +157,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WUE-W164-20250313-000",
-    "version": 5,
-    "startDate": "2025-03-13T11:15:12+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweit einheitlicher Probealarm - Probewarnung  - Würzburg",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-NW-D-SE020-20250313-20-001",
     "version": 5,
     "startDate": "2025-03-13T11:20:04+01:00",
@@ -187,27 +166,6 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Landesweiter Warntag Nordrhein-Westfalen - Nordrhein-Westfalen",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KRU-W174-20250313-004",
-    "version": 5,
-    "startDate": "2025-03-13T11:26:12+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweit einheitlicher Probealarm - Probewarnung - Landkreis Günzburg - Landkreis Günzburg",
       "en": "Test alert",
       "ar": "تحذير تجريبي",
       "es": "Advertencia de prueba",
@@ -868,6 +826,50 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: landesweit einheitlicher Probealarm -  Probewarnung - Lkr. Cham, Lkr. Neumarkt i.d. Opf., Lkr. Regensburg, Stadt Regensburg",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-WUE-W164-20250313-001",
+    "version": 5,
+    "startDate": "2025-03-13T11:47:53+01:00",
+    "expiresDate": "2025-03-13T17:47:53+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landesweit einheitlicher Probealarm 2025  - Würzburg",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20250313-010",
+    "version": 5,
+    "startDate": "2025-03-13T11:50:55+01:00",
+    "expiresDate": "2025-03-13T17:50:54+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landesweit einheitlicher Probealarm - Probewarnung - Landkreis Günzbur - Landkreis Günzburg",
       "en": "Test alert",
       "ar": "تحذير تجريبي",
       "es": "Advertencia de prueba",
