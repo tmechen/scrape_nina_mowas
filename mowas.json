@@ -70,27 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-SWA-W096-20250313-000",
-    "version": 5,
-    "startDate": "2025-03-13T06:25:04+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz in Idstein  - Stadt Idstein",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-E-SE052-20250313-52-000",
     "version": 5,
     "startDate": "2025-03-13T09:31:57+01:00",
@@ -178,195 +157,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20250313-29-000",
-    "version": 5,
-    "startDate": "2025-03-13T10:58:22+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "kreisweiter Warntag - Landkreis Emsland",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20250313-84-000",
-    "version": 5,
-    "startDate": "2025-03-13T11:10:19+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "landesweit einheitlicher Probealarm -  Probewarnung - Lkr. Cham, Lkr. Neumarkt i.d. Opf., Lkr. Regensburg, Stadt Regensburg",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-M-SE125-20250313-153-000",
-    "version": 5,
-    "startDate": "2025-03-13T11:15:00+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweit einheitlicher Probealarm - Probewarnung - Landeshauptstadt München",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KE-W173-20250313-000",
-    "version": 5,
-    "startDate": "2025-03-13T11:15:03+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Probewarnung - Kempten (Allgäu)",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-SR-W159-20250313-000",
-    "version": 5,
-    "startDate": "2025-03-13T11:15:06+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweit einheitlicher Probealarm – Probewarnung - Landkreis Regen",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-AB-W169-20250313-000",
-    "version": 5,
-    "startDate": "2025-03-13T11:15:06+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweit einheitlicher Probealarm – Probewarnung - Stadt Aschaffenburg",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-SW-W165-20250313-000",
-    "version": 5,
-    "startDate": "2025-03-13T11:15:07+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweit einheitlicher Probealarm – Probewarnung - Kreisfreie Stadt Schweinfurt",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-N-W163-20250313-000",
-    "version": 5,
-    "startDate": "2025-03-13T11:15:09+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweit einheitlicher Probealarm – Probewarnung  - Landkreis Fürth",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20250313-000",
-    "version": 5,
-    "startDate": "2025-03-13T11:15:10+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweit einheitlicher Probealarm – Probewarnung  - Landkreis Dillingen a.d. Donau",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-BY-WUE-W164-20250313-000",
     "version": 5,
     "startDate": "2025-03-13T11:15:12+01:00",
@@ -375,153 +165,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Landesweit einheitlicher Probealarm - Probewarnung  - Würzburg",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-FFB-W143-20250313-000",
-    "version": 5,
-    "startDate": "2025-03-13T11:15:14+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweit einheitlicher Probealarm – Probewarnung - Landkreis Dachau",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KRU-W174-20250313-000",
-    "version": 5,
-    "startDate": "2025-03-13T11:15:15+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweit einheitlicher Probealarm - Probewarnung  - Landkreis Neu-Ulm",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-AB-W169-20250313-001",
-    "version": 5,
-    "startDate": "2025-03-13T11:15:17+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweit einheitlicher Probealarm – Probewarnung - Landkreis Aschaffenburg",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20250313-001",
-    "version": 5,
-    "startDate": "2025-03-13T11:15:23+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweit einheitlicher Probealarm - KEINE GEFAHR - Landkreis Aichach-Friedberg",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-SW-W165-20250313-001",
-    "version": 5,
-    "startDate": "2025-03-13T11:16:10+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweit einheitlicher Probealarm - Landkreis Schweinfurt / Landkreis Bad Kissingen",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-FFB-W143-20250313-001",
-    "version": 5,
-    "startDate": "2025-03-13T11:16:32+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweiter einheitlicher Probealarm - Probewarnung *Test Alarm - Test Warning* - Landkreis Starnberg",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-BT-W082-20250313-000",
-    "version": 5,
-    "startDate": "2025-03-13T11:17:31+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweit einheitlicher Probealarm – Probewarnung - Stadtgebiet Bayreuth",
       "en": "Test alert",
       "ar": "تحذير تجريبي",
       "es": "Advertencia de prueba",
@@ -587,27 +230,6 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Kreisweiter Test der Warnsysteme - Landkreis Heilbronn",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KRU-W174-20250313-005",
-    "version": 5,
-    "startDate": "2025-03-13T11:29:16+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Landesweit einheitlicher Probealarm - Probealarm - Landkreis Unterallgäu",
       "en": "Test alert",
       "ar": "تحذير تجريبي",
       "es": "Advertencia de prueba",
@@ -850,6 +472,402 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: ENTWARNUNG - Landesweit einheitlicher Probealarm 2025 - Regierungsbezirk Mittelfranken",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20250313-006",
+    "version": 5,
+    "startDate": "2025-03-13T11:44:18+01:00",
+    "expiresDate": "2025-03-13T17:44:18+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landesweit einheitlicher Probealarm - Probewarnung  - Landkreis Neu-Ulm",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-M-SE125-20250313-153-001",
+    "version": 5,
+    "startDate": "2025-03-13T11:44:58+01:00",
+    "expiresDate": "2025-03-13T17:44:58+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: ENTWARNUNG Landesweit einheitlicher Probealarm - Probewarnung - Landeshauptstadt München",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-AB-W169-20250313-002",
+    "version": 5,
+    "startDate": "2025-03-13T11:45:03+01:00",
+    "expiresDate": "2025-03-13T17:45:03+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landesweit einheitlicher Probealarm – Probewarnung - Landkreis Aschaffenburg",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20250313-002",
+    "version": 5,
+    "startDate": "2025-03-13T11:45:05+01:00",
+    "expiresDate": "2025-03-13T17:45:05+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landesweit einheitlicher Probealarm  2025 - Landkreis Dillingen a.d. Donau",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-FFB-W143-20250313-002",
+    "version": 5,
+    "startDate": "2025-03-13T11:45:06+01:00",
+    "expiresDate": "2025-03-13T17:45:05+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landesweit einheitlicher Probealarm – Probewarnung - Landkreis Dachau",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-N-W163-20250313-001",
+    "version": 5,
+    "startDate": "2025-03-13T11:45:06+01:00",
+    "expiresDate": "2025-03-13T17:45:06+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landesweit einheitlicher Probealarm – Probewarnung  - Landkreis Fürth",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-SW-W165-20250313-002",
+    "version": 5,
+    "startDate": "2025-03-13T11:45:08+01:00",
+    "expiresDate": "2025-03-13T17:45:07+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landesweit einheitlicher Probealarm – Probewarnung - Kreisfreie Stadt Schweinfurt",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-FFB-W143-20250313-003",
+    "version": 5,
+    "startDate": "2025-03-13T11:45:09+01:00",
+    "expiresDate": "2025-03-13T17:45:08+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: ENTWARNUNG Landesweit einheitlicher Probealarm 2025 - Landkreis Starnberg",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KE-W173-20250313-001",
+    "version": 5,
+    "startDate": "2025-03-13T11:45:10+01:00",
+    "expiresDate": "2025-03-13T17:45:09+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Probewarnung - Kempten (Allgäu)",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-BT-W082-20250313-001",
+    "version": 5,
+    "startDate": "2025-03-13T11:45:18+01:00",
+    "expiresDate": "2025-03-13T17:45:18+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landesweit einheitlicher Probealarm – Probewarnung - Stadtgebiet Bayreuth",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20250313-003",
+    "version": 5,
+    "startDate": "2025-03-13T11:45:21+01:00",
+    "expiresDate": "2025-03-13T17:45:21+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landesweit einheitlicher Probealarm - KEINE GEFAHR - Landkreis Aichach-Friedberg",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-HE-SWA-W096-20250313-001",
+    "version": 5,
+    "startDate": "2025-03-13T11:45:23+01:00",
+    "expiresDate": "2025-03-13T17:45:22+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz in Idstein  - Stadt Idstein",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-SR-W159-20250313-001",
+    "version": 5,
+    "startDate": "2025-03-13T11:45:27+01:00",
+    "expiresDate": "2025-03-13T17:45:27+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landesweit einheitlicher Probealarm – Probewarnung - Landkreis Regen",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-AB-W169-20250313-003",
+    "version": 5,
+    "startDate": "2025-03-13T11:45:28+01:00",
+    "expiresDate": "2025-03-13T17:45:28+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landesweit einheitlicher Probealarm – Probewarnung - Stadt Aschaffenburg",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20250313-29-001",
+    "version": 5,
+    "startDate": "2025-03-13T11:45:35+01:00",
+    "expiresDate": "2025-03-13T17:45:34+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: kreisweiter Warntag - Landkreis Emsland",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-SW-W165-20250313-003",
+    "version": 5,
+    "startDate": "2025-03-13T11:46:24+01:00",
+    "expiresDate": "2025-03-13T17:46:23+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landesweit einheitlicher Probealarm - Landkreis Schweinfurt / Landkreis Bad Kissingen",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20250313-007",
+    "version": 5,
+    "startDate": "2025-03-13T11:46:41+01:00",
+    "expiresDate": "2025-03-13T17:46:40+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Landesweit einheitlicher Probealarm 2025 - Landkreis Unterallgäu",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20250313-84-001",
+    "version": 5,
+    "startDate": "2025-03-13T11:47:23+01:00",
+    "expiresDate": "2025-03-13T17:47:23+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: landesweit einheitlicher Probealarm -  Probewarnung - Lkr. Cham, Lkr. Neumarkt i.d. Opf., Lkr. Regensburg, Stadt Regensburg",
       "en": "Test alert",
       "ar": "تحذير تجريبي",
       "es": "Advertencia de prueba",
