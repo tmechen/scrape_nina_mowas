@@ -28,27 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-AW-W255-20250311-000",
-    "version": 5,
-    "startDate": "2025-03-11T19:08:39+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall der Festnetz - Telekommunikation - Gemeinde Altenahr, Gemeinde Ahrbrück",
-      "en": "Telephone line outage",
-      "ar": "انقطاع خطوط الهاتف",
-      "es": "Fallo de la línea telefónica",
-      "fr": "Défaillance de la ligne téléphonique",
-      "pl": "Awaria linii telefonicznej",
-      "ru": "Отказ линии телефонной сети",
-      "tr": "Telefon hattı arızası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-006"
-    }
-  },
-  {
     "id": "mow.DE-BY-N-W163-20250312-000",
     "version": 5,
     "startDate": "2025-03-12T15:33:08+01:00",
@@ -67,6 +46,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-RP-AW-W255-20250314-000",
+    "version": 5,
+    "startDate": "2025-03-14T08:20:02+01:00",
+    "expiresDate": "2025-03-14T14:20:02+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall der Festnetz - Telekommunikation - Gemeinde Altenahr, Gemeinde Ahrbrück",
+      "en": "Telephone line outage",
+      "ar": "انقطاع خطوط الهاتف",
+      "es": "Fallo de la línea telefónica",
+      "fr": "Défaillance de la ligne téléphonique",
+      "pl": "Awaria linii telefonicznej",
+      "ru": "Отказ линии телефонной сети",
+      "tr": "Telefon hattı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
     }
   }
 ]
