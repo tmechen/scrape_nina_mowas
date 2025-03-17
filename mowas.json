@@ -94,27 +94,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DU-SE038-20250317-38-001",
-    "version": 5,
-    "startDate": "2025-03-17T19:45:40+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchwolke und Geruchsbelästigung - Duisburg-Homberg",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20250317-105-001",
     "version": 5,
     "startDate": "2025-03-17T21:15:35+01:00",
@@ -134,6 +113,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DU-SE038-20250317-38-002",
+    "version": 5,
+    "startDate": "2025-03-17T21:27:09+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchwolke und Geruchsbelästigung - Duisburg-Homberg",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
