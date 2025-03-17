@@ -28,28 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-OF-W106-20250317-001",
-    "version": 5,
-    "startDate": "2025-03-17T17:47:27+01:00",
-    "expiresDate": "2025-03-17T23:47:26+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Offenbach am Main - Innenstadt",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20250317-105-001",
     "version": 5,
     "startDate": "2025-03-17T21:15:35+01:00",
@@ -72,14 +50,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-DU-SE038-20250317-38-002",
+    "id": "mow.DE-NW-DU-SE038-20250317-38-003",
     "version": 5,
-    "startDate": "2025-03-17T21:27:09+01:00",
+    "startDate": "2025-03-18T00:10:45+01:00",
+    "expiresDate": "2025-03-18T06:10:45+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke und Geruchsbelästigung - Duisburg-Homberg",
+      "de": "Entwarnung: Rauchwolke und Geruchsbelästigung - Duisburg-Homberg",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
