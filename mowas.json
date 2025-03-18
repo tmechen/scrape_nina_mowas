@@ -71,14 +71,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-OL-W015-20250318-000",
+    "id": "mow.DE-NI-OL-W015-20250318-001",
     "version": 5,
-    "startDate": "2025-03-18T14:43:59+01:00",
+    "startDate": "2025-03-18T16:40:07+01:00",
+    "expiresDate": "2025-03-18T22:40:07+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Mehrere Flächenbrände entlang der Bahnlinie 1520 - Apen/Westerstede",
+      "de": "Entwarnung: Mehrere Flächenbrände entlang der Bahnlinie 1520 - Apen/Westerstede",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
