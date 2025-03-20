@@ -92,5 +92,26 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-NW-UN-SE068-20250320-68-002",
+    "version": 5,
+    "startDate": "2025-03-20T16:26:48+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund - Stadt Lünen",
+      "en": "Bomb/ammunition discovery",
+      "ar": "العثور على قنابل/ذخيرة",
+      "es": "Hallazgo de bomba/munición",
+      "fr": "Découverte de bombes / munitions",
+      "pl": "Odnalezienie bomb/amunicji",
+      "ru": "Обнаружение неразорвавшихся снарядов/боеприпасов",
+      "tr": "Bomba/Cephane buluntusu"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
+    }
   }
 ]
