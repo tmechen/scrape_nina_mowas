@@ -28,27 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-ARN-W014-20250320-000",
-    "version": 5,
-    "startDate": "2025-03-20T19:21:06+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Vegetationsbrand  - Landkreis Ilm-Kreis",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20250321-33-000",
     "version": 5,
     "startDate": "2025-03-21T02:01:06+01:00",
@@ -112,6 +91,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-TH-ARN-W014-20250321-000",
+    "version": 5,
+    "startDate": "2025-03-21T06:56:18+01:00",
+    "expiresDate": "2025-03-21T12:56:18+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Vegetationsbrand  - Landkreis Ilm-Kreis",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
