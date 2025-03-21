@@ -49,27 +49,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-GT-W112-20250320-002",
-    "version": 5,
-    "startDate": "2025-03-20T20:21:02+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Flächenbrand - Standortübungsplatz Ohrdruf",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20250321-33-000",
     "version": 5,
     "startDate": "2025-03-21T02:01:06+01:00",
@@ -92,14 +71,37 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20250321-000",
+    "id": "mow.DE-TH-GT-W112-20250321-000",
     "version": 5,
-    "startDate": "2025-03-21T02:25:01+01:00",
+    "startDate": "2025-03-21T05:54:34+01:00",
+    "expiresDate": "2025-03-21T11:54:34+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Wohnhausbrand - Zeulenroda",
+      "de": "Entwarnung: Starke Rauchentwicklung durch Flächenbrand - Standortübungsplatz Ohrdruf",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20250321-001",
+    "version": 5,
+    "startDate": "2025-03-21T06:08:21+01:00",
+    "expiresDate": "2025-03-21T12:08:20+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Wohnhausbrand - Zeulenroda",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
