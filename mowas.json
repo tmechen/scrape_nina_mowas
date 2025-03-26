@@ -28,28 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-MR-W190-20250326-001",
-    "version": 5,
-    "startDate": "2025-03-26T14:14:15+01:00",
-    "expiresDate": "2025-03-26T20:14:15+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall in Wiesenbach - Breidenbach - Wiesenbach",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-SN-C-W092-20250326-000",
     "version": 5,
     "startDate": "2025-03-26T15:36:25+01:00",
