@@ -50,14 +50,14 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20250328-105-000",
+    "id": "mow.DE-BW-RT-SE050-20250328-50-000",
     "version": 5,
-    "startDate": "2025-03-28T16:15:03+01:00",
+    "startDate": "2025-03-28T17:10:11+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Glinde",
+      "de": "Brand in Tiefgarage - 74613 Öhringen Minervastraße",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -71,14 +71,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20250328-50-000",
+    "id": "mow.DE-SH-OD-SE105-20250328-105-001",
     "version": 5,
-    "startDate": "2025-03-28T17:10:11+01:00",
+    "startDate": "2025-03-28T18:07:46+01:00",
+    "expiresDate": "2025-03-29T00:07:45+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in Tiefgarage - 74613 Öhringen Minervastraße",
+      "de": "Entwarnung: Feuerwehreinsatz - Glinde",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
