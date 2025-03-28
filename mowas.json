@@ -50,14 +50,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-BL-W128-20250328-000",
+    "id": "mow.DE-BW-BL-W128-20250328-001",
     "version": 5,
-    "startDate": "2025-03-28T15:04:16+01:00",
+    "startDate": "2025-03-28T15:39:57+01:00",
+    "expiresDate": "2025-03-28T21:39:56+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall - Stadt Burladingen,Stadtteile Burladingen,Ringingen,Melchingen,Salmendingen",
+      "de": "Entwarnung: Stromausfall - Stadt Burladingen,Stadtteile Burladingen,Ringingen,Melchingen,Salmendingen",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
