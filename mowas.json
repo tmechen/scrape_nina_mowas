@@ -71,14 +71,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-FR-W022-20250329-000",
+    "id": "mow.DE-BW-S-SE018-20250329-18-000",
     "version": 5,
-    "startDate": "2025-03-29T10:01:08+01:00",
-    "severity": "Minor",
+    "startDate": "2025-03-29T10:30:00+01:00",
+    "expiresDate": "2025-03-29T16:30:00+01:00",
+    "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenenprobe März 2025 - Stadtkreis Freiburg und Landkreis Breisgau-Hochschwarzwald",
+      "de": "Entwarnung: Sirenenprobe März 2025 - Stadtkreis Freiburg und Landkreis Breisgau-Hochschwarzwald",
       "en": "Siren test",
       "ar": "تجربة صفارة الإنذار",
       "es": "Prueba de sirena",
