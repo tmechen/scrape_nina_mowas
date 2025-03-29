@@ -49,36 +49,15 @@
     }
   },
   {
-    "id": "mow.DE-SN-C-W092-20250328-001",
+    "id": "mow.DE-NI-STD-SE029-20250329-29-001",
     "version": 5,
-    "startDate": "2025-03-29T00:18:45+01:00",
-    "expiresDate": "2025-03-29T06:18:44+01:00",
+    "startDate": "2025-03-29T06:39:39+01:00",
+    "expiresDate": "2025-03-29T12:39:39+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Großbrand - Frankenau",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029-20250329-29-000",
-    "version": 5,
-    "startDate": "2025-03-29T04:42:42+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung Brandgase Brand E-Fahrzeuge - Ottersberg",
+      "de": "Entwarnung: Geruchsbelästigung Brandgase Brand E-Fahrzeuge - Ottersberg",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
