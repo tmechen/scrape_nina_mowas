@@ -114,14 +114,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-W-SE061-20250402-61-000",
+    "id": "mow.DE-NW-W-SE061-20250402-61-001",
     "version": 5,
-    "startDate": "2025-04-02T18:38:51+02:00",
+    "startDate": "2025-04-02T19:48:21+02:00",
+    "expiresDate": "2025-04-03T01:48:20+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "(3) Geruchsbelästigung - Solingen Wald",
+      "de": "Entwarnung: (3) Geruchsbelästigung - Solingen Wald",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
