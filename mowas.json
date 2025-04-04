@@ -114,27 +114,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-BA-W140-20250404-000",
-    "version": 5,
-    "startDate": "2025-04-04T18:54:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Forchheim",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-HD-W086-20250404-000",
     "version": 5,
     "startDate": "2025-04-04T21:15:27+02:00",
@@ -197,6 +176,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-003"
+    }
+  },
+  {
+    "id": "mow.DE-BY-BA-W140-20250404-001",
+    "version": 5,
+    "startDate": "2025-04-04T22:35:33+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung - Forchheim",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
