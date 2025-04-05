@@ -156,27 +156,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE024-20250405-24-002",
-    "version": 5,
-    "startDate": "2025-04-05T11:01:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Probewarnung - Schwerin",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20250405-002",
     "version": 5,
     "startDate": "2025-04-05T11:02:53+02:00",
@@ -264,14 +243,59 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20250405-004",
+    "id": "mow.DE-MV-SN-SE024-20250405-24-003",
     "version": 5,
-    "startDate": "2025-04-05T11:45:43+02:00",
+    "startDate": "2025-04-05T11:46:15+02:00",
+    "expiresDate": "2025-04-05T17:46:15+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenen-Probealarm - Loffenau",
+      "de": "Entwarnung: PROBEALARM - Landkreis Vorpommern-Greifswald",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE024-20250405-24-004",
+    "version": 5,
+    "startDate": "2025-04-05T11:46:46+02:00",
+    "expiresDate": "2025-04-05T17:46:45+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Probewarnung - Schwerin",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20250405-005",
+    "version": 5,
+    "startDate": "2025-04-05T12:02:35+02:00",
+    "expiresDate": "2025-04-05T18:02:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Probealarm - Loffenau",
       "en": "Siren test",
       "ar": "تجربة صفارة الإنذار",
       "es": "Prueba de sirena",
@@ -285,15 +309,15 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE024-20250405-24-003",
+    "id": "mow.DE-NI-HM-W214-20250405-001",
     "version": 5,
-    "startDate": "2025-04-05T11:46:15+02:00",
-    "expiresDate": "2025-04-05T17:46:15+02:00",
+    "startDate": "2025-04-05T12:12:18+02:00",
+    "expiresDate": "2025-04-05T18:12:18+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: PROBEALARM - Landkreis Vorpommern-Greifswald",
+      "de": "Entwarnung: Kreisweiter Warntag - Landkreis Hameln-Pyrmont",
       "en": "Test alert",
       "ar": "تحذير تجريبي",
       "es": "Advertencia de prueba",
