@@ -91,27 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20250405-000",
-    "version": 5,
-    "startDate": "2025-04-05T09:55:36+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung  durch Brandgeruch - Conradstraße Hettstedt",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-TH-AP-W115-20250405-001",
     "version": 5,
     "startDate": "2025-04-05T10:09:14+02:00",
@@ -156,14 +135,78 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20250405-001",
+    "id": "mow.DE-MV-SN-SE024-20250405-24-000",
     "version": 5,
-    "startDate": "2025-04-05T10:42:50+02:00",
+    "startDate": "2025-04-05T10:59:16+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Sirenen-Probealarm - Durmersheim",
+      "de": "PROBEALARM - Landkreis Vorpommern-Greifswald",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE024-20250405-24-001",
+    "version": 5,
+    "startDate": "2025-04-05T10:59:39+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rostocker Warntag! - Stadt Rostock",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE024-20250405-24-002",
+    "version": 5,
+    "startDate": "2025-04-05T11:01:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Probewarnung - Schwerin",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20250405-002",
+    "version": 5,
+    "startDate": "2025-04-05T11:02:53+02:00",
+    "expiresDate": "2025-04-05T17:02:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Probealarm - Durmersheim",
       "en": "Siren test",
       "ar": "تجربة صفارة الإنذار",
       "es": "Prueba de sirena",
@@ -177,14 +220,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20250405-18-000",
+    "id": "mow.DE-BW-S-SE018-20250405-18-001",
     "version": 5,
-    "startDate": "2025-04-05T10:43:14+02:00",
+    "startDate": "2025-04-05T11:05:53+02:00",
+    "expiresDate": "2025-04-05T17:05:52+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenen-Probealarm - Elchesheim-Illingen",
+      "de": "Entwarnung: Sirenen-Probealarm - Elchesheim-Illingen",
       "en": "Siren test",
       "ar": "تجربة صفارة الإنذار",
       "es": "Prueba de sirena",
@@ -195,6 +239,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-TH-UH-W116-20250405-001",
+    "version": 5,
+    "startDate": "2025-04-05T11:07:51+02:00",
+    "expiresDate": "2025-04-05T17:07:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Funktionsüberprüfung der Sirenen und Funkmeldeempfänger im Unstrut-Hai - Unstrut-Hainich-Kreis",
+      "en": "Siren test",
+      "ar": "تجربة صفارة الإنذار",
+      "es": "Prueba de sirena",
+      "fr": "Test des sirènes",
+      "pl": "Test syren",
+      "ru": "Проверка средств оповещения",
+      "tr": "Siren testi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20250405-001",
+    "version": 5,
+    "startDate": "2025-04-05T11:15:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung  durch Brandgeruch - Conradstraße Hettstedt",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
