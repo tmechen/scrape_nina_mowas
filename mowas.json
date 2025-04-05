@@ -91,28 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20250405-001",
-    "version": 5,
-    "startDate": "2025-04-05T16:08:46+02:00",
-    "expiresDate": "2025-04-05T22:08:46+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Katastrophenschutzübung #parumtrinus2025 - Landkreis Karlsruhe, Alarmzone West",
-      "en": "Major event",
-      "ar": "فعالية كبيرة",
-      "es": "Evento multitudinario",
-      "fr": "Événement de grande ampleur",
-      "pl": "Impreza masowa",
-      "ru": "Массовое мероприятие",
-      "tr": "Büyük etkinlik"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-035"
-    }
-  },
-  {
     "id": "mow.DE-HE-SWA-W096-20250405-001",
     "version": 5,
     "startDate": "2025-04-05T17:04:19+02:00",
@@ -157,14 +135,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20250405-000",
+    "id": "mow.DE-TH-G-W109-20250405-001",
     "version": 5,
-    "startDate": "2025-04-05T20:42:31+02:00",
+    "startDate": "2025-04-05T22:10:59+02:00",
+    "expiresDate": "2025-04-06T04:10:58+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Notruf-Fax - Versorgungsbereich der Zentralen Leitstelle Gera",
+      "de": "Entwarnung: Ausfall Notruf-Fax - Versorgungsbereich der Zentralen Leitstelle Gera",
       "en": "Emergency number outage",
       "ar": "انقطاع اتصال الطوارئ",
       "es": "Fallo del número de emergencias",
