@@ -135,27 +135,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE024-20250405-24-001",
-    "version": 5,
-    "startDate": "2025-04-05T10:59:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rostocker Warntag! - Stadt Rostock",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20250405-002",
     "version": 5,
     "startDate": "2025-04-05T11:02:53+02:00",
@@ -318,6 +297,28 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Kreisweiter Warntag - Landkreis Hameln-Pyrmont",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE024-20250405-24-005",
+    "version": 5,
+    "startDate": "2025-04-05T12:22:24+02:00",
+    "expiresDate": "2025-04-05T18:22:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rostocker Warntag! - Stadt Rostock",
       "en": "Test alert",
       "ar": "تحذير تجريبي",
       "es": "Advertencia de prueba",
