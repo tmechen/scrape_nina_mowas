@@ -112,14 +112,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20250406-67-000",
+    "id": "mow.DE-NW-DO-SE067-20250406-67-001",
     "version": 5,
-    "startDate": "2025-04-06T07:13:10+02:00",
+    "startDate": "2025-04-06T11:56:52+02:00",
+    "expiresDate": "2025-04-06T17:56:52+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund in Dortmund - Dortmund",
+      "de": "Entwarnung: Kampfmittelfund in Dortmund - Dortmund",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
