@@ -158,14 +158,14 @@
     }
   },
   {
-    "id": "mow.DE-TH-UH-W116-20250407-000",
+    "id": "mow.DE-TH-UH-W116-20250407-001",
     "version": 5,
-    "startDate": "2025-04-07T17:13:35+02:00",
+    "startDate": "2025-04-07T17:23:01+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Brandereignis  - XX",
+      "de": "Rauchentwicklung durch Brandereignis  - Bad Langensalza Gewerbegebiet",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
