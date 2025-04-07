@@ -158,10 +158,10 @@
     }
   },
   {
-    "id": "mow.DE-TH-UH-W116-20250407-001",
+    "id": "mow.DE-TH-EF-SE012-20250407-12-001",
     "version": 5,
-    "startDate": "2025-04-07T17:23:01+02:00",
-    "severity": "Minor",
+    "startDate": "2025-04-07T17:35:57+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
     "type": "Update",
     "i18nTitle": {
