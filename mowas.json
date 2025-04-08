@@ -91,27 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-NEW-W265-20250408-001",
-    "version": 5,
-    "startDate": "2025-04-08T11:17:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Ausfall der Trinkwasserversorgung - Aktualisierung : alle Ortsteile der Gemeinde Theisseil betroffen",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-SH-FL-SE100-20250408-100-000",
     "version": 5,
     "startDate": "2025-04-08T11:47:44+02:00",
@@ -237,6 +216,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-NEW-W265-20250408-003",
+    "version": 5,
+    "startDate": "2025-04-08T15:29:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Ausfall der Trinkwasserversorgung - Edeldorf, Aich, Hammerharlesberg, Görnitz, Harlesberg und Roschau",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
