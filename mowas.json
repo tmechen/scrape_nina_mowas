@@ -91,24 +91,24 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20250408-143-001",
+    "id": "mow.DE-ST-MD-SE022-20250408-143-002",
     "version": 5,
-    "startDate": "2025-04-08T06:57:45+02:00",
-    "severity": "Extreme",
+    "startDate": "2025-04-08T08:53:16+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
     "type": "Update",
     "i18nTitle": {
-      "de": "Giftige Rauchgase  - Bernburg",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
+      "de": "Giftige Rauchgase sowie Geruchsbelästigung - Bernburg und umliegende Ortschaften",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
     },
     "transKeys": {
-      "event": "BBK-EVC-034"
+      "event": "BBK-EVC-010"
     }
   }
 ]
