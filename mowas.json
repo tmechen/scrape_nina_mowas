@@ -112,28 +112,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-W046-20250408-001",
-    "version": 5,
-    "startDate": "2025-04-08T16:30:55+02:00",
-    "expiresDate": "2025-04-08T22:30:54+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Magdeburg - Hasselbachplatz",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20250408-50-001",
     "version": 5,
     "startDate": "2025-04-08T18:42:59+02:00",
