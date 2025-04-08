@@ -70,27 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-SLK-W069-20250408-000",
-    "version": 5,
-    "startDate": "2025-04-08T04:34:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Giftige Rauchgase  - Bernburg",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-KLE-SE058-20250408-58-000",
     "version": 5,
     "startDate": "2025-04-08T06:20:43+02:00",
@@ -109,6 +88,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20250408-143-001",
+    "version": 5,
+    "startDate": "2025-04-08T06:57:45+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Giftige Rauchgase  - Bernburg",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
