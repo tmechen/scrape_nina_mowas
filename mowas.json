@@ -49,27 +49,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-NEW-W265-20250408-000",
-    "version": 5,
-    "startDate": "2025-04-08T03:33:29+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall der Trinkwasserversorgung - OT Aich, Edeldorf, Görnitz, Hammerharlesberg, Harlesberg und Roschau",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-KLE-SE058-20250408-58-000",
     "version": 5,
     "startDate": "2025-04-08T06:20:43+02:00",
@@ -120,6 +99,27 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Ausfall der Trinkwasserversorgung - Bad Schwartau, Gutenbergstraße und Auf der Wasch",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-NEW-W265-20250408-001",
+    "version": 5,
+    "startDate": "2025-04-08T11:17:39+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Ausfall der Trinkwasserversorgung - Aktualisierung : alle Ortsteile der Gemeinde Theisseil betroffen",
       "en": "Alert",
       "ar": "تحذير",
       "es": "Advertencia",
