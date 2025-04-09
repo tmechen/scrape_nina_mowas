@@ -70,27 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-TUE-W126-20250409-000",
-    "version": 5,
-    "startDate": "2025-04-09T02:51:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauch- und Geruchsbelästigung durch Großbrand - Lustnau / Tübingen / Kusterdingen",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BY-NEW-W265-20250409-000",
     "version": 5,
     "startDate": "2025-04-09T06:37:11+02:00",
@@ -109,6 +88,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BW-TUE-W126-20250409-001",
+    "version": 5,
+    "startDate": "2025-04-09T09:42:13+02:00",
+    "expiresDate": "2025-04-09T15:42:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauch- und Geruchsbelästigung durch Großbrand - Lustnau / Tübingen / Kusterdingen",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
