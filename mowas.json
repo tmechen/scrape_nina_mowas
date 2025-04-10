@@ -156,27 +156,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-MA-W044-20250410-000",
-    "version": 5,
-    "startDate": "2025-04-10T17:35:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund Seckenheim Badener Straße  - Mannheim Seckenheim",
-      "en": "Bomb/ammunition discovery",
-      "ar": "العثور على قنابل/ذخيرة",
-      "es": "Hallazgo de bomba/munición",
-      "fr": "Découverte de bombes / munitions",
-      "pl": "Odnalezienie bomb/amunicji",
-      "ru": "Обнаружение неразорвавшихся снарядов/боеприпасов",
-      "tr": "Bomba/Cephane buluntusu"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NI-GS-W211-20250410-000",
     "version": 5,
     "startDate": "2025-04-10T18:30:20+02:00",
@@ -195,6 +174,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-BW-MA-W044-20250410-001",
+    "version": 5,
+    "startDate": "2025-04-10T19:12:33+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Kampfmittelfund Seckenheim Badener Straße  - Mannheim Seckenheim",
+      "en": "Bomb/ammunition discovery",
+      "ar": "العثور على قنابل/ذخيرة",
+      "es": "Hallazgo de bomba/munición",
+      "fr": "Découverte de bombes / munitions",
+      "pl": "Odnalezienie bomb/amunicji",
+      "ru": "Обнаружение неразорвавшихся снарядов/боеприпасов",
+      "tr": "Bomba/Cephane buluntusu"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
