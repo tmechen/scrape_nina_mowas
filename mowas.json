@@ -178,14 +178,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20250411-90-000",
+    "id": "mow.DE-NW-AC-SE090-20250411-90-001",
     "version": 5,
-    "startDate": "2025-04-11T14:12:52+02:00",
+    "startDate": "2025-04-11T14:50:54+02:00",
+    "expiresDate": "2025-04-11T20:50:53+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase - Herzogenrath Merkstein",
+      "de": "Entwarnung: Rauchgase - Herzogenrath Merkstein",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
