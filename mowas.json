@@ -28,27 +28,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-NEW-W265-20250409-000",
-    "version": 5,
-    "startDate": "2025-04-09T06:37:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Ausfall der Trinkwasserversorgung - mehrere Ortsteile im Gemeindebereich",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-HE-ERB-W191-20250411-000",
     "version": 5,
     "startDate": "2025-04-11T13:16:14+02:00",
@@ -131,6 +110,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-NEW-W265-20250414-002",
+    "version": 5,
+    "startDate": "2025-04-14T21:49:18+02:00",
+    "expiresDate": "2025-04-15T03:49:17+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall der Trinkwasserversorgung - mehrere Ortsteile im Gemeindebereich",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
