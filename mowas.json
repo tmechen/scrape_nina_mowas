@@ -70,28 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20250415-106-001",
-    "version": 5,
-    "startDate": "2025-04-15T09:42:00+02:00",
-    "expiresDate": "2025-04-15T15:42:00+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brandrauch - Hadamar - Niederweyer",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-HAM-SE085-20250415-85-000",
     "version": 5,
     "startDate": "2025-04-15T14:00:14+02:00",
