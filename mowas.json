@@ -91,28 +91,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-HZ-W050-20250414-002",
-    "version": 5,
-    "startDate": "2025-04-14T19:52:05+02:00",
-    "expiresDate": "2025-04-15T01:52:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand im Landkreis Harz, Verbandsgemeinde Vorharz - 06458 Wedderstedt",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-NEW-W265-20250414-002",
     "version": 5,
     "startDate": "2025-04-14T21:49:18+02:00",
