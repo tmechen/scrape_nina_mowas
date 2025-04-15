@@ -70,27 +70,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HAM-SE085-20250415-85-000",
-    "version": 5,
-    "startDate": "2025-04-15T14:00:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in der Stadt Hamm - HAMM - Norden",
-      "en": "Bomb/ammunition discovery",
-      "ar": "العثور على قنابل/ذخيرة",
-      "es": "Hallazgo de bomba/munición",
-      "fr": "Découverte de bombes / munitions",
-      "pl": "Odnalezienie bomb/amunicji",
-      "ru": "Обнаружение неразорвавшихся снарядов/боеприпасов",
-      "tr": "Bomba/Cephane buluntusu"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-BY-RO-W136-20250415-000",
     "version": 5,
     "startDate": "2025-04-15T14:28:49+02:00",
@@ -153,6 +132,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HAM-SE085-20250415-85-001",
+    "version": 5,
+    "startDate": "2025-04-15T17:18:05+02:00",
+    "expiresDate": "2025-04-15T23:18:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in der Stadt Hamm - HAMM - Norden",
+      "en": "Bomb/ammunition discovery",
+      "ar": "العثور على قنابل/ذخيرة",
+      "es": "Hallazgo de bomba/munición",
+      "fr": "Découverte de bombes / munitions",
+      "pl": "Odnalezienie bomb/amunicji",
+      "ru": "Обнаружение неразорвавшихся снарядов/боеприпасов",
+      "tr": "Bomba/Cephane buluntusu"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
