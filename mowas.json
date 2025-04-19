@@ -184,14 +184,35 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20250419-125-000",
+    "id": "mow.DE-RP-KL-SE112-20250419-112-000",
     "version": 5,
-    "startDate": "2025-04-19T15:12:59+02:00",
+    "startDate": "2025-04-19T15:36:25+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Geruchsbelästigung aufgrund eines Brandereignisses in Bingen Kempten - Bingen Kempten / Bingen Büdesheim",
+      "de": "Gebäudebrand - Welchweiler",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20250419-125-001",
+    "version": 5,
+    "startDate": "2025-04-19T15:39:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung aufgrund eines Brandereignisses in Bingen Kempten - Bingen Kempten",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
