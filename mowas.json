@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20250419-18-001",
-    "version": 5,
-    "startDate": "2025-04-19T12:03:38+02:00",
-    "expiresDate": "2025-04-19T18:03:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenen-Probealarm - Rheinmüster",
-      "en": "Siren test",
-      "ar": "تجربة صفارة الإنذار",
-      "es": "Prueba de sirena",
-      "fr": "Test des sirènes",
-      "pl": "Test syren",
-      "ru": "Проверка средств оповещения",
-      "tr": "Siren testi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-TH-HIG-W111-20250419-001",
     "version": 5,
     "startDate": "2025-04-19T12:15:13+02:00",
@@ -160,27 +138,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
-    }
-  },
-  {
-    "id": "mow.DE-BW-AA-W035-20250419-000",
-    "version": 5,
-    "startDate": "2025-04-19T14:45:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung bei Brand - Großkuchen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
     }
   },
   {
@@ -214,6 +171,28 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Geruchsbelästigung aufgrund eines Brandereignisses in Bingen Kempten - Bingen Kempten",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-AA-W035-20250419-001",
+    "version": 5,
+    "startDate": "2025-04-19T17:52:13+02:00",
+    "expiresDate": "2025-04-19T23:52:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung bei Brand - Großkuchen",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
