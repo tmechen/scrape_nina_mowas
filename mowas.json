@@ -54,5 +54,26 @@
     "transKeys": {
       "event": "BBK-EVC-067"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20250424-129-000",
+    "version": 5,
+    "startDate": "2025-04-24T10:00:19+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "PROBEALARMIERUNG  - Landkreis Celle",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
