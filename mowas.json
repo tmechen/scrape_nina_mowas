@@ -76,5 +76,26 @@
     "transKeys": {
       "event": "BBK-EVC-050"
     }
+  },
+  {
+    "id": "mow.DE-NW-KLE-SE058-20250424-58-000",
+    "version": 5,
+    "startDate": "2025-04-24T14:55:25+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in [Ortsangabe] - Kreis kleve",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
