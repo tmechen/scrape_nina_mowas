@@ -56,14 +56,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-KLE-SE058-20250424-58-000",
+    "id": "mow.DE-NW-KLE-SE058-20250424-58-001",
     "version": 5,
-    "startDate": "2025-04-24T14:55:25+02:00",
+    "startDate": "2025-04-24T19:04:10+02:00",
+    "expiresDate": "2025-04-25T01:04:09+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in [Ortsangabe] - Kreis kleve",
+      "de": "Entwarnung: Rauchgase in [Ortsangabe] - Kreis kleve",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
