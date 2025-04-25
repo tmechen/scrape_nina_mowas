@@ -35,28 +35,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20250425-28-001",
-    "version": 5,
-    "startDate": "2025-04-25T16:16:51+02:00",
-    "expiresDate": "2025-04-25T22:16:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Henstedt-Ulzburg",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20250425-002",
     "version": 5,
     "startDate": "2025-04-25T18:55:02+02:00",
