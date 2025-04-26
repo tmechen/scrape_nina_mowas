@@ -35,28 +35,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GM-SE088-20250426-88-001",
-    "version": 5,
-    "startDate": "2025-04-26T14:38:58+02:00",
-    "expiresDate": "2025-04-26T20:38:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Bereich der Stadt Bergneustadt - Bergneustadt",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-OF-W192-20250426-001",
     "version": 5,
     "startDate": "2025-04-26T15:15:24+02:00",
