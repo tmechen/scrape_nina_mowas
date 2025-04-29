@@ -35,28 +35,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20250429-001",
-    "version": 5,
-    "startDate": "2025-04-29T16:32:40+02:00",
-    "expiresDate": "2025-04-29T22:32:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand in der Altstadt Mühldorf a. Inn - Stadt Mühldorf a. Inn - Altstadtbereich",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-BOT-SE062-20250429-62-000",
     "version": 5,
     "startDate": "2025-04-29T18:58:28+02:00",
