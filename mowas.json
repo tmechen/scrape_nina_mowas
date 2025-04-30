@@ -78,14 +78,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-BM-SE042-20250430-42-000",
+    "id": "mow.DE-NW-BM-SE042-20250430-42-001",
     "version": 5,
-    "startDate": "2025-04-30T15:28:32+02:00",
+    "startDate": "2025-04-30T18:13:22+02:00",
+    "expiresDate": "2025-05-01T00:13:22+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in Kerpen - Kerpen",
+      "de": "Entwarnung: Rauchgase in Kerpen - Kerpen",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
