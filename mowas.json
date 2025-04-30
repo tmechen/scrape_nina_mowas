@@ -120,5 +120,26 @@
     "transKeys": {
       "event": "BBK-EVC-011"
     }
+  },
+  {
+    "id": "mow.DE-NW-BM-SE042-20250430-42-000",
+    "version": 5,
+    "startDate": "2025-04-30T15:28:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Kerpen - Kerpen",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
