@@ -77,14 +77,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-NOM-W210-20250430-000",
+    "id": "mow.DE-SH-OD-SE105-20250430-105-001",
     "version": 5,
-    "startDate": "2025-04-30T21:24:23+02:00",
+    "startDate": "2025-04-30T23:12:33+02:00",
+    "expiresDate": "2025-05-01T05:12:33+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase durch Gebäudebrand - Edesheim",
+      "de": "Entwarnung: Feuerwehreinsatz - Neustadt in Holstein",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -98,15 +99,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20250430-105-001",
+    "id": "mow.DE-NI-NOM-W210-20250430-001",
     "version": 5,
-    "startDate": "2025-04-30T23:12:33+02:00",
-    "expiresDate": "2025-05-01T05:12:33+02:00",
+    "startDate": "2025-05-01T00:58:31+02:00",
+    "expiresDate": "2025-05-01T06:58:30+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Neustadt in Holstein",
+      "de": "Entwarnung: Rauchgase durch Gebäudebrand - Edesheim",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
