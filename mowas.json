@@ -56,28 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WM-W167-20250429-001",
-    "version": 5,
-    "startDate": "2025-04-29T21:08:43+02:00",
-    "expiresDate": "2025-04-30T03:08:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in Schongau, Dornauer Weg  - Schongau",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BB-EW-SE079-20250429-79-000",
     "version": 5,
     "startDate": "2025-04-30T00:40:16+02:00",
