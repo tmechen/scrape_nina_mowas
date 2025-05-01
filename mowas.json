@@ -56,27 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-SE137-20250430-166-000",
-    "version": 5,
-    "startDate": "2025-04-30T19:38:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Waldbrand - Tennenloher Forst östlich von Erlangen-Tennenlohe",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-BW-KA-W138-20250501-001",
     "version": 5,
     "startDate": "2025-05-01T09:17:29+02:00",
@@ -96,6 +75,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-N-SE137-20250501-166-000",
+    "version": 5,
+    "startDate": "2025-05-01T09:35:35+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Waldbrand - Tennenloher Forst östlich von Erlangen-Tennenlohe",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
