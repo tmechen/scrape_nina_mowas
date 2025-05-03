@@ -164,27 +164,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LU-SE005-20250503-5-003",
-    "version": 5,
-    "startDate": "2025-05-03T13:58:29+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung aufgrund eines Großbrandes - Schifferstadt",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-LU-SE005-20250503-5-004",
     "version": 5,
     "startDate": "2025-05-03T14:26:06+02:00",
@@ -226,6 +205,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LU-SE005-20250503-5-005",
+    "version": 5,
+    "startDate": "2025-05-03T17:24:38+02:00",
+    "expiresDate": "2025-05-03T23:24:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung aufgrund eines Großbrandes - Schifferstadt",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
