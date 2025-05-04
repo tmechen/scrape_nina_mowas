@@ -56,27 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-SE137-20250502-166-000",
-    "version": 5,
-    "startDate": "2025-05-02T11:32:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Waldbrand - gemeindefreies Gebiet Tennenloher Forst, Bereich Heuweg",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-BB-EW-SE079-20250502-79-000",
     "version": 5,
     "startDate": "2025-05-02T17:35:24+02:00",
@@ -181,6 +160,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-N-SE137-20250504-166-000",
+    "version": 5,
+    "startDate": "2025-05-04T10:57:36+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Waldbrand - gemeindefreies Gebiet Tennenloher Forst, Bereich Heuweg",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
