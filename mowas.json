@@ -56,27 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-GI-W182-20250503-000",
-    "version": 5,
-    "startDate": "2025-05-03T19:19:35+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "zur aktuellen Lage - Landkreis Gießen",
-      "en": "Extremely heavy rain",
-      "ar": "مطر قوي شديد للغاية",
-      "es": "Lluvia extremadamente fuerte",
-      "fr": "Pluies extrêmes",
-      "pl": "Ekstremalnie gwałtowny ulewny deszcz",
-      "ru": "Очень сильный ливень",
-      "tr": "Aşırı derecede ağır şiddetli yağmur"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-021"
-    }
-  },
-  {
     "id": "mow.DE-BY-N-SE137-20250504-166-000",
     "version": 5,
     "startDate": "2025-05-04T10:57:36+02:00",
@@ -117,6 +96,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-011"
+    }
+  },
+  {
+    "id": "mow.DE-HE-GI-W182-20250505-000",
+    "version": 5,
+    "startDate": "2025-05-05T09:09:28+02:00",
+    "expiresDate": "2025-05-05T15:09:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: zur aktuellen Lage - Landkreis Gießen",
+      "en": "Extremely heavy rain",
+      "ar": "مطر قوي شديد للغاية",
+      "es": "Lluvia extremadamente fuerte",
+      "fr": "Pluies extrêmes",
+      "pl": "Ekstremalnie gwałtowny ulewny deszcz",
+      "ru": "Очень сильный ливень",
+      "tr": "Aşırı derecede ağır şiddetli yağmur"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-021"
     }
   }
 ]
