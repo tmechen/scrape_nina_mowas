@@ -77,50 +77,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20250505-84-000",
-    "version": 5,
-    "startDate": "2025-05-05T08:51:06+02:00",
-    "expiresDate": "2025-05-05T14:51:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hohe Waldbrandgefahr; Verbot von Daxenfeuern - Landkreis Miesbach und Landkreis Rosenheim, sowie die Stadt Rosenheim",
-      "en": "Risk of fire",
-      "ar": "خطر الحريق",
-      "es": "Peligro de incendio",
-      "fr": "Risque d'incendie",
-      "pl": "Niebezpieczeństwo pożaru",
-      "ru": "Опасность возникновения пожара",
-      "tr": "Yangın tehlikesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-011"
-    }
-  },
-  {
-    "id": "mow.DE-HE-GI-W182-20250505-000",
-    "version": 5,
-    "startDate": "2025-05-05T09:09:28+02:00",
-    "expiresDate": "2025-05-05T15:09:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: zur aktuellen Lage - Landkreis Gießen",
-      "en": "Extremely heavy rain",
-      "ar": "مطر قوي شديد للغاية",
-      "es": "Lluvia extremadamente fuerte",
-      "fr": "Pluies extrêmes",
-      "pl": "Ekstremalnie gwałtowny ulewny deszcz",
-      "ru": "Очень сильный ливень",
-      "tr": "Aşırı derecede ağır şiddetli yağmur"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-021"
-    }
-  },
-  {
     "id": "mow.DE-NW-HER-SE083-20250505-133-002",
     "version": 5,
     "startDate": "2025-05-05T14:30:16+02:00",
