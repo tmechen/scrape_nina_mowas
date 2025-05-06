@@ -98,14 +98,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-LIP-SE041-20250505-41-000",
+    "id": "mow.DE-NW-LIP-SE041-20250506-41-000",
     "version": 5,
-    "startDate": "2025-05-05T22:37:20+02:00",
+    "startDate": "2025-05-06T08:58:46+02:00",
+    "expiresDate": "2025-05-06T14:58:45+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand im Industriegebiet - Dörentrup",
+      "de": "Entwarnung: Großbrand im Industriegebiet - Dörentrup",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
