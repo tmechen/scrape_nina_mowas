@@ -78,27 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-WES-SE097-20250508-97-000",
-    "version": 5,
-    "startDate": "2025-05-08T13:45:36+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Entschärfung eines Bombenblindgängers - Bereich der Römerstraße in Moers-Meerbeck",
-      "en": "Bomb/ammunition discovery",
-      "ar": "العثور على قنابل/ذخيرة",
-      "es": "Hallazgo de bomba/munición",
-      "fr": "Découverte de bombes / munitions",
-      "pl": "Odnalezienie bomb/amunicji",
-      "ru": "Обнаружение неразорвавшихся снарядов/боеприпасов",
-      "tr": "Bomba/Cephane buluntusu"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20250508-106-000",
     "version": 5,
     "startDate": "2025-05-08T13:50:47+02:00",
@@ -205,6 +184,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-TUE-W126-20250508-000",
+    "version": 5,
+    "startDate": "2025-05-08T18:05:43+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch einen Gebäudebrand - Gemeinde Bodelshausen, Landkreis Tübingen",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-WES-SE097-20250508-97-001",
+    "version": 5,
+    "startDate": "2025-05-08T18:06:24+02:00",
+    "expiresDate": "2025-05-09T00:06:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Entschärfung eines Bombenblindgängers - Bereich der Römerstraße in Moers-Meerbeck",
+      "en": "Bomb/ammunition discovery",
+      "ar": "العثور على قنابل/ذخيرة",
+      "es": "Hallazgo de bomba/munición",
+      "fr": "Découverte de bombes / munitions",
+      "pl": "Odnalezienie bomb/amunicji",
+      "ru": "Обнаружение неразорвавшихся снарядов/боеприпасов",
+      "tr": "Bomba/Cephane buluntusu"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
