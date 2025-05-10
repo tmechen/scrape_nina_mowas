@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-WTM-W213-20250510-001",
-    "version": 5,
-    "startDate": "2025-05-10T09:38:40+02:00",
-    "expiresDate": "2025-05-10T15:38:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung Großbrand - Leer Heidestraße",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-HN-W045-20250510-002",
     "version": 5,
     "startDate": "2025-05-10T13:48:27+02:00",
