@@ -120,27 +120,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-W094-20250510-000",
-    "version": 5,
-    "startDate": "2025-05-10T10:20:47+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Übung von Feuerwehr, Rettungsdienst und Katastrophenschutz - Gemeinden Glashütte, Dippoldiswalde, Kreischa",
-      "en": "Traffic alert",
-      "ar": "تحذير مروري",
-      "es": "Advertencia de tráfico",
-      "fr": "Alerte trafic",
-      "pl": "Ostrzeżenie drogowe",
-      "ru": "Предупреждение о ситуации на дороге",
-      "tr": "Trafik uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-075"
-    }
-  },
-  {
     "id": "mow.DE-BW-HN-W045-20250510-002",
     "version": 5,
     "startDate": "2025-05-10T13:48:27+02:00",
@@ -160,6 +139,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-SN-DD-W094-20250510-001",
+    "version": 5,
+    "startDate": "2025-05-10T15:20:50+02:00",
+    "expiresDate": "2025-05-10T21:20:49+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Übung von Feuerwehr, Rettungsdienst und Katastrophenschutz - Gemeinden Glashütte, Dippoldiswalde, Kreischa",
+      "en": "Traffic alert",
+      "ar": "تحذير مروري",
+      "es": "Advertencia de tráfico",
+      "fr": "Alerte trafic",
+      "pl": "Ostrzeżenie drogowe",
+      "ru": "Предупреждение о ситуации на дороге",
+      "tr": "Trafik uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-075"
     }
   }
 ]
