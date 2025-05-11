@@ -78,14 +78,15 @@
     }
   },
   {
-    "id": "mow.DE-BB-BRB-SE081-20250511-81-001",
+    "id": "mow.DE-BB-BRB-SE081-20250511-81-002",
     "version": 5,
-    "startDate": "2025-05-11T18:08:54+02:00",
+    "startDate": "2025-05-11T19:56:05+02:00",
+    "expiresDate": "2025-05-12T01:56:04+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in Saarmund - Gemeinde Nuthetal",
+      "de": "Entwarnung: Brand in Saarmund - Gemeinde Nuthetal",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
