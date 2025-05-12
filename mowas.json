@@ -78,27 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BN-SE060-20250512-60-000",
-    "version": 5,
-    "startDate": "2025-05-12T13:13:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall Stromversorgung - Stadtgebiet Bonn - Ortsteil Friesdorf",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20250512-106-001",
     "version": 5,
     "startDate": "2025-05-12T13:34:26+02:00",
@@ -165,27 +144,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20250512-67-000",
-    "version": 5,
-    "startDate": "2025-05-12T14:48:29+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brand - Dortmund",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20250512-35-000",
     "version": 5,
     "startDate": "2025-05-12T16:07:51+02:00",
@@ -204,6 +162,50 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20250512-67-001",
+    "version": 5,
+    "startDate": "2025-05-12T16:24:58+02:00",
+    "expiresDate": "2025-05-12T22:24:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brand - Dortmund",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BN-SE060-20250512-60-001",
+    "version": 5,
+    "startDate": "2025-05-12T16:27:03+02:00",
+    "expiresDate": "2025-05-12T22:27:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall Stromversorgung - Stadtgebiet Bonn - Ortsteil Friesdorf",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
