@@ -100,27 +100,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20250513-122-000",
-    "version": 5,
-    "startDate": "2025-05-13T17:25:07+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahrstoffaustritt in der Stadt Leipzig - Leipzig Lützschena Stahmeln",
-      "en": "Dangerous goods accident",
-      "ar": "حادث مواد خطرة",
-      "es": "Accidente imputable a mercancías peligrosas",
-      "fr": "Accident impliquant des substances dangereuses",
-      "pl": "Wypadek z materiałami niebezpiecznymi",
-      "ru": "Авария при перевозке опасных грузов",
-      "tr": "Tehlikeli madde kazası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-029"
-    }
-  },
-  {
     "id": "mow.DE-NW-ME-SE071-20250513-71-001",
     "version": 5,
     "startDate": "2025-05-13T17:48:51+02:00",
@@ -160,6 +139,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-SN-DD-SE011-20250513-11-000",
+    "version": 5,
+    "startDate": "2025-05-13T20:58:55+02:00",
+    "expiresDate": "2025-05-14T02:58:55+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahrstoffaustritt in der Stadt Leipzig - Leipzig Lützschena Stahmeln",
+      "en": "Dangerous goods accident",
+      "ar": "حادث مواد خطرة",
+      "es": "Accidente imputable a mercancías peligrosas",
+      "fr": "Accident impliquant des substances dangereuses",
+      "pl": "Wypadek z materiałami niebezpiecznymi",
+      "ru": "Авария при перевозке опасных грузов",
+      "tr": "Tehlikeli madde kazası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-029"
     }
   }
 ]
