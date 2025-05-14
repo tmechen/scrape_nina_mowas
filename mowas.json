@@ -54,27 +54,5 @@
     "transKeys": {
       "event": "BBK-EVC-077"
     }
-  },
-  {
-    "id": "mow.DE-SN-Z-SE122-20250514-154-002",
-    "version": 5,
-    "startDate": "2025-05-14T16:54:29+02:00",
-    "expiresDate": "2025-05-14T22:54:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Landkreis/Stadt: Landkreis Vogtlandkreis, Netzschkau",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
