@@ -56,14 +56,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20250515-105-000",
+    "id": "mow.DE-SH-OD-SE105-20250515-105-003",
     "version": 5,
-    "startDate": "2025-05-15T03:18:47+02:00",
+    "startDate": "2025-05-15T04:47:36+02:00",
+    "expiresDate": "2025-05-15T10:47:35+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Wiershop",
+      "de": "Entwarnung: Feuerwehreinsatz - Wiershop",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
