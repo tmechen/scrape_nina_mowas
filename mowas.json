@@ -56,14 +56,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20250517-57-001",
+    "id": "mow.DE-NW-SU-SE057-20250518-57-000",
     "version": 5,
-    "startDate": "2025-05-17T17:45:43+02:00",
+    "startDate": "2025-05-18T08:44:08+02:00",
+    "expiresDate": "2025-05-18T14:44:07+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "starke Rauchentwicklung aufgrund eines Großfeuers - Gemeinde Swisttal",
+      "de": "Entwarnung: starke Rauchentwicklung aufgrund eines Großfeuers - Gemeinde Swisttal",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
@@ -77,15 +78,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20250518-50-000",
+    "id": "mow.DE-NW-SU-SE057-20250518-57-001",
     "version": 5,
-    "startDate": "2025-05-18T02:27:22+02:00",
-    "expiresDate": "2025-05-18T08:27:21+02:00",
+    "startDate": "2025-05-18T08:50:04+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Brand in einem Entsorgungsbetrieb, starke Rauchentwicklung - 72666 Neckartailfingen",
+      "de": "Brand (Ausbreitung Brandrauch) - Swisttal Ollheim",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
