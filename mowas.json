@@ -56,27 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20250518-57-001",
-    "version": 5,
-    "startDate": "2025-05-18T08:50:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand (Ausbreitung Brandrauch) - Swisttal Ollheim",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20250519-002",
     "version": 5,
     "startDate": "2025-05-19T11:58:14+02:00",
@@ -139,6 +118,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SU-SE057-20250519-57-000",
+    "version": 5,
+    "startDate": "2025-05-19T12:30:44+02:00",
+    "expiresDate": "2025-05-19T18:30:44+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand (Ausbreitung Brandrauch) - Swisttal Ollheim",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
