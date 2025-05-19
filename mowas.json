@@ -56,50 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20250519-002",
-    "version": 5,
-    "startDate": "2025-05-19T11:58:14+02:00",
-    "expiresDate": "2025-05-19T17:58:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gasausströmung - Elchesheim-Illingen",
-      "en": "Dangerous goods accident",
-      "ar": "حادث مواد خطرة",
-      "es": "Accidente imputable a mercancías peligrosas",
-      "fr": "Accident impliquant des substances dangereuses",
-      "pl": "Wypadek z materiałami niebezpiecznymi",
-      "ru": "Авария при перевозке опасных грузов",
-      "tr": "Tehlikeli madde kazası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-029"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RA-W025-20250519-003",
-    "version": 5,
-    "startDate": "2025-05-19T11:58:26+02:00",
-    "expiresDate": "2025-05-19T17:58:26+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gasausströmung - Elchesheim-Illingen",
-      "en": "Dangerous goods accident",
-      "ar": "حادث مواد خطرة",
-      "es": "Accidente imputable a mercancías peligrosas",
-      "fr": "Accident impliquant des substances dangereuses",
-      "pl": "Wypadek z materiałami niebezpiecznymi",
-      "ru": "Авария при перевозке опасных грузов",
-      "tr": "Tehlikeli madde kazası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-029"
-    }
-  },
-  {
     "id": "mow.DE-BW-HD-W086-20250519-000",
     "version": 5,
     "startDate": "2025-05-19T12:19:35+02:00",
