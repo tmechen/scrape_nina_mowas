@@ -56,35 +56,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20250520-31-000",
+    "id": "mow.DE-BY-HO-W142-20250520-001",
     "version": 5,
-    "startDate": "2025-05-20T09:14:05+02:00",
+    "startDate": "2025-05-20T13:32:16+02:00",
+    "expiresDate": "2025-05-20T19:32:16+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Bombenfund - Köln",
-      "en": "Bomb/ammunition discovery",
-      "ar": "العثور على قنابل/ذخيرة",
-      "es": "Hallazgo de bomba/munición",
-      "fr": "Découverte de bombes / munitions",
-      "pl": "Odnalezienie bomb/amunicji",
-      "ru": "Обнаружение неразорвавшихся снарядов/боеприпасов",
-      "tr": "Bomba/Cephane buluntusu"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
-    "id": "mow.DE-BY-HO-W142-20250520-000",
-    "version": 5,
-    "startDate": "2025-05-20T13:04:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenentest im Bereich Grafenreuth - Grafenreuth / Thiersheim",
+      "de": "Entwarnung: Sirenentest im Bereich Grafenreuth - Grafenreuth / Thiersheim",
       "en": "Test alert",
       "ar": "تحذير تجريبي",
       "es": "Advertencia de prueba",
@@ -95,6 +75,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20250520-31-001",
+    "version": 5,
+    "startDate": "2025-05-20T13:34:31+02:00",
+    "expiresDate": "2025-05-20T19:34:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenfund - Köln",
+      "en": "Bomb/ammunition discovery",
+      "ar": "العثور على قنابل/ذخيرة",
+      "es": "Hallazgo de bomba/munición",
+      "fr": "Découverte de bombes / munitions",
+      "pl": "Odnalezienie bomb/amunicji",
+      "ru": "Обнаружение неразорвавшихся снарядов/боеприпасов",
+      "tr": "Bomba/Cephane buluntusu"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-009"
     }
   }
 ]
