@@ -100,27 +100,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-GG-W222-20250521-000",
-    "version": 5,
-    "startDate": "2025-05-21T14:20:03+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuer - Landkreis Groß-Gerau",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-MS-SE043-20250521-43-000",
     "version": 5,
     "startDate": "2025-05-21T15:15:44+02:00",
@@ -183,6 +162,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-HE-GG-W222-20250521-001",
+    "version": 5,
+    "startDate": "2025-05-21T16:00:18+02:00",
+    "expiresDate": "2025-05-21T22:00:18+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuer - Landkreis Groß-Gerau",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
