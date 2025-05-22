@@ -54,27 +54,5 @@
     "transKeys": {
       "event": "BBK-EVC-077"
     }
-  },
-  {
-    "id": "mow.DE-NW-LEV-SE046-20250521-46-001",
-    "version": 5,
-    "startDate": "2025-05-22T00:32:26+02:00",
-    "expiresDate": "2025-05-22T06:32:26+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Brandereignis - Leverkusen-Wiesdorf",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
   }
 ]
