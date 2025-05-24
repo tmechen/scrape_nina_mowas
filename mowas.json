@@ -98,14 +98,15 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-W207-20250524-000",
+    "id": "mow.DE-SN-DD-W207-20250524-001",
     "version": 5,
-    "startDate": "2025-05-24T11:25:28+02:00",
+    "startDate": "2025-05-24T13:36:44+02:00",
+    "expiresDate": "2025-05-24T19:36:43+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "ÜBUNG einer Lebensbedrohlichen Einsatzlage - Altenberg, Neuer Kohlgrundweg, Bereich Gelände Bobbahn",
+      "de": "Entwarnung: ÜBUNG einer Lebensbedrohlichen Einsatzlage - Altenberg, Neuer Kohlgrundweg, Bereich Gelände Bobbahn",
       "en": "Life-threatening situation",
       "ar": "وضع يهدد الحياة",
       "es": "Situación de peligro de muerte",
