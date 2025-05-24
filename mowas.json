@@ -77,27 +77,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KN-W131-20250524-000",
-    "version": 5,
-    "startDate": "2025-05-24T08:30:22+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenen-Probealarm - Singen u. Ortsteile",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-SN-DD-W207-20250524-001",
     "version": 5,
     "startDate": "2025-05-24T13:36:44+02:00",
@@ -117,6 +96,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-044"
+    }
+  },
+  {
+    "id": "mow.DE-BW-KN-W131-20250524-001",
+    "version": 5,
+    "startDate": "2025-05-24T15:12:45+02:00",
+    "expiresDate": "2025-05-24T21:12:45+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Probealarm - Singen u. Ortsteile",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
     }
   }
 ]
