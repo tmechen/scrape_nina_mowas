@@ -56,36 +56,15 @@
     }
   },
   {
-    "id": "mow.DE-SN-L-W093-20250526-001",
+    "id": "mow.DE-NW-RE-SE078-20250526-78-002",
     "version": 5,
-    "startDate": "2025-05-26T13:44:47+02:00",
-    "expiresDate": "2025-05-26T19:44:47+02:00",
+    "startDate": "2025-05-26T20:02:33+02:00",
+    "expiresDate": "2025-05-27T02:02:33+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch einen Dachstuhlbrand - Leipzig Altlindenau",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NW-RE-SE078-20250526-78-001",
-    "version": 5,
-    "startDate": "2025-05-26T16:36:42+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "1.2 Bombenfund Warnung - Datteln",
+      "de": "Entwarnung: 1.2 Bombenfund Warnung - Datteln",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
