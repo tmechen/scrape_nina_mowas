@@ -56,28 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-HL-SE103-20250529-103-001",
-    "version": 6,
-    "startDate": "2025-05-29T16:58:59+02:00",
-    "expiresDate": "2025-05-29T22:58:59+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - St. Lorenz Süd / Innenstadt",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20250529-143-000",
     "version": 6,
     "startDate": "2025-05-29T19:20:20+02:00",
