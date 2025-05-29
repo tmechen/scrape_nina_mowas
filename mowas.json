@@ -56,28 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-C-W092-20250528-001",
-    "version": 5,
-    "startDate": "2025-05-28T20:46:45+02:00",
-    "expiresDate": "2025-05-29T02:46:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Giftige Rauchwolke durch Trafobrand im Umspannwerk Sachsenfeld b. Schw - Schwarzenberg und Umgebung",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20250528-28-001",
     "version": 5,
     "startDate": "2025-05-29T01:31:28+02:00",
@@ -108,6 +86,27 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Rauchentwicklung durch Gebäudebrand - Schleswig, St. Jürgenerstr.",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20250529-28-000",
+    "version": 5,
+    "startDate": "2025-05-29T03:48:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Ellerau",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
