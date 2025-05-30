@@ -78,14 +78,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-WTM-W213-20250530-001",
+    "id": "mow.DE-NI-WTM-W213-20250530-002",
     "version": 6,
-    "startDate": "2025-05-30T19:12:58+02:00",
+    "startDate": "2025-05-30T19:37:19+02:00",
+    "expiresDate": "2025-05-31T01:37:19+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Warnung Großbrand - Leer",
+      "de": "Entwarnung: Warnung Großbrand - Leer",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
