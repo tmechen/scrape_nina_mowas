@@ -56,28 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20250531-100-001",
-    "version": 6,
-    "startDate": "2025-05-31T16:55:10+02:00",
-    "expiresDate": "2025-05-31T22:55:10+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: massive Geruchsbelästigung durch Brand einer Werkstatt - Husby",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-KR-SE075-20250531-75-001",
     "version": 6,
     "startDate": "2025-05-31T18:25:55+02:00",
