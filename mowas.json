@@ -97,5 +97,47 @@
     "transKeys": {
       "event": "BBK-EVC-063"
     }
+  },
+  {
+    "id": "mow.DE-NW-KR-SE075-20250531-75-002",
+    "version": 6,
+    "startDate": "2025-06-01T00:50:41+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Überflutung in Krefeld - Krefeld",
+      "en": "Heavy rainfall",
+      "ar": "مطر شديد",
+      "es": "Lluvias torrenciales",
+      "fr": "Forte pluie",
+      "pl": "Ulewa",
+      "ru": "Сильный дождь",
+      "tr": "Yoğun yağmur"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-062"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ST-SE032-20250531-165-000",
+    "version": 6,
+    "startDate": "2025-06-01T01:03:41+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Lengerich Hohne - Stadt Lengerich",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
