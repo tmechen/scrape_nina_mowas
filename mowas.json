@@ -96,5 +96,26 @@
     "transKeys": {
       "event": "BBK-EVC-062"
     }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20250601-84-000",
+    "version": 6,
+    "startDate": "2025-06-01T12:55:20+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand- und Rauchentwicklung - Stadtgebiet Amberg",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
