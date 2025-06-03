@@ -57,27 +57,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-CW-W267-20250603-000",
-    "version": 6,
-    "startDate": "2025-06-03T15:14:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall der Stromversorgung im Stadtgebiet Nagold  - Stadtgebiet Nagold sowie Ortsteile Pfrondorf, Mindersbach und Rotfelden",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20250603-29-001",
     "version": 6,
     "startDate": "2025-06-03T15:17:30+02:00",
@@ -119,6 +98,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-BW-CW-W267-20250603-001",
+    "version": 6,
+    "startDate": "2025-06-03T15:50:43+02:00",
+    "expiresDate": "2025-06-03T21:50:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall der Stromversorgung im Stadtgebiet Nagold  - Stadtgebiet Nagold sowie Ortsteile Pfrondorf, Mindersbach und Rotfelden",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
