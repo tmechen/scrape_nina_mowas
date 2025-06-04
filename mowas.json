@@ -35,28 +35,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HER-SE083-20250604-133-001",
-    "version": 6,
-    "startDate": "2025-06-04T14:42:43+02:00",
-    "expiresDate": "2025-06-04T20:42:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Herne Horsthausen - Herne Horsthausen",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20250604-106-001",
     "version": 6,
     "startDate": "2025-06-04T18:37:49+02:00",
