@@ -35,28 +35,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20250605-001",
-    "version": 6,
-    "startDate": "2025-06-05T09:26:51+02:00",
-    "expiresDate": "2025-06-05T15:26:50+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall im Stadtgebiet Neuburg a.d.Donau - Neuburg a. d. Donau",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BB-CB-SE036-20250605-36-001",
     "version": 6,
     "startDate": "2025-06-05T12:28:36+02:00",
