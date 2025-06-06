@@ -56,28 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20250606-28-003",
-    "version": 6,
-    "startDate": "2025-06-06T10:11:21+02:00",
-    "expiresDate": "2025-06-06T16:11:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Hemmingstedt",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SN-DD-W094-20250606-001",
     "version": 6,
     "startDate": "2025-06-06T11:34:46+02:00",
