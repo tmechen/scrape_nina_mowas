@@ -120,27 +120,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-PB-SE093-20250607-93-000",
-    "version": 6,
-    "startDate": "2025-06-07T14:21:48+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchbelästigung  - Lichtenau Kleinenberg",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20250607-50-001",
     "version": 6,
     "startDate": "2025-06-07T18:52:10+02:00",
@@ -160,6 +139,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-PB-SE093-20250607-93-001",
+    "version": 6,
+    "startDate": "2025-06-07T19:06:58+02:00",
+    "expiresDate": "2025-06-08T01:06:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchbelästigung  - Lichtenau Kleinenberg",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
