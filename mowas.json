@@ -119,27 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE113-20250607-113-000",
-    "version": 6,
-    "startDate": "2025-06-07T05:53:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Kottenheim, Mendig, Thür",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SN-DD-W094-20250607-000",
     "version": 6,
     "startDate": "2025-06-07T06:02:17+02:00",
@@ -162,14 +141,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-UH-W116-20250607-000",
+    "id": "mow.DE-TH-UH-W116-20250607-001",
     "version": 6,
-    "startDate": "2025-06-07T10:35:39+02:00",
+    "startDate": "2025-06-07T11:15:50+02:00",
+    "expiresDate": "2025-06-07T17:15:50+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Funktionsüberprüfung der Sirenen und Funkmeldeempfänger im Unstrut-Hainich-Kreis - Unstrut-Hainich-Kreis",
+      "de": "Entwarnung: Funktionsüberprüfung der Sirenen und Funkmeldeempfänger im Unstrut-Hai - Unstrut-Hainich-Kreis",
       "en": "Siren test",
       "ar": "تجربة صفارة الإنذار",
       "es": "Prueba de sirena",
@@ -180,6 +160,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KO-SE113-20250607-113-001",
+    "version": 6,
+    "startDate": "2025-06-07T11:20:26+02:00",
+    "expiresDate": "2025-06-07T17:20:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung - Kottenheim, Mendig, Thür",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
