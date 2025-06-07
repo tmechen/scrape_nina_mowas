@@ -98,27 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GL-SE063-20250607-63-000",
-    "version": 6,
-    "startDate": "2025-06-07T05:51:17+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brandereigniss mit Geruchsbelästigung - Stadt Wermelskirchen",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-TH-UH-W116-20250607-001",
     "version": 6,
     "startDate": "2025-06-07T11:15:50+02:00",
@@ -248,6 +227,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NW-GL-SE063-20250607-63-003",
+    "version": 6,
+    "startDate": "2025-06-07T13:55:37+02:00",
+    "expiresDate": "2025-06-07T19:55:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandereigniss mit Geruchsbelästigung - Stadt Wermelskirchen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-PB-SE093-20250607-93-000",
+    "version": 6,
+    "startDate": "2025-06-07T14:21:48+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchbelästigung  - Lichtenau Kleinenberg",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
