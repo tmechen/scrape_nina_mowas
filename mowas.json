@@ -99,14 +99,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-WTM-W213-20250610-000",
+    "id": "mow.DE-NI-WTM-W213-20250610-001",
     "version": 6,
-    "startDate": "2025-06-10T06:01:49+02:00",
+    "startDate": "2025-06-10T07:15:28+02:00",
+    "expiresDate": "2025-06-10T13:15:28+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Warnung Großbrand - Leer, Kolonistenweg",
+      "de": "Entwarnung: Entwarnung zum Brand in Leer - Leer, Kolonistenweg",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
