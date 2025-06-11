@@ -120,27 +120,6 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-SE017-20250611-17-000",
-    "version": 6,
-    "startDate": "2025-06-11T18:35:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sprengung einer Weltkriegsbombe - Berlin-Kladow",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-RP-KO-SE113-20250611-113-001",
     "version": 6,
     "startDate": "2025-06-11T18:52:01+02:00",
@@ -204,6 +183,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BR-B-SE017-20250611-17-001",
+    "version": 6,
+    "startDate": "2025-06-11T21:31:37+02:00",
+    "expiresDate": "2025-06-12T03:31:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sprengung einer Weltkriegsbombe - Berlin-Kladow",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
