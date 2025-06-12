@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20250612-36-001",
-    "version": 6,
-    "startDate": "2025-06-12T16:59:48+02:00",
-    "expiresDate": "2025-06-12T22:59:47+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung aufgrund Strohballenbrand - Großziethen",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-MR-W190-20250612-001",
     "version": 6,
     "startDate": "2025-06-12T17:40:02+02:00",
@@ -204,6 +182,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-WAF-SE045-20250612-45-000",
+    "version": 6,
+    "startDate": "2025-06-12T22:57:16+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in Everswinkel im Ortsteil Alverskirchen - Ortsteil Alverskirchen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
