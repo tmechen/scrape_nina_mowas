@@ -185,14 +185,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-WAF-SE045-20250612-45-000",
+    "id": "mow.DE-NW-WAF-SE045-20250612-45-001",
     "version": 6,
-    "startDate": "2025-06-12T22:57:16+02:00",
+    "startDate": "2025-06-12T23:37:13+02:00",
+    "expiresDate": "2025-06-13T05:37:12+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung in Everswinkel im Ortsteil Alverskirchen - Ortsteil Alverskirchen",
+      "de": "Entwarnung: Geruchsbelästigung in Everswinkel  - Ortsteil Alverskirchen",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
