@@ -77,14 +77,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-ME-SE071-20250614-71-000",
+    "id": "mow.DE-NW-ME-SE071-20250614-71-001",
     "version": 6,
-    "startDate": "2025-06-14T07:54:52+02:00",
+    "startDate": "2025-06-14T08:46:43+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Geruchsbelästigung in Velbert - Velbert-Mitte, Velbert- Tönisheide",
+      "de": "Geruchsbelästigung in den Stadten Velbert und Wülfrath - Velbert-Mitte, Velbert- Tönisheide, Stadtgebiet Wülfrath",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
