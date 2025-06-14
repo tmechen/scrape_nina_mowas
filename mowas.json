@@ -141,14 +141,36 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20250614-84-000",
+    "id": "mow.DE-MV-SN-SE049-20250614-49-000",
     "version": 6,
-    "startDate": "2025-06-14T12:41:44+02:00",
+    "startDate": "2025-06-14T13:35:14+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz chemischer Unfall - Gasaustritt im Freien - Oberstdorf",
+      "de": "Giftige Rauchwolke durch brennende Lagerhalle  - Amt Klützer Winkel",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20250614-84-001",
+    "version": 6,
+    "startDate": "2025-06-14T13:40:30+02:00",
+    "expiresDate": "2025-06-14T19:40:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz chemischer Unfall - Gasaustritt im Freien - Oberstdorf",
       "en": "Chemical hazard",
       "ar": "خطر كيماوي",
       "es": "Peligro químico",
