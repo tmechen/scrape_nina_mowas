@@ -143,14 +143,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-PF-W024-20250615-000",
+    "id": "mow.DE-BW-RT-SE050-20250615-50-001",
     "version": 6,
-    "startDate": "2025-06-15T14:32:15+02:00",
+    "startDate": "2025-06-15T16:43:28+02:00",
+    "expiresDate": "2025-06-15T22:43:28+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung durch Großbrand - Enzkreis, Pforzheim",
+      "de": "Entwarnung: Gebäudebrand in Kehl-Auenheim - Kehl-Auenheim (77694)",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -164,15 +165,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20250615-50-001",
+    "id": "mow.DE-BW-PF-W024-20250615-001",
     "version": 6,
-    "startDate": "2025-06-15T16:43:28+02:00",
-    "expiresDate": "2025-06-15T22:43:28+02:00",
+    "startDate": "2025-06-15T17:21:47+02:00",
+    "expiresDate": "2025-06-15T23:21:46+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Gebäudebrand in Kehl-Auenheim - Kehl-Auenheim (77694)",
+      "de": "Entwarnung: Geruchsbelästigung durch Großbrand - Enzkreis, Pforzheim",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
