@@ -121,14 +121,15 @@
     }
   },
   {
-    "id": "mow.DE-MV-NB-W076-20250616-000",
+    "id": "mow.DE-MV-NB-W076-20250616-001",
     "version": 6,
-    "startDate": "2025-06-16T16:39:45+02:00",
+    "startDate": "2025-06-16T19:05:29+02:00",
+    "expiresDate": "2025-06-17T01:05:28+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke durch Brand einer Lagerhalle - Friedland",
+      "de": "Entwarnung: Rauchwolke durch Brand einer Lagerhalle - Friedland",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
