@@ -98,27 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20250617-29-001",
-    "version": 6,
-    "startDate": "2025-06-17T17:12:06+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Akutmeldung: Bombenräumung 17.06.2025 - Stadt Osnabrück - Stadtteile Innenstadt, Fledder, Schinkel",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BY-SC-W185-20250617-001",
     "version": 6,
     "startDate": "2025-06-17T17:47:09+02:00",
@@ -204,6 +183,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-004"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20250617-29-002",
+    "version": 6,
+    "startDate": "2025-06-17T23:37:17+02:00",
+    "expiresDate": "2025-06-18T05:37:17+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Akutmeldung: Bombenräumung 17.06.2025 - Stadt Osnabrück - Stadtteile Innenstadt, Fledder, Schinkel",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
