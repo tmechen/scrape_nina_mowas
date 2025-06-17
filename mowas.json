@@ -206,12 +206,12 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20250617-29-000",
+    "id": "mow.DE-NI-STD-SE029-20250617-29-001",
     "version": 6,
-    "startDate": "2025-06-17T16:33:44+02:00",
+    "startDate": "2025-06-17T17:12:06+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Akutmeldung: Bombenräumung 17.06.2025 - Stadt Osnabrück - Stadtteile Innenstadt, Fledder, Schinkel",
       "en": "Second World War bomb",
