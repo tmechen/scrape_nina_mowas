@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-SC-W185-20250617-001",
-    "version": 6,
-    "startDate": "2025-06-17T17:47:09+02:00",
-    "expiresDate": "2025-06-17T23:47:08+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahrstoffaustritt in Chemiefirma - Roth",
-      "en": "Chemical hazard",
-      "ar": "خطر كيماوي",
-      "es": "Peligro químico",
-      "fr": "Risque chimique",
-      "pl": "Zagrożenie chemiczne",
-      "ru": "Химическая опасность",
-      "tr": "Kimyasal tehlike"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-014"
-    }
-  },
-  {
     "id": "mow.DE-ST-SK-W070-20250617-001",
     "version": 6,
     "startDate": "2025-06-17T18:30:17+02:00",
