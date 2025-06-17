@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20250617-105-001",
-    "version": 6,
-    "startDate": "2025-06-17T15:39:32+02:00",
-    "expiresDate": "2025-06-17T21:39:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Bargteheide, Kreis Stormarn",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20250617-29-001",
     "version": 6,
     "startDate": "2025-06-17T17:12:06+02:00",
@@ -204,6 +182,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-NI-WTM-W213-20250617-000",
+    "version": 6,
+    "startDate": "2025-06-17T21:48:36+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Störung im Bereich der Telekommunikation - Borkum",
+      "en": "IT system outage",
+      "ar": "انقطاع أنظمة تكنولوجيا المعلومات",
+      "es": "Fallo de los sistemas informáticos",
+      "fr": "Défaillance des systèmes informatiques",
+      "pl": "Awaria systemów informatycznych",
+      "ru": "Отказ информационных систем",
+      "tr": "BT sistemleri arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-004"
     }
   }
 ]
