@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-WTM-W213-20250617-001",
-    "version": 6,
-    "startDate": "2025-06-17T22:25:51+02:00",
-    "expiresDate": "2025-06-18T04:25:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Störung im Bereich der Telekommunikation - Borkum",
-      "en": "IT system outage",
-      "ar": "انقطاع أنظمة تكنولوجيا المعلومات",
-      "es": "Fallo de los sistemas informáticos",
-      "fr": "Défaillance des systèmes informatiques",
-      "pl": "Awaria systemów informatycznych",
-      "ru": "Отказ информационных систем",
-      "tr": "BT sistemleri arızası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-004"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20250617-29-002",
     "version": 6,
     "startDate": "2025-06-17T23:37:17+02:00",
