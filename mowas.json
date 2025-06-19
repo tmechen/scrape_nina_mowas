@@ -56,27 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20250619-29-000",
-    "version": 6,
-    "startDate": "2025-06-19T04:51:34+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand im Landkreis Wesermarsch in der Stadt Brake - Stadt Brake",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-W108-20250619-000",
     "version": 6,
     "startDate": "2025-06-19T07:28:45+02:00",
@@ -118,6 +97,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20250619-29-001",
+    "version": 6,
+    "startDate": "2025-06-19T11:11:16+02:00",
+    "expiresDate": "2025-06-19T17:11:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand im Landkreis Wesermarsch in der Stadt Brake - Stadt Brake",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
