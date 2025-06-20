@@ -142,14 +142,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-OF-W192-20250620-001",
+    "id": "mow.DE-HE-DI-W104-20250620-001",
     "version": 6,
-    "startDate": "2025-06-20T16:51:01+02:00",
+    "startDate": "2025-06-20T19:54:56+02:00",
+    "expiresDate": "2025-06-21T01:54:56+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuer im Bereich der Innenstadt - Seligenstadt",
+      "de": "Entwarnung: Feuer im Bereich der Innenstadt - Seligenstadt",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
@@ -163,14 +164,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-DI-W104-20250620-000",
+    "id": "mow.DE-HE-OF-W192-20250620-002",
     "version": 6,
-    "startDate": "2025-06-20T17:05:23+02:00",
+    "startDate": "2025-06-20T20:00:27+02:00",
+    "expiresDate": "2025-06-21T02:00:26+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuer im Bereich der Innenstadt - Seligenstadt",
+      "de": "Entwarnung: Feuer im Bereich der Innenstadt - Seligenstadt",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
