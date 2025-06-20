@@ -78,27 +78,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20250620-29-000",
-    "version": 6,
-    "startDate": "2025-06-20T10:49:32+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Groß Berkel",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20250620-29-001",
     "version": 6,
     "startDate": "2025-06-20T12:46:56+02:00",
@@ -120,14 +99,58 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20250620-18-000",
+    "id": "mow.DE-MV-HST-W239-20250620-000",
     "version": 6,
-    "startDate": "2025-06-20T13:54:41+02:00",
+    "startDate": "2025-06-20T15:21:15+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Brand in einer Müllverbrennungsanlage - Obrigheim",
+      "de": "Feuerwehreinsatz - Gemeinde Wieck auf dem Darß",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20250620-18-001",
+    "version": 6,
+    "startDate": "2025-06-20T15:21:52+02:00",
+    "expiresDate": "2025-06-20T21:21:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand in einer Müllverbrennungsanlage - Obrigheim",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20250620-29-002",
+    "version": 6,
+    "startDate": "2025-06-20T15:31:44+02:00",
+    "expiresDate": "2025-06-20T21:31:44+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Groß Berkel",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
