@@ -56,28 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20250620-001",
-    "version": 6,
-    "startDate": "2025-06-20T10:06:43+02:00",
-    "expiresDate": "2025-06-20T16:06:43+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase / Rauchsäule - Türkheim",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20250620-29-001",
     "version": 6,
     "startDate": "2025-06-20T12:46:56+02:00",
