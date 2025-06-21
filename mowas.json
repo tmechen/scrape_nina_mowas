@@ -142,14 +142,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-NOM-W210-20250621-000",
+    "id": "mow.DE-NI-NOM-W210-20250621-001",
     "version": 6,
-    "startDate": "2025-06-21T08:17:54+02:00",
+    "startDate": "2025-06-21T10:05:09+02:00",
+    "expiresDate": "2025-06-21T16:05:09+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Trinkwasserausfall aufgrund von Wasserrohrbruch - Hardenbergstraße Nörten-Hardenberg",
+      "de": "Entwarnung: Trinkwasserausfall aufgrund von Wasserrohrbruch - Hardenbergstraße Nörten-Hardenberg",
       "en": "Alert",
       "ar": "تحذير",
       "es": "Advertencia",
@@ -160,6 +161,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20250621-28-000",
+    "version": 6,
+    "startDate": "2025-06-21T10:10:39+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Quickborn",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
