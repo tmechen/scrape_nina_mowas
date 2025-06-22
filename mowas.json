@@ -99,27 +99,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-HO-W142-20250622-000",
-    "version": 6,
-    "startDate": "2025-06-22T15:00:39+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bombenfund einer Fliegerbombe am Bahnhof Hof/Saale - Hof/Saale Hauptbahnhof Gleise, Radius 300 Meter",
-      "en": "Risk of explosion",
-      "ar": "خطر الانفجار",
-      "es": "Peligro de explosión",
-      "fr": "Risque d'explosion",
-      "pl": "Niebezpieczeństwo wybuchu",
-      "ru": "Опасность взрыва",
-      "tr": "Patlama tehlikesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-020"
-    }
-  },
-  {
     "id": "mow.DE-NI-WOB-W088-20250622-000",
     "version": 6,
     "startDate": "2025-06-22T17:08:51+02:00",
@@ -181,6 +160,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-HO-W142-20250622-001",
+    "version": 6,
+    "startDate": "2025-06-22T17:51:40+02:00",
+    "expiresDate": "2025-06-22T23:51:39+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenfund einer Fliegerbombe am Bahnhof Hof/Saale - Hof/Saale Hauptbahnhof Gleise, Radius 300 Meter",
+      "en": "Risk of explosion",
+      "ar": "خطر الانفجار",
+      "es": "Peligro de explosión",
+      "fr": "Risque d'explosion",
+      "pl": "Niebezpieczeństwo wybuchu",
+      "ru": "Опасность взрыва",
+      "tr": "Patlama tehlikesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-020"
     }
   }
 ]
