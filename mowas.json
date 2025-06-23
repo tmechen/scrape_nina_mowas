@@ -120,14 +120,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-CE-W087-20250623-000",
+    "id": "mow.DE-NI-CE-W087-20250623-001",
     "version": 6,
-    "startDate": "2025-06-23T17:51:08+02:00",
+    "startDate": "2025-06-23T19:06:22+02:00",
+    "expiresDate": "2025-06-24T01:06:22+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung aufgrund eines Brandes - Hermannsburg",
+      "de": "Entwarnung: Rauchentwicklung aufgrund eines Brandes - Hermannsburg",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -141,14 +142,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20250623-105-000",
+    "id": "mow.DE-SH-OD-SE105-20250623-105-001",
     "version": 6,
-    "startDate": "2025-06-23T18:05:22+02:00",
+    "startDate": "2025-06-23T19:07:38+02:00",
+    "expiresDate": "2025-06-24T01:07:37+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Schwarzenbek, Industriestraße",
+      "de": "Entwarnung: Feuerwehreinsatz - Schwarzenbek, Industriestraße",
       "en": "Air pollution",
       "ar": "تلوث الهواء",
       "es": "Contaminación atmosférica",
