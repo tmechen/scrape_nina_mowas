@@ -77,27 +77,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GL-SE063-20250624-63-000",
-    "version": 6,
-    "startDate": "2025-06-24T05:03:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in Wermelskirchen wegen eines Brandereignis - Wermelskirchen- Dabringhausen, Buchholzen, Stumpf, Grunewald",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20250624-000",
     "version": 6,
     "startDate": "2025-06-24T05:25:49+02:00",
@@ -180,6 +159,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NW-GL-SE063-20250624-63-001",
+    "version": 6,
+    "startDate": "2025-06-24T10:18:32+02:00",
+    "expiresDate": "2025-06-24T16:18:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung in Wermelskirchen wegen eines Brandereignis - Wermelskirchen- Dabringhausen, Buchholzen, Stumpf, Grunewald",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
