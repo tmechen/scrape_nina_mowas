@@ -98,27 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20250624-000",
-    "version": 6,
-    "startDate": "2025-06-24T09:08:46+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Test und Probealarm der neuen Warnsirenen - Neckargemünd",
-      "en": "Siren test",
-      "ar": "تجربة صفارة الإنذار",
-      "es": "Prueba de sirena",
-      "fr": "Test des sirènes",
-      "pl": "Test syren",
-      "ru": "Проверка средств оповещения",
-      "tr": "Siren testi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-NW-GL-SE063-20250624-63-001",
     "version": 6,
     "startDate": "2025-06-24T10:18:32+02:00",
@@ -180,6 +159,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20250624-001",
+    "version": 6,
+    "startDate": "2025-06-24T12:31:52+02:00",
+    "expiresDate": "2025-06-24T18:31:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Test und Probealarm der neuen Warnsirenen - Neckargemünd",
+      "en": "Siren test",
+      "ar": "تجربة صفارة الإنذار",
+      "es": "Prueba de sirena",
+      "fr": "Test des sirènes",
+      "pl": "Test syren",
+      "ru": "Проверка средств оповещения",
+      "tr": "Siren testi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
     }
   }
 ]
