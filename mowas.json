@@ -98,27 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20250623-000",
-    "version": 6,
-    "startDate": "2025-06-24T01:34:10+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand mit starker Rauchentwicklung - Rheinmünster-Greffern",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-GL-SE063-20250624-63-000",
     "version": 6,
     "startDate": "2025-06-24T05:03:20+02:00",
@@ -137,6 +116,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20250624-000",
+    "version": 6,
+    "startDate": "2025-06-24T05:25:49+02:00",
+    "expiresDate": "2025-06-24T11:25:48+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand mit starker Rauchentwicklung - Rheinmünster-Greffern",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
