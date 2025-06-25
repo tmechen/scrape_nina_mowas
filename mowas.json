@@ -140,71 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20250625-84-000",
-    "version": 6,
-    "startDate": "2025-06-25T08:18:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Beinträchtigung durch Rauchentwicklung aufgrund Waldbrand - Wendelstein",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20250625-000",
-    "version": 6,
-    "startDate": "2025-06-25T08:23:07+02:00",
-    "expiresDate": "2025-06-25T14:23:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Großbrand - Augsburg",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BY-SC-W185-20250625-002",
-    "version": 6,
-    "startDate": "2025-06-25T08:27:14+02:00",
-    "expiresDate": "2025-06-25T14:27:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Beinträchtigung durch Rauchentwicklung aufgrund Waldbrand - Wendelstein",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BB-EW-SE079-20250625-79-003",
     "version": 6,
     "startDate": "2025-06-25T12:12:19+02:00",
@@ -246,6 +181,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20250625-84-001",
+    "version": 6,
+    "startDate": "2025-06-25T13:47:03+02:00",
+    "expiresDate": "2025-06-25T19:47:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Beinträchtigung durch Rauchentwicklung aufgrund Waldbrand - Wendelstein",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
