@@ -140,27 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20250625-125-001",
-    "version": 6,
-    "startDate": "2025-06-25T07:54:48+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Heidesheim, Bereich Moselstraße",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20250625-84-000",
     "version": 6,
     "startDate": "2025-06-25T08:18:28+02:00",
@@ -223,6 +202,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20250625-125-002",
+    "version": 6,
+    "startDate": "2025-06-25T08:52:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung - Heidesheim",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
