@@ -163,27 +163,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20250625-129-001",
-    "version": 6,
-    "startDate": "2025-06-25T20:35:27+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Fund einer Weltkriegbombe - Meppen OT Esterfeld",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-W027-20250625-001",
     "version": 6,
     "startDate": "2025-06-25T21:02:59+02:00",
@@ -245,6 +224,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20250625-129-002",
+    "version": 6,
+    "startDate": "2025-06-26T00:21:32+02:00",
+    "expiresDate": "2025-06-26T06:21:32+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Fund einer Weltkriegbombe - Meppen OT Esterfeld",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
