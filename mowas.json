@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-WI-W097-20250626-001",
-    "version": 6,
-    "startDate": "2025-06-26T02:51:49+02:00",
-    "expiresDate": "2025-06-26T08:51:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand auf Deponiegelände - Wiesbaden-Biebrich, Wiesbaden-Amöneburg",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-TH-EA-W114-20250626-001",
     "version": 6,
     "startDate": "2025-06-26T07:05:37+02:00",
@@ -182,6 +160,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-GT-SE040-20250626-40-000",
+    "version": 6,
+    "startDate": "2025-06-26T09:21:08+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung  - Stadt Gütersloh Ortsteil Avenwedde",
+      "en": "Air pollution",
+      "ar": "تلوث الهواء",
+      "es": "Contaminación atmosférica",
+      "fr": "Pollution atmosphérique",
+      "pl": "Zanieczyszczenie powietrza",
+      "ru": "Загрязнение воздуха",
+      "tr": "Hava kirliliği"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-047"
     }
   }
 ]
