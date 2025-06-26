@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-BT-W082-20250625-003",
-    "version": 6,
-    "startDate": "2025-06-26T01:09:28+02:00",
-    "expiresDate": "2025-06-26T07:09:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brand - Fichtelberg",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-ARN-W014-20250625-001",
     "version": 6,
     "startDate": "2025-06-26T01:52:18+02:00",
@@ -185,14 +163,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-EA-W114-20250626-000",
+    "id": "mow.DE-TH-EA-W114-20250626-001",
     "version": 6,
-    "startDate": "2025-06-26T04:42:30+02:00",
+    "startDate": "2025-06-26T07:05:37+02:00",
+    "expiresDate": "2025-06-26T13:05:37+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand Baumarkt - starke Rauchentwicklung - Gerstungen",
+      "de": "Entwarnung: Brand Baumarkt - starke Rauchentwicklung - Gerstungen",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
