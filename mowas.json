@@ -56,28 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20250627-129-000",
-    "version": 6,
-    "startDate": "2025-06-27T11:32:44+02:00",
-    "expiresDate": "2025-06-27T17:32:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor dem Betreten des Waldgebietes Königsberg, Nordberg und Ste - Goslar",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-BB-EW-SE079-20250627-79-002",
     "version": 6,
     "startDate": "2025-06-27T12:38:03+02:00",
