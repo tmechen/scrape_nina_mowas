@@ -143,27 +143,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-C-W092-20250628-000",
-    "version": 6,
-    "startDate": "2025-06-28T19:48:22+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchwolke durch Brand Lagerhalle - Chemnitz, Chemnitztalstraße 108",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE049-20250628-49-001",
     "version": 6,
     "startDate": "2025-06-28T21:54:59+02:00",
@@ -183,6 +162,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SN-C-W092-20250628-001",
+    "version": 6,
+    "startDate": "2025-06-28T22:46:15+02:00",
+    "expiresDate": "2025-06-29T04:46:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchwolke durch Brand Lagerhalle - Chemnitz, Chemnitztalstraße 108",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
