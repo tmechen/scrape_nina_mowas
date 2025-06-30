@@ -77,28 +77,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LU-SE005-20250630-5-000",
-    "version": 6,
-    "startDate": "2025-06-30T07:32:32+02:00",
-    "expiresDate": "2025-06-30T13:32:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall der Stromversorgung im Ortsteil Iggelheim - Iggelheim",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BW-LB-W026-20250630-000",
     "version": 6,
     "startDate": "2025-06-30T13:20:19+02:00",
