@@ -141,27 +141,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20250701-000",
-    "version": 6,
-    "startDate": "2025-07-01T13:57:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall der Stromversorgung - Kuppenheim",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BB-CB-SE036-20250701-36-000",
     "version": 6,
     "startDate": "2025-07-01T14:51:39+02:00",
@@ -202,6 +181,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20250701-001",
+    "version": 6,
+    "startDate": "2025-07-01T15:59:05+02:00",
+    "expiresDate": "2025-07-01T21:59:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall der Stromversorgung - Kuppenheim",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BB-BRB-SE081-20250701-81-000",
+    "version": 6,
+    "startDate": "2025-07-01T16:15:53+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großwaldbrand im Bereich Treuenbrietzen/ Frohnsdorf - Stadt Treuenbrietzen; Amt Niemegk; Landkreis/Stadt: Landkreis Potsdam-Mitte",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
