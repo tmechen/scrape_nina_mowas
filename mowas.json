@@ -141,27 +141,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20250701-106-000",
-    "version": 6,
-    "startDate": "2025-07-01T12:20:16+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gasaustritt in Niederbrechen - Niederbrechen",
-      "en": "Gas leak",
-      "ar": "تسرب غاز",
-      "es": "Escape de gas",
-      "fr": "Fuite de gaz",
-      "pl": "Wyciek gazu",
-      "ru": "Утечка газа",
-      "tr": "Gaz kaçağı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20250701-000",
     "version": 6,
     "startDate": "2025-07-01T13:57:20+02:00",
@@ -180,6 +159,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BB-CB-SE036-20250701-36-000",
+    "version": 6,
+    "startDate": "2025-07-01T14:51:39+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "großflächiger Waldbrand - Babben",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20250701-106-001",
+    "version": 6,
+    "startDate": "2025-07-01T14:53:23+02:00",
+    "expiresDate": "2025-07-01T20:53:22+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gasaustritt in Niederbrechen - Niederbrechen",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
     }
   }
 ]
