@@ -120,27 +120,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-MEI-W199-20250702-000",
-    "version": 7,
-    "startDate": "2025-07-02T07:52:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Waldbrand Gohrischheide - Gemeinde Zeithain",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-BY-CO-W141-20250702-000",
     "version": 7,
     "startDate": "2025-07-02T07:57:12+02:00",
@@ -185,27 +164,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-H-SE110-20250702-110-000",
-    "version": 7,
-    "startDate": "2025-07-02T09:31:56+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "[03c] Unwetter / Hitze - gesamtes Regionsgebiet, inkl. LHH",
-      "en": "Heat",
-      "ar": "حرارة",
-      "es": "Temperatura elevada",
-      "fr": "Chaleur intense",
-      "pl": "Upał",
-      "ru": "Жара",
-      "tr": "Aşırı sıcaklık"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-037"
-    }
-  },
-  {
     "id": "mow.DE-BB-BRB-SE081-20250702-81-000",
     "version": 7,
     "startDate": "2025-07-02T11:24:44+02:00",
@@ -247,6 +205,48 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NI-H-SE110-20250702-110-001",
+    "version": 7,
+    "startDate": "2025-07-02T11:27:36+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "[03c] Unwetter / Hitze - gesamtes Regionsgebiet, inkl. LHH",
+      "en": "Heat",
+      "ar": "حرارة",
+      "es": "Temperatura elevada",
+      "fr": "Chaleur intense",
+      "pl": "Upał",
+      "ru": "Жара",
+      "tr": "Aşırı sıcaklık"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-037"
+    }
+  },
+  {
+    "id": "mow.DE-SN-MEI-W199-20250702-001",
+    "version": 7,
+    "startDate": "2025-07-02T11:40:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Waldbrand Gohrischheide - Gemeinde Zeithain",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
