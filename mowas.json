@@ -161,28 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-H-SE110-20250702-110-002",
-    "version": 7,
-    "startDate": "2025-07-02T19:35:10+02:00",
-    "expiresDate": "2025-07-03T01:35:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: [03c] Unwetter / Hitze - gesamtes Regionsgebiet, inkl. LHH",
-      "en": "Heat",
-      "ar": "حرارة",
-      "es": "Temperatura elevada",
-      "fr": "Chaleur intense",
-      "pl": "Upał",
-      "ru": "Жара",
-      "tr": "Aşırı sıcaklık"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-037"
-    }
-  },
-  {
     "id": "mow.DE-BB-CB-SE036-20250702-36-003",
     "version": 7,
     "startDate": "2025-07-02T19:47:47+02:00",
@@ -470,6 +448,27 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Brandrauch durch Dachstuhlbrand - Neubehrend",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-CO-W141-20250702-001",
+    "version": 7,
+    "startDate": "2025-07-03T01:40:03+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase aufgrund eines Waldbrandes in Thüringen - Nord und Nordöstlicher Landkreis Kronach",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
