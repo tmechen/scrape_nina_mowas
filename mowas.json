@@ -142,27 +142,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-MEI-W199-20250702-001",
-    "version": 7,
-    "startDate": "2025-07-02T11:40:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Waldbrand Gohrischheide - Gemeinde Zeithain",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-NW-ME-SE071-20250702-71-000",
     "version": 7,
     "startDate": "2025-07-02T12:10:35+02:00",
@@ -289,6 +268,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-SN-MEI-W199-20250702-002",
+    "version": 7,
+    "startDate": "2025-07-02T16:28:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Waldbrand Gohrischheide - Gemeinden Zeithain und Wülknitz",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
