@@ -205,27 +205,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20250702-000",
-    "version": 7,
-    "startDate": "2025-07-02T19:17:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung Waldbrand Gösselsdorf ( LK Saalfeld-Rudolstadt) - Teile des Landkreises Saale-Orla",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-NI-H-SE110-20250702-110-002",
     "version": 7,
     "startDate": "2025-07-02T19:35:10+02:00",
@@ -417,6 +396,48 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20250702-001",
+    "version": 7,
+    "startDate": "2025-07-02T23:01:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung Waldbrand Gösselsdorf (LK Saalfeld-Rudolstadt) - Landkreis Saale-Orla Kreis",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20250702-100-000",
+    "version": 7,
+    "startDate": "2025-07-02T23:12:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brandrauch durch Dachstuhlbrand - Neubehrend",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
