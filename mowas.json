@@ -77,28 +77,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DN-SE054-20250702-54-001",
-    "version": 7,
-    "startDate": "2025-07-02T08:50:20+02:00",
-    "expiresDate": "2025-07-02T14:50:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in der Stadt Jülich - Neusser Straße",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BB-BRB-SE081-20250702-81-000",
     "version": 7,
     "startDate": "2025-07-02T11:24:44+02:00",
@@ -206,27 +184,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-SK-W070-20250702-000",
-    "version": 7,
-    "startDate": "2025-07-02T12:46:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung im Bereich Landsberg OT Spickendorf - Landsberg",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20250702-84-001",
     "version": 7,
     "startDate": "2025-07-02T13:07:04+02:00",
@@ -289,6 +246,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20250702-122-000",
+    "version": 7,
+    "startDate": "2025-07-02T15:19:35+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Belastung durch Brandrauch und Rauchgeruch - Bernstadt a.d. Eigen",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-ST-SK-W070-20250702-001",
+    "version": 7,
+    "startDate": "2025-07-02T15:27:39+02:00",
+    "expiresDate": "2025-07-02T21:27:39+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung im Bereich Landsberg OT Spickendorf - Landsberg",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
