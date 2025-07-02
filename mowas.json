@@ -77,50 +77,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-BRB-SE081-20250702-81-000",
-    "version": 7,
-    "startDate": "2025-07-02T11:24:44+02:00",
-    "expiresDate": "2025-07-02T17:24:44+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Waldbrand im Bereich Treuenbrietzen/ Frohnsdorf - Stadt Treuenbrietzen; Amt Niemegk; Landkreis/Stadt: Landkreis Potsdam-Mitte",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-BB-EW-SE079-20250702-79-002",
-    "version": 7,
-    "startDate": "2025-07-02T11:24:51+02:00",
-    "expiresDate": "2025-07-02T17:24:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Achtung ! Kampfmittelberäumung in Bernau b. Berlin! - Bernau  OT Lindow/ ehemaliges Heeresbekleidungsamt",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NI-H-SE110-20250702-110-001",
     "version": 7,
     "startDate": "2025-07-02T11:27:36+02:00",
@@ -216,27 +172,6 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Waldbrand Gohrischheide - Gemeinden Zeithain und Wülknitz",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-TH-J-W110-20250702-000",
-    "version": 7,
-    "startDate": "2025-07-02T16:44:40+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung Waldbrand Gösselsdorf - Saalfeld",
       "en": "Forest fire",
       "ar": "حريق بالغابات",
       "es": "Incendio forestal",
@@ -354,6 +289,48 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BY-M-SE125-20250702-153-000",
+    "version": 7,
+    "startDate": "2025-07-02T17:26:17+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bevorstehende Kampfmittelentschärfung - München - Schwabing",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-TH-J-W110-20250702-001",
+    "version": 7,
+    "startDate": "2025-07-02T17:35:18+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung Waldbrand Gösselsdorf - Saalfeld - Teile LK Saalfeld-Rudolstadt",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
