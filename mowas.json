@@ -249,27 +249,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20250702-84-000",
-    "version": 7,
-    "startDate": "2025-07-02T12:44:56+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung wegen einem Brand in einer Industrieanlage  - Höhenkirchen-Sigertsbrunn",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-ST-SK-W070-20250702-000",
     "version": 7,
     "startDate": "2025-07-02T12:46:28+02:00",
@@ -288,6 +267,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20250702-84-001",
+    "version": 7,
+    "startDate": "2025-07-02T13:07:04+02:00",
+    "expiresDate": "2025-07-02T19:07:04+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung wegen einem Brand in einer Industrieanlage  - Höhenkirchen-Sigertsbrunn",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
