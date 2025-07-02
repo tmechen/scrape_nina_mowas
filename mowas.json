@@ -77,28 +77,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-CO-W141-20250702-000",
-    "version": 7,
-    "startDate": "2025-07-02T07:57:12+02:00",
-    "expiresDate": "2025-07-02T13:57:12+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase / Rauchsäule in 96237 Ebersdorf bei Coburg  - 96237 Ebersdorf bei Coburg",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-DN-SE054-20250702-54-001",
     "version": 7,
     "startDate": "2025-07-02T08:50:20+02:00",
@@ -280,6 +258,27 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: großflächiger Waldbrand - Babben",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-BB-CB-SE036-20250702-36-001",
+    "version": 7,
+    "startDate": "2025-07-02T14:39:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Waldbrand Gohrischheide - Mühlber/E., Fichtenberg, Altenau, Weinberge, Burxdorf, Neuburxdorf",
       "en": "Forest fire",
       "ar": "حريق بالغابات",
       "es": "Incendio forestal",
