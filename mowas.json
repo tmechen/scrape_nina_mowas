@@ -227,27 +227,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-MEI-W199-20250702-003",
-    "version": 7,
-    "startDate": "2025-07-02T16:57:12+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Waldbrand Gohrischheide - Heidehäuser",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-SN-HY-SE048-20250702-122-001",
     "version": 7,
     "startDate": "2025-07-02T17:07:21+02:00",
@@ -321,6 +300,27 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Starke Rauchentwicklung Waldbrand Gösselsdorf - Saalfeld - Teile LK Saalfeld-Rudolstadt",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-SN-MEI-W199-20250702-004",
+    "version": 7,
+    "startDate": "2025-07-02T17:49:53+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Waldbrand Gohrischheide - Evakuierung Heidehäuser",
       "en": "Forest fire",
       "ar": "حريق بالغابات",
       "es": "Incendio forestal",
