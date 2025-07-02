@@ -205,27 +205,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-M-SE125-20250702-153-001",
-    "version": 7,
-    "startDate": "2025-07-02T19:10:19+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Bevorstehende Kampfmittelentschärfung - München - Schwabing",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20250702-000",
     "version": 7,
     "startDate": "2025-07-02T19:17:04+02:00",
@@ -395,6 +374,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-M-SE125-20250702-153-002",
+    "version": 7,
+    "startDate": "2025-07-02T22:03:57+02:00",
+    "expiresDate": "2025-07-03T04:03:56+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bevorstehende Kampfmittelentschärfung - München - Schwabing",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
