@@ -161,28 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20250701-106-003",
-    "version": 7,
-    "startDate": "2025-07-02T01:27:54+02:00",
-    "expiresDate": "2025-07-02T07:27:53+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Waldbrand / Flächenbrand - Reinhardswald",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20250702-99-000",
     "version": 7,
     "startDate": "2025-07-02T06:01:19+02:00",
