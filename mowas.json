@@ -182,28 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-M-SE125-20250702-153-002",
-    "version": 7,
-    "startDate": "2025-07-02T22:03:57+02:00",
-    "expiresDate": "2025-07-03T04:03:56+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bevorstehende Kampfmittelentschärfung - München - Schwabing",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20250702-001",
     "version": 7,
     "startDate": "2025-07-02T23:01:54+02:00",
@@ -255,27 +233,6 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Waldbrand Gohrischheide - Teilevakuierung Lichtensee - Teilevakuierung Ortslage Lichtensee",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-BB-CB-SE036-20250702-36-004",
-    "version": 7,
-    "startDate": "2025-07-03T00:11:32+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Waldbrand Gohrisch Heide - Kosilenzien, Neuburxdorf und Burxdorf (gesamte Ortslage)",
       "en": "Forest fire",
       "ar": "حريق بالغابات",
       "es": "Incendio forestal",
@@ -440,12 +397,34 @@
     }
   },
   {
-    "id": "mow.DE-TH-SHL-W117-20250703-000",
+    "id": "mow.DE-BB-CB-SE036-20250703-36-000",
     "version": 7,
-    "startDate": "2025-07-03T03:14:43+02:00",
-    "severity": "Minor",
+    "startDate": "2025-07-03T04:00:03+02:00",
+    "expiresDate": "2025-07-03T10:00:02+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Waldbrand Gohrisch Heide - Kosilenzien, Neuburxdorf und Burxdorf (gesamte Ortslage)",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20250703-12-000",
+    "version": 7,
+    "startDate": "2025-07-03T04:11:00+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
     "i18nTitle": {
       "de": "Rauchentwicklung durch Wald-/Flächenbrand - LK Sonneberg",
       "en": "Forest fire",
