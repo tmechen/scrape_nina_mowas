@@ -394,27 +394,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-BB-W125-20250703-000",
-    "version": 7,
-    "startDate": "2025-07-03T19:50:19+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Entschärfung einer Weltkriegsbombe - Böblingen/Sindelfingen",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NI-SZ-W179-20250703-001",
     "version": 7,
     "startDate": "2025-07-03T20:51:43+02:00",
@@ -455,6 +434,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20250703-000",
+    "version": 7,
+    "startDate": "2025-07-03T22:57:08+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abkochgebot - Langeringen, Gennach, Schwabmühlhausen, Schwabaich und Falkenberg",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BW-BB-W125-20250703-001",
+    "version": 7,
+    "startDate": "2025-07-03T23:19:12+02:00",
+    "expiresDate": "2025-07-04T05:19:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Entschärfung einer Weltkriegsbombe - Böblingen/Sindelfingen",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
