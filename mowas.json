@@ -77,27 +77,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-MEI-W199-20250702-002",
-    "version": 7,
-    "startDate": "2025-07-02T16:28:54+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Waldbrand Gohrischheide - Gemeinden Zeithain und Wülknitz",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-BB-BRB-SE081-20250702-81-001",
     "version": 7,
     "startDate": "2025-07-02T16:55:36+02:00",
@@ -190,27 +169,6 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Starke Rauchentwicklung Waldbrand Gösselsdorf (LK Saalfeld-Rudolstadt) - Landkreis Saale-Orla Kreis",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-ST-MD-SE022-20250702-143-000",
-    "version": 7,
-    "startDate": "2025-07-02T23:40:10+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Waldbrand - Quedlinburg, Lehof",
       "en": "Forest fire",
       "ar": "حريق بالغابات",
       "es": "Incendio forestal",
@@ -427,6 +385,49 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Rauchentwicklung durch Wald-/Flächenbrand - LK Sonneberg",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-SN-MEI-W199-20250703-000",
+    "version": 7,
+    "startDate": "2025-07-03T05:32:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Waldbrand Gohrischheide - Gemeinden Zeithain und Wülknitz",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20250703-143-000",
+    "version": 7,
+    "startDate": "2025-07-03T05:44:32+02:00",
+    "expiresDate": "2025-07-03T11:44:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Waldbrand - Quedlinburg, Lehof",
       "en": "Forest fire",
       "ar": "حريق بالغابات",
       "es": "Incendio forestal",
