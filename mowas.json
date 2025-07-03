@@ -329,28 +329,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-MEI-W199-20250703-005",
-    "version": 7,
-    "startDate": "2025-07-03T15:07:43+02:00",
-    "expiresDate": "2025-07-03T21:07:43+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Waldbrand Gohrischheide - Evakuierung Neudorf",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20250703-35-002",
     "version": 7,
     "startDate": "2025-07-03T16:09:11+02:00",
