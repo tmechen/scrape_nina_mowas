@@ -182,28 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-MEI-W199-20250702-006",
-    "version": 7,
-    "startDate": "2025-07-02T23:57:04+02:00",
-    "expiresDate": "2025-07-03T05:57:03+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Waldbrand Gohrischheide - Teilevakuierung Lichtensee - Teilevakuierung Ortslage Lichtensee",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-BY-HO-W142-20250702-000",
     "version": 7,
     "startDate": "2025-07-03T00:19:23+02:00",
