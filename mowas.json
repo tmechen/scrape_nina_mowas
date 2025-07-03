@@ -182,114 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-J-W110-20250702-005",
-    "version": 7,
-    "startDate": "2025-07-02T20:35:30+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Flächenbrand - Niederkrossen",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20250702-28-000",
-    "version": 7,
-    "startDate": "2025-07-02T20:39:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Heide",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-TH-J-W110-20250702-006",
-    "version": 7,
-    "startDate": "2025-07-02T20:44:49+02:00",
-    "expiresDate": "2025-07-03T02:44:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Deponiebrand - Stadt Schwarzatal, Gemeinde Cursdorf",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NI-OL-W015-20250702-001",
-    "version": 7,
-    "startDate": "2025-07-02T21:01:17+02:00",
-    "expiresDate": "2025-07-03T03:01:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Schadensmeldungen, von denen keine akute Gefahr ausgeht - für die Landkreise CLP, OL, WST, BRA & die Städte Oldenburg und DEL",
-      "en": "Severe thunderstorm with extremely heavy rain",
-      "ar": "خطر على الصحة",
-      "es": "Tormenta fuerte con lluvia extremadamente fuerte",
-      "fr": "Orages violents avec pluies extrêmes",
-      "pl": "Silna burza z ekstremalnie gwałtownym ulewnym deszczem",
-      "ru": "Сильная гроза с очень сильным ливнем",
-      "tr": "Aşırı şiddetli yağmurlu fırtına"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-082"
-    }
-  },
-  {
-    "id": "mow.DE-HE-HP-W196-20250702-001",
-    "version": 7,
-    "startDate": "2025-07-02T21:04:52+02:00",
-    "expiresDate": "2025-07-03T03:04:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Infolge eines Brandes MA-Friesenheimer Insel kann es zu Geruchsbelästi - Bereich Lampertheim",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-M-SE125-20250702-153-002",
     "version": 7,
     "startDate": "2025-07-02T22:03:57+02:00",
@@ -330,27 +222,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-NI-BS-SE129-20250702-157-000",
-    "version": 7,
-    "startDate": "2025-07-02T23:24:54+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand auf einem Industriegelände - Braunschweig",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
     }
   },
   {
@@ -461,14 +332,101 @@
     }
   },
   {
-    "id": "mow.DE-BY-CO-W141-20250702-001",
+    "id": "mow.DE-TH-J-W110-20250703-000",
     "version": 7,
-    "startDate": "2025-07-03T01:40:03+02:00",
-    "severity": "Severe",
+    "startDate": "2025-07-03T02:09:14+02:00",
+    "expiresDate": "2025-07-03T08:09:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Flächenbrand - Niederkrossen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20250703-28-000",
+    "version": 7,
+    "startDate": "2025-07-03T02:11:54+02:00",
+    "expiresDate": "2025-07-03T08:11:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Heide",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NI-BS-SE129-20250703-157-000",
+    "version": 7,
+    "startDate": "2025-07-03T02:46:48+02:00",
+    "expiresDate": "2025-07-03T08:46:47+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand auf einem Industriegelände - Braunschweig",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-BT-W082-20250703-000",
+    "version": 7,
+    "startDate": "2025-07-03T02:49:26+02:00",
+    "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Rauchgase aufgrund eines Waldbrandes in Thüringen - Nord und Nordöstlicher Landkreis Kronach",
+      "de": "Geruchsbelästigung im Landkreis Kulmbach durch einen Waldbrand in Thüringen - Landkreis Kulmbach",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-CO-W141-20250703-000",
+    "version": 7,
+    "startDate": "2025-07-03T02:52:15+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchgase aufgrund eines Waldbrandes in Thüringen - Landkreis Kronach",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -479,6 +437,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-TH-SHL-W117-20250703-000",
+    "version": 7,
+    "startDate": "2025-07-03T03:14:43+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Wald-/Flächenbrand - LK Sonneberg",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
