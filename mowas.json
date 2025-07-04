@@ -224,27 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-MEI-W199-20250703-004",
-    "version": 7,
-    "startDate": "2025-07-03T11:05:01+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Waldbrand Gohrischheide - Katastrophenalarm ausgelöst - Gemeinden Zeithain und Wülknitz, Stadt Gröditz",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-BY-BT-W066-20250703-000",
     "version": 7,
     "startDate": "2025-07-03T11:29:21+02:00",
@@ -477,6 +456,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SN-MEI-W199-20250704-000",
+    "version": 7,
+    "startDate": "2025-07-04T16:24:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Waldbrand Gohrischheide - Gemeinden Zeithain und Wülknitz, Stadt Gröditz",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
