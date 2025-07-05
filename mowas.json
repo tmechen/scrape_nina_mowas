@@ -392,28 +392,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20250705-28-001",
-    "version": 7,
-    "startDate": "2025-07-05T05:03:24+02:00",
-    "expiresDate": "2025-07-05T11:03:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Norderstedt",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BB-CB-SE036-20250705-36-000",
     "version": 7,
     "startDate": "2025-07-05T08:43:40+02:00",
@@ -500,14 +478,58 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20250705-18-000",
+    "id": "mow.DE-BW-S-SE018-20250705-18-001",
     "version": 7,
-    "startDate": "2025-07-05T10:46:01+02:00",
+    "startDate": "2025-07-05T11:06:53+02:00",
+    "expiresDate": "2025-07-05T17:06:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Probealarm - Durmersheim, Elchesheim-Illingen",
+      "en": "Siren test",
+      "ar": "تجربة صفارة الإنذار",
+      "es": "Prueba de sirena",
+      "fr": "Test des sirènes",
+      "pl": "Test syren",
+      "ru": "Проверка средств оповещения",
+      "tr": "Siren testi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-TH-UH-W116-20250705-001",
+    "version": 7,
+    "startDate": "2025-07-05T11:10:11+02:00",
+    "expiresDate": "2025-07-05T17:10:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Funktionsüberprüfung der Sirenen und Funkmeldeempfänger im Unstrut-Hai - Unstrut-Hainich-Kreis",
+      "en": "Siren test",
+      "ar": "تجربة صفارة الإنذار",
+      "es": "Prueba de sirena",
+      "fr": "Test des sirènes",
+      "pl": "Test syren",
+      "ru": "Проверка средств оповещения",
+      "tr": "Siren testi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20250705-000",
+    "version": 7,
+    "startDate": "2025-07-05T11:20:01+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Sirenen-Probealarm - Durmersheim, Elchesheim-Illingen",
+      "de": "Probealarm Feuerwehr Landkreis Neuburg - Schrobenhausen - Neuburg-Schrobenhausen",
       "en": "Siren test",
       "ar": "تجربة صفارة الإنذار",
       "es": "Prueba de sirena",
