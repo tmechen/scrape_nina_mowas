@@ -371,28 +371,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20250705-28-003",
-    "version": 7,
-    "startDate": "2025-07-05T10:23:21+02:00",
-    "expiresDate": "2025-07-05T16:23:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Wedel",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20250705-18-001",
     "version": 7,
     "startDate": "2025-07-05T11:06:53+02:00",
@@ -610,14 +588,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20250705-12-001",
+    "id": "mow.DE-TH-HIG-W111-20250705-001",
     "version": 7,
-    "startDate": "2025-07-05T15:58:37+02:00",
+    "startDate": "2025-07-05T16:43:34+02:00",
+    "expiresDate": "2025-07-05T22:43:34+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Trebra und Umland, Landkreis Nordhausen",
+      "de": "Entwarnung: Flächenbrand Epschenrode in Richtung Trebra - L2062 Flächenbrand Epschenrode in Richtung Trebra",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -631,14 +610,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-HIG-W111-20250705-000",
+    "id": "mow.DE-TH-EF-SE012-20250705-12-002",
     "version": 7,
-    "startDate": "2025-07-05T16:09:00+02:00",
+    "startDate": "2025-07-05T16:46:49+02:00",
+    "expiresDate": "2025-07-05T22:46:48+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Flächenbrand Epschenrode in Richtung Trebra - L2062 Flächenbrand Epschenrode in Richtung Trebra",
+      "de": "Entwarnung: Starke Rauchentwicklung - Trebra und Umland, Landkreis Nordhausen",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
