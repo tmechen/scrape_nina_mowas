@@ -413,28 +413,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EA-W114-20250705-002",
-    "version": 7,
-    "startDate": "2025-07-05T15:24:33+02:00",
-    "expiresDate": "2025-07-05T21:24:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung - Bad Salzungen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-HIG-W111-20250705-001",
     "version": 7,
     "startDate": "2025-07-05T16:43:34+02:00",
@@ -479,27 +457,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-EW-SE079-20250705-79-000",
-    "version": 7,
-    "startDate": "2025-07-05T18:51:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung / Geruchsbelästigung durch Waldbrand  - Briese",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-ST-DE-W047-20250705-000",
     "version": 7,
     "startDate": "2025-07-05T19:49:33+02:00",
@@ -540,6 +497,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BB-EW-SE079-20250705-79-001",
+    "version": 7,
+    "startDate": "2025-07-05T21:32:21+02:00",
+    "expiresDate": "2025-07-06T03:32:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung / Geruchsbelästigung durch Waldbrand  - Briese",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
