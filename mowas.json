@@ -522,14 +522,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20250705-000",
+    "id": "mow.DE-BY-IN-W139-20250705-001",
     "version": 7,
-    "startDate": "2025-07-05T11:20:01+02:00",
+    "startDate": "2025-07-05T11:33:47+02:00",
+    "expiresDate": "2025-07-05T17:33:46+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Probealarm Feuerwehr Landkreis Neuburg - Schrobenhausen - Neuburg-Schrobenhausen",
+      "de": "Entwarnung: Probealarm Feuerwehr Landkreis Neuburg - Schrobenhausen - Neuburg-Schrobenhausen",
       "en": "Siren test",
       "ar": "تجربة صفارة الإنذار",
       "es": "Prueba de sirena",
