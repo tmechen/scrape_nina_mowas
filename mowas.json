@@ -330,27 +330,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-NOM-W210-20250706-000",
-    "version": 7,
-    "startDate": "2025-07-06T21:09:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall Stromversorgung in Teilen des Stadtgebietes - Greene, Kreiensen, Opperhausen, Bentierode",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-NW-W-SE061-20250706-61-003",
     "version": 7,
     "startDate": "2025-07-06T22:49:36+02:00",
@@ -370,6 +349,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NI-NOM-W210-20250706-001",
+    "version": 7,
+    "startDate": "2025-07-06T23:41:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung in Teilen des Stadtgebietes - Kreiensen, Bentierode, Orxhausen",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
