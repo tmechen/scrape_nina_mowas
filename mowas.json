@@ -140,27 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-BT-W082-20250703-000",
-    "version": 7,
-    "startDate": "2025-07-03T02:49:26+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung im Landkreis Kulmbach durch einen Waldbrand in Thüringen - Landkreis Kulmbach",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20250703-12-000",
     "version": 7,
     "startDate": "2025-07-03T04:11:00+02:00",
@@ -190,27 +169,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Geruchsbelästigung durch Brandrauch - Landkreis Bautzen + Landkreis Görlitz",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-BY-CO-W141-20250703-001",
-    "version": 7,
-    "startDate": "2025-07-03T12:43:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchgase aufgrund eines Waldbrandes in Thüringen - Landkreis Kronach",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -543,6 +501,50 @@
     },
     "transKeys": {
       "event": "BBK-EVC-047"
+    }
+  },
+  {
+    "id": "mow.DE-BY-BT-W082-20250706-002",
+    "version": 7,
+    "startDate": "2025-07-06T15:40:36+02:00",
+    "expiresDate": "2025-07-06T21:40:35+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung im Landkreis Kulmbach durch einen Waldbrand in Thür - Landkreis Kulmbach",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-CO-W141-20250706-000",
+    "version": 7,
+    "startDate": "2025-07-06T15:46:22+02:00",
+    "expiresDate": "2025-07-06T21:46:22+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase aufgrund eines Waldbrandes in Thüringen - Landkreis Kronach",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
