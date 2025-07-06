@@ -413,27 +413,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-EU-SE091-20250706-109-000",
-    "version": 7,
-    "startDate": "2025-07-06T09:16:17+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung Metternich/Müggenhausen/Neukirchen - Weilerswist - Ortsteile Metternich, Müggenhausen und Neukrichen",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-ST-DE-W047-20250706-000",
     "version": 7,
     "startDate": "2025-07-06T09:33:04+02:00",
@@ -456,12 +435,77 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20250706-57-002",
+    "id": "mow.DE-NW-SU-SE057-20250706-57-003",
     "version": 7,
-    "startDate": "2025-07-06T10:59:04+02:00",
+    "startDate": "2025-07-06T11:50:05+02:00",
+    "expiresDate": "2025-07-06T17:50:04+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandereignis (Ausbreitung von Brandrauch) - Swisttal",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20250706-122-002",
+    "version": 7,
+    "startDate": "2025-07-06T11:52:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
     "type": "Update",
+    "i18nTitle": {
+      "de": "Feldbrand - Obernaundorf",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-EU-SE091-20250706-109-001",
+    "version": 7,
+    "startDate": "2025-07-06T11:53:15+02:00",
+    "expiresDate": "2025-07-06T17:53:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung Metternich/Müggenhausen/Neukirchen - Weilerswist - Ortsteile Metternich, Müggenhausen und Neukrichen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SU-SE057-20250706-57-004",
+    "version": 7,
+    "startDate": "2025-07-06T11:53:28+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
     "i18nTitle": {
       "de": "Brandereignis (Ausbreitung von Brandrauch) - Swisttal",
       "en": "Fumes",
@@ -477,24 +521,24 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20250706-122-000",
+    "id": "mow.DE-BY-BT-W082-20250706-000",
     "version": 7,
-    "startDate": "2025-07-06T11:41:25+02:00",
+    "startDate": "2025-07-06T12:00:48+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Feldbrand - Obernaundorf",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
+      "de": "Brandgase aufgrund Brandereignis im Stadtgebiet Kulmbach - Kulmbach",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
     },
     "transKeys": {
-      "event": "BBK-EVC-030"
+      "event": "BBK-EVC-010"
     }
   }
 ]
