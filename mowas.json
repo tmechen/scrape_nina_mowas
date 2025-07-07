@@ -203,28 +203,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20250707-12-001",
-    "version": 7,
-    "startDate": "2025-07-07T07:26:13+02:00",
-    "expiresDate": "2025-07-07T13:26:12+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Wald-/Flächenbrand - LK Sonneberg",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-SN-DD-W094-20250707-000",
     "version": 7,
     "startDate": "2025-07-07T08:24:12+02:00",
