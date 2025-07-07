@@ -308,28 +308,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-W-SE061-20250706-61-003",
-    "version": 7,
-    "startDate": "2025-07-06T22:49:36+02:00",
-    "expiresDate": "2025-07-07T04:49:36+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Solingen Wald",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-NOM-W210-20250706-002",
     "version": 7,
     "startDate": "2025-07-07T00:35:05+02:00",
