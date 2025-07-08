@@ -203,28 +203,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-FF-SE080-20250707-80-001",
-    "version": 7,
-    "startDate": "2025-07-07T23:58:46+02:00",
-    "expiresDate": "2025-07-08T05:58:46+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand einer Strohmiete - Altlandsberg",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20250707-18-001",
     "version": 7,
     "startDate": "2025-07-08T01:04:27+02:00",
