@@ -140,28 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-MEI-W199-20250708-000",
-    "version": 7,
-    "startDate": "2025-07-08T13:32:19+02:00",
-    "expiresDate": "2025-07-08T19:32:18+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Waldbrand Gohrischheide - Evakuierung Heidehäuser",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-SN-MEI-W199-20250708-001",
     "version": 7,
     "startDate": "2025-07-08T13:34:23+02:00",
@@ -249,14 +227,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20250708-105-000",
+    "id": "mow.DE-SH-OD-SE105-20250708-105-001",
     "version": 7,
-    "startDate": "2025-07-08T19:09:44+02:00",
+    "startDate": "2025-07-08T19:49:13+02:00",
+    "expiresDate": "2025-07-09T01:49:13+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Eutin",
+      "de": "Entwarnung: Feuerwehreinsatz - Eutin",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
