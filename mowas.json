@@ -141,14 +141,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-EU-SE091-20250709-109-001",
+    "id": "mow.DE-BY-R-SE084-20250709-84-000",
     "version": 7,
-    "startDate": "2025-07-09T20:09:28+02:00",
-    "severity": "Minor",
+    "startDate": "2025-07-09T20:24:38+02:00",
+    "severity": "Extreme",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Blindgängerfund in der Euskirchener Kernstadt - Sprengung ist erfolgt - Euskirchen",
+      "de": "Bombenfund in Cham - 93413 Cham",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
@@ -162,14 +162,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20250709-84-000",
+    "id": "mow.DE-NW-EU-SE091-20250709-109-002",
     "version": 7,
-    "startDate": "2025-07-09T20:24:38+02:00",
-    "severity": "Extreme",
+    "startDate": "2025-07-09T22:25:30+02:00",
+    "expiresDate": "2025-07-10T04:25:30+02:00",
+    "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Bombenfund in Cham - 93413 Cham",
+      "de": "Entwarnung: Blindgängerfund in der Euskirchener Kernstadt - Sprengung ist erfolgt - Euskirchen",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
