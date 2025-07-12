@@ -183,5 +183,26 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.PROBEWARNUNG-12-07-2025-000",
+    "version": 7,
+    "startDate": "2025-07-12T13:00:18+02:00",
+    "severity": "Moderate",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Probewarnung zum Bevölkerungsschutztag 2025 in Rostock",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
   }
 ]
