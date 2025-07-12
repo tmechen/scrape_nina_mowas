@@ -77,27 +77,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20250711-18-000",
-    "version": 7,
-    "startDate": "2025-07-11T18:08:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenentest der Städte Weinheim, Hemsbach und der Gemeinde Laudenbach - Weinheim, Hemsbach, Laudenbach",
-      "en": "Siren test",
-      "ar": "تجربة صفارة الإنذار",
-      "es": "Prueba de sirena",
-      "fr": "Test des sirènes",
-      "pl": "Test syren",
-      "ru": "Проверка средств оповещения",
-      "tr": "Siren testi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20250712-31-000",
     "version": 7,
     "startDate": "2025-07-12T06:42:32+02:00",
