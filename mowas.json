@@ -99,27 +99,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20250712-000",
-    "version": 7,
-    "startDate": "2025-07-12T12:13:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Giftige Rauchwolke durch Großbrand - Wolfertschwenden",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20250712-31-001",
     "version": 7,
     "startDate": "2025-07-12T12:41:30+02:00",
@@ -205,6 +184,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20250712-001",
+    "version": 7,
+    "startDate": "2025-07-12T15:55:33+02:00",
+    "expiresDate": "2025-07-12T21:55:33+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Giftige Rauchwolke durch Großbrand - Wolfertschwenden",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
