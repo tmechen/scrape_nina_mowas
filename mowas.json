@@ -77,14 +77,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20250712-28-002",
+    "id": "mow.DE-SH-EH-SE028-20250713-28-000",
     "version": 7,
-    "startDate": "2025-07-13T00:44:04+02:00",
+    "startDate": "2025-07-13T04:17:34+02:00",
+    "expiresDate": "2025-07-13T10:17:34+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke und Brandgeruch  - Lübeck",
+      "de": "Entwarnung: Rauchwolke und Brandgeruch  - Lübeck",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -98,14 +99,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-GT-SE040-20250713-40-000",
+    "id": "mow.DE-NW-GT-SE040-20250713-40-001",
     "version": 7,
-    "startDate": "2025-07-13T03:08:17+02:00",
+    "startDate": "2025-07-13T05:44:18+02:00",
+    "expiresDate": "2025-07-13T11:44:18+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in Rietberg - Rietberg",
+      "de": "Entwarnung: Rauchgase in Rietberg - Rietberg",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
