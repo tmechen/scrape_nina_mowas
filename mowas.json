@@ -35,27 +35,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20250703-000",
-    "version": 7,
-    "startDate": "2025-07-03T22:57:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Abkochgebot - Langeringen, Gennach, Schwabmühlhausen, Schwabaich und Falkenberg",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-TH-SLF-W113-20250707-000",
     "version": 7,
     "startDate": "2025-07-07T19:45:40+02:00",
@@ -116,6 +95,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20250714-000",
+    "version": 7,
+    "startDate": "2025-07-14T10:51:21+02:00",
+    "expiresDate": "2025-07-14T16:51:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Abkochgebot - Langeringen, Gennach, Schwabmühlhausen, Schwabaich und Falkenberg",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
