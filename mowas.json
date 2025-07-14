@@ -56,27 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20250713-29-000",
-    "version": 7,
-    "startDate": "2025-07-13T15:42:46+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Notrufstörung im Landkreis Diepholz  - Landkreis Diepholz",
-      "en": "Emergency number outage",
-      "ar": "انقطاع اتصال الطوارئ",
-      "es": "Fallo del número de emergencias",
-      "fr": "Défaillance de l'appel d'urgence",
-      "pl": "Awaria połączenia alarmowego",
-      "ru": "Отказ системы вызова экстренных оперативных служб",
-      "tr": "Acil çağrı arızası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-005"
-    }
-  },
-  {
     "id": "mow.DE-RP-LD-SE117-20250714-121-000",
     "version": 7,
     "startDate": "2025-07-14T02:27:42+02:00",
@@ -117,6 +96,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20250714-29-000",
+    "version": 7,
+    "startDate": "2025-07-14T12:54:30+02:00",
+    "expiresDate": "2025-07-14T18:54:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Notrufstörung im Landkreis Diepholz  - Landkreis Diepholz",
+      "en": "Emergency number outage",
+      "ar": "انقطاع اتصال الطوارئ",
+      "es": "Fallo del número de emergencias",
+      "fr": "Défaillance de l'appel d'urgence",
+      "pl": "Awaria połączenia alarmowego",
+      "ru": "Отказ системы вызова экстренных оперативных служб",
+      "tr": "Acil çağrı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
+    }
+  },
+  {
+    "id": "mow.DE-NI-DH-W233-20250714-001",
+    "version": 7,
+    "startDate": "2025-07-14T13:08:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Aktualisierung - Notrufstörung im Landkreis Diepholz - Landkreis Diepholz",
+      "en": "Emergency number outage",
+      "ar": "انقطاع اتصال الطوارئ",
+      "es": "Fallo del número de emergencias",
+      "fr": "Défaillance de l'appel d'urgence",
+      "pl": "Awaria połączenia alarmowego",
+      "ru": "Отказ системы вызова экстренных оперативных служб",
+      "tr": "Acil çağrı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
     }
   }
 ]
