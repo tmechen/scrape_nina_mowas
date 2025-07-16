@@ -54,5 +54,26 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-NW-SI-SE066-20250716-66-000",
+    "version": 7,
+    "startDate": "2025-07-16T07:03:56+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall des Notrufs 110 der Polizei - Kreis Siegen-Wittgenstein",
+      "en": "Emergency number outage",
+      "ar": "انقطاع اتصال الطوارئ",
+      "es": "Fallo del número de emergencias",
+      "fr": "Défaillance de l'appel d'urgence",
+      "pl": "Awaria połączenia alarmowego",
+      "ru": "Отказ системы вызова экстренных оперативных служб",
+      "tr": "Acil çağrı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
+    }
   }
 ]
