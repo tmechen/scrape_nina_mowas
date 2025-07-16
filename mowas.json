@@ -56,28 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SI-SE066-20250716-66-001",
-    "version": 7,
-    "startDate": "2025-07-16T07:48:51+02:00",
-    "expiresDate": "2025-07-16T13:48:50+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall des Notrufs 110 der Polizei - Kreis Siegen-Wittgenstein",
-      "en": "Emergency number outage",
-      "ar": "انقطاع اتصال الطوارئ",
-      "es": "Fallo del número de emergencias",
-      "fr": "Défaillance de l'appel d'urgence",
-      "pl": "Awaria połączenia alarmowego",
-      "ru": "Отказ системы вызова экстренных оперативных служб",
-      "tr": "Acil çağrı arızası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-005"
-    }
-  },
-  {
     "id": "mow.DE-BW-KA-W138-20250716-001",
     "version": 7,
     "startDate": "2025-07-16T11:10:17+02:00",
@@ -100,14 +78,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20250716-90-000",
+    "id": "mow.DE-NW-AC-SE090-20250716-90-001",
     "version": 7,
-    "startDate": "2025-07-16T13:31:54+02:00",
+    "startDate": "2025-07-16T14:12:47+02:00",
+    "expiresDate": "2025-07-16T20:12:46+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase - Alsdorf",
+      "de": "Entwarnung: Rauchgase - Alsdorf",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
