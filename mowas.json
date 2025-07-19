@@ -77,28 +77,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20250719-001",
-    "version": 7,
-    "startDate": "2025-07-19T16:08:09+02:00",
-    "expiresDate": "2025-07-19T22:08:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Katastrophenschutzübung #Laesus2025 im Landkreis Karlsruhe - Stadt und Landkreis Karlsruhe",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-HO-W142-20250719-001",
     "version": 7,
     "startDate": "2025-07-19T16:50:12+02:00",
