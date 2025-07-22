@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-LEV-SE046-20250722-46-001",
-    "version": 7,
-    "startDate": "2025-07-22T07:13:42+02:00",
-    "expiresDate": "2025-07-22T13:13:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandereignis in Leverkusen Schlebusch - Leverkusen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20250722-143-000",
     "version": 7,
     "startDate": "2025-07-22T11:38:28+02:00",
