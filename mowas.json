@@ -141,14 +141,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20250722-29-000",
+    "id": "mow.DE-NI-STD-SE029-20250722-29-001",
     "version": 7,
-    "startDate": "2025-07-22T21:51:46+02:00",
+    "startDate": "2025-07-22T23:52:04+02:00",
+    "expiresDate": "2025-07-23T05:52:03+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starkregen im Bereich der Stadt Buxtehude - Buxtehude",
+      "de": "Entwarnung: Starkregen im Bereich der Stadt Buxtehude - Buxtehude",
       "en": "Heavy rainfall",
       "ar": "مطر شديد",
       "es": "Lluvias torrenciales",
