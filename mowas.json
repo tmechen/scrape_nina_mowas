@@ -98,12 +98,12 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20250722-143-000",
+    "id": "mow.DE-ST-MD-SE022-20250722-143-001",
     "version": 7,
-    "startDate": "2025-07-22T11:38:28+02:00",
+    "startDate": "2025-07-22T14:00:26+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Gefahrstoffaustritt - Osterwieck, Bereich Hoppenstedter Straße",
       "en": "Chemical hazard",
@@ -119,14 +119,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20250722-89-000",
+    "id": "mow.DE-NW-SO-SE089-20250722-89-001",
     "version": 7,
-    "startDate": "2025-07-22T13:01:35+02:00",
+    "startDate": "2025-07-22T14:27:39+02:00",
+    "expiresDate": "2025-07-22T20:27:39+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in Stadt Werl - Stadt Werl",
+      "de": "Entwarnung: Rauchgase in Stadt Werl - Stadt Werl",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
