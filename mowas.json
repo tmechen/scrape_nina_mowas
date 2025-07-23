@@ -119,14 +119,35 @@
     }
   },
   {
-    "id": "mow.DE-NW-DN-SE054-20250723-54-000",
+    "id": "mow.DE-NW-DN-SE054-20250723-54-001",
     "version": 7,
-    "startDate": "2025-07-24T00:19:34+02:00",
-    "severity": "Severe",
+    "startDate": "2025-07-24T00:58:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung im Kreis Düren - Kreis Düren",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-AC-SE090-20250723-90-000",
+    "version": 7,
+    "startDate": "2025-07-24T01:02:37+02:00",
+    "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Ausfall Stromversorgung im Kreis Düren - Kreis Düren",
+      "de": "Ausfall Stromversorgung - Simmerath",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
