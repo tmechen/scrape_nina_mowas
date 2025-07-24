@@ -163,12 +163,12 @@
     }
   },
   {
-    "id": "mow.DE-NI-HK-W223-20250724-000",
+    "id": "mow.DE-NI-HK-W223-20250724-001",
     "version": 7,
-    "startDate": "2025-07-24T03:38:24+02:00",
+    "startDate": "2025-07-24T04:43:22+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Großfeuer Walsrode - Walsrode",
       "en": "Conflagration",
