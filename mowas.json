@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-HK-W223-20250724-002",
-    "version": 7,
-    "startDate": "2025-07-24T14:27:19+02:00",
-    "expiresDate": "2025-07-24T20:27:19+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großfeuer Walsrode - Walsrode",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BY-CO-W141-20250724-000",
     "version": 7,
     "startDate": "2025-07-24T15:35:52+02:00",
@@ -184,27 +162,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20250724-000",
-    "version": 7,
-    "startDate": "2025-07-24T19:50:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall - Oberursel und Bad Homburg",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-ST-BOE-W041-20250724-001",
     "version": 7,
     "startDate": "2025-07-24T20:04:46+02:00",
@@ -245,6 +202,70 @@
     },
     "transKeys": {
       "event": "BBK-EVC-009"
+    }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20250724-001",
+    "version": 7,
+    "startDate": "2025-07-24T20:39:20+02:00",
+    "expiresDate": "2025-07-25T02:39:19+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall - Oberursel und Bad Homburg",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20250724-67-000",
+    "version": 7,
+    "startDate": "2025-07-24T20:55:41+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch ein Brandereignis - Dortmund-Scharnhorst",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20250724-50-000",
+    "version": 7,
+    "startDate": "2025-07-24T20:57:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausströmendes Flüssiggas - Obersulm-Willsbach Dimbacherstraße Radius 1 km",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
     }
   }
 ]
