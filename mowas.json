@@ -119,50 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20250723-90-001",
-    "version": 7,
-    "startDate": "2025-07-24T01:45:21+02:00",
-    "expiresDate": "2025-07-24T07:45:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall Stromversorgung - Simmerath",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-NW-DN-SE054-20250723-54-002",
-    "version": 7,
-    "startDate": "2025-07-24T01:57:08+02:00",
-    "expiresDate": "2025-07-24T07:57:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall Stromversorgung im Kreis Düren - Kreis Düren",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-NI-HK-W223-20250724-001",
     "version": 7,
     "startDate": "2025-07-24T04:43:22+02:00",
