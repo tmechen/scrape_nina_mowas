@@ -140,50 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20250724-50-001",
-    "version": 7,
-    "startDate": "2025-07-24T21:37:48+02:00",
-    "expiresDate": "2025-07-25T03:37:47+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausströmendes Flüssiggas - Obersulm-Willsbach Dimbacherstraße Radius 1 km",
-      "en": "Gas leak",
-      "ar": "تسرب غاز",
-      "es": "Escape de gas",
-      "fr": "Fuite de gaz",
-      "pl": "Wyciek gazu",
-      "ru": "Утечка газа",
-      "tr": "Gaz kaçağı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
-    "id": "mow.DE-NW-NE-SE044-20250724-44-001",
-    "version": 7,
-    "startDate": "2025-07-24T21:41:58+02:00",
-    "expiresDate": "2025-07-25T03:41:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Neuss - Barbaraviertel",
-      "en": "Bomb/ammunition discovery",
-      "ar": "العثور على قنابل/ذخيرة",
-      "es": "Hallazgo de bomba/munición",
-      "fr": "Découverte de bombes / munitions",
-      "pl": "Odnalezienie bomb/amunicji",
-      "ru": "Обнаружение неразорвавшихся снарядов/боеприпасов",
-      "tr": "Bomba/Cephane buluntusu"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-009"
-    }
-  },
-  {
     "id": "mow.DE-NW-DO-SE067-20250725-67-000",
     "version": 7,
     "startDate": "2025-07-25T03:48:38+02:00",
