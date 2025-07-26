@@ -98,14 +98,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-KL-SE112-20250726-112-000",
+    "id": "mow.DE-RP-KL-SE112-20250726-112-001",
     "version": 7,
-    "startDate": "2025-07-26T05:34:23+02:00",
+    "startDate": "2025-07-26T08:55:49+02:00",
+    "expiresDate": "2025-07-26T14:55:48+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall - VG Bruchmühlbach- Miesau",
+      "de": "Entwarnung: Stromausfall - VG Bruchmühlbach- Miesau",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
