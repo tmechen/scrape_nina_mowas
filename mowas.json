@@ -119,14 +119,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-SW-W165-20250727-000",
+    "id": "mow.DE-BY-SW-W165-20250727-001",
     "version": 7,
-    "startDate": "2025-07-27T10:32:34+02:00",
+    "startDate": "2025-07-27T12:05:55+02:00",
+    "expiresDate": "2025-07-27T18:05:54+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "RAUCHGASE / RAUCHSÄULE / SCHADSTOFFE - Niederwerrn",
+      "de": "Entwarnung: RAUCHGASE / RAUCHSÄULE / SCHADSTOFFE - Niederwerrn",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
