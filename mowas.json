@@ -119,14 +119,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-HP-W196-20250729-000",
+    "id": "mow.DE-HE-HP-W196-20250729-001",
     "version": 7,
-    "startDate": "2025-07-29T21:30:33+02:00",
+    "startDate": "2025-07-30T00:56:27+02:00",
+    "expiresDate": "2025-07-30T06:56:26+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Leckage an einem Gastank - Neckarsteinach - Darsberg",
+      "de": "Entwarnung: Leckage an einem Gastank - Neckarsteinach - Darsberg",
       "en": "Gas leak",
       "ar": "تسرب غاز",
       "es": "Escape de gas",
