@@ -120,14 +120,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-J-W110-20250731-000",
+    "id": "mow.DE-TH-J-W110-20250731-001",
     "version": 7,
-    "startDate": "2025-07-31T13:10:03+02:00",
+    "startDate": "2025-07-31T14:59:30+02:00",
+    "expiresDate": "2025-07-31T20:59:30+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in einem Industriegebäude - Petersberg/ Eisenberg - Brand in einem Industriegebäude - Petersberg/ Eisenberg",
+      "de": "Entwarnung: Brand in einem Industriegebäude - Petersberg/ Eisenberg - Brand in einem Industriegebäude - Petersberg/ Eisenberg",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
