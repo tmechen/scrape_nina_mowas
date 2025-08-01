@@ -120,14 +120,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-UN-SE068-20250801-68-000",
+    "id": "mow.DE-NW-UN-SE068-20250801-68-001",
     "version": 7,
-    "startDate": "2025-08-01T06:49:13+02:00",
+    "startDate": "2025-08-01T09:04:28+02:00",
+    "expiresDate": "2025-08-01T15:04:28+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase - Lünen",
+      "de": "Entwarnung: Rauchgase - Lünen",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
