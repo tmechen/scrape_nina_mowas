@@ -139,5 +139,26 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-TH-UH-W116-20250802-000",
+    "version": 7,
+    "startDate": "2025-08-02T10:45:04+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Funktionsüberprüfung der Sirenen und Funkmeldeempfänger im Unstrut-Hainich-Kreis - Unstrut-Hainich-Kreis",
+      "en": "Siren test",
+      "ar": "تجربة صفارة الإنذار",
+      "es": "Prueba de sirena",
+      "fr": "Test des sirènes",
+      "pl": "Test syren",
+      "ru": "Проверка средств оповещения",
+      "tr": "Siren testi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
   }
 ]
