@@ -120,14 +120,15 @@
     }
   },
   {
-    "id": "mow.DE-ST-SK-W070-20250804-000",
+    "id": "mow.DE-ST-SK-W070-20250804-001",
     "version": 7,
-    "startDate": "2025-08-04T10:57:50+02:00",
+    "startDate": "2025-08-04T11:03:10+02:00",
+    "expiresDate": "2025-08-04T17:03:09+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand es Gebäudes - Merseburg",
+      "de": "Entwarnung: Brand es Gebäudes - Merseburg",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
