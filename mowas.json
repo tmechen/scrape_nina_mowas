@@ -98,50 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20250805-18-000",
-    "version": 7,
-    "startDate": "2025-08-05T14:43:15+02:00",
-    "expiresDate": "2025-08-05T20:43:14+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Verunreinigung Trinkwasser – Abkochgebot - Höfen an der Enz (Teilbereiche) - Landkreis Calw",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-HE-KS-SE106-20250805-106-002",
-    "version": 7,
-    "startDate": "2025-08-05T14:53:03+02:00",
-    "expiresDate": "2025-08-05T20:53:03+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gasaustritt - Bad Camberg",
-      "en": "Gas leak",
-      "ar": "تسرب غاز",
-      "es": "Escape de gas",
-      "fr": "Fuite de gaz",
-      "pl": "Wyciek gazu",
-      "ru": "Утечка газа",
-      "tr": "Gaz kaçağı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-NW-BO-SE077-20250805-77-001",
     "version": 7,
     "startDate": "2025-08-05T20:36:37+02:00",
