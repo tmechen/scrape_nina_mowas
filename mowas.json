@@ -56,27 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20250728-18-000",
-    "version": 7,
-    "startDate": "2025-07-28T17:14:43+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Verunreinigung Trinkwasser – Abkochgebot - Höfen an der Enz (Teilbereiche) - Landkreis Calw",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-TH-SLF-W113-20250730-000",
     "version": 7,
     "startDate": "2025-07-30T15:16:21+02:00",
@@ -119,14 +98,37 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20250805-106-001",
+    "id": "mow.DE-BW-S-SE018-20250805-18-000",
     "version": 7,
-    "startDate": "2025-08-05T13:19:58+02:00",
+    "startDate": "2025-08-05T14:43:15+02:00",
+    "expiresDate": "2025-08-05T20:43:14+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gasaustritt - Bad Camberg",
+      "de": "Entwarnung: Verunreinigung Trinkwasser – Abkochgebot - Höfen an der Enz (Teilbereiche) - Landkreis Calw",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20250805-106-002",
+    "version": 7,
+    "startDate": "2025-08-05T14:53:03+02:00",
+    "expiresDate": "2025-08-05T20:53:03+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gasaustritt - Bad Camberg",
       "en": "Gas leak",
       "ar": "تسرب غاز",
       "es": "Escape de gas",
