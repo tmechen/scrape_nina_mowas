@@ -98,50 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20250806-29-005",
-    "version": 7,
-    "startDate": "2025-08-06T12:41:13+02:00",
-    "expiresDate": "2025-08-06T18:41:12+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung aufgrund eines Wohnhausbrandes - Hollern/Bassenfleth",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029-20250806-29-006",
-    "version": 7,
-    "startDate": "2025-08-06T12:48:21+02:00",
-    "expiresDate": "2025-08-06T18:48:21+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung:  Fund einer Handgranate im Herrenmühlenweg, Meppen - Meppen, Herrenmühlenweg",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-SN-DD-W094-20250806-001",
     "version": 7,
     "startDate": "2025-08-06T13:28:02+02:00",
