@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-F-SE119-20250808-128-001",
-    "version": 7,
-    "startDate": "2025-08-08T14:26:17+02:00",
-    "expiresDate": "2025-08-08T20:26:17+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Großbrand in Mannheim - Stadtgebiet Frankfurt am Main",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-DI-W104-20250808-001",
     "version": 7,
     "startDate": "2025-08-08T14:57:47+02:00",
