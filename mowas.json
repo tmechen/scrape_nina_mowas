@@ -98,14 +98,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-WAF-SE045-20250809-45-000",
+    "id": "mow.DE-NW-ERK-SE056-20250810-56-002",
     "version": 7,
-    "startDate": "2025-08-09T10:17:50+02:00",
+    "startDate": "2025-08-10T17:19:21+02:00",
+    "expiresDate": "2025-08-10T23:19:20+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung in Ennigerloh/Enniger -  Ennigerloh-Enniger, Sendenhorst, Warendorf-Hoetmar, Ahlen-Vorhelm",
+      "de": "Entwarnung: Geruchsbelästigung in Erkelenz - Lövenich - Erkelenz - Lövenich",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -119,15 +120,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20250810-56-002",
+    "id": "mow.DE-NW-WAF-SE045-20250810-45-000",
     "version": 7,
-    "startDate": "2025-08-10T17:19:21+02:00",
-    "expiresDate": "2025-08-10T23:19:20+02:00",
+    "startDate": "2025-08-10T23:05:37+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Erkelenz - Lövenich - Erkelenz - Lövenich",
+      "de": "Geruchsbelästigung in Ennigerloh/Enniger -  Ennigerloh-Enniger, Sendenhorst, Warendorf-Hoetmar, Ahlen-Vorhelm, Ahlen",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
