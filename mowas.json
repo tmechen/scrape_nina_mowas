@@ -162,14 +162,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20250811-56-000",
+    "id": "mow.DE-NW-ERK-SE056-20250811-56-001",
     "version": 7,
-    "startDate": "2025-08-11T08:44:21+02:00",
+    "startDate": "2025-08-11T09:26:59+02:00",
+    "expiresDate": "2025-08-11T15:26:59+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in Wassenberg -  Wassenberg, Orsbeck, Birgelen, Rothenbach, Effeld, Ophoven",
+      "de": "Entwarnung: Rauchgase in Wassenberg -  Wassenberg, Orsbeck, Birgelen, Rothenbach, Effeld, Ophoven",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
