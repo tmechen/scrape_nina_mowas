@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20250812-106-001",
-    "version": 7,
-    "startDate": "2025-08-12T18:38:08+02:00",
-    "expiresDate": "2025-08-13T00:38:07+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung Waldbrand - Glashütten + Umkreis",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-NW-GT-SE040-20250812-40-001",
     "version": 7,
     "startDate": "2025-08-12T20:51:41+02:00",
