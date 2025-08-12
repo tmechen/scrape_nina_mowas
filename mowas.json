@@ -184,27 +184,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20250812-31-000",
-    "version": 7,
-    "startDate": "2025-08-12T22:39:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in mehreren Stadtteilen - Stadtmitte, Vonderort, Fuhlenbrock",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-E-SE052-20250812-52-001",
     "version": 7,
     "startDate": "2025-08-12T23:44:35+02:00",
@@ -246,6 +225,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20250812-31-001",
+    "version": 7,
+    "startDate": "2025-08-12T23:59:11+02:00",
+    "expiresDate": "2025-08-13T05:59:10+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung in mehreren Stadtteilen - Stadtmitte, Vonderort, Fuhlenbrock",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
