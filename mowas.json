@@ -119,27 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20250812-106-000",
-    "version": 7,
-    "startDate": "2025-08-12T16:26:54+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung Waldbrand - Glashütten + Umkreis",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20250812-143-001",
     "version": 7,
     "startDate": "2025-08-12T17:15:52+02:00",
@@ -159,6 +138,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20250812-106-001",
+    "version": 7,
+    "startDate": "2025-08-12T18:38:08+02:00",
+    "expiresDate": "2025-08-13T00:38:07+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung Waldbrand - Glashütten + Umkreis",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
