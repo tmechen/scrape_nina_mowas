@@ -96,5 +96,47 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20250812-143-000",
+    "version": 7,
+    "startDate": "2025-08-12T08:43:53+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Strohdiemenbrand - Gommern",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-TUE-W126-20250812-001",
+    "version": 7,
+    "startDate": "2025-08-12T08:55:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hitzewelle - Stadt und Landkreis Tübingen",
+      "en": "Heat",
+      "ar": "حرارة",
+      "es": "Temperatura elevada",
+      "fr": "Chaleur intense",
+      "pl": "Upał",
+      "ru": "Жара",
+      "tr": "Aşırı sıcaklık"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-037"
+    }
   }
 ]
