@@ -228,27 +228,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-OF-W192-20250813-001",
-    "version": 7,
-    "startDate": "2025-08-13T15:22:54+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Stromausfall - Egelsbach und Langen",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BY-PA-W160-20250813-000",
     "version": 7,
     "startDate": "2025-08-13T15:24:51+02:00",
@@ -288,6 +267,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-HE-OF-W192-20250813-002",
+    "version": 7,
+    "startDate": "2025-08-13T15:45:14+02:00",
+    "expiresDate": "2025-08-13T21:45:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall - Egelsbach und Langen",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
