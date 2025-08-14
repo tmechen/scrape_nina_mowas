@@ -245,5 +245,26 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-BW-LOE-W023-20250814-000",
+    "version": 7,
+    "startDate": "2025-08-14T12:01:17+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand in Steinen  - Steinen , Maulburg",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
