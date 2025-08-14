@@ -56,27 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-LIP-SE041-20250804-41-000",
-    "version": 7,
-    "startDate": "2025-08-04T15:33:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserverunreinigung - Verwendungseinschränkung mit Abkochgebot - Oerlinghausen - Kernstadt und Währentrup",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-TUE-W126-20250812-001",
     "version": 7,
     "startDate": "2025-08-12T08:55:30+02:00",
@@ -287,6 +266,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-LIP-SE041-20250814-41-000",
+    "version": 7,
+    "startDate": "2025-08-14T13:39:21+02:00",
+    "expiresDate": "2025-08-14T19:39:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasserverunreinigung - Verwendungseinschränkung mit Abkochgebot - Oerlinghausen - Kernstadt und Währentrup",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
