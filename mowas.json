@@ -247,14 +247,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-LOE-W023-20250814-000",
+    "id": "mow.DE-BW-LOE-W023-20250814-001",
     "version": 7,
-    "startDate": "2025-08-14T12:01:17+02:00",
+    "startDate": "2025-08-14T13:07:49+02:00",
+    "expiresDate": "2025-08-14T19:07:49+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand in Steinen  - Steinen , Maulburg",
+      "de": "Entwarnung: Großbrand in Steinen  - Steinen , Maulburg",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
