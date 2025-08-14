@@ -161,50 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20250814-129-000",
-    "version": 7,
-    "startDate": "2025-08-14T11:02:52+02:00",
-    "expiresDate": "2025-08-14T17:02:52+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase und Geruchsbelästigung in Petershagen durch Strohbrand - Petershagen rechts der Weser - Raderhorst und umliegende Ortschaften",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NW-MI-SE073-20250814-73-000",
-    "version": 7,
-    "startDate": "2025-08-14T11:12:16+02:00",
-    "expiresDate": "2025-08-14T17:12:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase und Geruchsbelästigung in Petershagen durch Strohbrand - Petershagen rechts der Weser - Raderhorst und umliegende Ortschaften",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20250814-143-000",
     "version": 7,
     "startDate": "2025-08-14T11:25:06+02:00",
@@ -331,6 +287,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SLS-W038-20250814-000",
+    "version": 7,
+    "startDate": "2025-08-14T17:22:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bakteriologische Beeinträchtigung des Trinkwassers - Abkochgebot - Biringen, Fürweiler, Gerlfangen, Hemmersdorf, Oberesch der Gde. Rehlingen",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
