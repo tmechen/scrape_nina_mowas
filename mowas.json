@@ -182,14 +182,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-MI-SE073-20250813-73-000",
+    "id": "mow.DE-NI-STD-SE029B-20250814-129-000",
     "version": 7,
-    "startDate": "2025-08-13T23:29:28+02:00",
+    "startDate": "2025-08-14T11:02:52+02:00",
+    "expiresDate": "2025-08-14T17:02:52+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase und Geruchsbelästigung in Petershagen durch Strohbrand - Petershagen rechts der Weser - Raderhorst und umliegende Ortschaften",
+      "de": "Entwarnung: Rauchgase und Geruchsbelästigung in Petershagen durch Strohbrand - Petershagen rechts der Weser - Raderhorst und umliegende Ortschaften",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -203,14 +204,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20250813-129-000",
+    "id": "mow.DE-NW-MI-SE073-20250814-73-000",
     "version": 7,
-    "startDate": "2025-08-13T23:45:53+02:00",
+    "startDate": "2025-08-14T11:12:16+02:00",
+    "expiresDate": "2025-08-14T17:12:15+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase und Geruchsbelästigung in Petershagen durch Strohbrand - Petershagen rechts der Weser - Raderhorst und umliegende Ortschaften",
+      "de": "Entwarnung: Rauchgase und Geruchsbelästigung in Petershagen durch Strohbrand - Petershagen rechts der Weser - Raderhorst und umliegende Ortschaften",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -221,6 +223,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20250814-143-000",
+    "version": 7,
+    "startDate": "2025-08-14T11:25:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand in der Kasseler Straße in Eisleben - Lutherstadt Eisleben",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
