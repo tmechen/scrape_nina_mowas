@@ -225,27 +225,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BO-SE077-20250815-77-000",
-    "version": 7,
-    "startDate": "2025-08-15T16:41:22+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Fund einer 250 kg Weltkriegsbomben - Bochum-Altenbochum",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-AC-SE090-20250815-90-000",
     "version": 7,
     "startDate": "2025-08-15T17:38:49+02:00",
@@ -285,6 +264,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BO-SE077-20250815-77-001",
+    "version": 7,
+    "startDate": "2025-08-15T18:46:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Fund einer 250 kg Weltkriegsbomben - Bochum-Altenbochum",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
