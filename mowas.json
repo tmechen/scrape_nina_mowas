@@ -56,48 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-PA-W160-20250813-000",
-    "version": 7,
-    "startDate": "2025-08-13T15:24:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Abkochempfehlung für Trinkwasser im Versorgungsgebiet der Stadtwerke Passau - Stadt Passau",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-BY-PA-W160-20250813-001",
-    "version": 7,
-    "startDate": "2025-08-13T15:35:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Abkochempfehlung des Trinkwassers im Versorgungsgebiet der Stadtwerke Passau - Gemeinde Tiefenbach - Salzweg - Windorf - Ortenburg - Stadt Vilshofen",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NW-SI-SE066-20250813-66-000",
     "version": 7,
     "startDate": "2025-08-13T16:49:41+02:00",
@@ -201,6 +159,50 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-BY-PA-W160-20250816-000",
+    "version": 7,
+    "startDate": "2025-08-16T12:30:18+02:00",
+    "expiresDate": "2025-08-16T18:30:17+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Abkochempfehlung des Trinkwassers im Versorgungsgebiet der Stadtwerke  - Gemeinde Tiefenbach - Salzweg - Windorf - Ortenburg - Stadt Vilshofen",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-PA-W160-20250816-001",
+    "version": 7,
+    "startDate": "2025-08-16T12:31:02+02:00",
+    "expiresDate": "2025-08-16T18:31:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Abkochempfehlung für Trinkwasser im Versorgungsgebiet der Stadtwerke P - Stadt Passau",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
