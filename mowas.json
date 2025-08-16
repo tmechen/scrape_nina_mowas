@@ -203,50 +203,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BO-SE077-20250815-77-002",
-    "version": 7,
-    "startDate": "2025-08-15T22:51:24+02:00",
-    "expiresDate": "2025-08-16T04:51:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Fund einer 250 kg Weltkriegsbomben - Bochum-Altenbochum",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NI-HM-W214-20250815-001",
-    "version": 7,
-    "startDate": "2025-08-15T23:04:07+02:00",
-    "expiresDate": "2025-08-16T05:04:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Einschränkung der Wasserversorgung - Groß Berkel und Laatzen in der Gemeinde Aerzen",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-RO-W136-20250815-001",
     "version": 7,
     "startDate": "2025-08-16T00:40:32+02:00",
