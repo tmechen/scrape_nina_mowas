@@ -140,14 +140,15 @@
     }
   },
   {
-    "id": "mow.DE-MV-LRO-W007-20250817-000",
+    "id": "mow.DE-MV-LRO-W007-20250817-001",
     "version": 7,
-    "startDate": "2025-08-17T09:53:01+02:00",
+    "startDate": "2025-08-17T11:43:17+02:00",
+    "expiresDate": "2025-08-17T17:43:17+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke durch Brandereignis - Liessow",
+      "de": "Entwarnung: Rauchwolke durch Brandereignis - Liessow",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
