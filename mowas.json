@@ -184,12 +184,12 @@
     }
   },
   {
-    "id": "mow.DE-NI-OS-W100-20250818-000",
+    "id": "mow.DE-NI-STD-SE029-20250818-29-000",
     "version": 7,
-    "startDate": "2025-08-18T12:49:51+02:00",
-    "severity": "Minor",
+    "startDate": "2025-08-18T13:02:45+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Großbrand Bereich Bad Laer - Bad Laer",
       "en": "Conflagration",
