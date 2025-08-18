@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20250818-4-001",
-    "version": 7,
-    "startDate": "2025-08-18T11:31:22+02:00",
-    "expiresDate": "2025-08-18T17:31:21+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Freisetzung von Schadstoffwolke - Schwollen",
-      "en": "Chemical hazard",
-      "ar": "خطر كيماوي",
-      "es": "Peligro químico",
-      "fr": "Risque chimique",
-      "pl": "Zagrożenie chemiczne",
-      "ru": "Химическая опасность",
-      "tr": "Kimyasal tehlike"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-014"
-    }
-  },
-  {
     "id": "mow.DE-SL-SLS-W038-20250818-000",
     "version": 7,
     "startDate": "2025-08-18T11:42:22+02:00",
