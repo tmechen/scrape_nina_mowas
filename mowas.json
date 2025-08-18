@@ -77,27 +77,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SLS-W038-20250814-000",
-    "version": 7,
-    "startDate": "2025-08-14T17:22:29+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bakteriologische Beeinträchtigung des Trinkwassers - Abkochgebot - Biringen, Fürweiler, Gerlfangen, Hemmersdorf, Oberesch der Gde. Rehlingen",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-HE-ERB-W191-20250815-000",
     "version": 7,
     "startDate": "2025-08-15T12:50:17+02:00",
@@ -162,14 +141,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20250818-4-000",
+    "id": "mow.DE-RP-TR-SE004-20250818-4-001",
     "version": 7,
-    "startDate": "2025-08-18T07:37:56+02:00",
+    "startDate": "2025-08-18T11:31:22+02:00",
+    "expiresDate": "2025-08-18T17:31:21+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Freisetzung von Schadstoffwolke - Schwollen",
+      "de": "Entwarnung: Freisetzung von Schadstoffwolke - Schwollen",
       "en": "Chemical hazard",
       "ar": "خطر كيماوي",
       "es": "Peligro químico",
@@ -180,6 +160,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-014"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SLS-W038-20250818-000",
+    "version": 7,
+    "startDate": "2025-08-18T11:42:22+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Aktualisierung! - Bakteriologische Beeinträchtigung des Trinkwassers - Abkochgebot - Biringen, Fürweiler, Gerlfangen, und Oberesch der Gde. Rehlingen-Siersburg",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
