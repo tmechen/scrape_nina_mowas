@@ -140,49 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GE-SE064-20250818-64-000",
-    "version": 7,
-    "startDate": "2025-08-18T15:21:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bombenfund - Gelsenkirchen, Beckhausen",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029B-20250818-129-000",
-    "version": 7,
-    "startDate": "2025-08-18T16:38:45+02:00",
-    "expiresDate": "2025-08-18T22:38:45+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand Bereich Bad Laer - Bad Laer",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-RP-KO-SE113-20250818-113-000",
     "version": 7,
     "startDate": "2025-08-18T17:15:34+02:00",
@@ -288,6 +245,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-012"
+    }
+  },
+  {
+    "id": "mow.DE-NW-GE-SE064-20250818-64-001",
+    "version": 7,
+    "startDate": "2025-08-18T23:17:02+02:00",
+    "expiresDate": "2025-08-19T05:17:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenfund - Gelsenkirchen, Beckhausen",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
