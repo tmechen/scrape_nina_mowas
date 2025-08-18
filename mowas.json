@@ -244,5 +244,26 @@
     "transKeys": {
       "event": "BBK-EVC-012"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20250818-50-000",
+    "version": 7,
+    "startDate": "2025-08-18T19:11:53+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand einer Firma - 74722 Buchen, Neckar-Odenwald-Kreis",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
