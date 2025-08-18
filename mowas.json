@@ -140,28 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20250817-84-002",
-    "version": 7,
-    "startDate": "2025-08-17T19:48:33+02:00",
-    "expiresDate": "2025-08-18T01:48:33+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand- und Rauchentwicklung - Burglengenfeld",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-FL-SE100-20250817-100-000",
     "version": 7,
     "startDate": "2025-08-18T00:58:12+02:00",
@@ -183,14 +161,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-ST-SE032-20250817-165-000",
+    "id": "mow.DE-NW-ST-SE032-20250818-165-000",
     "version": 7,
-    "startDate": "2025-08-18T01:31:04+02:00",
+    "startDate": "2025-08-18T03:54:32+02:00",
+    "expiresDate": "2025-08-18T09:54:32+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung in Neuenkirchen - Gemeinde Neuenkirchen",
+      "de": "Entwarnung: Geruchsbelästigung in Neuenkirchen - Gemeinde Neuenkirchen",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
