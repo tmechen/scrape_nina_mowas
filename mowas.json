@@ -140,27 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20250817-100-000",
-    "version": 7,
-    "startDate": "2025-08-18T00:58:12+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand - Niebüll Gather Landstraße",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-ST-SE032-20250818-165-000",
     "version": 7,
     "startDate": "2025-08-18T03:54:32+02:00",
@@ -180,6 +159,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20250818-100-000",
+    "version": 7,
+    "startDate": "2025-08-18T07:34:53+02:00",
+    "expiresDate": "2025-08-18T13:34:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand - Niebüll Gather Landstraße",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20250818-4-000",
+    "version": 7,
+    "startDate": "2025-08-18T07:37:56+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Freisetzung von Schadstoffwolke - Schwollen",
+      "en": "Chemical hazard",
+      "ar": "خطر كيماوي",
+      "es": "Peligro químico",
+      "fr": "Risque chimique",
+      "pl": "Zagrożenie chemiczne",
+      "ru": "Химическая опасность",
+      "tr": "Kimyasal tehlike"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-014"
     }
   }
 ]
