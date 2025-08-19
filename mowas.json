@@ -140,71 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE113-20250818-113-000",
-    "version": 7,
-    "startDate": "2025-08-18T17:15:34+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "länger andauerndes Brandereignis, Feuerwehr ist vor Ort - Plaidt",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-MV-SN-SE049-20250819-49-001",
-    "version": 7,
-    "startDate": "2025-08-19T12:07:20+02:00",
-    "expiresDate": "2025-08-19T18:07:19+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gasaustritt - Grevesmühlen",
-      "en": "Gas leak",
-      "ar": "تسرب غاز",
-      "es": "Escape de gas",
-      "fr": "Fuite de gaz",
-      "pl": "Wyciek gazu",
-      "ru": "Утечка газа",
-      "tr": "Gaz kaçağı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
-    "id": "mow.DE-ST-SK-W070-20250819-000",
-    "version": 7,
-    "startDate": "2025-08-19T12:09:08+02:00",
-    "expiresDate": "2025-08-19T18:09:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund Braunsbedra/ Neumark - Braunsbedra",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BY-HO-W142-20250819-001",
     "version": 7,
     "startDate": "2025-08-19T13:47:50+02:00",
@@ -311,6 +246,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20250819-28-000",
+    "version": 7,
+    "startDate": "2025-08-19T18:05:33+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Leezen",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KO-SE113-20250819-113-000",
+    "version": 7,
+    "startDate": "2025-08-19T18:27:06+02:00",
+    "expiresDate": "2025-08-20T00:27:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: länger andauerndes Brandereignis, Feuerwehr ist vor Ort - Plaidt",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
