@@ -161,27 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20250819-28-001",
-    "version": 7,
-    "startDate": "2025-08-19T19:41:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Leezen",
-      "en": "Gas leak",
-      "ar": "تسرب غاز",
-      "es": "Escape de gas",
-      "fr": "Fuite de gaz",
-      "pl": "Wyciek gazu",
-      "ru": "Утечка газа",
-      "tr": "Gaz kaçağı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-NI-OL-W015-20250819-001",
     "version": 7,
     "startDate": "2025-08-19T21:23:54+02:00",
@@ -248,14 +227,37 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20250819-84-000",
+    "id": "mow.DE-SH-EH-SE028-20250819-28-002",
     "version": 7,
-    "startDate": "2025-08-19T22:54:17+02:00",
+    "startDate": "2025-08-20T00:54:47+02:00",
+    "expiresDate": "2025-08-20T06:54:46+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Leezen",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20250819-84-001",
+    "version": 7,
+    "startDate": "2025-08-20T00:59:04+02:00",
+    "expiresDate": "2025-08-20T06:59:03+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gefährdung durch Brandgase - Ansbach",
+      "de": "Entwarnung: Gefährdung durch Brandgase - Ansbach",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
