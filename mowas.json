@@ -203,50 +203,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-ERB-W191-20250822-000",
-    "version": 7,
-    "startDate": "2025-08-22T10:01:04+02:00",
-    "expiresDate": "2025-08-22T16:01:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasser belastet - Bad König - Momart",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-HE-ERB-W191-20250822-001",
-    "version": 7,
-    "startDate": "2025-08-22T10:01:23+02:00",
-    "expiresDate": "2025-08-22T16:01:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasser belastet - Bad König - Gumpersberg, Ober-Kinzig",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NW-W-SE061-20250822-61-001",
     "version": 7,
     "startDate": "2025-08-22T12:01:12+02:00",
@@ -278,6 +234,27 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Abkochgebot für den Stadtteil Heimerdingen - Ditzingen Ortsteil Heimerdingen",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-HE-ERB-W191-20250822-002",
+    "version": 7,
+    "startDate": "2025-08-22T15:53:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Verunreinigung des Trinkwasser - Gemeinde Mossautal - Ortsteil Güttersbach",
       "en": "Contaminated drinking water",
       "ar": "تلوث مياه الشرب",
       "es": "Contaminación de agua potable",
