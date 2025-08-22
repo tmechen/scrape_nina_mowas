@@ -245,28 +245,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-H-SE110-20250821-110-001",
-    "version": 7,
-    "startDate": "2025-08-22T00:38:21+02:00",
-    "expiresDate": "2025-08-22T06:38:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung Brand einer Sporthalle - Misburg-Nord, Hannover",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-NE-SE044-20250821-44-000",
     "version": 7,
     "startDate": "2025-08-22T01:51:10+02:00",
