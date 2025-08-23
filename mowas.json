@@ -203,27 +203,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20250823-56-000",
-    "version": 7,
-    "startDate": "2025-08-23T02:00:30+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in Erkelenz - Erkelenz",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20250823-000",
     "version": 7,
     "startDate": "2025-08-23T04:47:18+02:00",
@@ -255,6 +234,27 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Geruchsbelästigung in Heinsberg-Dremmen - Stadt Heinsberg",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20250823-56-002",
+    "version": 7,
+    "startDate": "2025-08-23T09:09:43+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in Erkelenz - Erkelenz",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
