@@ -266,5 +266,26 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20250823-000",
+    "version": 7,
+    "startDate": "2025-08-23T10:00:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "ÜBUNG ÜBUNG Es ist zu einem Brand gekommen mit Ausbreitung von Rauchgasen ÜBUNG - Waldbereich Grävenwiesbach",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
   }
 ]
