@@ -203,28 +203,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-SWA-W096-20250824-001",
-    "version": 7,
-    "startDate": "2025-08-24T19:05:20+02:00",
-    "expiresDate": "2025-08-25T01:05:20+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahrguteinsatz - Taunusstein-Neuhof",
-      "en": "Chemical hazard",
-      "ar": "خطر كيماوي",
-      "es": "Peligro químico",
-      "fr": "Risque chimique",
-      "pl": "Zagrożenie chemiczne",
-      "ru": "Химическая опасность",
-      "tr": "Kimyasal tehlike"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-014"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20250824-105-000",
     "version": 7,
     "startDate": "2025-08-25T00:14:37+02:00",
