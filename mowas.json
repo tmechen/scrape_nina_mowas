@@ -245,48 +245,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20250825-33-000",
-    "version": 7,
-    "startDate": "2025-08-25T16:54:42+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Hamburg-Veddel",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-SH-OD-SE105-20250825-105-001",
-    "version": 7,
-    "startDate": "2025-08-25T17:13:59+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Hamburg-Veddel",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-KLE-SE058-20250825-58-001",
     "version": 7,
     "startDate": "2025-08-25T23:06:37+02:00",
@@ -328,6 +286,50 @@
     },
     "transKeys": {
       "event": "BBK-EVC-005"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20250826-33-000",
+    "version": 7,
+    "startDate": "2025-08-26T02:09:57+02:00",
+    "expiresDate": "2025-08-26T08:09:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Hamburg-Veddel",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20250826-105-000",
+    "version": 7,
+    "startDate": "2025-08-26T02:26:30+02:00",
+    "expiresDate": "2025-08-26T08:26:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Hamburg-Veddel",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
