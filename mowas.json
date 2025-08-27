@@ -56,27 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20250821-4-000",
-    "version": 7,
-    "startDate": "2025-08-21T09:57:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Abkochgebot (Verdacht einer Keimbelastung) - Allenbach",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NW-SI-SE066-20250821-66-000",
     "version": 7,
     "startDate": "2025-08-21T13:35:08+02:00",
@@ -203,27 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20250825-18-000",
-    "version": 7,
-    "startDate": "2025-08-25T16:13:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserverunreinigung - Oberstenfeld",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-M-SE010-20250826-10-000",
     "version": 7,
     "startDate": "2025-08-26T12:29:48+02:00",
@@ -327,6 +285,71 @@
     },
     "transKeys": {
       "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20250827-31-000",
+    "version": 7,
+    "startDate": "2025-08-27T13:05:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bombenfund - Köln-Sürth",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20250827-18-000",
+    "version": 7,
+    "startDate": "2025-08-27T13:05:38+02:00",
+    "expiresDate": "2025-08-27T19:05:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasserverunreinigung - Oberstenfeld",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20250827-4-000",
+    "version": 7,
+    "startDate": "2025-08-27T13:09:57+02:00",
+    "expiresDate": "2025-08-27T19:09:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Abkochgebot (Verdacht einer Keimbelastung) - Allenbach",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
