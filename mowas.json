@@ -161,27 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KN-W131-20250823-000",
-    "version": 7,
-    "startDate": "2025-08-23T17:56:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Abkochgebot für die Kernstadt Radolfzell OHNE Ortsteile - Stadt Radolfzell Kernstadt",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-M-SE010-20250826-10-000",
     "version": 7,
     "startDate": "2025-08-26T12:29:48+02:00",
@@ -221,28 +200,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NI-DH-W233-20250827-001",
-    "version": 7,
-    "startDate": "2025-08-27T11:45:00+02:00",
-    "expiresDate": "2025-08-27T17:45:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brand auf landw. Betrieb - LK Diepholz",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
     }
   },
   {
@@ -374,6 +331,50 @@
     },
     "transKeys": {
       "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-BW-KN-W131-20250827-000",
+    "version": 7,
+    "startDate": "2025-08-27T17:55:23+02:00",
+    "expiresDate": "2025-08-27T23:55:22+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Abkochgebot für die Kernstadt Radolfzell OHNE Ortsteile - Stadt Radolfzell Kernstadt",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20250827-001",
+    "version": 7,
+    "startDate": "2025-08-27T18:18:14+02:00",
+    "expiresDate": "2025-08-28T00:18:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Giftige Rauchwolke aufgrund eines Brandes - Stadtbergen, Virchow-Viertel im Bereich Daimlerstraße",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
