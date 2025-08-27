@@ -203,28 +203,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-BS-SE129-20250827-157-001",
-    "version": 7,
-    "startDate": "2025-08-27T14:25:31+02:00",
-    "expiresDate": "2025-08-27T20:25:31+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gasaustritt - Braunschweig (Hondelage)",
-      "en": "Gas leak",
-      "ar": "تسرب غاز",
-      "es": "Escape de gas",
-      "fr": "Fuite de gaz",
-      "pl": "Wyciek gazu",
-      "ru": "Утечка газа",
-      "tr": "Gaz kaçağı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20250827-001",
     "version": 7,
     "startDate": "2025-08-27T15:39:16+02:00",
