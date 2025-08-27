@@ -246,27 +246,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20250827-000",
-    "version": 7,
-    "startDate": "2025-08-27T12:33:40+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Es ist zu einem Brand gekommen mit Ausbreitung von Rauchgasen - Königstein",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20250827-18-000",
     "version": 7,
     "startDate": "2025-08-27T13:05:38+02:00",
@@ -372,6 +351,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20250827-001",
+    "version": 7,
+    "startDate": "2025-08-27T15:39:16+02:00",
+    "expiresDate": "2025-08-27T21:39:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Es ist zu einem Brand gekommen mit Ausbreitung von Rauchgasen - Königstein",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
