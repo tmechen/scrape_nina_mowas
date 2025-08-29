@@ -204,14 +204,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20250829-4-000",
+    "id": "mow.DE-RP-TR-SE004-20250829-4-001",
     "version": 7,
-    "startDate": "2025-08-29T17:25:38+02:00",
+    "startDate": "2025-08-29T19:08:08+02:00",
+    "expiresDate": "2025-08-30T01:08:08+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand Reifen - Lambertsberg, Oberpierscheid, Lascheid",
+      "de": "Entwarnung: Brand Reifen - Lambertsberg, Oberpierscheid, Lascheid",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
