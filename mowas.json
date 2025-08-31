@@ -183,14 +183,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-LIP-SE041-20250831-41-000",
+    "id": "mow.DE-NW-LIP-SE041-20250831-41-001",
     "version": 7,
-    "startDate": "2025-08-31T09:07:06+02:00",
+    "startDate": "2025-08-31T11:18:56+02:00",
+    "expiresDate": "2025-08-31T17:18:55+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchbelästigung durch Brandereignis - Schieder-Schwalenberg Ortsteil: Lothe",
+      "de": "Entwarnung: Geruchbelästigung durch Brandereignis - Schieder-Schwalenberg Ortsteil: Lothe",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
