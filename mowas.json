@@ -161,36 +161,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-VIE-SE074-20250902-74-001",
+    "id": "mow.DE-NW-MS-SE043-20250902-43-001",
     "version": 7,
-    "startDate": "2025-09-02T15:36:38+02:00",
-    "expiresDate": "2025-09-02T21:36:38+02:00",
+    "startDate": "2025-09-02T17:39:51+02:00",
+    "expiresDate": "2025-09-02T23:39:51+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Ausfall Stromversorgung in der Stadt Tönisvorst - St.Tönis",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-NW-EU-SE091-20250902-109-003",
-    "version": 7,
-    "startDate": "2025-09-02T16:39:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Fund einer Weltkriegsbombe in Euskirchen  - Kernstadt Euskirchen",
+      "de": "Entwarnung: Kampfmittelfund - Admiral-Scheer-Strasse , Münster",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
@@ -204,15 +183,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-MS-SE043-20250902-43-001",
+    "id": "mow.DE-NW-EU-SE091-20250902-109-004",
     "version": 7,
-    "startDate": "2025-09-02T17:39:51+02:00",
-    "expiresDate": "2025-09-02T23:39:51+02:00",
+    "startDate": "2025-09-02T22:19:31+02:00",
+    "expiresDate": "2025-09-03T04:19:30+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund - Admiral-Scheer-Strasse , Münster",
+      "de": "Entwarnung: Fund einer Weltkriegsbombe in Euskirchen  - Kernstadt Euskirchen",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
