@@ -161,14 +161,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-HO-W142-20250904-000",
+    "id": "mow.DE-BY-HO-W142-20250904-001",
     "version": 7,
-    "startDate": "2025-09-04T07:01:32+02:00",
+    "startDate": "2025-09-04T09:29:47+02:00",
+    "expiresDate": "2025-09-04T15:29:46+02:00",
     "severity": "Extreme",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand eines landirtschaftlichen Anwesens bei Naila, starke Rauchentwicklung  - Kalkofen bei Naila",
+      "de": "Entwarnung: Großbrand eines landirtschaftlichen Anwesens bei Naila, starke Rauchen - Kalkofen bei Naila",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
