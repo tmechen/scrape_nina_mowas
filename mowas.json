@@ -77,14 +77,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-HO-W142-20250904-002",
+    "id": "mow.DE-BY-HO-W142-20250905-000",
     "version": 7,
-    "startDate": "2025-09-04T13:28:42+02:00",
+    "startDate": "2025-09-05T06:36:31+02:00",
+    "expiresDate": "2025-09-05T12:36:31+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stadtgebiet Naila bei Löscharbeiten erneut starke Rauchentwicklung - Stadtgebiet Naila und Umgebung",
+      "de": "Entwarnung: Stadtgebiet Naila nach Brandeinsatz  - Stadtgebiet Naila und Umgebung",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
