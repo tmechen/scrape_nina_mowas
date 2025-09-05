@@ -56,28 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-HO-W142-20250905-000",
-    "version": 7,
-    "startDate": "2025-09-05T06:36:31+02:00",
-    "expiresDate": "2025-09-05T12:36:31+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stadtgebiet Naila nach Brandeinsatz  - Stadtgebiet Naila und Umgebung",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-LOE-W023-20250905-000",
     "version": 7,
     "startDate": "2025-09-05T08:00:15+02:00",
