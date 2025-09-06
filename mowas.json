@@ -77,27 +77,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20250906-001",
-    "version": 7,
-    "startDate": "2025-09-06T05:33:19+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand - Geruchsbelästigung durch Brandrauch - Hohndorf",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20250906-99-000",
     "version": 7,
     "startDate": "2025-09-06T06:59:38+02:00",
@@ -182,6 +161,71 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20250906-003",
+    "version": 7,
+    "startDate": "2025-09-06T11:01:10+02:00",
+    "expiresDate": "2025-09-06T17:01:09+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand - Geruchsbelästigung durch Brandrauch - Hohndorf",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20250906-004",
+    "version": 7,
+    "startDate": "2025-09-06T11:04:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand - Geruchsbelästigung durch Brandrauch - Hohndorf",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-TH-UH-W116-20250906-001",
+    "version": 7,
+    "startDate": "2025-09-06T11:10:16+02:00",
+    "expiresDate": "2025-09-06T17:10:16+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Funktionsüberprüfung der Sirenen und Funkmeldeempfänger im Unstrut-Hai - Unstrut-Hainich-Kreis",
+      "en": "Siren test",
+      "ar": "تجربة صفارة الإنذار",
+      "es": "Prueba de sirena",
+      "fr": "Test des sirènes",
+      "pl": "Test syren",
+      "ru": "Проверка средств оповещения",
+      "tr": "Siren testi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
     }
   }
 ]
