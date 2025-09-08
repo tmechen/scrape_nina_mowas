@@ -119,12 +119,12 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20250908-105-000",
+    "id": "mow.DE-SH-OD-SE105-20250908-105-001",
     "version": 7,
-    "startDate": "2025-09-08T03:39:44+02:00",
+    "startDate": "2025-09-08T04:47:37+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Feuerwehreinsatz - Hansühn",
       "en": "Fumes",
@@ -140,14 +140,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20250908-89-000",
+    "id": "mow.DE-NW-SO-SE089-20250908-89-001",
     "version": 7,
-    "startDate": "2025-09-08T03:43:34+02:00",
+    "startDate": "2025-09-08T04:49:45+02:00",
+    "expiresDate": "2025-09-08T10:49:45+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in Lippstadt - Lippstadt",
+      "de": "Entwarnung: Rauchgase in Lippstadt - Lippstadt",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
