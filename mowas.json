@@ -311,27 +311,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20250909-31-000",
-    "version": 7,
-    "startDate": "2025-09-09T10:37:52+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hochwasser - Rhein-Erft-Kreis, Stadtgebiet Bedburg",
-      "en": "Flooding",
-      "ar": "فيضان",
-      "es": "Inundación",
-      "fr": "Crue",
-      "pl": "Powódź",
-      "ru": "Наводнение",
-      "tr": "Sel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-RP-KO-SE113-20250909-113-001",
     "version": 7,
     "startDate": "2025-09-09T11:03:54+02:00",
@@ -351,6 +330,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BM-SE042-20250909-42-001",
+    "version": 7,
+    "startDate": "2025-09-09T11:34:19+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hochwasser - Rhein-Erft-Kreis, Stadtgebiet Bedburg",
+      "en": "Flooding",
+      "ar": "فيضان",
+      "es": "Inundación",
+      "fr": "Crue",
+      "pl": "Powódź",
+      "ru": "Наводнение",
+      "tr": "Sel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
