@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-RE-SE078-20250909-78-001",
-    "version": 7,
-    "startDate": "2025-09-09T06:21:24+02:00",
-    "expiresDate": "2025-09-09T12:21:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung - Recklinghausen, Bromberger Str. 4",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-ST-MSH-W058-20250909-001",
     "version": 7,
     "startDate": "2025-09-09T06:42:31+02:00",
