@@ -161,70 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-FB-W193-20250909-003",
-    "version": 7,
-    "startDate": "2025-09-09T03:05:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung aufgrund eines Brandes - Gesamter Warnbereich",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-HE-F-SE119-20250909-128-001",
-    "version": 7,
-    "startDate": "2025-09-09T03:56:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung aufgrund eines Brandes im Wetteraukreis - Gesamter Warnbereich",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-SN-DD-W094-20250909-000",
-    "version": 7,
-    "startDate": "2025-09-09T06:00:04+02:00",
-    "expiresDate": "2025-09-09T12:00:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung aufgrund Strohballenbrand - Welschhufe/ Bannewitz",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-RE-SE078-20250909-78-001",
     "version": 7,
     "startDate": "2025-09-09T06:21:24+02:00",
@@ -351,6 +287,71 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BR-B-SE017-20250909-17-000",
+    "version": 7,
+    "startDate": "2025-09-09T11:59:45+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Notruf 112 aufgrund eines Stromausfalls - Berlin - Treptow-Köpenik",
+      "en": "Emergency number outage",
+      "ar": "انقطاع اتصال الطوارئ",
+      "es": "Fallo del número de emergencias",
+      "fr": "Défaillance de l'appel d'urgence",
+      "pl": "Awaria połączenia alarmowego",
+      "ru": "Отказ системы вызова экстренных оперативных служб",
+      "tr": "Acil çağrı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
+    }
+  },
+  {
+    "id": "mow.DE-HE-FB-W193-20250909-004",
+    "version": 7,
+    "startDate": "2025-09-09T12:04:15+02:00",
+    "expiresDate": "2025-09-09T18:04:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung aufgrund eines Brandes - Gesamter Warnbereich",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HE-F-SE119-20250909-128-002",
+    "version": 7,
+    "startDate": "2025-09-09T12:07:15+02:00",
+    "expiresDate": "2025-09-09T18:07:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung aufgrund eines Brandes im Wetteraukreis - Gesamter Warnbereich",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
