@@ -140,27 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-HI-W229-20250909-001",
-    "version": 7,
-    "startDate": "2025-09-09T15:57:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Ausfall der Trinkwasserversorgung in mehreren Stadtteilen - Hildesheim Stadt",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BR-B-SE017-20250909-17-001",
     "version": 7,
     "startDate": "2025-09-09T16:11:31+02:00",
@@ -200,6 +179,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-HI-W229-20250910-000",
+    "version": 7,
+    "startDate": "2025-09-10T10:24:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Ausfall der Trinkwasserversorgung in mehreren Stadtteilen - Hildesheim Stadt",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
