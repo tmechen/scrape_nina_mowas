@@ -245,27 +245,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20250910-28-000",
-    "version": 7,
-    "startDate": "2025-09-11T00:36:47+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Dägeling",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-BOT-SE062-20250910-62-002",
     "version": 7,
     "startDate": "2025-09-11T01:47:57+02:00",
@@ -297,6 +276,28 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Warnung Großbrand - Aurich",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20250911-28-000",
+    "version": 7,
+    "startDate": "2025-09-11T05:55:24+02:00",
+    "expiresDate": "2025-09-11T11:55:23+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Dägeling",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
