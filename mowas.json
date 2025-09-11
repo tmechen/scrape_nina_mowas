@@ -310,48 +310,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE013-20250911-120-000",
-    "version": 7,
-    "startDate": "2025-09-11T10:44:44+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bundesweiter Warntag und Sirenentest vor Beginn der Sturmflutsaison - Hamburg",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-NW-BN-SE030-20250911-30-001",
-    "version": 7,
-    "startDate": "2025-09-11T11:00:01+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bundesweiter Warntag 2025 - Probewarnung - Deutschland",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-TH-EA-W114-20250911-000",
     "version": 7,
     "startDate": "2025-09-11T11:18:37+02:00",
@@ -370,6 +328,50 @@
     },
     "transKeys": {
       "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BN-SE030-20250911-30-002",
+    "version": 7,
+    "startDate": "2025-09-11T11:45:00+02:00",
+    "expiresDate": "2025-09-11T17:45:00+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bundesweiter Warntag 2025 - Deutschland",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE013-20250911-120-001",
+    "version": 7,
+    "startDate": "2025-09-11T11:45:13+02:00",
+    "expiresDate": "2025-09-11T17:45:13+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bundesweiter Warntag und Sirenentest vor Beginn der Sturmflutsaison - Hamburg",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
     }
   }
 ]
