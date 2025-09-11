@@ -77,48 +77,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20250909-36-000",
-    "version": 7,
-    "startDate": "2025-09-09T15:17:37+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Mögliche Einschränkung des Notrufes 112 aus dem Mobilfunknetz - Landesgrenze Berlin/Brandenburg, nördlicher Bereich Dahme Spreewald",
-      "en": "Telephone line outage",
-      "ar": "انقطاع خطوط الهاتف",
-      "es": "Fallo de la línea telefónica",
-      "fr": "Défaillance de la ligne téléphonique",
-      "pl": "Awaria linii telefonicznej",
-      "ru": "Отказ линии телефонной сети",
-      "tr": "Telefon hattı arızası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-006"
-    }
-  },
-  {
-    "id": "mow.DE-BR-B-SE017-20250909-17-001",
-    "version": 7,
-    "startDate": "2025-09-09T16:11:31+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Ausfall Notruf 112 aufgrund eines Stromausfalls - Berlin - Treptow-Köpenick",
-      "en": "Emergency number outage",
-      "ar": "انقطاع اتصال الطوارئ",
-      "es": "Fallo del número de emergencias",
-      "fr": "Défaillance de l'appel d'urgence",
-      "pl": "Awaria połączenia alarmowego",
-      "ru": "Отказ системы вызова экстренных оперативных служб",
-      "tr": "Acil çağrı arızası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-005"
-    }
-  },
-  {
     "id": "mow.DE-SL-SLS-W038-20250910-000",
     "version": 7,
     "startDate": "2025-09-10T10:32:35+02:00",
@@ -224,72 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BN-SE030-20250911-30-002",
-    "version": 7,
-    "startDate": "2025-09-11T11:45:00+02:00",
-    "expiresDate": "2025-09-11T17:45:00+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bundesweiter Warntag 2025 - Deutschland",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-SE013-20250911-120-001",
-    "version": 7,
-    "startDate": "2025-09-11T11:45:13+02:00",
-    "expiresDate": "2025-09-11T17:45:13+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bundesweiter Warntag und Sirenentest vor Beginn der Sturmflutsaison - Hamburg",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-TH-J-W110-20250911-000",
-    "version": 7,
-    "startDate": "2025-09-11T11:52:04+02:00",
-    "expiresDate": "2025-09-11T17:52:03+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand eines Wohnhauses - Rudolstadt Käthe Kollwitz Straße",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-TH-EA-W114-20250911-001",
     "version": 7,
     "startDate": "2025-09-11T12:29:08+02:00",
@@ -334,27 +226,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BO-SE077-20250911-77-002",
-    "version": 7,
-    "startDate": "2025-09-11T17:03:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Fund von einer 250 kg Weltkriegsbombe - Bochum-Hamme",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NI-NOM-W210-20250911-001",
     "version": 7,
     "startDate": "2025-09-11T17:08:37+02:00",
@@ -374,6 +245,72 @@
     },
     "transKeys": {
       "event": "BBK-EVC-003"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BO-SE077-20250911-77-003",
+    "version": 7,
+    "startDate": "2025-09-11T18:17:47+02:00",
+    "expiresDate": "2025-09-12T00:17:47+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Fund von einer 250 kg Weltkriegsbombe - Bochum-Hamme",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BR-B-SE017-20250911-17-000",
+    "version": 7,
+    "startDate": "2025-09-11T18:24:12+02:00",
+    "expiresDate": "2025-09-12T00:24:12+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall Notruf 112 aufgrund eines Stromausfalls - Berlin - Treptow-Köpenick",
+      "en": "Emergency number outage",
+      "ar": "انقطاع اتصال الطوارئ",
+      "es": "Fallo del número de emergencias",
+      "fr": "Défaillance de l'appel d'urgence",
+      "pl": "Awaria połączenia alarmowego",
+      "ru": "Отказ системы вызова экстренных оперативных служб",
+      "tr": "Acil çağrı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
+    }
+  },
+  {
+    "id": "mow.DE-BB-CB-SE036-20250911-36-000",
+    "version": 7,
+    "startDate": "2025-09-11T18:25:03+02:00",
+    "expiresDate": "2025-09-12T00:25:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Mögliche Einschränkung des Notrufes 112 aus dem Mobilfunknetz - Landesgrenze Berlin/Brandenburg, nördlicher Bereich Dahme Spreewald",
+      "en": "Telephone line outage",
+      "ar": "انقطاع خطوط الهاتف",
+      "es": "Fallo de la línea telefónica",
+      "fr": "Défaillance de la ligne téléphonique",
+      "pl": "Awaria linii telefonicznej",
+      "ru": "Отказ линии телефонной сети",
+      "tr": "Telefon hattı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
     }
   }
 ]
