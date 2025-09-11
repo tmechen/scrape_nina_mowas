@@ -203,27 +203,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-NOM-W210-20250911-000",
-    "version": 7,
-    "startDate": "2025-09-11T09:18:19+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Störung im Gasnetz - Hardegsen, Moringen und Nörten-Hardenberg",
-      "en": "Gas supply outage",
-      "ar": "انقطاع إمدادات الغاز",
-      "es": "Interrupción del suministro de gas",
-      "fr": "Coupure de gaz",
-      "pl": "Awaria zasilania gazem",
-      "ru": "Отказ системы газоснабжения",
-      "tr": "Gaz beslemesi arızası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-003"
-    }
-  },
-  {
     "id": "mow.DE-BB-EW-SE079-20250911-79-000",
     "version": 7,
     "startDate": "2025-09-11T10:14:20+02:00",
@@ -311,27 +290,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BO-SE077-20250911-77-000",
-    "version": 7,
-    "startDate": "2025-09-11T12:18:46+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Fund von einer 250 kg Weltkriegsbombe - Bochum-Hamme",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-TH-EA-W114-20250911-001",
     "version": 7,
     "startDate": "2025-09-11T12:29:08+02:00",
@@ -373,6 +331,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BO-SE077-20250911-77-002",
+    "version": 7,
+    "startDate": "2025-09-11T17:03:49+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Fund von einer 250 kg Weltkriegsbombe - Bochum-Hamme",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NI-NOM-W210-20250911-001",
+    "version": 7,
+    "startDate": "2025-09-11T17:08:37+02:00",
+    "expiresDate": "2025-09-11T23:08:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Störung im Gasnetz - Hardegsen, Moringen und Nörten-Hardenberg",
+      "en": "Gas supply outage",
+      "ar": "انقطاع إمدادات الغاز",
+      "es": "Interrupción del suministro de gas",
+      "fr": "Coupure de gaz",
+      "pl": "Awaria zasilania gazem",
+      "ru": "Отказ системы газоснабжения",
+      "tr": "Gaz beslemesi arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-003"
     }
   }
 ]
