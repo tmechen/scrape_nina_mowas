@@ -182,28 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-NOM-W210-20250911-001",
-    "version": 7,
-    "startDate": "2025-09-11T17:08:37+02:00",
-    "expiresDate": "2025-09-11T23:08:37+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Störung im Gasnetz - Hardegsen, Moringen und Nörten-Hardenberg",
-      "en": "Gas supply outage",
-      "ar": "انقطاع إمدادات الغاز",
-      "es": "Interrupción del suministro de gas",
-      "fr": "Coupure de gaz",
-      "pl": "Awaria zasilania gazem",
-      "ru": "Отказ системы газоснабжения",
-      "tr": "Gaz beslemesi arızası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-003"
-    }
-  },
-  {
     "id": "mow.DE-NW-BO-SE077-20250911-77-003",
     "version": 7,
     "startDate": "2025-09-11T18:17:47+02:00",
