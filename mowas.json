@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-DI-W104-20250912-000",
-    "version": 7,
-    "startDate": "2025-09-12T19:15:26+02:00",
-    "expiresDate": "2025-09-13T01:15:26+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Defekt an der Trinkwassergewinnung  - Mühltal -Nieder-Beerbach",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-GM-SE088-20250912-88-001",
     "version": 7,
     "startDate": "2025-09-12T21:23:08+02:00",
@@ -226,6 +204,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20250912-33-000",
+    "version": 7,
+    "startDate": "2025-09-13T01:43:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Hamburg-22525,",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
