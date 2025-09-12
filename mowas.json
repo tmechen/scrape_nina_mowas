@@ -182,28 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20250911-001",
-    "version": 7,
-    "startDate": "2025-09-12T00:02:56+02:00",
-    "expiresDate": "2025-09-12T06:02:55+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung aufgrund eines Brandes in Augsburg-Innenstadt - Augsburg-Innenstadt",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20250912-143-000",
     "version": 7,
     "startDate": "2025-09-12T03:47:06+02:00",
