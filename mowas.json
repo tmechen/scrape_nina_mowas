@@ -140,27 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20250913-82-000",
-    "version": 7,
-    "startDate": "2025-09-13T18:26:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand in / Paulinenaue - 14641 Paulinenaue",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20250913-003",
     "version": 7,
     "startDate": "2025-09-13T20:44:01+02:00",
@@ -201,6 +180,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-075"
+    }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20250913-82-001",
+    "version": 7,
+    "startDate": "2025-09-14T01:26:12+02:00",
+    "expiresDate": "2025-09-14T07:26:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand in / Paulinenaue - 14641 Paulinenaue",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
