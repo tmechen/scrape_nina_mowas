@@ -140,27 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LU-SE005-20250913-5-001",
-    "version": 7,
-    "startDate": "2025-09-13T06:46:10+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Warnung Großbrand - Stadt Ludwigshafen am Rhein",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-ST-SK-W070-20250913-000",
     "version": 7,
     "startDate": "2025-09-13T08:13:25+02:00",
@@ -222,6 +201,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LU-SE005-20250913-5-002",
+    "version": 7,
+    "startDate": "2025-09-13T13:31:10+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Warnung Großbrand - Stadt Ludwigshafen am Rhein",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
