@@ -161,12 +161,12 @@
     }
   },
   {
-    "id": "mow.DE-RP-LU-SE005-20250913-5-000",
+    "id": "mow.DE-RP-LU-SE005-20250913-5-001",
     "version": 7,
-    "startDate": "2025-09-13T05:29:00+02:00",
+    "startDate": "2025-09-13T06:46:10+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Warnung Großbrand - Stadt Ludwigshafen am Rhein",
       "en": "Conflagration",
