@@ -205,14 +205,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-WES-SE097-20250914-97-000",
+    "id": "mow.DE-NW-WES-SE097-20250914-97-001",
     "version": 7,
-    "startDate": "2025-09-14T10:55:14+02:00",
+    "startDate": "2025-09-14T11:36:16+02:00",
+    "expiresDate": "2025-09-14T17:36:15+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Stromversorgung in Sonsbeck - Sonsbeck",
+      "de": "Entwarnung: Ausfall Stromversorgung in Sonsbeck - Sonsbeck",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
