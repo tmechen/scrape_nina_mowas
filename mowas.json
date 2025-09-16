@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20250916-50-001",
-    "version": 7,
-    "startDate": "2025-09-16T14:02:04+02:00",
-    "expiresDate": "2025-09-16T20:02:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand Solarium, starke Rauchentwicklung - Pfedelbach, Brunnenfeldstraße",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SN-Z-SE122-20250916-154-001",
     "version": 7,
     "startDate": "2025-09-16T16:12:44+02:00",
