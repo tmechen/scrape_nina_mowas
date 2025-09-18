@@ -159,5 +159,26 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-BY-CO-W141-20250918-000",
+    "version": 7,
+    "startDate": "2025-09-18T14:03:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abkochanordnung für Horsdorf  - Bad Staffelstein - OT Horsdorf",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
