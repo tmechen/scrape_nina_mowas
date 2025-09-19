@@ -185,14 +185,15 @@
     }
   },
   {
-    "id": "mow.DE-SN-L-W093-20250919-001",
+    "id": "mow.DE-SN-L-W093-20250919-002",
     "version": 7,
-    "startDate": "2025-09-19T18:57:04+02:00",
+    "startDate": "2025-09-19T20:12:03+02:00",
+    "expiresDate": "2025-09-20T02:12:03+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Brand - Groitzsch",
+      "de": "Entwarnung: Rauchentwicklung durch Brand - Groitzsch",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
