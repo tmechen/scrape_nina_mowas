@@ -119,14 +119,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20250921-18-000",
+    "id": "mow.DE-BW-S-SE018-20250921-18-001",
     "version": 7,
-    "startDate": "2025-09-21T18:54:44+02:00",
+    "startDate": "2025-09-21T20:46:08+02:00",
+    "expiresDate": "2025-09-22T02:46:08+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung durch einen Brand - Gemeinde Bisingen und alle Ortsteile",
+      "de": "Entwarnung: Geruchsbelästigung durch einen Brand - Gemeinde Bisingen und alle Ortsteile",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
