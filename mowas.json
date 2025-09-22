@@ -77,27 +77,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20250917-106-000",
-    "version": 7,
-    "startDate": "2025-09-17T11:05:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauch und Geruchsbelästigung nach Brand - Löhnberg, B49",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-CO-W141-20250918-000",
     "version": 7,
     "startDate": "2025-09-18T14:03:00+02:00",
@@ -160,6 +139,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20250922-106-000",
+    "version": 7,
+    "startDate": "2025-09-22T11:42:58+02:00",
+    "expiresDate": "2025-09-22T17:42:58+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauch und Geruchsbelästigung nach Brand - Löhnberg, B49",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
