@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20250923-57-001",
-    "version": 7,
-    "startDate": "2025-09-23T18:21:52+02:00",
-    "expiresDate": "2025-09-24T00:21:51+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einem chemischen Schadensereignis - Troisdorf",
-      "en": "Dangerous goods accident",
-      "ar": "حادث مواد خطرة",
-      "es": "Accidente imputable a mercancías peligrosas",
-      "fr": "Accident impliquant des substances dangereuses",
-      "pl": "Wypadek z materiałami niebezpiecznymi",
-      "ru": "Авария при перевозке опасных грузов",
-      "tr": "Tehlikeli madde kazası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-029"
-    }
-  },
-  {
     "id": "mow.DE-NW-DU-SE038-20250923-38-001",
     "version": 7,
     "startDate": "2025-09-23T23:02:24+02:00",
