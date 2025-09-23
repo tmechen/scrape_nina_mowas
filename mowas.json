@@ -184,14 +184,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20250923-57-000",
+    "id": "mow.DE-NW-SU-SE057-20250923-57-001",
     "version": 7,
-    "startDate": "2025-09-23T17:15:51+02:00",
+    "startDate": "2025-09-23T18:21:52+02:00",
+    "expiresDate": "2025-09-24T00:21:51+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Warnung vor einem chemischen Schadensereignis - Troisdorf",
+      "de": "Entwarnung: Warnung vor einem chemischen Schadensereignis - Troisdorf",
       "en": "Dangerous goods accident",
       "ar": "حادث مواد خطرة",
       "es": "Accidente imputable a mercancías peligrosas",
