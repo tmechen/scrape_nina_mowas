@@ -120,27 +120,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20250923-35-000",
-    "version": 7,
-    "startDate": "2025-09-23T15:29:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand mit starker Rauchentwicklung - Landeshauptstadt Saarbrücken - Stadtteil Alt-Saarbrücken",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20250923-105-000",
     "version": 7,
     "startDate": "2025-09-23T15:33:32+02:00",
@@ -159,6 +138,70 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20250923-35-001",
+    "version": 7,
+    "startDate": "2025-09-23T16:56:25+02:00",
+    "expiresDate": "2025-09-23T22:56:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand mit starker Rauchentwicklung - Landeshauptstadt Saarbrücken - Stadtteil Alt-Saarbrücken",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DU-SE038-20250923-38-000",
+    "version": 7,
+    "startDate": "2025-09-23T17:08:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Wichtige Information der Stadt Duisburg (Kampfmittelfund) - Duisburg - Kaßlerfeld",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SU-SE057-20250923-57-000",
+    "version": 7,
+    "startDate": "2025-09-23T17:15:51+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor einem chemischen Schadensereignis - Troisdorf",
+      "en": "Dangerous goods accident",
+      "ar": "حادث مواد خطرة",
+      "es": "Accidente imputable a mercancías peligrosas",
+      "fr": "Accident impliquant des substances dangereuses",
+      "pl": "Wypadek z materiałami niebezpiecznymi",
+      "ru": "Авария при перевозке опасных грузов",
+      "tr": "Tehlikeli madde kazası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-029"
     }
   }
 ]
