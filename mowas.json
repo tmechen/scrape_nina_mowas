@@ -183,5 +183,89 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20250924-28-000",
+    "version": 7,
+    "startDate": "2025-09-24T15:51:43+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Hochdonn",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-CO-W141-20250924-000",
+    "version": 7,
+    "startDate": "2025-09-24T16:00:58+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchwolke durch Großbrand in einer Firma - Neuses b. Kronach und Küps",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20250924-18-000",
+    "version": 7,
+    "startDate": "2025-09-24T16:09:46+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Freisetzung einer Rauchwolke durch Brand - Hagsfeld und Waldstadt",
+      "en": "Risk of fire",
+      "ar": "خطر الحريق",
+      "es": "Peligro de incendio",
+      "fr": "Risque d'incendie",
+      "pl": "Niebezpieczeństwo pożaru",
+      "ru": "Опасность возникновения пожара",
+      "tr": "Yangın tehlikesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-011"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20250924-29-002",
+    "version": 7,
+    "startDate": "2025-09-24T16:11:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuer in einer Lagerhalle - Gyhum und Wehldorf",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
