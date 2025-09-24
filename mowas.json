@@ -98,27 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20250923-105-000",
-    "version": 7,
-    "startDate": "2025-09-23T15:33:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall der Notrufleitung 112 (Festnetz) - Vorwahlbereich 04104 und Teilbereiche 040",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-DU-SE038-20250923-38-001",
     "version": 7,
     "startDate": "2025-09-23T23:02:24+02:00",
@@ -138,6 +117,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20250923-105-001",
+    "version": 7,
+    "startDate": "2025-09-24T01:57:58+02:00",
+    "expiresDate": "2025-09-24T07:57:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall der Notrufleitung 112 (Festnetz) - Vorwahlbereich 04104 und Teilbereiche 040",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
