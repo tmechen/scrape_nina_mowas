@@ -35,27 +35,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SLS-W038-20250821-000",
-    "version": 7,
-    "startDate": "2025-08-21T15:31:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "2. Aktualisierung! - Beeinträchtigung des Trinkwassers - Abkochgebot aufgehoben! - Biringen, Fürweiler, Gerlfangen, und Oberesch der Gde. Rehlingen-Siersburg",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-HE-ERB-W191-20250914-000",
     "version": 7,
     "startDate": "2025-09-14T12:19:19+02:00",
@@ -138,6 +117,48 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SLS-W038-20250925-000",
+    "version": 8,
+    "startDate": "2025-09-25T14:08:04+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "3. Aktualisierung! - Beeinträchtigung des Trinkwassers - Chlorungsmaßnahmen - Biringen, Fürweiler, Gerlfangen, und Oberesch der Gde. Rehlingen-Siersburg",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20250925-35-000",
+    "version": 8,
+    "startDate": "2025-09-25T14:10:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "3. Aktualisierung! - Beeinträchtigung des Trinkwassers - Chlorungsmaßnahmen - Biringen, Fürweiler, Gerlfangen, und Oberesch der Gde. Rehlingen-Siersburg",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
