@@ -98,14 +98,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-KL-SE112-20250924-112-000",
+    "id": "mow.DE-RP-KL-SE112-20250925-112-000",
     "version": 7,
-    "startDate": "2025-09-24T11:38:11+02:00",
+    "startDate": "2025-09-25T08:43:50+02:00",
+    "expiresDate": "2025-09-25T14:43:49+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "2-Jähriges Hochwasser / Dauerregen - VG Winnweiler",
+      "de": "Entwarnung: 2-Jähriges Hochwasser / Dauerregen - VG Winnweiler",
       "en": "Flooding",
       "ar": "فيضان",
       "es": "Inundación",
