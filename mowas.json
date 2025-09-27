@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE049-20250927-49-000",
-    "version": 9,
-    "startDate": "2025-09-27T06:35:54+02:00",
-    "expiresDate": "2025-09-27T12:35:54+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brand - Plau am See, Klebe, Hof Lalchow, Kollonie Lalchow",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-HO-W142-20250927-000",
     "version": 9,
     "startDate": "2025-09-27T08:30:09+02:00",
@@ -183,14 +161,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20250927-000",
+    "id": "mow.DE-BY-A-W083-20250927-001",
     "version": 9,
-    "startDate": "2025-09-27T09:15:44+02:00",
+    "startDate": "2025-09-27T12:39:30+02:00",
+    "expiresDate": "2025-09-27T18:39:30+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Katastrophenschutzübung - Stadt Wertingen",
+      "de": "Entwarnung: Katastrophenschutzübung - Stadt Wertingen",
       "en": "Test alert",
       "ar": "تحذير تجريبي",
       "es": "Advertencia de prueba",
