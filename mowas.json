@@ -119,27 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-HO-W142-20250927-000",
-    "version": 9,
-    "startDate": "2025-09-27T08:30:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Waldbrand-Übung am 27.09.2025 im Bereich - Selb – Aš – Libá",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-BY-A-W083-20250927-001",
     "version": 9,
     "startDate": "2025-09-27T12:39:30+02:00",
@@ -181,6 +160,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20250927-33-000",
+    "version": 9,
+    "startDate": "2025-09-27T15:51:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "250 kg-Bombe gefunden - Hamburg-Moorburg",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BY-HO-W142-20250927-001",
+    "version": 9,
+    "startDate": "2025-09-27T16:08:32+02:00",
+    "expiresDate": "2025-09-27T22:08:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Waldbrand-Übung am 27.09.2025 im Bereich - Selb – Aš – Libá",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
