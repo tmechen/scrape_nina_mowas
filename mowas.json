@@ -161,14 +161,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-FB-W193-20250929-000",
+    "id": "mow.DE-HE-FB-W193-20250929-001",
     "version": 9,
-    "startDate": "2025-09-29T14:18:27+02:00",
+    "startDate": "2025-09-29T15:03:58+02:00",
+    "expiresDate": "2025-09-29T21:03:58+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenentests im Zuge von Neuinstallationen - Butzbach-Kernstadt",
+      "de": "Entwarnung: Sirenentests im Zuge von Neuinstallationen - Butzbach-Kernstadt",
       "en": "Siren test",
       "ar": "تجربة صفارة الإنذار",
       "es": "Prueba de sirena",
@@ -179,6 +180,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20250929-99-004",
+    "version": 9,
+    "startDate": "2025-09-29T15:07:45+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahreninformation Feuerwehreinsatz - Schellhorn",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
