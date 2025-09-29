@@ -119,27 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-NB-W076-20250929-000",
-    "version": 9,
-    "startDate": "2025-09-29T13:27:03+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Dachstuhlbrand - Neustrelitz G.- Hauptmannstr.",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-KE-W173-20250929-000",
     "version": 9,
     "startDate": "2025-09-29T13:58:25+02:00",
@@ -192,6 +171,28 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Schellhorn",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-MV-NB-W076-20250929-001",
+    "version": 9,
+    "startDate": "2025-09-29T17:23:02+02:00",
+    "expiresDate": "2025-09-29T23:23:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Dachstuhlbrand - Neustrelitz G.- Hauptmannstr.",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
