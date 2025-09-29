@@ -140,28 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-FB-W193-20250929-001",
-    "version": 9,
-    "startDate": "2025-09-29T15:03:58+02:00",
-    "expiresDate": "2025-09-29T21:03:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenentests im Zuge von Neuinstallationen - Butzbach-Kernstadt",
-      "en": "Siren test",
-      "ar": "تجربة صفارة الإنذار",
-      "es": "Prueba de sirena",
-      "fr": "Test des sirènes",
-      "pl": "Test syren",
-      "ru": "Проверка средств оповещения",
-      "tr": "Siren testi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20250929-99-005",
     "version": 9,
     "startDate": "2025-09-29T15:58:03+02:00",
