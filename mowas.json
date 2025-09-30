@@ -180,5 +180,26 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20250930-28-000",
+    "version": 9,
+    "startDate": "2025-09-30T05:44:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Meldorf",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
