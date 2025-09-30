@@ -161,14 +161,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20250930-28-000",
+    "id": "mow.DE-SH-FL-SE100-20250930-100-001",
     "version": 9,
-    "startDate": "2025-09-30T05:44:38+02:00",
+    "startDate": "2025-09-30T07:10:03+02:00",
+    "expiresDate": "2025-09-30T13:10:02+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Meldorf",
+      "de": "Entwarnung: Brandgase bei Gebäudebrand - Risum- Lindholm",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -182,15 +183,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20250930-100-001",
+    "id": "mow.DE-SH-EH-SE028-20250930-28-001",
     "version": 9,
-    "startDate": "2025-09-30T07:10:03+02:00",
-    "expiresDate": "2025-09-30T13:10:02+02:00",
+    "startDate": "2025-09-30T07:52:05+02:00",
+    "expiresDate": "2025-09-30T13:52:04+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Brandgase bei Gebäudebrand - Risum- Lindholm",
+      "de": "Entwarnung: Feuerwehreinsatz - Meldorf",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
