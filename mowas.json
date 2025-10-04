@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KE-W173-20251004-001",
-    "version": 9,
-    "startDate": "2025-10-04T12:27:08+02:00",
-    "expiresDate": "2025-10-04T18:27:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz Brand - Bidingen, sowie Ortsteil Bernbach",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20251004-12-000",
     "version": 9,
     "startDate": "2025-10-04T17:57:16+02:00",
