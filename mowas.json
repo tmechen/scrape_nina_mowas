@@ -119,27 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20251004-99-001",
-    "version": 9,
-    "startDate": "2025-10-04T04:52:52+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Gefahreninformation Feuerwehreinsatz - Barkelsby",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-AP-W115-20251004-001",
     "version": 9,
     "startDate": "2025-10-04T10:07:17+02:00",
@@ -180,6 +159,72 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20251004-99-002",
+    "version": 9,
+    "startDate": "2025-10-04T11:02:32+02:00",
+    "expiresDate": "2025-10-04T17:02:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Barkelsby",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20251004-18-001",
+    "version": 9,
+    "startDate": "2025-10-04T11:06:38+02:00",
+    "expiresDate": "2025-10-04T17:06:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenen-Probealarm - Durmersheim, Elchesheim-Illingen, Au am Rhein",
+      "en": "Siren test",
+      "ar": "تجربة صفارة الإنذار",
+      "es": "Prueba de sirena",
+      "fr": "Test des sirènes",
+      "pl": "Test syren",
+      "ru": "Проверка средств оповещения",
+      "tr": "Siren testi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-TH-UH-W116-20251004-001",
+    "version": 9,
+    "startDate": "2025-10-04T11:07:31+02:00",
+    "expiresDate": "2025-10-04T17:07:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Funktionsüberprüfung der Sirenen und Funkmeldeempfänger im Unstrut-Hai - Unstrut-Hainich-Kreis",
+      "en": "Siren test",
+      "ar": "تجربة صفارة الإنذار",
+      "es": "Prueba de sirena",
+      "fr": "Test des sirènes",
+      "pl": "Test syren",
+      "ru": "Проверка средств оповещения",
+      "tr": "Siren testi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
     }
   }
 ]
