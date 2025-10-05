@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20251005-003",
-    "version": 9,
-    "startDate": "2025-10-05T14:36:28+02:00",
-    "expiresDate": "2025-10-05T20:36:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut - Wesergebiet",
-      "en": "Storm surge",
-      "ar": "فيضان جراء عاصفة",
-      "es": "Marejada",
-      "fr": "Onde de tempête",
-      "pl": "Powódź spowodowana sztormem",
-      "ru": "Штормовой нагон",
-      "tr": "Fırtına seli"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20251005-004",
     "version": 9,
     "startDate": "2025-10-05T16:53:50+02:00",
@@ -376,14 +354,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-UH-W116-20251005-001",
+    "id": "mow.DE-SH-OD-SE105-20251005-105-001",
     "version": 9,
-    "startDate": "2025-10-05T19:25:12+02:00",
-    "severity": "Minor",
+    "startDate": "2025-10-05T20:25:45+02:00",
+    "expiresDate": "2025-10-06T02:25:44+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Brandereignis  - Nägelstedt",
+      "de": "Entwarnung: Feuerwehreinsatz - Lauenburg",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -397,15 +376,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20251005-105-001",
+    "id": "mow.DE-TH-UH-W116-20251005-002",
     "version": 9,
-    "startDate": "2025-10-05T20:25:45+02:00",
-    "expiresDate": "2025-10-06T02:25:44+02:00",
-    "severity": "Severe",
+    "startDate": "2025-10-05T20:51:39+02:00",
+    "expiresDate": "2025-10-06T02:51:38+02:00",
+    "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Lauenburg",
+      "de": "Entwarnung: Rauchentwicklung durch Brandereignis  - Nägelstedt",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
