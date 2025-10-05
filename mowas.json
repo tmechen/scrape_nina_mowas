@@ -224,28 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-RO-W136-20251004-001",
-    "version": 9,
-    "startDate": "2025-10-05T01:27:01+02:00",
-    "expiresDate": "2025-10-05T07:27:01+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung Ortsbereich Nußdorf a. Inn - Nußdorf am Inn",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20251005-000",
     "version": 9,
     "startDate": "2025-10-05T04:17:46+02:00",
