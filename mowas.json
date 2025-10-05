@@ -119,27 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20251004-12-000",
-    "version": 9,
-    "startDate": "2025-10-04T17:57:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserunterbrechung - Gemeinde Buttstädt Ortsteile Großbrembach und Kleinbrembach",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20251005-33-000",
     "version": 9,
     "startDate": "2025-10-05T04:47:41+02:00",
@@ -268,6 +247,154 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20251005-006",
+    "version": 9,
+    "startDate": "2025-10-05T17:48:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor einer Sturmflut - Ostfriesische Küste",
+      "en": "Storm surge",
+      "ar": "فيضان جراء عاصفة",
+      "es": "Marejada",
+      "fr": "Onde de tempête",
+      "pl": "Powódź spowodowana sztormem",
+      "ru": "Штормовой нагон",
+      "tr": "Fırtına seli"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20251005-007",
+    "version": 9,
+    "startDate": "2025-10-05T17:54:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor einer Sturmflut - Wesergebiet",
+      "en": "Storm surge",
+      "ar": "فيضان جراء عاصفة",
+      "es": "Marejada",
+      "fr": "Onde de tempête",
+      "pl": "Powódź spowodowana sztormem",
+      "ru": "Штормовой нагон",
+      "tr": "Fırtına seli"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20251005-12-000",
+    "version": 9,
+    "startDate": "2025-10-05T17:55:38+02:00",
+    "expiresDate": "2025-10-05T23:55:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasserunterbrechung - Gemeinde Buttstädt Ortsteile Großbrembach und Kleinbrembach",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20251005-008",
+    "version": 9,
+    "startDate": "2025-10-05T17:58:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor einer Sturmflut - Nordfriesische Küste",
+      "en": "Storm surge",
+      "ar": "فيضان جراء عاصفة",
+      "es": "Marejada",
+      "fr": "Onde de tempête",
+      "pl": "Powódź spowodowana sztormem",
+      "ru": "Штормовой нагон",
+      "tr": "Fırtına seli"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20251005-009",
+    "version": 9,
+    "startDate": "2025-10-05T18:03:16+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor einer Sturmflut - Elbegebiet",
+      "en": "Storm surge",
+      "ar": "فيضان جراء عاصفة",
+      "es": "Marejada",
+      "fr": "Onde de tempête",
+      "pl": "Powódź spowodowana sztormem",
+      "ru": "Штормовой нагон",
+      "tr": "Fırtına seli"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20251005-010",
+    "version": 9,
+    "startDate": "2025-10-05T18:06:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+      "en": "Storm surge",
+      "ar": "فيضان جراء عاصفة",
+      "es": "Marejada",
+      "fr": "Onde de tempête",
+      "pl": "Powódź spowodowana sztormem",
+      "ru": "Штормовой нагон",
+      "tr": "Fırtına seli"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MK-SE095-20251005-95-000",
+    "version": 9,
+    "startDate": "2025-10-05T18:18:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Lüdenscheid - Lüdenscheid Innenstadt",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
