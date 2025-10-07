@@ -140,5 +140,26 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-BY-AB-SE139-20251007-171-000",
+    "version": 9,
+    "startDate": "2025-10-07T19:02:45+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Giftige Rauchwolke nach Ereignis in Mainaschaff - Mainaschaff und Aschaffenburg",
+      "en": "Chemical accident",
+      "ar": "حادث كيماوي",
+      "es": "Accidente químico",
+      "fr": "Accident chimique",
+      "pl": "Wypadek chemiczny",
+      "ru": "Химическая авария",
+      "tr": "Kimyasal kaza"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-012"
+    }
   }
 ]
