@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-AB-SE139-20251007-171-002",
-    "version": 9,
-    "startDate": "2025-10-07T22:35:03+02:00",
-    "expiresDate": "2025-10-08T04:35:03+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Giftige Rauchwolke nach Ereignis in Mainaschaff - Mainaschaff und Aschaffenburg",
-      "en": "Chemical accident",
-      "ar": "حادث كيماوي",
-      "es": "Accidente químico",
-      "fr": "Accident chimique",
-      "pl": "Wypadek chemiczny",
-      "ru": "Химическая авария",
-      "tr": "Kimyasal kaza"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-012"
-    }
-  },
-  {
     "id": "mow.DE-BW-UL-W281-20251007-000",
     "version": 9,
     "startDate": "2025-10-07T23:45:13+02:00",
