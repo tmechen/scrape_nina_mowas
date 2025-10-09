@@ -98,27 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-E-SE052-20251009-52-000",
-    "version": 9,
-    "startDate": "2025-10-09T08:44:36+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Essen - Essen",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20251009-106-003",
     "version": 9,
     "startDate": "2025-10-09T10:55:20+02:00",
@@ -185,14 +164,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20251009-84-000",
+    "id": "mow.DE-NW-E-SE052-20251009-52-001",
     "version": 9,
-    "startDate": "2025-10-09T15:18:39+02:00",
+    "startDate": "2025-10-09T15:58:42+02:00",
+    "expiresDate": "2025-10-09T21:58:41+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Bombenentschärfung - Neuendettelsau",
+      "de": "Entwarnung: Kampfmittelfund in Essen - Essen",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
@@ -206,14 +186,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-GT-SE040-20251009-40-000",
+    "id": "mow.DE-NW-GT-SE040-20251009-40-001",
     "version": 9,
-    "startDate": "2025-10-09T15:45:38+02:00",
+    "startDate": "2025-10-09T16:07:03+02:00",
+    "expiresDate": "2025-10-09T22:07:02+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in Verl/Kaunitz - Stadt Verl",
+      "de": "Entwarnung: Rauchgase in Verl/Kaunitz - Stadt Verl",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -224,6 +205,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20251009-84-001",
+    "version": 9,
+    "startDate": "2025-10-09T16:07:04+02:00",
+    "expiresDate": "2025-10-09T22:07:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenentschärfung - Neuendettelsau",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
