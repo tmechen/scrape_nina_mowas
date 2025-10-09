@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-UL-W281-20251008-000",
-    "version": 9,
-    "startDate": "2025-10-08T20:18:05+02:00",
-    "expiresDate": "2025-10-09T02:18:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gegebenenfalls mikrobiologische Verunreinigung des Trinkwassers - Gemeinde Amstetten Wohngebiete \"Auf dem Aurain\" und \"Wasserfall\"",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-SN-C-W092-20251008-001",
     "version": 9,
     "startDate": "2025-10-09T01:18:58+02:00",
@@ -160,6 +138,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MI-SE073-20251009-73-000",
+    "version": 9,
+    "startDate": "2025-10-09T02:54:55+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Hille - Holzhausen 2 - Hille - Holzhausen 2 und angrenzende Orte",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
