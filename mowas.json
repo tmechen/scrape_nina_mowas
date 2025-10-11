@@ -161,50 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20251011-001",
-    "version": 9,
-    "startDate": "2025-10-11T12:13:51+02:00",
-    "expiresDate": "2025-10-11T18:13:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Katastrophenschutzvollübung im Landkreis Neu-Ulm - Raum Senden",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-HE-DI-W104-20251011-001",
-    "version": 9,
-    "startDate": "2025-10-11T12:27:07+02:00",
-    "expiresDate": "2025-10-11T18:27:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: ÜBUNGSENDE --- Waldbrandübung im Bereich Modautal-Lützelbach - Modautal",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-NW-DN-SE054-20251011-54-001",
     "version": 9,
     "startDate": "2025-10-11T15:18:58+02:00",
