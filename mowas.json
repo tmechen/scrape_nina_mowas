@@ -140,28 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20251012-28-000",
-    "version": 9,
-    "startDate": "2025-10-12T02:38:59+02:00",
-    "expiresDate": "2025-10-12T08:38:59+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Brunsbüttel",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-GOE-W264-20251012-000",
     "version": 9,
     "startDate": "2025-10-12T06:53:49+02:00",
