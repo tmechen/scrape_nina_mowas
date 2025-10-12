@@ -140,36 +140,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-LIP-SE041-20251011-41-002",
+    "id": "mow.DE-SH-EH-SE028-20251012-28-000",
     "version": 9,
-    "startDate": "2025-10-11T19:33:17+02:00",
-    "expiresDate": "2025-10-12T01:33:17+02:00",
+    "startDate": "2025-10-12T02:38:59+02:00",
+    "expiresDate": "2025-10-12T08:38:59+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Verunreinigung nach Großbrand in Humfeld - Dörentrup",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20251011-28-000",
-    "version": 9,
-    "startDate": "2025-10-12T00:11:19+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Brunsbüttel",
+      "de": "Entwarnung: Feuerwehreinsatz - Brunsbüttel",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
