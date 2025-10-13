@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-DH-W233-20251013-001",
-    "version": 9,
-    "startDate": "2025-10-13T10:38:45+02:00",
-    "expiresDate": "2025-10-13T16:38:45+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahrstoffaustritt - Barnstorf",
-      "en": "Chemical hazard",
-      "ar": "خطر كيماوي",
-      "es": "Peligro químico",
-      "fr": "Risque chimique",
-      "pl": "Zagrożenie chemiczne",
-      "ru": "Химическая опасность",
-      "tr": "Kimyasal tehlike"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-014"
-    }
-  },
-  {
     "id": "mow.DE-BY-WUE-W164-20251013-000",
     "version": 9,
     "startDate": "2025-10-13T16:16:29+02:00",
@@ -159,6 +137,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-NI-BS-SE129-20251013-157-000",
+    "version": 9,
+    "startDate": "2025-10-13T16:59:43+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchwolke durch Brand eines Einfamilienhauses - Groß Gleidingen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
