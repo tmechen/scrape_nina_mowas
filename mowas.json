@@ -183,14 +183,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20251015-001",
+    "id": "mow.DE-HE-HG-W103-20251015-002",
     "version": 9,
-    "startDate": "2025-10-15T15:48:25+02:00",
+    "startDate": "2025-10-15T17:02:29+02:00",
+    "expiresDate": "2025-10-15T23:02:28+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall - Kronberg, Steinbach, Oberursel-Stierstadt",
+      "de": "Entwarnung: Stromausfall - Kronberg, Steinbach, Oberursel-Stierstadt",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
