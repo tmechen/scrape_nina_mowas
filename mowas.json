@@ -140,14 +140,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20251018-129-000",
+    "id": "mow.DE-NI-STD-SE029-20251019-29-000",
     "version": 9,
-    "startDate": "2025-10-19T01:07:22+02:00",
+    "startDate": "2025-10-19T04:23:11+02:00",
+    "expiresDate": "2025-10-19T10:23:11+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand - Starke Rauchentwicklung - Oker, Harlingerode, Bündheim, Schlewecke, Göttingerode",
+      "de": "Entwarnung: Großbrand - Starke Rauchentwicklung - Oker, Harlingerode, Bündheim, Schlewecke, Göttingerode",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
