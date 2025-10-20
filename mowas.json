@@ -161,14 +161,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20251020-18-000",
+    "id": "mow.DE-BY-A-W083-20251020-000",
     "version": 9,
-    "startDate": "2025-10-20T12:19:47+02:00",
-    "severity": "Severe",
+    "startDate": "2025-10-20T12:40:04+02:00",
+    "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand einer Lagerhalle - Gemeinde Sontheim / Brenz, Gemeinde Bächingen",
+      "de": "Rauchentwicklung durch Großbrand einer Lagerhalle - Sontheim, Bächingen, Medlingen, Gundelfingen",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
@@ -182,14 +182,14 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20251020-000",
+    "id": "mow.DE-BW-S-SE018-20251020-18-001",
     "version": 9,
-    "startDate": "2025-10-20T12:40:04+02:00",
-    "severity": "Minor",
+    "startDate": "2025-10-20T13:33:06+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Großbrand einer Lagerhalle - Sontheim, Bächingen, Medlingen, Gundelfingen",
+      "de": "Starke Rauchentwicklung durch Großbrand einer Lagerhalle - Gemeinde Sontheim / Brenz, Gemeinde Bächingen",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
