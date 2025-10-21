@@ -182,55 +182,12 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20251021-100-001",
-    "version": 9,
-    "startDate": "2025-10-21T07:16:06+02:00",
-    "expiresDate": "2025-10-21T13:16:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gebäudebrand  - Ladelund",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20251021-106-001",
     "version": 9,
     "startDate": "2025-10-21T07:48:22+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
     "type": "Update",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Rauchgase - Waldbrunn - Hausen",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-RP-WW-SE116-20251021-123-000",
-    "version": 9,
-    "startDate": "2025-10-21T07:55:56+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
     "i18nTitle": {
       "de": "Geruchsbelästigung durch Rauchgase - Waldbrunn - Hausen",
       "en": "Odour nuisance",
@@ -330,6 +287,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-006"
+    }
+  },
+  {
+    "id": "mow.DE-BW-HN-W282-20251021-000",
+    "version": 9,
+    "startDate": "2025-10-21T13:23:23+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand im Landkreis Heilbronn - Schwaigern-Stetten",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-RP-WW-SE116-20251021-123-001",
+    "version": 9,
+    "startDate": "2025-10-21T13:27:59+02:00",
+    "expiresDate": "2025-10-21T19:27:58+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Rauchgase - Waldbrunn - Hausen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
