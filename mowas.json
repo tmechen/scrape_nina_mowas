@@ -161,27 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20251021-106-001",
-    "version": 9,
-    "startDate": "2025-10-21T07:48:22+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Rauchgase - Waldbrunn - Hausen",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BB-EW-SE079-20251021-79-001",
     "version": 9,
     "startDate": "2025-10-21T09:35:10+02:00",
@@ -203,28 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-HN-W282-20251021-001",
-    "version": 9,
-    "startDate": "2025-10-21T14:26:33+02:00",
-    "expiresDate": "2025-10-21T20:26:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand im Landkreis Heilbronn - Schwaigern-Stetten",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20251021-001",
     "version": 9,
     "startDate": "2025-10-21T15:12:05+02:00",
@@ -243,6 +200,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20251021-106-002",
+    "version": 9,
+    "startDate": "2025-10-21T20:42:35+02:00",
+    "expiresDate": "2025-10-22T02:42:35+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Rauchgase - Waldbrunn - Hausen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
