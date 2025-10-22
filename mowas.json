@@ -182,28 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-SLK-W069-20251022-000",
-    "version": 9,
-    "startDate": "2025-10-22T08:01:27+02:00",
-    "expiresDate": "2025-10-22T14:01:26+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Großbrand  - Egeln",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-FR-W022-20251022-001",
     "version": 9,
     "startDate": "2025-10-22T12:22:23+02:00",
