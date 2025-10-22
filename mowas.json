@@ -140,27 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-SLK-W069-20251020-000",
-    "version": 9,
-    "startDate": "2025-10-20T14:48:37+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Großbrand  - Egeln",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BB-EW-SE079-20251021-79-001",
     "version": 9,
     "startDate": "2025-10-21T09:35:10+02:00",
@@ -200,6 +179,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-ST-SLK-W069-20251022-000",
+    "version": 9,
+    "startDate": "2025-10-22T08:01:27+02:00",
+    "expiresDate": "2025-10-22T14:01:26+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Großbrand  - Egeln",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
