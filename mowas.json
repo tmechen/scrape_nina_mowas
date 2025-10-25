@@ -266,28 +266,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20251025-001",
-    "version": 9,
-    "startDate": "2025-10-25T11:20:16+02:00",
-    "expiresDate": "2025-10-25T17:20:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm zum Test der Warneinrichtungen - Malsch",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-TH-MNG-W107-20251025-001",
     "version": 9,
     "startDate": "2025-10-25T11:36:49+02:00",
