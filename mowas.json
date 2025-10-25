@@ -224,28 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-DA-W184-20251025-002",
-    "version": 9,
-    "startDate": "2025-10-25T18:07:43+02:00",
-    "expiresDate": "2025-10-26T00:07:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Katastrophenschutzübung der Feuerwehr Darmstadt - Stadtgebiet der Stadt Darmstadt",
-      "en": "Major event",
-      "ar": "فعالية كبيرة",
-      "es": "Evento multitudinario",
-      "fr": "Événement de grande ampleur",
-      "pl": "Impreza masowa",
-      "ru": "Массовое мероприятие",
-      "tr": "Büyük etkinlik"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-035"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20251025-105-001",
     "version": 9,
     "startDate": "2025-10-25T18:40:22+02:00",
@@ -311,14 +289,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-UN-SE068-20251025-68-000",
+    "id": "mow.DE-NW-UN-SE068-20251025-68-001",
     "version": 9,
-    "startDate": "2025-10-25T22:05:39+02:00",
+    "startDate": "2025-10-26T00:43:34+02:00",
+    "expiresDate": "2025-10-26T05:43:34+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall in der Gemeinde Bönen - Gemeeinde Bönen",
+      "de": "Entwarnung: Stromausfall in der Gemeinde Bönen - Gemeeinde Bönen",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
