@@ -182,28 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20251026-007",
-    "version": 9,
-    "startDate": "2025-10-26T17:11:31+01:00",
-    "expiresDate": "2025-10-26T23:11:30+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut - Nordfriesische Küste",
-      "en": "Storm surge",
-      "ar": "فيضان جراء عاصفة",
-      "es": "Marejada",
-      "fr": "Onde de tempête",
-      "pl": "Powódź spowodowana sztormem",
-      "ru": "Штормовой нагон",
-      "tr": "Fırtına seli"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20251026-008",
     "version": 9,
     "startDate": "2025-10-26T19:03:46+01:00",
