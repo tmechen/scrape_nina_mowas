@@ -225,14 +225,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-HAM-SE085-20251029-85-000",
+    "id": "mow.DE-NW-HAM-SE085-20251029-85-001",
     "version": 10,
-    "startDate": "2025-10-29T17:31:07+01:00",
+    "startDate": "2025-10-29T17:54:57+01:00",
+    "expiresDate": "2025-10-29T23:54:56+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung in Hamm - Hamm-Bockum",
+      "de": "Entwarnung: Geruchsbelästigung in Hamm - Hamm-Bockum",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -246,14 +247,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-FR-W022-20251029-000",
+    "id": "mow.DE-BW-FR-W022-20251029-001",
     "version": 10,
-    "startDate": "2025-10-29T17:50:27+01:00",
+    "startDate": "2025-10-29T18:09:31+01:00",
+    "expiresDate": "2025-10-30T00:09:31+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall in Teilen von Freiburg - Freiburg im Breisgau",
+      "de": "Entwarnung: Stromausfall in Teilen von Freiburg - Freiburg im Breisgau",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
