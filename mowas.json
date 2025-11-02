@@ -266,28 +266,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20251102-29-001",
-    "version": 10,
-    "startDate": "2025-11-02T10:32:49+01:00",
-    "expiresDate": "2025-11-02T16:32:48+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Benthullen",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HE-WI-W097-20251102-000",
     "version": 10,
     "startDate": "2025-11-02T11:47:00+01:00",
