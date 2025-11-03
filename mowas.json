@@ -267,27 +267,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20251103-000",
-    "version": 10,
-    "startDate": "2025-11-03T14:10:22+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gasaustritt nach Baggerarbeiten - Schlettwein",
-      "en": "Gas leak",
-      "ar": "تسرب غاز",
-      "es": "Escape de gas",
-      "fr": "Fuite de gaz",
-      "pl": "Wyciek gazu",
-      "ru": "Утечка газа",
-      "tr": "Gaz kaçağı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-BY-N-SE137-20251103-166-000",
     "version": 10,
     "startDate": "2025-11-03T15:09:45+01:00",
@@ -307,6 +286,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20251103-001",
+    "version": 10,
+    "startDate": "2025-11-03T15:40:12+01:00",
+    "expiresDate": "2025-11-03T21:40:12+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gasaustritt nach Baggerarbeiten - Schlettwein",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
     }
   }
 ]
