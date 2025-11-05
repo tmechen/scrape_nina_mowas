@@ -245,25 +245,24 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20251104-100-001",
+    "id": "mow.DE-TH-EF-SE012-20251105-12-000",
     "version": 10,
-    "startDate": "2025-11-04T20:10:08+01:00",
-    "expiresDate": "2025-11-05T02:10:08+01:00",
+    "startDate": "2025-11-05T01:20:26+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Gebäudebrand - Nübel",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
+      "de": "Großbrand in der Gemeinde Königsee - Königsee",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
     },
     "transKeys": {
-      "event": "BBK-EVC-010"
+      "event": "BBK-EVC-034"
     }
   }
 ]
