@@ -266,28 +266,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20251107-121-001",
-    "version": 10,
-    "startDate": "2025-11-07T08:21:04+01:00",
-    "expiresDate": "2025-11-07T14:21:03+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Industriebrand bei Recyclingunternehmen in Edenkoben - Edenkoben, Edesheim, Venningen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SN-C-W206-20251107-003",
     "version": 10,
     "startDate": "2025-11-07T12:42:16+01:00",
