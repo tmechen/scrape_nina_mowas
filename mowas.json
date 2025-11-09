@@ -266,48 +266,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20251108-129-000",
-    "version": 10,
-    "startDate": "2025-11-08T15:01:21+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ankündigung Bombenräumung 09. November 2025 - Stadt Osnabrück - Diverse Stadtteile",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029B-20251109-129-000",
-    "version": 10,
-    "startDate": "2025-11-09T05:59:47+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bombenräumung 09. November 2025 - Stadt Osnabrück - Diverse Stadtteile",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-VIE-SE074-20251109-74-001",
     "version": 10,
     "startDate": "2025-11-09T17:14:09+01:00",
@@ -327,6 +285,50 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20251109-29-000",
+    "version": 10,
+    "startDate": "2025-11-09T22:49:52+01:00",
+    "expiresDate": "2025-11-10T04:49:51+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenräumung 09. November 2025 - Stadt Osnabrück - Diverse Stadtteile",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20251109-29-001",
+    "version": 10,
+    "startDate": "2025-11-09T23:16:24+01:00",
+    "expiresDate": "2025-11-10T05:16:24+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ankündigung Bombenräumung 09. November 2025 - Stadt Osnabrück - Diverse Stadtteile",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
