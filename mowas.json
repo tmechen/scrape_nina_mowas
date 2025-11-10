@@ -203,27 +203,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-FFB-W143-20251105-000",
-    "version": 10,
-    "startDate": "2025-11-05T17:54:29+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Update - Trinkwasserverunreinigung im Versorgungsgebiet der Stadtwerke Dachau - Stadt Dachau, Bergkirchen, Karlsfeld",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20251106-99-000",
     "version": 10,
     "startDate": "2025-11-06T15:21:12+01:00",
@@ -253,6 +232,28 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Verdacht auf Trinkwasserverunreinigung - Stutensee 76297, Bruchsal-Büchenau 76646",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-FFB-W143-20251110-000",
+    "version": 10,
+    "startDate": "2025-11-10T11:23:07+01:00",
+    "expiresDate": "2025-11-10T17:23:06+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Update - Trinkwasserverunreinigung im Versorgungsgebiet der Stadtwerke - Stadt Dachau, Bergkirchen, Karlsfeld",
       "en": "Contaminated drinking water",
       "ar": "تلوث مياه الشرب",
       "es": "Contaminación de agua potable",
