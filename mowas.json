@@ -267,27 +267,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-NE-SE044-20251110-44-000",
-    "version": 10,
-    "startDate": "2025-11-10T17:31:17+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase durch Brandereignis - Rommerskirchen Sinsteden Richtung Grevenbroich Allrath",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-DO-SE067-20251110-67-001",
     "version": 10,
     "startDate": "2025-11-10T19:16:44+01:00",
@@ -351,6 +330,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-NE-SE044-20251110-44-001",
+    "version": 10,
+    "startDate": "2025-11-10T21:14:18+01:00",
+    "expiresDate": "2025-11-11T03:14:18+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase durch Brandereignis - Rommerskirchen Sinsteden Richtung Grevenbroich Allrath",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
