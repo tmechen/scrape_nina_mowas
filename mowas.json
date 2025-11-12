@@ -224,28 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-RE-SE078-20251112-78-001",
-    "version": 10,
-    "startDate": "2025-11-12T16:28:03+01:00",
-    "expiresDate": "2025-11-12T22:28:02+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 1.2 Weltkriegsbombe - Stadt Datteln, Ortsteile Dümmer/ Meckinghoven",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-KR-SE075-20251112-75-001",
     "version": 10,
     "startDate": "2025-11-12T21:00:25+01:00",
