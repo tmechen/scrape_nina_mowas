@@ -224,14 +224,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20251112-106-000",
+    "id": "mow.DE-HE-KS-SE106-20251112-106-001",
     "version": 10,
-    "startDate": "2025-11-12T02:51:56+01:00",
+    "startDate": "2025-11-12T04:44:44+01:00",
+    "expiresDate": "2025-11-12T10:44:43+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung - Büttelborn",
+      "de": "Entwarnung: Geruchsbelästigung - Büttelborn",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
