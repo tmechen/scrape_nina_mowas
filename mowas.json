@@ -224,27 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-HO-W142-20251112-000",
-    "version": 10,
-    "startDate": "2025-11-12T09:09:13+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Zivilschutzsirenen Probealarm - Gemeindebereich Thiersheim, Gemeindebereich Hohenberg an der Eger",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20251112-35-001",
     "version": 10,
     "startDate": "2025-11-12T10:52:05+01:00",
@@ -285,6 +264,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BY-HO-W142-20251112-001",
+    "version": 10,
+    "startDate": "2025-11-12T15:33:48+01:00",
+    "expiresDate": "2025-11-12T21:33:48+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Zivilschutzsirenen Probealarm - Gemeindebereich Thiersheim, Gemeindebereich Hohenberg an der Eger",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
     }
   }
 ]
