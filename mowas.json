@@ -224,25 +224,25 @@
     }
   },
   {
-    "id": "mow.DE-NW-KR-SE075-20251112-75-001",
+    "id": "mow.DE-NW-OB-SE055-20251113-55-001",
     "version": 10,
-    "startDate": "2025-11-12T21:00:25+01:00",
-    "expiresDate": "2025-11-13T03:00:24+01:00",
+    "startDate": "2025-11-13T03:42:29+01:00",
+    "expiresDate": "2025-11-13T09:42:28+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Krefeld - Uerdingen im Bereich Bahnhofstrasse",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
+      "de": "Entwarnung: Brand mit starker Rauchentwicklung in Oberhausen - Holten - Oberhausen",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
     },
     "transKeys": {
-      "event": "BBK-EVC-030"
+      "event": "BBK-EVC-010"
     }
   }
 ]
