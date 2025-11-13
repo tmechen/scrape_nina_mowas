@@ -267,14 +267,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-DN-SE054-20251113-54-000",
+    "id": "mow.DE-NW-DN-SE054-20251113-54-001",
     "version": 10,
-    "startDate": "2025-11-13T17:56:16+01:00",
+    "startDate": "2025-11-13T20:47:50+01:00",
+    "expiresDate": "2025-11-14T02:47:49+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Stromversorgung in der Stadt Linnich - Ortsteile Gevenich und Kofferen",
+      "de": "Entwarnung: Ausfall Stromversorgung in der Stadt Linnich - Ortsteile Gevenich und Kofferen",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
