@@ -267,14 +267,15 @@
     }
   },
   {
-    "id": "mow.DE-ST-SK-W070-20251113-000",
+    "id": "mow.DE-ST-SK-W070-20251113-001",
     "version": 10,
-    "startDate": "2025-11-13T07:32:30+01:00",
+    "startDate": "2025-11-13T09:10:14+01:00",
+    "expiresDate": "2025-11-13T15:10:14+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sprengung eines Kampfmittels (Flakgranate) - Leuna, Ortsteil Spergau",
+      "de": "Entwarnung: Sprengung eines Kampfmittels (Flakgranate) - Leuna, Ortsteil Spergau",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
