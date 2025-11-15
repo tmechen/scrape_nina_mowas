@@ -182,27 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-SE137-20251114-166-000",
-    "version": 10,
-    "startDate": "2025-11-14T19:29:32+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Fund einer Weltkriegsbombe - Nürnberg Maxfeld",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NI-BS-SE129-20251114-157-001",
     "version": 10,
     "startDate": "2025-11-14T21:56:17+01:00",
@@ -288,6 +267,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-N-SE137-20251115-166-000",
+    "version": 10,
+    "startDate": "2025-11-15T03:37:55+01:00",
+    "expiresDate": "2025-11-15T09:37:54+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Fund einer Weltkriegsbombe - Nürnberg Maxfeld",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
