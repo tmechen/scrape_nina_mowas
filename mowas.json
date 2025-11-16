@@ -161,28 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20251115-105-001",
-    "version": 10,
-    "startDate": "2025-11-15T19:22:20+01:00",
-    "expiresDate": "2025-11-16T01:22:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Oldenburg in Holstein",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20251115-105-003",
     "version": 10,
     "startDate": "2025-11-15T21:56:12+01:00",
