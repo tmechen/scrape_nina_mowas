@@ -161,14 +161,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-WTM-W213-20251116-000",
+    "id": "mow.DE-NI-WTM-W213-20251116-001",
     "version": 10,
-    "startDate": "2025-11-16T03:35:01+01:00",
+    "startDate": "2025-11-16T05:14:40+01:00",
+    "expiresDate": "2025-11-16T11:14:40+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Warnung Großbrand - Norden",
+      "de": "Entwarnung: Warnung Großbrand - Norden",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
