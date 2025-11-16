@@ -161,14 +161,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-RS-SE072-20251116-72-000",
+    "id": "mow.DE-NW-RS-SE072-20251116-72-001",
     "version": 10,
-    "startDate": "2025-11-16T21:43:32+01:00",
+    "startDate": "2025-11-16T23:02:41+01:00",
+    "expiresDate": "2025-11-17T05:02:41+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Stromversorgung - Remscheid Stadtmitte",
+      "de": "Entwarnung: Ausfall Stromversorgung - Remscheid Stadtmitte",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
