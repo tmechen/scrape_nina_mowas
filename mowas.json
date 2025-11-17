@@ -161,14 +161,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20251117-28-000",
+    "id": "mow.DE-SH-EH-SE028-20251117-28-001",
     "version": 10,
-    "startDate": "2025-11-17T09:11:02+01:00",
+    "startDate": "2025-11-17T11:15:07+01:00",
+    "expiresDate": "2025-11-17T17:15:07+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Schülp",
+      "de": "Entwarnung: Feuerwehreinsatz - Schülp",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
