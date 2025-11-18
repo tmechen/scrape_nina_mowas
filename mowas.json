@@ -182,14 +182,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20251118-100-000",
+    "id": "mow.DE-RP-TR-SE004-20251118-4-001",
     "version": 10,
-    "startDate": "2025-11-18T02:31:08+01:00",
+    "startDate": "2025-11-18T04:03:46+01:00",
+    "expiresDate": "2025-11-18T10:03:46+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großfeuer, starke Rauchentwicklung  - Flensburg",
+      "de": "Entwarnung: Gebäudevollbrand - Bettingen",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -203,15 +204,36 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20251118-4-001",
+    "id": "mow.DE-HH-HH-SE033-20251118-33-000",
     "version": 10,
-    "startDate": "2025-11-18T04:03:46+01:00",
-    "expiresDate": "2025-11-18T10:03:46+01:00",
+    "startDate": "2025-11-18T07:58:26+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Hamburg-Othmarschen",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20251118-100-001",
+    "version": 10,
+    "startDate": "2025-11-18T08:02:19+01:00",
+    "expiresDate": "2025-11-18T14:02:19+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Gebäudevollbrand - Bettingen",
+      "de": "Entwarnung: Großfeuer, starke Rauchentwicklung  - Flensburg",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
