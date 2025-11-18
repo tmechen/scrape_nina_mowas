@@ -226,14 +226,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20251118-28-000",
+    "id": "mow.DE-SH-EH-SE028-20251118-28-001",
     "version": 10,
-    "startDate": "2025-11-18T20:00:07+01:00",
+    "startDate": "2025-11-18T20:48:20+01:00",
+    "expiresDate": "2025-11-19T02:48:20+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Bad Segeberg",
+      "de": "Entwarnung: Feuerwehreinsatz - Bad Segeberg",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -244,6 +245,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20251118-001",
+    "version": 10,
+    "startDate": "2025-11-18T21:24:04+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Freilaufende Hunde - B 242 Kreuzungsbereich Neues Schloß",
+      "en": "Traffic alert",
+      "ar": "تحذير مروري",
+      "es": "Advertencia de tráfico",
+      "fr": "Alerte trafic",
+      "pl": "Ostrzeżenie drogowe",
+      "ru": "Предупреждение о ситуации на дороге",
+      "tr": "Trafik uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-075"
     }
   }
 ]
