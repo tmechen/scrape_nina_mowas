@@ -161,28 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-JL-W059-20251120-001",
-    "version": 10,
-    "startDate": "2025-11-20T15:59:06+01:00",
-    "expiresDate": "2025-11-20T21:59:05+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand im Stadtgebiet Genthin - Genthin",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-ST-SK-W070-20251120-000",
     "version": 10,
     "startDate": "2025-11-20T16:00:36+01:00",
