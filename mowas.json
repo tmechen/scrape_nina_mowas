@@ -182,28 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-SK-W070-20251121-000",
-    "version": 10,
-    "startDate": "2025-11-21T09:01:49+01:00",
-    "expiresDate": "2025-11-21T15:01:48+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in einem Kraftwerk - Schkopau",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-EN-SE069-20251121-69-001",
     "version": 10,
     "startDate": "2025-11-21T09:53:33+01:00",
