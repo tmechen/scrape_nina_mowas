@@ -224,47 +224,24 @@
     }
   },
   {
-    "id": "mow.DE-HE-GG-W222-20251120-001",
+    "id": "mow.DE-NW-EN-SE069-20251121-69-000",
     "version": 10,
-    "startDate": "2025-11-20T21:19:33+01:00",
-    "expiresDate": "2025-11-21T03:19:32+01:00",
+    "startDate": "2025-11-21T03:53:59+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Stromausfall  - Rüsselsheim/Bauschheim",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
+      "de": "Rauchgase in Sprockhövel-Haßlinghausen - Sprockhövel-Haßlinghausen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
     },
     "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-BW-HD-W086-20251120-003",
-    "version": 10,
-    "startDate": "2025-11-20T21:27:35+01:00",
-    "expiresDate": "2025-11-21T03:27:34+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall der Fernwärmeversorgung im Stadtgebiet Heidelberg - Stadtgebiet Heidelberg",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
+      "event": "BBK-EVC-030"
     }
   }
 ]
