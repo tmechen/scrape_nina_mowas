@@ -182,27 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20251123-106-002",
-    "version": 10,
-    "startDate": "2025-11-23T10:51:46+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung - Biebesheim am Rhein",
-      "en": "Gas leak",
-      "ar": "تسرب غاز",
-      "es": "Escape de gas",
-      "fr": "Fuite de gaz",
-      "pl": "Wyciek gazu",
-      "ru": "Утечка газа",
-      "tr": "Gaz kaçağı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-BY-M-W231-20251123-001",
     "version": 10,
     "startDate": "2025-11-23T14:14:41+01:00",
@@ -222,6 +201,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20251123-106-003",
+    "version": 10,
+    "startDate": "2025-11-23T17:48:24+01:00",
+    "expiresDate": "2025-11-23T23:48:24+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung - Biebesheim am Rhein",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
     }
   }
 ]
