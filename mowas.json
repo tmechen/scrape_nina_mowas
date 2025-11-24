@@ -182,14 +182,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-KL-SE112-20251124-112-000",
+    "id": "mow.DE-RP-KL-SE112-20251124-112-001",
     "version": 10,
-    "startDate": "2025-11-24T08:10:54+01:00",
+    "startDate": "2025-11-24T10:38:20+01:00",
+    "expiresDate": "2025-11-24T16:38:20+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung durch Rauch - Stadt Kircheimbolanden",
+      "de": "Entwarnung: Geruchsbelästigung durch Rauch - Stadt Kircheimbolanden",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
