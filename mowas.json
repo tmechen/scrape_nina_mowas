@@ -182,15 +182,14 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20251125-001",
+    "id": "mow.DE-BY-M-SE010-20251125-10-000",
     "version": 10,
-    "startDate": "2025-11-25T09:18:05+01:00",
-    "expiresDate": "2025-11-25T15:18:05+01:00",
-    "severity": "Minor",
+    "startDate": "2025-11-25T15:38:03+01:00",
+    "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Brand mit starker Rauchentwicklung - Durmersheim",
+      "de": "Gefährdung durch Brandgase - Vorderkraith, Beratzhausen",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
