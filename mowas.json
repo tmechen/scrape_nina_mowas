@@ -201,5 +201,47 @@
     "transKeys": {
       "event": "BBK-EVC-012"
     }
+  },
+  {
+    "id": "mow.DE-NW-EU-SE091-20251127-109-001",
+    "version": 10,
+    "startDate": "2025-11-27T09:02:02+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung - Erftverlauf von Euskirchen in Richtung Weilerswist",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20251127-99-000",
+    "version": 10,
+    "startDate": "2025-11-27T09:08:08+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelentschärfung im Kieler Stadtgebiet - Kiel-Gaarden",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
