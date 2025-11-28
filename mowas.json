@@ -203,14 +203,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20251127-31-000",
+    "id": "mow.DE-NW-K-SE031-20251128-31-000",
     "version": 10,
-    "startDate": "2025-11-27T14:26:33+01:00",
+    "startDate": "2025-11-28T01:20:40+01:00",
+    "expiresDate": "2025-11-28T07:20:39+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Bombenfund - Köln",
+      "de": "Entwarnung: Bombenfund - Köln",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
