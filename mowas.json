@@ -203,27 +203,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BI-SE070-20251129-70-000",
-    "version": 10,
-    "startDate": "2025-11-29T16:25:18+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "---Rauchgase--- - Bielefeld",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-HF-SE039-20251129-39-000",
     "version": 10,
     "startDate": "2025-11-29T16:31:54+01:00",
@@ -284,6 +263,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BI-SE070-20251129-70-001",
+    "version": 10,
+    "startDate": "2025-11-29T21:12:14+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "--Geruchsbelästigung-- - Bielefeld - Altenhagen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
