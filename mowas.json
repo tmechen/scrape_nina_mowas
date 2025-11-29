@@ -203,14 +203,15 @@
     }
   },
   {
-    "id": "mow.DE-SN-BNA-W234-20251129-000",
+    "id": "mow.DE-SN-BNA-W234-20251129-001",
     "version": 10,
-    "startDate": "2025-11-29T09:27:01+01:00",
+    "startDate": "2025-11-29T09:41:51+01:00",
+    "expiresDate": "2025-11-29T15:41:51+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "ÜBUNG: Schadstofffreisetzung Espenhain Betrieb GMR mbH - Stadt Rötha, Ortsteil Espenhain",
+      "de": "Entwarnung: ÜBUNG: Schadstofffreisetzung Espenhain Betrieb GMR mbH - Stadt Rötha, Ortsteil Espenhain",
       "en": "Chemical hazard",
       "ar": "خطر كيماوي",
       "es": "Peligro químico",
