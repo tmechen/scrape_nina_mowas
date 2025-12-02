@@ -98,27 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-WOB-W088-20251030-000",
-    "version": 10,
-    "startDate": "2025-10-30T18:24:04+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Aufstallung von Geflügel und Untersagung von Geflügelausstellungen - Landkreis Helmstedt",
-      "en": "Epizootic",
-      "ar": "وباء حيواني",
-      "es": "Epizootia",
-      "fr": "Épizootie",
-      "pl": "Pomór zwierząt",
-      "ru": "Эпизоотия",
-      "tr": "Hayvan hastalıkları"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-067"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20251030-129-000",
     "version": 10,
     "startDate": "2025-10-30T20:28:41+01:00",
@@ -267,6 +246,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-WOB-W088-20251202-000",
+    "version": 10,
+    "startDate": "2025-12-02T13:22:12+01:00",
+    "expiresDate": "2025-12-02T19:22:12+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Aufstallung von Geflügel und Untersagung von Geflügelausstellungen - Landkreis Helmstedt",
+      "en": "Epizootic",
+      "ar": "وباء حيواني",
+      "es": "Epizootia",
+      "fr": "Épizootie",
+      "pl": "Pomór zwierząt",
+      "ru": "Эпизоотия",
+      "tr": "Hayvan hastalıkları"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-067"
     }
   }
 ]
