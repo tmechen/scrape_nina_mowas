@@ -204,27 +204,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-GG-W222-20251202-002",
-    "version": 10,
-    "startDate": "2025-12-02T07:01:53+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung - Ginsheim-Gustavsburg, Bischofsheim, Rüsselsheim, Raunheim, Kelsterbach",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-SO-SE089-20251202-89-003",
     "version": 10,
     "startDate": "2025-12-02T09:24:58+01:00",
@@ -288,6 +267,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-GG-W222-20251202-003",
+    "version": 10,
+    "startDate": "2025-12-02T11:31:05+01:00",
+    "expiresDate": "2025-12-02T17:31:05+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung - Ginsheim-Gustavsburg, Bischofsheim, Rüsselsheim, Raunheim, Kelsterbach",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
