@@ -204,27 +204,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20251202-89-001",
-    "version": 10,
-    "startDate": "2025-12-02T06:01:39+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchgase in Erwitte / Lippstadt - Stadtgebiet Erwitte / Stadtgebiet Lippstadt",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-WAF-SE045-20251202-45-000",
     "version": 10,
     "startDate": "2025-12-02T06:12:51+01:00",
@@ -264,6 +243,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20251202-89-002",
+    "version": 10,
+    "startDate": "2025-12-02T08:46:51+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchgase in Erwitte / Lippstadt - Stadtgebiet Erwitte / Stadtgebiet Lippstadt",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
