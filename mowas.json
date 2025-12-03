@@ -161,28 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20251203-001",
-    "version": 10,
-    "startDate": "2025-12-03T13:47:56+01:00",
-    "expiresDate": "2025-12-03T19:47:56+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Verkehrsbehinderung in Innenstadt von SGH durch Feuerwehreinsat - Sangerhausen, Innenstadt",
-      "en": "Traffic alert",
-      "ar": "تحذير مروري",
-      "es": "Advertencia de tráfico",
-      "fr": "Alerte trafic",
-      "pl": "Ostrzeżenie drogowe",
-      "ru": "Предупреждение о ситуации на дороге",
-      "tr": "Trafik uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-075"
-    }
-  },
-  {
     "id": "mow.DE-BW-WN-W053-20251203-000",
     "version": 10,
     "startDate": "2025-12-03T15:39:15+01:00",
