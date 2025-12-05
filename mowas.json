@@ -138,27 +138,5 @@
     "transKeys": {
       "event": "BBK-EVC-067"
     }
-  },
-  {
-    "id": "mow.DE-NW-K-SE031-20251205-31-000",
-    "version": 10,
-    "startDate": "2025-12-05T01:35:16+01:00",
-    "expiresDate": "2025-12-05T07:35:16+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenfund - Köln Klettenberg",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
   }
 ]
