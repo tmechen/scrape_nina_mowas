@@ -140,50 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20251204-57-002",
-    "version": 10,
-    "startDate": "2025-12-04T21:01:56+01:00",
-    "expiresDate": "2025-12-05T03:01:55+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Bonn - Bonn-Medinghoven und Alfter-Witterschlick",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NW-BN-SE060-20251204-60-002",
-    "version": 10,
-    "startDate": "2025-12-04T21:03:39+01:00",
-    "expiresDate": "2025-12-05T03:03:39+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 1. Aktualisierung: Kampfmittelfund in Bonn - Bonn-Duisdorf und Alfter-Witterschlick",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20251205-31-000",
     "version": 10,
     "startDate": "2025-12-05T01:35:16+01:00",
