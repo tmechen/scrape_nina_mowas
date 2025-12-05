@@ -140,27 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20251205-28-000",
-    "version": 10,
-    "startDate": "2025-12-05T10:59:33+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Kaltenkirchen",
-      "en": "Dangerous goods accident",
-      "ar": "حادث مواد خطرة",
-      "es": "Accidente imputable a mercancías peligrosas",
-      "fr": "Accident impliquant des substances dangereuses",
-      "pl": "Wypadek z materiałami niebezpiecznymi",
-      "ru": "Авария при перевозке опасных грузов",
-      "tr": "Tehlikeli madde kazası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-029"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20251205-84-000",
     "version": 10,
     "startDate": "2025-12-05T11:43:43+01:00",
@@ -179,6 +158,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20251205-28-001",
+    "version": 10,
+    "startDate": "2025-12-05T13:20:51+01:00",
+    "expiresDate": "2025-12-05T19:20:51+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Kaltenkirchen",
+      "en": "Dangerous goods accident",
+      "ar": "حادث مواد خطرة",
+      "es": "Accidente imputable a mercancías peligrosas",
+      "fr": "Accident impliquant des substances dangereuses",
+      "pl": "Wypadek z materiałami niebezpiecznymi",
+      "ru": "Авария при перевозке опасных грузов",
+      "tr": "Tehlikeli madde kazası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-029"
     }
   }
 ]
