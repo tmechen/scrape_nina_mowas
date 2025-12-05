@@ -140,14 +140,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20251205-125-001",
+    "id": "mow.DE-RP-MZ-SE114-20251205-125-002",
     "version": 10,
-    "startDate": "2025-12-05T18:35:52+01:00",
+    "startDate": "2025-12-06T00:00:01+01:00",
+    "expiresDate": "2025-12-06T06:00:01+01:00",
     "severity": "Extreme",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gasaustritt - Schwabenheim an der Selz",
+      "de": "Entwarnung: Gasaustritt - Schwabenheim an der Selz",
       "en": "Gas leak",
       "ar": "تسرب غاز",
       "es": "Escape de gas",
