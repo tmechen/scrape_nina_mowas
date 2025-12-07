@@ -138,27 +138,5 @@
     "transKeys": {
       "event": "BBK-EVC-067"
     }
-  },
-  {
-    "id": "mow.DE-NI-NOH-W178-20251207-001",
-    "version": 10,
-    "startDate": "2025-12-07T02:19:59+01:00",
-    "expiresDate": "2025-12-07T08:19:58+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand - Veldhausen",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
