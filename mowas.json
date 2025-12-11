@@ -182,14 +182,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-HN-W045-20251211-000",
+    "id": "mow.DE-HE-DA-W184-20251211-002",
     "version": 10,
-    "startDate": "2025-12-11T10:50:52+01:00",
+    "startDate": "2025-12-11T11:06:22+01:00",
+    "expiresDate": "2025-12-11T17:06:22+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kreisweiter Test der Warnsysteme - Landkreis Heilbronn",
+      "de": "Entwarnung: Sirenenprobe heute ab 11:00 Uhr  - Darmstadt",
       "en": "Test alert",
       "ar": "تحذير تجريبي",
       "es": "Advertencia de prueba",
@@ -203,15 +204,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-DA-W184-20251211-002",
+    "id": "mow.DE-BW-HN-W045-20251211-001",
     "version": 10,
-    "startDate": "2025-12-11T11:06:22+01:00",
-    "expiresDate": "2025-12-11T17:06:22+01:00",
+    "startDate": "2025-12-11T11:49:01+01:00",
+    "expiresDate": "2025-12-11T17:49:01+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Sirenenprobe heute ab 11:00 Uhr  - Darmstadt",
+      "de": "Entwarnung: Kreisweiter Test der Warnsysteme - Landkreis Heilbronn",
       "en": "Test alert",
       "ar": "تحذير تجريبي",
       "es": "Advertencia de prueba",
