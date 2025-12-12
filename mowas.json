@@ -182,14 +182,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20251211-12-002",
+    "id": "mow.DE-TH-EF-SE012-20251212-12-000",
     "version": 10,
-    "startDate": "2025-12-12T00:31:44+01:00",
+    "startDate": "2025-12-12T14:24:44+01:00",
+    "expiresDate": "2025-12-12T20:24:43+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "starke Rauchentwicklung durch Silobrand - Teutleben (Landkreis Gotha)",
+      "de": "Entwarnung: starke Rauchentwicklung durch Silobrand - Teutleben (Landkreis Gotha)",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
@@ -200,28 +201,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-SN-L-W093-20251212-001",
-    "version": 10,
-    "startDate": "2025-12-12T07:59:51+01:00",
-    "expiresDate": "2025-12-12T13:59:51+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brand - Leipzig/Connewitz",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
     }
   }
 ]
