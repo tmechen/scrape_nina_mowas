@@ -203,14 +203,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20251213-4-000",
+    "id": "mow.DE-RP-TR-SE004-20251213-4-001",
     "version": 10,
-    "startDate": "2025-12-13T13:21:56+01:00",
+    "startDate": "2025-12-13T14:16:47+01:00",
+    "expiresDate": "2025-12-13T20:16:46+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Dachstuhlbrand in der Ortsgemeinde Brecht - Brecht",
+      "de": "Entwarnung: Dachstuhlbrand in der Ortsgemeinde Brecht - Brecht",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
