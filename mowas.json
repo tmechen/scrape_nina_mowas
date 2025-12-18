@@ -180,5 +180,26 @@
     "transKeys": {
       "event": "BBK-EVC-067"
     }
+  },
+  {
+    "id": "mow.DE-NW-ME-SE071-20251218-71-000",
+    "version": 10,
+    "startDate": "2025-12-18T12:13:48+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in Velbert-Losenburg - Velbert",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
