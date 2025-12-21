@@ -201,27 +201,5 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
-  },
-  {
-    "id": "mow.DE-SL-SB-SE035-20251221-35-001",
-    "version": 11,
-    "startDate": "2025-12-21T10:11:09+01:00",
-    "expiresDate": "2025-12-21T16:11:08+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Evakuierung; Entschärfung einer Weltkriegsbombe - Stadt St. Wendel",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
   }
 ]
