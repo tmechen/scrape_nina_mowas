@@ -203,27 +203,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20251222-50-000",
-    "version": 11,
-    "startDate": "2025-12-22T13:17:40+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gebäudebrand in Furtwangen - Stadt Furtwangen",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-KR-SE075-20251222-75-005",
     "version": 11,
     "startDate": "2025-12-22T16:42:22+01:00",
@@ -353,6 +332,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20251222-50-001",
+    "version": 11,
+    "startDate": "2025-12-22T21:00:02+01:00",
+    "expiresDate": "2025-12-23T03:00:02+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gebäudebrand in Furtwangen - Stadt Furtwangen",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
