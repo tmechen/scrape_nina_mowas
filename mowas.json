@@ -183,14 +183,36 @@
     }
   },
   {
-    "id": "mow.DE-NW-OE-SE086-20251223-86-000",
+    "id": "mow.DE-TH-UH-W116-20251223-001",
     "version": 11,
-    "startDate": "2025-12-23T11:51:16+01:00",
+    "startDate": "2025-12-23T12:29:04+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Rauchwolke - Lennestadt-Saalhausen",
+      "de": "Rauchentwicklung durch Brandereignis  - Mühlhausen - Bahnhofsviertel",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-OE-SE086-20251223-86-001",
+    "version": 11,
+    "startDate": "2025-12-23T12:30:06+01:00",
+    "expiresDate": "2025-12-23T18:30:06+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchwolke - Lennestadt-Saalhausen",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
