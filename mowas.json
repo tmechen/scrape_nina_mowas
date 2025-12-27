@@ -140,27 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE049-20251226-49-000",
-    "version": 11,
-    "startDate": "2025-12-27T00:20:48+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahr durch Glatteis - Landkreis LUP",
-      "en": "Black ice",
-      "ar": "ثلج انزلاقي",
-      "es": "Superficies heladas",
-      "fr": "Verglas",
-      "pl": "Gołoledź",
-      "ru": "Гололед",
-      "tr": "Buzlanma"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-032"
-    }
-  },
-  {
     "id": "mow.DE-NI-WTM-W213-20251227-001",
     "version": 11,
     "startDate": "2025-12-27T06:05:27+01:00",
@@ -180,6 +159,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE049-20251227-49-000",
+    "version": 11,
+    "startDate": "2025-12-27T06:32:49+01:00",
+    "expiresDate": "2025-12-27T12:32:48+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahr durch Glatteis - Landkreis LUP",
+      "en": "Black ice",
+      "ar": "ثلج انزلاقي",
+      "es": "Superficies heladas",
+      "fr": "Verglas",
+      "pl": "Gołoledź",
+      "ru": "Гололед",
+      "tr": "Buzlanma"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-032"
     }
   }
 ]
