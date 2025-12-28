@@ -180,5 +180,26 @@
     "transKeys": {
       "event": "BBK-EVC-024"
     }
+  },
+  {
+    "id": "mow.DE-TH-UH-W116-20251227-000",
+    "version": 11,
+    "startDate": "2025-12-28T00:58:55+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brandereignis  - Mühlhausen/ Thür.",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
