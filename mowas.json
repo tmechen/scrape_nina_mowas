@@ -161,28 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20251228-28-001",
-    "version": 11,
-    "startDate": "2025-12-28T13:25:04+01:00",
-    "expiresDate": "2025-12-28T19:25:03+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Gemeinde Hennstedt(HEI)",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BR-B-SE017-20251228-17-000",
     "version": 11,
     "startDate": "2025-12-28T16:01:35+01:00",
@@ -227,14 +205,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20251228-50-003",
+    "id": "mow.DE-BW-RT-SE050-20251228-50-004",
     "version": 11,
-    "startDate": "2025-12-28T17:29:15+01:00",
+    "startDate": "2025-12-28T19:33:28+01:00",
+    "expiresDate": "2025-12-29T01:33:27+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gebäudebrand mit starker Rauchentwicklung - Altenriet",
+      "de": "Entwarnung: Gebäudebrand mit starker Rauchentwicklung - Altenriet",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
