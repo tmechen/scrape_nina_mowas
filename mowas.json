@@ -223,5 +223,26 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20251228-50-000",
+    "version": 11,
+    "startDate": "2025-12-28T10:42:41+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Telefon und Internet in der Gemeinde Waldenburg - Waldenburg, Sailach und Obersteinbach",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
   }
 ]
