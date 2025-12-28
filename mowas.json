@@ -161,28 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-SE017-20251228-17-000",
-    "version": 11,
-    "startDate": "2025-12-28T16:01:35+01:00",
-    "expiresDate": "2025-12-28T22:01:34+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahr durch die Auswirkungen von Glatteis - Berlin",
-      "en": "Black ice",
-      "ar": "ثلج انزلاقي",
-      "es": "Superficies heladas",
-      "fr": "Verglas",
-      "pl": "Gołoledź",
-      "ru": "Гололед",
-      "tr": "Buzlanma"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-032"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20251228-50-002",
     "version": 11,
     "startDate": "2025-12-28T16:11:15+01:00",
