@@ -182,14 +182,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-UH-W116-20251227-000",
+    "id": "mow.DE-TH-UH-W116-20251228-000",
     "version": 11,
-    "startDate": "2025-12-28T00:58:55+01:00",
+    "startDate": "2025-12-28T05:00:15+01:00",
+    "expiresDate": "2025-12-28T11:00:14+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Brandereignis  - Mühlhausen/ Thür.",
+      "de": "Entwarnung: Rauchentwicklung durch Brandereignis  - Mühlhausen/ Thür.",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
