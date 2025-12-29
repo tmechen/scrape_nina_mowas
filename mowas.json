@@ -140,28 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HF-SE039-20251229-39-000",
-    "version": 11,
-    "startDate": "2025-12-29T17:49:40+01:00",
-    "expiresDate": "2025-12-29T23:49:40+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Extreme Glätte im Kreis Herford - Kreis Herford",
-      "en": "Extreme black ice",
-      "ar": "جليد شديد",
-      "es": "Superficies heladas extremas",
-      "fr": "Verglas extrême",
-      "pl": "Ekstremalne oblodzenie",
-      "ru": "Экстремальный гололед",
-      "tr": "Şiddetli buzlanma"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-024"
-    }
-  },
-  {
     "id": "mow.DE-TH-SHL-W117-20251229-000",
     "version": 11,
     "startDate": "2025-12-29T18:05:50+01:00",
