@@ -140,27 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HF-SE039-20251227-39-000",
-    "version": 11,
-    "startDate": "2025-12-27T17:35:13+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Extreme Glätte im Kreis Herford - Kreis Herford",
-      "en": "Extreme black ice",
-      "ar": "جليد شديد",
-      "es": "Superficies heladas extremas",
-      "fr": "Verglas extrême",
-      "pl": "Ekstremalne oblodzenie",
-      "ru": "Экстремальный гололед",
-      "tr": "Şiddetli buzlanma"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-024"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20251229-143-001",
     "version": 11,
     "startDate": "2025-12-29T15:37:04+01:00",
@@ -201,6 +180,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HF-SE039-20251229-39-000",
+    "version": 11,
+    "startDate": "2025-12-29T17:49:40+01:00",
+    "expiresDate": "2025-12-29T23:49:40+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Extreme Glätte im Kreis Herford - Kreis Herford",
+      "en": "Extreme black ice",
+      "ar": "جليد شديد",
+      "es": "Superficies heladas extremas",
+      "fr": "Verglas extrême",
+      "pl": "Ekstremalne oblodzenie",
+      "ru": "Экстремальный гололед",
+      "tr": "Şiddetli buzlanma"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-024"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20251229-33-000",
+    "version": 11,
+    "startDate": "2025-12-29T17:52:24+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Hamburg-Barmbek-Süd",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
