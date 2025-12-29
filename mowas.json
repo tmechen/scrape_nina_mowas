@@ -205,14 +205,36 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20251229-33-000",
+    "id": "mow.DE-TH-SHL-W117-20251229-000",
     "version": 11,
-    "startDate": "2025-12-29T17:52:24+01:00",
+    "startDate": "2025-12-29T18:05:50+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Hamburg-Barmbek-Süd",
+      "de": "Ausfall Trinkwasserversorgung Stadtgebiet Themar - Stadt Themar",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20251229-33-001",
+    "version": 11,
+    "startDate": "2025-12-29T18:17:54+01:00",
+    "expiresDate": "2025-12-30T00:17:53+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Hamburg-Barmbek-Süd",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
