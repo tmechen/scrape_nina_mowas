@@ -204,9 +204,9 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20251231-105-001",
+    "id": "mow.DE-SH-OD-SE105-20251231-105-002",
     "version": 11,
-    "startDate": "2025-12-31T22:01:12+01:00",
+    "startDate": "2025-12-31T23:11:34+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
