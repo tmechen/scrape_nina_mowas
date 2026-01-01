@@ -203,28 +203,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260101-28-001",
-    "version": 11,
-    "startDate": "2026-01-01T13:39:33+01:00",
-    "expiresDate": "2026-01-01T19:39:32+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Henstedt-Ulzburg",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20260101-002",
     "version": 11,
     "startDate": "2026-01-01T13:43:21+01:00",
