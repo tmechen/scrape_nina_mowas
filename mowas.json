@@ -161,28 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-WOB-W088-20260101-001",
-    "version": 11,
-    "startDate": "2026-01-01T08:18:10+01:00",
-    "expiresDate": "2026-01-01T14:18:09+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandrauchausbreitung - Mariental-Horst",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20260101-125-001",
     "version": 11,
     "startDate": "2026-01-01T09:47:42+01:00",
@@ -299,6 +277,48 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Warnung vor einer Sturmflut - Nordfriesische Küste",
+      "en": "Storm surge",
+      "ar": "فيضان جراء عاصفة",
+      "es": "Marejada",
+      "fr": "Onde de tempête",
+      "pl": "Powódź spowodowana sztormem",
+      "ru": "Штормовой нагон",
+      "tr": "Fırtına seli"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20260101-003",
+    "version": 11,
+    "startDate": "2026-01-01T13:50:50+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor einer Sturmflut - Elbegebiet",
+      "en": "Storm surge",
+      "ar": "فيضان جراء عاصفة",
+      "es": "Marejada",
+      "fr": "Onde de tempête",
+      "pl": "Powódź spowodowana sztormem",
+      "ru": "Штормовой нагон",
+      "tr": "Fırtına seli"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20260101-004",
+    "version": 11,
+    "startDate": "2026-01-01T14:24:20+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
       "en": "Storm surge",
       "ar": "فيضان جراء عاصفة",
       "es": "Marejada",
