@@ -161,50 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-HZ-W050-20260101-000",
-    "version": 11,
-    "startDate": "2026-01-01T02:10:19+01:00",
-    "expiresDate": "2026-01-01T08:10:18+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand - Hessen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-SH-OD-SE105-20260101-105-000",
-    "version": 11,
-    "startDate": "2026-01-01T02:30:24+01:00",
-    "expiresDate": "2026-01-01T08:30:24+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Ratekau Hauptstraße",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20260101-105-001",
     "version": 11,
     "startDate": "2026-01-01T02:52:09+01:00",
