@@ -161,28 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20260101-105-001",
-    "version": 11,
-    "startDate": "2026-01-01T02:52:09+01:00",
-    "expiresDate": "2026-01-01T08:52:08+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Eutin - Weidestraße",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20260101-125-000",
     "version": 11,
     "startDate": "2026-01-01T03:22:23+01:00",
