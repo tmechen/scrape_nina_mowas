@@ -288,27 +288,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20260101-000",
-    "version": 11,
-    "startDate": "2026-01-01T15:18:54+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Rauch in Volkmaritz - Volkmaritz",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-SE033-20260101-33-000",
     "version": 11,
     "startDate": "2026-01-01T15:19:20+01:00",
@@ -327,6 +306,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20260101-001",
+    "version": 11,
+    "startDate": "2026-01-01T19:05:41+01:00",
+    "expiresDate": "2026-01-02T01:05:40+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Rauch in Volkmaritz - Volkmaritz",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
