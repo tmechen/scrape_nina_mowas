@@ -161,28 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20260102-001",
-    "version": 11,
-    "startDate": "2026-01-02T01:51:30+01:00",
-    "expiresDate": "2026-01-02T07:51:29+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut - Wesergebiet",
-      "en": "Storm surge",
-      "ar": "فيضان جراء عاصفة",
-      "es": "Marejada",
-      "fr": "Onde de tempête",
-      "pl": "Powódź spowodowana sztormem",
-      "ru": "Штормовой нагон",
-      "tr": "Fırtına seli"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20260102-002",
     "version": 11,
     "startDate": "2026-01-02T03:38:46+01:00",
