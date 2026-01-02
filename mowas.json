@@ -140,50 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20260102-003",
-    "version": 11,
-    "startDate": "2026-01-02T04:22:17+01:00",
-    "expiresDate": "2026-01-02T10:22:16+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut - Hamburger Elbegebiet",
-      "en": "Storm surge",
-      "ar": "فيضان جراء عاصفة",
-      "es": "Marejada",
-      "fr": "Onde de tempête",
-      "pl": "Powódź spowodowana sztormem",
-      "ru": "Штормовой нагон",
-      "tr": "Fırtına seli"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-SE033-20260102-33-000",
-    "version": 11,
-    "startDate": "2026-01-02T04:23:30+01:00",
-    "expiresDate": "2026-01-02T10:23:30+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sturmflut um 02:35 Uhr (02.01.) zw. +3,6 und +4,1 üb. NHN - Hamburger Elbgebiet",
-      "en": "Storm surge",
-      "ar": "فيضان جراء عاصفة",
-      "es": "Marejada",
-      "fr": "Onde de tempête",
-      "pl": "Powódź spowodowana sztormem",
-      "ru": "Штормовой нагон",
-      "tr": "Fırtına seli"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-W108-20260102-000",
     "version": 11,
     "startDate": "2026-01-02T08:47:02+01:00",
