@@ -224,14 +224,15 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE024-20260103-24-000",
+    "id": "mow.DE-MV-SN-SE024-20260103-24-001",
     "version": 11,
-    "startDate": "2026-01-03T19:20:42+01:00",
+    "startDate": "2026-01-03T21:12:26+01:00",
+    "expiresDate": "2026-01-04T03:12:25+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "FEUERWEHREINSATZ in Klein Bünzow - Gemeinde Klein Bünzow, Gemeinde Rubkow",
+      "de": "Entwarnung: FEUERWEHREINSATZ in Klein Bünzow - Gemeinde Klein Bünzow, Gemeinde Rubkow",
       "en": "Alert",
       "ar": "تحذير",
       "es": "Advertencia",
