@@ -243,5 +243,26 @@
     "transKeys": {
       "event": "BBK-EVC-057"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20260105-29-000",
+    "version": 11,
+    "startDate": "2026-01-06T00:16:21+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "unkontrollierte Ausbreitung von Brandrauch - Aerzen",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
