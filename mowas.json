@@ -245,14 +245,14 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20260105-29-000",
+    "id": "mow.DE-NI-STD-SE029-20260105-29-001",
     "version": 11,
-    "startDate": "2026-01-06T00:16:21+01:00",
+    "startDate": "2026-01-06T00:48:15+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "unkontrollierte Ausbreitung von Brandrauch - Aerzen",
+      "de": "unkontrollierte Ausbreitung von Brandrauch - Aerzen, Groß Berkel, Klein Berkel",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
