@@ -287,28 +287,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-BS-SE129-20260107-157-001",
-    "version": 11,
-    "startDate": "2026-01-07T13:41:36+01:00",
-    "expiresDate": "2026-01-07T19:41:36+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung - Klein Flöthe",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BB-P-SE082-20260107-82-000",
     "version": 11,
     "startDate": "2026-01-07T18:27:58+01:00",
