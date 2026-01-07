@@ -266,28 +266,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-E-SE052-20260107-52-001",
-    "version": 11,
-    "startDate": "2026-01-07T18:37:40+01:00",
-    "expiresDate": "2026-01-08T00:37:39+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Essen (Altenessen-Süd) - Essen",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BR-B-SE016-20260107-16-001",
     "version": 11,
     "startDate": "2026-01-07T22:03:52+01:00",
@@ -310,14 +288,15 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20260107-35-000",
+    "id": "mow.DE-BB-P-SE082-20260107-82-001",
     "version": 11,
-    "startDate": "2026-01-07T23:41:09+01:00",
+    "startDate": "2026-01-07T23:52:13+01:00",
+    "expiresDate": "2026-01-08T05:52:13+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung bei laufendem Brandereignis - Erbach, Ortslage",
+      "de": "Entwarnung: Brandrauchausbreitung - Wittstock",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -331,15 +310,15 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20260107-82-001",
+    "id": "mow.DE-SL-SB-SE035-20260107-35-001",
     "version": 11,
-    "startDate": "2026-01-07T23:52:13+01:00",
-    "expiresDate": "2026-01-08T05:52:13+01:00",
+    "startDate": "2026-01-08T00:44:55+01:00",
+    "expiresDate": "2026-01-08T06:44:55+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Brandrauchausbreitung - Wittstock",
+      "de": "Entwarnung: Geruchsbelästigung bei laufendem Brandereignis - Erbach, Ortslage",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
