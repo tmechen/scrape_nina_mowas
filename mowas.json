@@ -245,27 +245,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20260107-84-000",
-    "version": 11,
-    "startDate": "2026-01-07T08:12:21+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefährdung durch Brandgase - Innerer Osten, Regensburg",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BR-B-SE016-20260107-16-000",
     "version": 11,
     "startDate": "2026-01-07T09:30:06+01:00",
@@ -305,6 +284,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-057"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20260107-84-001",
+    "version": 11,
+    "startDate": "2026-01-07T11:27:01+01:00",
+    "expiresDate": "2026-01-07T17:27:00+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefährdung durch Brandgase - Innerer Osten, Regensburg",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
