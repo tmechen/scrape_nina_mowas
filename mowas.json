@@ -266,28 +266,6 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-SE016-20260107-16-001",
-    "version": 11,
-    "startDate": "2026-01-07T22:03:52+01:00",
-    "expiresDate": "2026-01-08T04:03:51+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wiederherstellung der Stromversorgung im Südwesten Berlins - Berlin",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BB-P-SE082-20260107-82-001",
     "version": 11,
     "startDate": "2026-01-07T23:52:13+01:00",
