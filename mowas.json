@@ -266,28 +266,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20260107-82-001",
-    "version": 11,
-    "startDate": "2026-01-07T23:52:13+01:00",
-    "expiresDate": "2026-01-08T05:52:13+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandrauchausbreitung - Wittstock",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20260107-35-001",
     "version": 11,
     "startDate": "2026-01-08T00:44:55+01:00",
