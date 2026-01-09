@@ -266,27 +266,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-NEW-W265-20260108-000",
-    "version": 11,
-    "startDate": "2026-01-08T17:01:02+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Schulausfall - Landkreis Neustadt a.d. Waldnaab und Stadt Weiden i.d.OPf",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NI-H-SE110-20260108-110-000",
     "version": 11,
     "startDate": "2026-01-08T17:01:41+01:00",
@@ -433,6 +412,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-BY-NEW-W265-20260109-000",
+    "version": 11,
+    "startDate": "2026-01-09T12:00:48+01:00",
+    "expiresDate": "2026-01-09T18:00:47+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Schulausfall - Landkreis Neustadt a.d. Waldnaab und Stadt Weiden i.d.OPf",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
