@@ -245,27 +245,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-WF-W263-20260108-000",
-    "version": 11,
-    "startDate": "2026-01-08T15:16:01+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Unterrichtsausfall im Landkreis Wolfenbüttel am 09.01.2026 - Landkreis Wolfenbüttel",
-      "en": "Snowfall",
-      "ar": "سقوط الجليد",
-      "es": "Nevada",
-      "fr": "Chute de neige",
-      "pl": "Opady śniegu",
-      "ru": "Снегопад",
-      "tr": "Kar düşmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-W108-20260108-001",
     "version": 11,
     "startDate": "2026-01-08T16:19:20+01:00",
@@ -411,6 +390,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-032"
+    }
+  },
+  {
+    "id": "mow.DE-NI-WF-W263-20260109-000",
+    "version": 11,
+    "startDate": "2026-01-09T11:03:33+01:00",
+    "expiresDate": "2026-01-09T17:03:32+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Unterrichtsausfall im Landkreis Wolfenbüttel am 09.01.2026 - Landkreis Wolfenbüttel",
+      "en": "Snowfall",
+      "ar": "سقوط الجليد",
+      "es": "Nevada",
+      "fr": "Chute de neige",
+      "pl": "Opady śniegu",
+      "ru": "Снегопад",
+      "tr": "Kar düşmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
     }
   }
 ]
