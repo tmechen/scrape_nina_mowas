@@ -308,28 +308,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-W108-20260109-000",
-    "version": 11,
-    "startDate": "2026-01-09T15:48:37+01:00",
-    "expiresDate": "2026-01-09T21:48:36+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hinweise des Landratsamts Sömmerda zur angekündigten Wetterlage  - Landkreis Sömmerda",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-SH-HL-SE103-20260109-103-001",
     "version": 11,
     "startDate": "2026-01-09T16:58:11+01:00",
