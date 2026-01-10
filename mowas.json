@@ -287,28 +287,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20260110-36-000",
-    "version": 11,
-    "startDate": "2026-01-10T09:43:13+01:00",
-    "expiresDate": "2026-01-10T15:43:12+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Unwetter LK OSL am 09.01.2026 - Landkreis Oberspreewald-Lausitz",
-      "en": "Extremely heavy snowfall",
-      "ar": "سقوط الجليد بشدة",
-      "es": "Nevada extrema",
-      "fr": "Chute de neige extrême",
-      "pl": "Ekstremalnie silne opady śniegu",
-      "ru": "Очень сильный снежный занос",
-      "tr": "Aşırı yoğun kar yağışı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-084"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20260110-001",
     "version": 11,
     "startDate": "2026-01-10T11:04:10+01:00",
