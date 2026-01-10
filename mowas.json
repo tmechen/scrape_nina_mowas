@@ -308,27 +308,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260110-28-000",
-    "version": 11,
-    "startDate": "2026-01-10T02:45:58+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Rellingen",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-ST-MSH-W058-20260110-000",
     "version": 11,
     "startDate": "2026-01-10T05:17:51+01:00",
@@ -347,6 +326,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-057"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20260110-28-001",
+    "version": 11,
+    "startDate": "2026-01-10T07:07:38+01:00",
+    "expiresDate": "2026-01-10T13:07:38+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Rellingen",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
