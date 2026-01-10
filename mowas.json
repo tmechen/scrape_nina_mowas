@@ -352,14 +352,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20260110-000",
+    "id": "mow.DE-BW-RA-W025-20260110-001",
     "version": 11,
-    "startDate": "2026-01-10T10:42:55+01:00",
+    "startDate": "2026-01-10T11:04:10+01:00",
+    "expiresDate": "2026-01-10T17:04:10+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenen-Probealarm - Steinmauern",
+      "de": "Entwarnung: Sirenen-Probealarm - Steinmauern",
       "en": "Siren test",
       "ar": "تجربة صفارة الإنذار",
       "es": "Prueba de sirena",
