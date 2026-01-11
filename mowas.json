@@ -285,27 +285,5 @@
     "transKeys": {
       "event": "BBK-EVC-057"
     }
-  },
-  {
-    "id": "mow.DE-NI-H-SE110-20260110-110-000",
-    "version": 11,
-    "startDate": "2026-01-10T20:07:13+01:00",
-    "expiresDate": "2026-01-11T02:07:13+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Unterrichtsausfall - Region Hannover und Landeshauptstadt Hannover",
-      "en": "Snowfall",
-      "ar": "سقوط الجليد",
-      "es": "Nevada",
-      "fr": "Chute de neige",
-      "pl": "Opady śniegu",
-      "ru": "Снегопад",
-      "tr": "Kar düşmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
   }
 ]
