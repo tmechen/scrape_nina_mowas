@@ -245,27 +245,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20260110-000",
-    "version": 11,
-    "startDate": "2026-01-10T05:17:51+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "AKTUALISIERUNG Schneefall und Glätte führen zu Busausfällen - gesamter Landkreis Mansfeld-Südharz",
-      "en": "Snowfall",
-      "ar": "سقوط الجليد",
-      "es": "Nevada",
-      "fr": "Chute de neige",
-      "pl": "Opady śniegu",
-      "ru": "Снегопад",
-      "tr": "Kar düşmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
-  },
-  {
     "id": "mow.DE-NI-WTM-W213-20260111-001",
     "version": 11,
     "startDate": "2026-01-11T08:57:16+01:00",
@@ -307,6 +286,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-057"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20260111-002",
+    "version": 11,
+    "startDate": "2026-01-11T10:49:09+01:00",
+    "expiresDate": "2026-01-11T16:49:08+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: AKTUALISIERUNG Schneefall und Glätte führen zu Busausfällen - gesamter Landkreis Mansfeld-Südharz",
+      "en": "Snowfall",
+      "ar": "سقوط الجليد",
+      "es": "Nevada",
+      "fr": "Chute de neige",
+      "pl": "Opady śniegu",
+      "ru": "Снегопад",
+      "tr": "Kar düşmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20260111-28-000",
+    "version": 11,
+    "startDate": "2026-01-11T11:17:39+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bombenentschärfung - Wedel",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
