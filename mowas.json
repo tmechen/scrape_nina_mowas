@@ -285,5 +285,26 @@
     "transKeys": {
       "event": "BBK-EVC-057"
     }
+  },
+  {
+    "id": "mow.DE-NI-WTM-W213-20260111-000",
+    "version": 11,
+    "startDate": "2026-01-11T04:15:16+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung Großbrand - Aurich Innenstadt",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
