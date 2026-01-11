@@ -245,28 +245,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-WTM-W213-20260111-001",
-    "version": 11,
-    "startDate": "2026-01-11T08:57:16+01:00",
-    "expiresDate": "2026-01-11T14:57:16+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung Großbrand - Aurich Innenstadt",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-ST-MSH-W058-20260111-001",
     "version": 11,
     "startDate": "2026-01-11T10:48:00+01:00",
@@ -394,6 +372,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20260111-50-000",
+    "version": 11,
+    "startDate": "2026-01-11T14:54:34+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand in Industrieanlage Oberstenfeld - Oberstenfeld",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
