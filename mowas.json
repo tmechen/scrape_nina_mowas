@@ -332,27 +332,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-DI-W104-20260111-000",
-    "version": 11,
-    "startDate": "2026-01-11T12:33:40+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgas - Dieburg",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20260111-28-001",
     "version": 11,
     "startDate": "2026-01-11T14:00:21+01:00",
@@ -375,12 +354,12 @@
     }
   },
   {
-    "id": "mow.DE-BW-LB-W026-20260111-000",
+    "id": "mow.DE-BW-LB-W026-20260111-001",
     "version": 11,
-    "startDate": "2026-01-11T14:14:48+01:00",
+    "startDate": "2026-01-11T14:38:00+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Brand - Oberstenfeld",
       "en": "Conflagration",
@@ -393,6 +372,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-HE-DI-W104-20260111-001",
+    "version": 11,
+    "startDate": "2026-01-11T14:45:21+01:00",
+    "expiresDate": "2026-01-11T20:45:21+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgas - Dieburg",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
