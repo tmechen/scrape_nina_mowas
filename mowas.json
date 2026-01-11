@@ -289,27 +289,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20260111-56-000",
-    "version": 11,
-    "startDate": "2026-01-11T12:08:40+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall der Frischwasserversorgung - ERZ-Gerderath / HÜH-Altmyhl",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20260111-28-001",
     "version": 11,
     "startDate": "2026-01-11T14:00:21+01:00",
@@ -393,6 +372,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20260111-56-001",
+    "version": 11,
+    "startDate": "2026-01-11T15:32:28+01:00",
+    "expiresDate": "2026-01-11T21:32:27+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall der Frischwasserversorgung - ERZ-Gerderath / HÜH-Altmyhl",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
