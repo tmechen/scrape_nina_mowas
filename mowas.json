@@ -245,28 +245,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260111-28-001",
-    "version": 11,
-    "startDate": "2026-01-11T14:00:21+01:00",
-    "expiresDate": "2026-01-11T20:00:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenentschärfung - Wedel",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-HE-DI-W104-20260111-001",
     "version": 11,
     "startDate": "2026-01-11T14:45:21+01:00",
