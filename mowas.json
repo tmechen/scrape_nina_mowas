@@ -266,27 +266,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20260110-002",
-    "version": 11,
-    "startDate": "2026-01-10T13:53:44+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "AKTUALISIERUNG Schneefall und Glätte führen zu Busausfällen - gesamter Landkreis Mansfeld-Südharz",
-      "en": "Snowfall",
-      "ar": "سقوط الجليد",
-      "es": "Nevada",
-      "fr": "Chute de neige",
-      "pl": "Opady śniegu",
-      "ru": "Снегопад",
-      "tr": "Kar düşmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
-  },
-  {
     "id": "mow.DE-NI-WTM-W213-20260111-001",
     "version": 11,
     "startDate": "2026-01-11T08:57:16+01:00",
@@ -306,6 +285,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20260111-001",
+    "version": 11,
+    "startDate": "2026-01-11T10:48:00+01:00",
+    "expiresDate": "2026-01-11T16:48:00+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: AKTUALISIERUNG Schneefall und Glätte führen zu Busausfällen - gesamter Landkreis Mansfeld-Südharz",
+      "en": "Snowfall",
+      "ar": "سقوط الجليد",
+      "es": "Nevada",
+      "fr": "Chute de neige",
+      "pl": "Opady śniegu",
+      "ru": "Снегопад",
+      "tr": "Kar düşmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
     }
   }
 ]
