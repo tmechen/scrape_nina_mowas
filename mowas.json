@@ -245,50 +245,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-LB-W026-20260111-002",
-    "version": 11,
-    "startDate": "2026-01-11T15:52:03+01:00",
-    "expiresDate": "2026-01-11T21:52:02+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand - Oberstenfeld",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20260111-18-000",
-    "version": 11,
-    "startDate": "2026-01-11T16:00:26+01:00",
-    "expiresDate": "2026-01-11T22:00:25+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in Industrieanlage Oberstenfeld - Oberstenfeld",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NI-H-SE110-20260111-110-001",
     "version": 11,
     "startDate": "2026-01-11T16:22:30+01:00",
@@ -331,14 +287,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-FR-W022-20260111-000",
+    "id": "mow.DE-BW-FR-W022-20260111-001",
     "version": 11,
-    "startDate": "2026-01-11T21:22:10+01:00",
+    "startDate": "2026-01-11T21:59:36+01:00",
+    "expiresDate": "2026-01-12T03:59:36+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall in Freiburg-Waltershofen - Waltershofen",
+      "de": "Entwarnung: Stromausfall in Freiburg-Waltershofen - Waltershofen",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
