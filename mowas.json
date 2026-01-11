@@ -311,27 +311,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-LB-W026-20260111-001",
-    "version": 11,
-    "startDate": "2026-01-11T14:38:00+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Brand - Oberstenfeld",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-HE-DI-W104-20260111-001",
     "version": 11,
     "startDate": "2026-01-11T14:45:21+01:00",
@@ -354,27 +333,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20260111-50-000",
-    "version": 11,
-    "startDate": "2026-01-11T14:54:34+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand in Industrieanlage Oberstenfeld - Oberstenfeld",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-ERK-SE056-20260111-56-001",
     "version": 11,
     "startDate": "2026-01-11T15:32:28+01:00",
@@ -394,6 +352,71 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BW-LB-W026-20260111-002",
+    "version": 11,
+    "startDate": "2026-01-11T15:52:03+01:00",
+    "expiresDate": "2026-01-11T21:52:02+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand - Oberstenfeld",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20260111-18-000",
+    "version": 11,
+    "startDate": "2026-01-11T16:00:26+01:00",
+    "expiresDate": "2026-01-11T22:00:25+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand in Industrieanlage Oberstenfeld - Oberstenfeld",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NI-H-SE110-20260111-110-001",
+    "version": 11,
+    "startDate": "2026-01-11T16:22:30+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Unterrichtsausfall - Region Hannover und Landeshauptstadt Hannover",
+      "en": "Black ice",
+      "ar": "ثلج انزلاقي",
+      "es": "Superficies heladas",
+      "fr": "Verglas",
+      "pl": "Gołoledź",
+      "ru": "Гололед",
+      "tr": "Buzlanma"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-032"
     }
   }
 ]
