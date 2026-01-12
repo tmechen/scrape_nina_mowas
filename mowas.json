@@ -224,27 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20260109-143-000",
-    "version": 11,
-    "startDate": "2026-01-09T06:32:39+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Schneefall und Glätte führen zu Busausfällen - Bereich Sangerhausen",
-      "en": "Snowfall",
-      "ar": "سقوط الجليد",
-      "es": "Nevada",
-      "fr": "Chute de neige",
-      "pl": "Opady śniegu",
-      "ru": "Снегопад",
-      "tr": "Kar düşmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
-  },
-  {
     "id": "mow.DE-NI-H-SE110-20260111-110-001",
     "version": 11,
     "startDate": "2026-01-11T16:22:30+01:00",
@@ -284,28 +263,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-032"
-    }
-  },
-  {
-    "id": "mow.DE-SN-L-W093-20260112-001",
-    "version": 11,
-    "startDate": "2026-01-12T06:01:07+01:00",
-    "expiresDate": "2026-01-12T12:01:07+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brand - Glesien, Gemeinde Schkeuditz",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
     }
   },
   {
@@ -349,6 +306,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20260112-143-000",
+    "version": 11,
+    "startDate": "2026-01-12T12:24:04+01:00",
+    "expiresDate": "2026-01-12T18:24:04+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Schneefall und Glätte führen zu Busausfällen - Bereich Sangerhausen",
+      "en": "Snowfall",
+      "ar": "سقوط الجليد",
+      "es": "Nevada",
+      "fr": "Chute de neige",
+      "pl": "Opady śniegu",
+      "ru": "Снегопад",
+      "tr": "Kar düşmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
     }
   }
 ]
