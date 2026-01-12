@@ -329,5 +329,26 @@
     "transKeys": {
       "event": "BBK-EVC-057"
     }
+  },
+  {
+    "id": "mow.DE-NW-D-SE047-20260112-47-000",
+    "version": 11,
+    "startDate": "2026-01-12T13:39:21+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Weltkriegsbombe in Düsseldorf - Düsseldorf - Mörsenbroich",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
