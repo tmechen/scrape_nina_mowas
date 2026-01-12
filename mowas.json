@@ -287,14 +287,15 @@
     }
   },
   {
-    "id": "mow.DE-SN-L-W093-20260112-000",
+    "id": "mow.DE-SN-L-W093-20260112-001",
     "version": 11,
-    "startDate": "2026-01-12T03:16:32+01:00",
+    "startDate": "2026-01-12T06:01:07+01:00",
+    "expiresDate": "2026-01-12T12:01:07+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Brand - Glesien, Gemeinde Schkeuditz",
+      "de": "Entwarnung: Rauchentwicklung durch Brand - Glesien, Gemeinde Schkeuditz",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
