@@ -224,69 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-H-SE110-20260111-110-001",
-    "version": 11,
-    "startDate": "2026-01-11T16:22:30+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Unterrichtsausfall - Region Hannover und Landeshauptstadt Hannover",
-      "en": "Black ice",
-      "ar": "ثلج انزلاقي",
-      "es": "Superficies heladas",
-      "fr": "Verglas",
-      "pl": "Gołoledź",
-      "ru": "Гололед",
-      "tr": "Buzlanma"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-032"
-    }
-  },
-  {
-    "id": "mow.DE-NI-GOE-W264-20260111-002",
-    "version": 11,
-    "startDate": "2026-01-11T16:39:53+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor Glätte und Unterrichtsausfall am 12.01.2026 - Stadt und Landkreis Göttingen",
-      "en": "Black ice",
-      "ar": "ثلج انزلاقي",
-      "es": "Superficies heladas",
-      "fr": "Verglas",
-      "pl": "Gołoledź",
-      "ru": "Гололед",
-      "tr": "Buzlanma"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-032"
-    }
-  },
-  {
-    "id": "mow.DE-BY-HO-W142-20260112-000",
-    "version": 11,
-    "startDate": "2026-01-12T10:14:14+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vorzeitiges Unterrichtsende 13:00 Uhr - Stadt und Landkreis Hof und Landkreis Wunsiedel im Fichtelgebirge",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-HE-OF-W192-20260112-001",
     "version": 11,
     "startDate": "2026-01-12T11:14:09+01:00",
@@ -370,6 +307,72 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NI-H-SE110-20260112-110-000",
+    "version": 11,
+    "startDate": "2026-01-12T16:58:38+01:00",
+    "expiresDate": "2026-01-12T22:58:37+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Unterrichtsausfall - Region Hannover und Landeshauptstadt Hannover",
+      "en": "Black ice",
+      "ar": "ثلج انزلاقي",
+      "es": "Superficies heladas",
+      "fr": "Verglas",
+      "pl": "Gołoledź",
+      "ru": "Гололед",
+      "tr": "Buzlanma"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-032"
+    }
+  },
+  {
+    "id": "mow.DE-NI-GOE-W264-20260112-000",
+    "version": 11,
+    "startDate": "2026-01-12T17:00:01+01:00",
+    "expiresDate": "2026-01-12T23:00:00+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor Glätte und Unterrichtsausfall am 12.01.2026 - Stadt und Landkreis Göttingen",
+      "en": "Black ice",
+      "ar": "ثلج انزلاقي",
+      "es": "Superficies heladas",
+      "fr": "Verglas",
+      "pl": "Gołoledź",
+      "ru": "Гололед",
+      "tr": "Buzlanma"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-032"
+    }
+  },
+  {
+    "id": "mow.DE-BY-HO-W142-20260112-001",
+    "version": 11,
+    "startDate": "2026-01-12T17:19:38+01:00",
+    "expiresDate": "2026-01-12T23:19:37+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Vorzeitiges Unterrichtsende 13:00 Uhr - Stadt und Landkreis Hof und Landkreis Wunsiedel im Fichtelgebirge",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
