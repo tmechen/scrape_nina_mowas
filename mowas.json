@@ -182,24 +182,24 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W226-20260113-000",
+    "id": "mow.DE-HH-HH-W226-20260113-001",
     "version": 11,
-    "startDate": "2026-01-13T15:33:20+01:00",
+    "startDate": "2026-01-13T19:24:38+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Rauchwolke durch Feuer in einem Gewerbeobjekt - Stadt Hamburg, Bereich Jenfeld",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
+      "de": "Leichte Geruchsbelästigung durch Brandrauch - Stadt Hamburg, Bereich Jenfeld",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
     },
     "transKeys": {
-      "event": "BBK-EVC-034"
+      "event": "BBK-EVC-030"
     }
   }
 ]
