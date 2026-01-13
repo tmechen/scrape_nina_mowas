@@ -56,27 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20250925-35-000",
-    "version": 8,
-    "startDate": "2025-09-25T14:10:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "3. Aktualisierung! - Beeinträchtigung des Trinkwassers - Chlorungsmaßnahmen - Biringen, Fürweiler, Gerlfangen, und Oberesch der Gde. Rehlingen-Siersburg",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20251030-129-000",
     "version": 10,
     "startDate": "2025-10-30T20:28:41+01:00",
@@ -203,28 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-GR-W208-20260113-001",
-    "version": 11,
-    "startDate": "2026-01-13T04:55:08+01:00",
-    "expiresDate": "2026-01-13T10:55:08+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Glatteis durch Eisregen - Landkreis Bautzen, Landkreis Görlitz",
-      "en": "Black ice",
-      "ar": "ثلج انزلاقي",
-      "es": "Superficies heladas",
-      "fr": "Verglas",
-      "pl": "Gołoledź",
-      "ru": "Гололед",
-      "tr": "Buzlanma"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-032"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20260113-105-000",
     "version": 11,
     "startDate": "2026-01-13T08:58:26+01:00",
@@ -244,6 +201,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-057"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20260113-35-000",
+    "version": 11,
+    "startDate": "2026-01-13T11:13:04+01:00",
+    "expiresDate": "2026-01-13T17:13:03+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: 3. Aktualisierung! - Beeinträchtigung des Trinkwassers - Chlorungsmaßn - Biringen, Fürweiler, Gerlfangen, und Oberesch der Gde. Rehlingen-Siersburg",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
