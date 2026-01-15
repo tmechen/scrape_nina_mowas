@@ -222,5 +222,26 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-RP-LD-SE117-20260115-121-000",
+    "version": 11,
+    "startDate": "2026-01-15T09:41:48+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasserverunreinigung in ZW-Mörsbach und Teilen der VG ZW-Land - Stadtteil Zweibrücken-Mörsbach und mehrere Ortsgemeinden in VG ZW-Land",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
