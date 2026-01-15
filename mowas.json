@@ -203,27 +203,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KL-SE112-20260115-112-002",
-    "version": 11,
-    "startDate": "2026-01-15T19:20:59+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Bombenfund / Bombenentschärfung - Schulzentrum Süd",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BY-HO-W142-20260115-002",
     "version": 11,
     "startDate": "2026-01-15T21:18:56+01:00",
@@ -286,6 +265,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KL-SE112-20260115-112-003",
+    "version": 11,
+    "startDate": "2026-01-15T23:07:13+01:00",
+    "expiresDate": "2026-01-16T05:07:12+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenfund / Bombenentschärfung - Schulzentrum Süd",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
