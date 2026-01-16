@@ -182,28 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-CE-W087-20260116-000",
-    "version": 11,
-    "startDate": "2026-01-16T09:33:22+01:00",
-    "expiresDate": "2026-01-16T15:33:21+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahr Information  - Landkreis Celle",
-      "en": "Epizootic",
-      "ar": "وباء حيواني",
-      "es": "Epizootia",
-      "fr": "Épizootie",
-      "pl": "Pomór zwierząt",
-      "ru": "Эпизоотия",
-      "tr": "Hayvan hastalıkları"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-067"
-    }
-  },
-  {
     "id": "mow.DE-BY-BA-W140-20260116-000",
     "version": 11,
     "startDate": "2026-01-16T09:40:31+01:00",
