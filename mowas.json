@@ -222,5 +222,26 @@
     "transKeys": {
       "event": "BBK-EVC-032"
     }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20260116-000",
+    "version": 11,
+    "startDate": "2026-01-16T07:05:31+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Straßenglätte - Beeinträchtigungen im Busverkehr - gesamter Landkreis MSH",
+      "en": "Black ice",
+      "ar": "ثلج انزلاقي",
+      "es": "Superficies heladas",
+      "fr": "Verglas",
+      "pl": "Gołoledź",
+      "ru": "Гололед",
+      "tr": "Buzlanma"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-032"
+    }
   }
 ]
