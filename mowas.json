@@ -182,27 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20260116-000",
-    "version": 11,
-    "startDate": "2026-01-16T07:05:31+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Straßenglätte - Beeinträchtigungen im Busverkehr - gesamter Landkreis MSH",
-      "en": "Black ice",
-      "ar": "ثلج انزلاقي",
-      "es": "Superficies heladas",
-      "fr": "Verglas",
-      "pl": "Gołoledź",
-      "ru": "Гололед",
-      "tr": "Buzlanma"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-032"
-    }
-  },
-  {
     "id": "mow.DE-NI-CE-W087-20260116-000",
     "version": 11,
     "startDate": "2026-01-16T09:33:22+01:00",
@@ -234,6 +213,28 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Warnung vor Glätte - Landkreis Forchheim",
+      "en": "Black ice",
+      "ar": "ثلج انزلاقي",
+      "es": "Superficies heladas",
+      "fr": "Verglas",
+      "pl": "Gołoledź",
+      "ru": "Гололед",
+      "tr": "Buzlanma"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-032"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20260116-001",
+    "version": 11,
+    "startDate": "2026-01-16T10:23:53+01:00",
+    "expiresDate": "2026-01-16T16:23:52+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Straßenglätte - Beeinträchtigungen im Busverkehr - gesamter Landkreis MSH",
       "en": "Black ice",
       "ar": "ثلج انزلاقي",
       "es": "Superficies heladas",
