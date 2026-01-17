@@ -182,28 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20260117-105-001",
-    "version": 11,
-    "startDate": "2026-01-17T16:15:01+01:00",
-    "expiresDate": "2026-01-17T22:15:01+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Göhl",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-ERK-SE056-20260117-56-001",
     "version": 11,
     "startDate": "2026-01-17T19:00:18+01:00",
