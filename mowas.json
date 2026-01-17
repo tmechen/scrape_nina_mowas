@@ -182,14 +182,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20260116-001",
+    "id": "mow.DE-BW-HD-W086-20260117-000",
     "version": 11,
-    "startDate": "2026-01-16T20:15:19+01:00",
+    "startDate": "2026-01-17T01:50:45+01:00",
+    "expiresDate": "2026-01-17T07:50:44+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in Edingen-Neckarhausen - Edingen-Neckarhausen und Ilvesheim",
+      "de": "Entwarnung: Brand in Edingen-Neckarhausen - Edingen-Neckarhausen und Ilvesheim",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
