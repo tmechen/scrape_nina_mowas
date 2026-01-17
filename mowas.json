@@ -204,14 +204,36 @@
     }
   },
   {
-    "id": "mow.DE-NW-RE-SE078-20260117-78-000",
+    "id": "mow.DE-SH-OD-SE105-20260117-105-000",
     "version": 11,
-    "startDate": "2026-01-17T03:09:27+01:00",
+    "startDate": "2026-01-17T06:23:50+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "2.2 Vorsorgliche Information zu einer Geruchsbelästigung - Recklinghausen, Stadtmitte, Lange Wanne, 800m Radius um die Einsatzstelle",
+      "de": "Feuerwehreinsatz - Göhl",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-RE-SE078-20260117-78-001",
+    "version": 11,
+    "startDate": "2026-01-17T06:27:01+01:00",
+    "expiresDate": "2026-01-17T12:27:01+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: 2.2 Vorsorgliche Information zu einer Geruchsbelästigung - Recklinghausen, Stadtmitte, Lange Wanne, 800m Radius um die Einsatzstelle",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
