@@ -182,14 +182,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20260117-56-001",
+    "id": "mow.DE-NW-ERK-SE056-20260117-56-002",
     "version": 11,
-    "startDate": "2026-01-17T19:00:18+01:00",
+    "startDate": "2026-01-18T00:08:49+01:00",
+    "expiresDate": "2026-01-18T06:08:49+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall in Teilen von WGB Dalheim - WGB- Dalheim / St.Ludwig-Straße",
+      "de": "Entwarnung: Stromausfall in Teilen von WGB Dalheim - WGB- Dalheim / St.Ludwig-Straße",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
