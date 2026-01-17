@@ -182,28 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-GF-W216-20260117-001",
-    "version": 11,
-    "startDate": "2026-01-17T12:15:29+01:00",
-    "expiresDate": "2026-01-17T18:15:29+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm zur Warnung der Bevölkerung - Landkreis Gifhorn",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20260117-105-001",
     "version": 11,
     "startDate": "2026-01-17T16:15:01+01:00",
