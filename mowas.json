@@ -182,14 +182,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20260118-18-000",
+    "id": "mow.DE-BW-S-SE018-20260118-18-001",
     "version": 11,
-    "startDate": "2026-01-18T08:13:19+01:00",
+    "startDate": "2026-01-18T10:17:51+01:00",
+    "expiresDate": "2026-01-18T16:17:51+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "01.02 Brand – Meldung - Stadtgebiet Nagold",
+      "de": "Entwarnung: 01.02 Brand – Meldung - Stadtgebiet Nagold",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
