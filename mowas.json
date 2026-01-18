@@ -98,27 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-NB-W076-20260118-001",
-    "version": 11,
-    "startDate": "2026-01-18T15:22:39+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung, aufgrund eines Brandes einer Stallanlage - Siedenbollentin",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-BC-W124-20260118-000",
     "version": 11,
     "startDate": "2026-01-18T17:12:01+01:00",
@@ -137,6 +116,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-MV-NB-W076-20260118-002",
+    "version": 11,
+    "startDate": "2026-01-18T23:16:30+01:00",
+    "expiresDate": "2026-01-19T05:16:29+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung, aufgrund eines Brandes einer Stallanlage - Siedenbollentin",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
