@@ -56,90 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20260103-105-000",
-    "version": 11,
-    "startDate": "2026-01-03T09:57:37+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vorsorgliche Information nach Schneefall  - Sachsenwald",
-      "en": "Snowfall",
-      "ar": "سقوط الجليد",
-      "es": "Nevada",
-      "fr": "Chute de neige",
-      "pl": "Opady śniegu",
-      "ru": "Снегопад",
-      "tr": "Kar düşmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
-  },
-  {
-    "id": "mow.DE-SH-OD-SE105-20260104-105-001",
-    "version": 11,
-    "startDate": "2026-01-04T12:09:54+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vorsorgliche Information nach Schneefall  - Waldgebiete Amt Hohe Elbgeest > Sachsenwald / Waldgebiet Bistal",
-      "en": "Snowfall",
-      "ar": "سقوط الجليد",
-      "es": "Nevada",
-      "fr": "Chute de neige",
-      "pl": "Opady śniegu",
-      "ru": "Снегопад",
-      "tr": "Kar düşmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
-  },
-  {
-    "id": "mow.DE-SH-OD-SE105-20260104-105-002",
-    "version": 11,
-    "startDate": "2026-01-04T12:29:53+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Vorsorgliche Information Schneefall - Waldgebiet \"Oher Tannen\"",
-      "en": "Snowfall",
-      "ar": "سقوط الجليد",
-      "es": "Nevada",
-      "fr": "Chute de neige",
-      "pl": "Opady śniegu",
-      "ru": "Снегопад",
-      "tr": "Kar düşmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
-  },
-  {
-    "id": "mow.DE-SH-OD-SE105-20260107-105-000",
-    "version": 11,
-    "startDate": "2026-01-07T10:23:58+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Vorsorgliche Information wegen Schnefall - Bereich Stadt Geesthacht",
-      "en": "Snowfall",
-      "ar": "سقوط الجليد",
-      "es": "Nevada",
-      "fr": "Chute de neige",
-      "pl": "Opady śniegu",
-      "ru": "Снегопад",
-      "tr": "Kar düşmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
-  },
-  {
     "id": "mow.DE-SL-SLS-W038-20260113-000",
     "version": 11,
     "startDate": "2026-01-13T12:09:37+01:00",
@@ -201,6 +117,94 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20260118-105-000",
+    "version": 11,
+    "startDate": "2026-01-18T10:34:35+01:00",
+    "expiresDate": "2026-01-18T16:34:34+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Vorsorgliche Information wegen Schnefall - Bereich Stadt Geesthacht",
+      "en": "Snowfall",
+      "ar": "سقوط الجليد",
+      "es": "Nevada",
+      "fr": "Chute de neige",
+      "pl": "Opady śniegu",
+      "ru": "Снегопад",
+      "tr": "Kar düşmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20260118-105-001",
+    "version": 11,
+    "startDate": "2026-01-18T10:34:51+01:00",
+    "expiresDate": "2026-01-18T16:34:50+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Vorsorgliche Information Schneefall - Waldgebiet \"Oher Tannen\"",
+      "en": "Snowfall",
+      "ar": "سقوط الجليد",
+      "es": "Nevada",
+      "fr": "Chute de neige",
+      "pl": "Opady śniegu",
+      "ru": "Снегопад",
+      "tr": "Kar düşmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20260118-105-002",
+    "version": 11,
+    "startDate": "2026-01-18T10:35:01+01:00",
+    "expiresDate": "2026-01-18T16:35:01+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Vorsorgliche Information nach Schneefall  - Waldgebiete Amt Hohe Elbgeest > Sachsenwald / Waldgebiet Bistal",
+      "en": "Snowfall",
+      "ar": "سقوط الجليد",
+      "es": "Nevada",
+      "fr": "Chute de neige",
+      "pl": "Opady śniegu",
+      "ru": "Снегопад",
+      "tr": "Kar düşmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20260118-105-004",
+    "version": 11,
+    "startDate": "2026-01-18T10:36:10+01:00",
+    "expiresDate": "2026-01-18T16:36:09+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Vorsorgliche Information nach Schneefall  - Sachsenwald",
+      "en": "Snowfall",
+      "ar": "سقوط الجليد",
+      "es": "Nevada",
+      "fr": "Chute de neige",
+      "pl": "Opady śniegu",
+      "ru": "Снегопад",
+      "tr": "Kar düşmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
     }
   }
 ]
