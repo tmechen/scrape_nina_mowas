@@ -206,5 +206,26 @@
     "transKeys": {
       "event": "BBK-EVC-057"
     }
+  },
+  {
+    "id": "mow.DE-MV-NB-W076-20260118-000",
+    "version": 11,
+    "startDate": "2026-01-18T14:24:14+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung, aufgrund eines Brandes einer Stallanlage - Siedenbollentin",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
