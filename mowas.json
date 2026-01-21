@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-RE-SE078-20260121-78-000",
-    "version": 11,
-    "startDate": "2026-01-21T06:14:18+01:00",
-    "expiresDate": "2026-01-21T12:14:18+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 4.2 Ausfall Stromversorgung - Waltrop",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20260121-105-000",
     "version": 11,
     "startDate": "2026-01-21T06:21:41+01:00",
