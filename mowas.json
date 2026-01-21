@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-BL-W128-20260120-001",
-    "version": 11,
-    "startDate": "2026-01-20T22:43:51+01:00",
-    "expiresDate": "2026-01-21T04:43:51+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahr durch austretendes Gas - Albstadt-Stadtteil Ebingen Innenstadt",
-      "en": "Gas leak",
-      "ar": "تسرب غاز",
-      "es": "Escape de gas",
-      "fr": "Fuite de gaz",
-      "pl": "Wyciek gazu",
-      "ru": "Утечка газа",
-      "tr": "Gaz kaçağı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-NW-RE-SE078-20260120-78-000",
     "version": 11,
     "startDate": "2026-01-20T23:00:50+01:00",
