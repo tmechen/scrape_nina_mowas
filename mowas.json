@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20260121-105-001",
-    "version": 11,
-    "startDate": "2026-01-21T14:58:17+01:00",
-    "expiresDate": "2026-01-21T20:58:17+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wasserrohrbruch - Klingberg - Straße: Hundesteert",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-EU-SE091-20260121-109-001",
     "version": 11,
     "startDate": "2026-01-21T18:13:51+01:00",
