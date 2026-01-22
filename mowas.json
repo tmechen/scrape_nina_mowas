@@ -164,14 +164,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260122-28-002",
+    "id": "mow.DE-SH-EH-SE028-20260122-28-003",
     "version": 11,
-    "startDate": "2026-01-22T15:14:26+01:00",
+    "startDate": "2026-01-22T15:57:56+01:00",
+    "expiresDate": "2026-01-22T21:57:55+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Kellinghusen",
+      "de": "Entwarnung: Feuerwehreinsatz - Kellinghusen",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
