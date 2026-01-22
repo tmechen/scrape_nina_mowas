@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20260122-90-001",
-    "version": 11,
-    "startDate": "2026-01-22T14:36:47+01:00",
-    "expiresDate": "2026-01-22T20:36:47+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund - Aachen Franzstrasse",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20260122-28-003",
     "version": 11,
     "startDate": "2026-01-22T15:57:56+01:00",
