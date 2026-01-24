@@ -120,14 +120,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20260124-000",
+    "id": "mow.DE-HE-HG-W103-20260124-001",
     "version": 11,
-    "startDate": "2026-01-24T11:51:13+01:00",
+    "startDate": "2026-01-24T12:10:59+01:00",
+    "expiresDate": "2026-01-24T18:10:59+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenentest im Stadtgebiet - Steinbach",
+      "de": "Entwarnung: Sirenentest im Stadtgebiet - Steinbach",
       "en": "Siren test",
       "ar": "تجربة صفارة الإنذار",
       "es": "Prueba de sirena",
