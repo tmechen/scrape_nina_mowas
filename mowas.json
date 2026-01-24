@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20260124-001",
-    "version": 11,
-    "startDate": "2026-01-24T11:19:09+01:00",
-    "expiresDate": "2026-01-24T17:19:09+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Quartalsmäßiger Probealarm zumTest der kommunalen Warneinrichtung - 76316 Malsch",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20260124-001",
     "version": 11,
     "startDate": "2026-01-24T12:10:59+01:00",
