@@ -119,14 +119,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20260125-67-000",
+    "id": "mow.DE-NW-DO-SE067-20260125-67-001",
     "version": 11,
-    "startDate": "2026-01-25T10:20:20+01:00",
+    "startDate": "2026-01-25T15:08:43+01:00",
+    "expiresDate": "2026-01-25T21:08:42+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund \"Südliche Innenstadt\" - Dortmund; Blindgänger-Entschärfung im Bereich Wiskottstraße",
+      "de": "Entwarnung: Kampfmittelfund \"Südliche Innenstadt\" - Dortmund; Blindgänger-Entschärfung im Bereich Wiskottstraße",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
