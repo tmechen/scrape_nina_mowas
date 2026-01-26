@@ -247,12 +247,12 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-SE137-20260126-166-000",
+    "id": "mow.DE-BY-N-SE137-20260126-166-001",
     "version": 11,
-    "startDate": "2026-01-26T15:58:29+01:00",
+    "startDate": "2026-01-26T17:44:53+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Andauernder Schneefall - Stadtgebiet Erlangen",
       "en": "Extremely heavy snowfall",
