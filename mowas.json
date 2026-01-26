@@ -141,48 +141,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20260126-31-000",
-    "version": 11,
-    "startDate": "2026-01-26T11:49:27+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Weltkriegsbombe - Köln-Porz auf der A59",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NW-SU-SE057-20260126-57-000",
-    "version": 11,
-    "startDate": "2026-01-26T12:29:25+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund aus dem 2. Weltkrieg - Köln Porz BAB 59 und Randbereich von Troisdorf Spich",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-BM-SE042-20260126-42-000",
     "version": 11,
     "startDate": "2026-01-26T12:48:47+01:00",
@@ -254,6 +212,71 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Erhebliche Einschränkungen im Straßenverkehr durch umgestürzte Bäume  - Landkreis Forchheim",
+      "en": "Extremely heavy snowfall",
+      "ar": "سقوط الجليد بشدة",
+      "es": "Nevada extrema",
+      "fr": "Chute de neige extrême",
+      "pl": "Ekstremalnie silne opady śniegu",
+      "ru": "Очень сильный снежный занос",
+      "tr": "Aşırı yoğun kar yağışı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-084"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20260126-31-002",
+    "version": 11,
+    "startDate": "2026-01-26T15:41:04+01:00",
+    "expiresDate": "2026-01-26T21:41:03+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Weltkriegsbombe - Köln-Porz auf der A59",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SU-SE057-20260126-57-001",
+    "version": 11,
+    "startDate": "2026-01-26T15:46:11+01:00",
+    "expiresDate": "2026-01-26T21:46:11+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund aus dem 2. Weltkrieg - Köln Porz BAB 59 und Randbereich von Troisdorf Spich",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BY-N-SE137-20260126-166-000",
+    "version": 11,
+    "startDate": "2026-01-26T15:58:29+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Andauernder Schneefall - Stadtgebiet Erlangen",
       "en": "Extremely heavy snowfall",
       "ar": "سقوط الجليد بشدة",
       "es": "Nevada extrema",
