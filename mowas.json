@@ -244,5 +244,26 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-HE-VB-W221-20260126-000",
+    "version": 11,
+    "startDate": "2026-01-26T22:27:56+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stau auf den Autobahnen A5 und A49 durch Schnee - A5",
+      "en": "Traffic alert",
+      "ar": "تحذير مروري",
+      "es": "Advertencia de tráfico",
+      "fr": "Alerte trafic",
+      "pl": "Ostrzeżenie drogowe",
+      "ru": "Предупреждение о ситуации на дороге",
+      "tr": "Trafik uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-075"
+    }
   }
 ]
