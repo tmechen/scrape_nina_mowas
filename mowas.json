@@ -266,5 +266,26 @@
     "transKeys": {
       "event": "BBK-EVC-084"
     }
+  },
+  {
+    "id": "mow.DE-BY-N-SE137-20260126-166-002",
+    "version": 11,
+    "startDate": "2026-01-26T19:35:23+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahr durch anhaltenden Schneefall - Landkreis Erlangen-Höchstadt",
+      "en": "Snowfall",
+      "ar": "سقوط الجليد",
+      "es": "Nevada",
+      "fr": "Chute de neige",
+      "pl": "Opady śniegu",
+      "ru": "Снегопад",
+      "tr": "Kar düşmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-057"
+    }
   }
 ]
