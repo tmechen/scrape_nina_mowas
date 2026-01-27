@@ -246,14 +246,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-VB-W221-20260126-000",
+    "id": "mow.DE-HE-VB-W221-20260127-000",
     "version": 11,
-    "startDate": "2026-01-26T22:27:56+01:00",
+    "startDate": "2026-01-27T02:02:50+01:00",
+    "expiresDate": "2026-01-27T08:02:49+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stau auf den Autobahnen A5 und A49 durch Schnee - A5",
+      "de": "Entwarnung: Stau auf den Autobahnen A5 und A49 durch Schnee - A5",
       "en": "Traffic alert",
       "ar": "تحذير مروري",
       "es": "Advertencia de tráfico",
