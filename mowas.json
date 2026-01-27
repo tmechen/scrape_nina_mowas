@@ -246,10 +246,10 @@
     }
   },
   {
-    "id": "mow.DE-NW-BM-SE042-20260127-42-000",
+    "id": "mow.DE-NW-BM-SE042-20260127-42-001",
     "version": 11,
-    "startDate": "2026-01-27T06:26:13+01:00",
-    "severity": "Severe",
+    "startDate": "2026-01-27T07:54:36+01:00",
+    "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
     "i18nTitle": {
