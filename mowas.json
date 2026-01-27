@@ -203,49 +203,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BM-SE042-20260127-42-001",
-    "version": 11,
-    "startDate": "2026-01-27T07:54:36+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Brandgase - Rhein-Erft-Kreis",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NI-CE-W087-20260127-002",
-    "version": 11,
-    "startDate": "2026-01-27T11:29:11+01:00",
-    "expiresDate": "2026-01-27T17:29:11+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand - Eicklingen",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-HAM-SE085-20260127-85-000",
     "version": 11,
     "startDate": "2026-01-27T13:46:01+01:00",
@@ -264,6 +221,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BM-SE042-20260127-42-002",
+    "version": 11,
+    "startDate": "2026-01-27T17:59:47+01:00",
+    "expiresDate": "2026-01-27T23:59:46+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandgase - Rhein-Erft-Kreis",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
