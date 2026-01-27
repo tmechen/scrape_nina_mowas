@@ -119,27 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BM-SE042-20260126-42-000",
-    "version": 11,
-    "startDate": "2026-01-26T12:48:47+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brandgase - Rhein-Erft-Kreis",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20260126-31-001",
     "version": 11,
     "startDate": "2026-01-26T14:51:16+01:00",
@@ -243,6 +222,48 @@
     },
     "transKeys": {
       "event": "BBK-EVC-075"
+    }
+  },
+  {
+    "id": "mow.DE-NI-CE-W087-20260127-000",
+    "version": 11,
+    "startDate": "2026-01-27T06:19:03+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand - Eicklingen",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BM-SE042-20260127-42-000",
+    "version": 11,
+    "startDate": "2026-01-27T06:26:13+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Brandgase - Rhein-Erft-Kreis",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
