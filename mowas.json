@@ -243,5 +243,26 @@
     "transKeys": {
       "event": "BBK-EVC-034"
     }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20260127-000",
+    "version": 11,
+    "startDate": "2026-01-27T09:05:40+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Erreichbarkeit der Leitstelle Mansfeld-Südharz eingeschränkt - Landkreis Mansfeld-Südharz",
+      "en": "Telephone line outage",
+      "ar": "انقطاع خطوط الهاتف",
+      "es": "Fallo de la línea telefónica",
+      "fr": "Défaillance de la ligne téléphonique",
+      "pl": "Awaria linii telefonicznej",
+      "ru": "Отказ линии телефонной сети",
+      "tr": "Telefon hattı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
+    }
   }
 ]
