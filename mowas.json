@@ -224,50 +224,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20260127-001",
-    "version": 11,
-    "startDate": "2026-01-27T10:31:36+01:00",
-    "expiresDate": "2026-01-27T16:31:35+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Erreichbarkeit der Leitstelle Mansfeld-Südharz eingeschränkt - Landkreis Mansfeld-Südharz",
-      "en": "Telephone line outage",
-      "ar": "انقطاع خطوط الهاتف",
-      "es": "Fallo de la línea telefónica",
-      "fr": "Défaillance de la ligne téléphonique",
-      "pl": "Awaria linii telefonicznej",
-      "ru": "Отказ линии телефонной сети",
-      "tr": "Telefon hattı arızası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-006"
-    }
-  },
-  {
-    "id": "mow.DE-ST-MSH-W058-20260127-002",
-    "version": 11,
-    "startDate": "2026-01-27T10:35:26+01:00",
-    "expiresDate": "2026-01-27T16:35:26+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Erreichbarkeit der Leitstelle Mansfeld-Südharz eingeschränkt - Landkreis Mansfeld-Südharz",
-      "en": "Telephone line outage",
-      "ar": "انقطاع خطوط الهاتف",
-      "es": "Fallo de la línea telefónica",
-      "fr": "Défaillance de la ligne téléphonique",
-      "pl": "Awaria linii telefonicznej",
-      "ru": "Отказ линии телефонной сети",
-      "tr": "Telefon hattı arızası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-006"
-    }
-  },
-  {
     "id": "mow.DE-NI-CE-W087-20260127-002",
     "version": 11,
     "startDate": "2026-01-27T11:29:11+01:00",
