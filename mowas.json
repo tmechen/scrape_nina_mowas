@@ -182,28 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260128-28-001",
-    "version": 11,
-    "startDate": "2026-01-28T05:09:52+01:00",
-    "expiresDate": "2026-01-28T11:09:52+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Kudensee",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-SHL-W117-20260128-000",
     "version": 11,
     "startDate": "2026-01-28T06:10:33+01:00",
