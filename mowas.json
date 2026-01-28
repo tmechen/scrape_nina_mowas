@@ -246,14 +246,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-EN-SE069-20260128-69-000",
+    "id": "mow.DE-NW-EN-SE069-20260128-69-001",
     "version": 11,
-    "startDate": "2026-01-28T15:09:26+01:00",
+    "startDate": "2026-01-28T16:48:25+01:00",
+    "expiresDate": "2026-01-28T22:48:24+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Transportleitungsschaden Wasserausfall Herdecke - Stadt Herdecke",
+      "de": "Entwarnung: Transportleitungsschaden Wasserausfall Herdecke - Stadt Herdecke",
       "en": "Alert",
       "ar": "تحذير",
       "es": "Advertencia",
