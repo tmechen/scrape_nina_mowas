@@ -224,14 +224,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20260128-105-001",
+    "id": "mow.DE-SH-OD-SE105-20260128-105-002",
     "version": 11,
-    "startDate": "2026-01-28T13:41:50+01:00",
+    "startDate": "2026-01-28T14:56:11+01:00",
+    "expiresDate": "2026-01-28T20:56:10+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Stockelsdorf",
+      "de": "Entwarnung: Feuerwehreinsatz - Stockelsdorf",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -242,6 +243,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-EN-SE069-20260128-69-000",
+    "version": 11,
+    "startDate": "2026-01-28T15:09:26+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Transportleitungsschaden Wasserausfall Herdecke - Stadt Herdecke",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
