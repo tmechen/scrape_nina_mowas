@@ -140,28 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-SHL-W117-20260129-000",
-    "version": 11,
-    "startDate": "2026-01-29T12:40:47+01:00",
-    "expiresDate": "2026-01-29T18:40:47+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Erhöhte Wasserdampfbildung und Lärmbelästigung - Wiegand-Glas, Schleusingen",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-MI-SE073-20260129-73-001",
     "version": 12,
     "startDate": "2026-01-29T15:13:53+01:00",
@@ -181,27 +159,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NW-DO-SE067-20260129-67-000",
-    "version": 12,
-    "startDate": "2026-01-29T15:47:42+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bombenentschärfung - Dortmund",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
     }
   },
   {
@@ -246,6 +203,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-057"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20260129-67-001",
+    "version": 12,
+    "startDate": "2026-01-29T18:44:29+01:00",
+    "expiresDate": "2026-01-30T00:44:29+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenentschärfung - Dortmund",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
