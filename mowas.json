@@ -140,28 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MI-SE073-20260129-73-001",
-    "version": 12,
-    "startDate": "2026-01-29T15:13:53+01:00",
-    "expiresDate": "2026-01-29T21:13:52+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wohnhausbrand in Bad Oeynhausen - Löhne",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-IN-W139-20260129-001",
     "version": 12,
     "startDate": "2026-01-29T17:50:07+01:00",
