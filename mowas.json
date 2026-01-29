@@ -98,27 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-SHL-W117-20260126-000",
-    "version": 11,
-    "startDate": "2026-01-26T07:09:47+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Erhöhte Wasserdampfbildung und Lärmbelästigung - Wiegand-Glas, Schleusingen",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-BA-W140-20260126-000",
     "version": 11,
     "startDate": "2026-01-26T15:17:07+01:00",
@@ -201,6 +180,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-006"
+    }
+  },
+  {
+    "id": "mow.DE-TH-SHL-W117-20260129-000",
+    "version": 11,
+    "startDate": "2026-01-29T12:40:47+01:00",
+    "expiresDate": "2026-01-29T18:40:47+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Erhöhte Wasserdampfbildung und Lärmbelästigung - Wiegand-Glas, Schleusingen",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
