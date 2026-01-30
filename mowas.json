@@ -138,5 +138,26 @@
     "transKeys": {
       "event": "BBK-EVC-084"
     }
+  },
+  {
+    "id": "mow.DE-BY-SW-SE151-20260130-176-000",
+    "version": 12,
+    "startDate": "2026-01-30T08:06:33+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "giftige Rauchwolke  durch den Großbrand einer Lagerhalle - Eyrichshof, Fischbach, Ebern",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
