@@ -98,14 +98,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-BA-W140-20260126-000",
-    "version": 11,
-    "startDate": "2026-01-26T15:17:07+01:00",
+    "id": "mow.DE-BY-N-SE137-20260130-166-000",
+    "version": 12,
+    "startDate": "2026-01-30T14:02:46+01:00",
+    "expiresDate": "2026-01-30T20:02:46+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Erhebliche Einschränkungen im Straßenverkehr durch umgestürzte Bäume  - Landkreis Forchheim",
+      "de": "Entwarnung: Andauernder Schneefall - Stadtgebiet Erlangen",
       "en": "Extremely heavy snowfall",
       "ar": "سقوط الجليد بشدة",
       "es": "Nevada extrema",
@@ -119,37 +120,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-SW-SE151-20260130-176-001",
+    "id": "mow.DE-BY-BA-W140-20260130-000",
     "version": 12,
-    "startDate": "2026-01-30T09:55:25+01:00",
-    "expiresDate": "2026-01-30T15:55:24+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: giftige Rauchwolke  durch den Großbrand einer Lagerhalle - Eyrichshof, Fischbach, Ebern",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BY-N-SE137-20260130-166-000",
-    "version": 12,
-    "startDate": "2026-01-30T14:02:46+01:00",
-    "expiresDate": "2026-01-30T20:02:46+01:00",
+    "startDate": "2026-01-30T15:59:29+01:00",
+    "expiresDate": "2026-01-30T21:59:28+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Andauernder Schneefall - Stadtgebiet Erlangen",
+      "de": "Entwarnung: Erhebliche Einschränkungen im Straßenverkehr durch umgestürzte Bäume  - Landkreis Forchheim",
       "en": "Extremely heavy snowfall",
       "ar": "سقوط الجليد بشدة",
       "es": "Nevada extrema",
