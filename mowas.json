@@ -96,27 +96,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-BY-BA-W140-20260130-000",
-    "version": 12,
-    "startDate": "2026-01-30T15:59:29+01:00",
-    "expiresDate": "2026-01-30T21:59:28+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Erhebliche Einschränkungen im Straßenverkehr durch umgestürzte Bäume  - Landkreis Forchheim",
-      "en": "Extremely heavy snowfall",
-      "ar": "سقوط الجليد بشدة",
-      "es": "Nevada extrema",
-      "fr": "Chute de neige extrême",
-      "pl": "Ekstremalnie silne opady śniegu",
-      "ru": "Очень сильный снежный занос",
-      "tr": "Aşırı yoğun kar yağışı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-084"
-    }
   }
 ]
