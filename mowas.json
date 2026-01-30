@@ -119,27 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-SE137-20260126-166-001",
-    "version": 11,
-    "startDate": "2026-01-26T17:44:53+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Andauernder Schneefall - Stadtgebiet Erlangen",
-      "en": "Extremely heavy snowfall",
-      "ar": "سقوط الجليد بشدة",
-      "es": "Nevada extrema",
-      "fr": "Chute de neige extrême",
-      "pl": "Ekstremalnie silne opady śniegu",
-      "ru": "Очень сильный снежный занос",
-      "tr": "Aşırı yoğun kar yağışı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-084"
-    }
-  },
-  {
     "id": "mow.DE-BY-SW-SE151-20260130-176-001",
     "version": 12,
     "startDate": "2026-01-30T09:55:25+01:00",
@@ -159,6 +138,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-N-SE137-20260130-166-000",
+    "version": 12,
+    "startDate": "2026-01-30T14:02:46+01:00",
+    "expiresDate": "2026-01-30T20:02:46+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Andauernder Schneefall - Stadtgebiet Erlangen",
+      "en": "Extremely heavy snowfall",
+      "ar": "سقوط الجليد بشدة",
+      "es": "Nevada extrema",
+      "fr": "Chute de neige extrême",
+      "pl": "Ekstremalnie silne opady śniegu",
+      "ru": "Очень сильный снежный занос",
+      "tr": "Aşırı yoğun kar yağışı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-084"
     }
   }
 ]
