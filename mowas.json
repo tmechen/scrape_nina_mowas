@@ -138,27 +138,5 @@
     "transKeys": {
       "event": "BBK-EVC-084"
     }
-  },
-  {
-    "id": "mow.DE-HE-KS-SE106-20260129-106-001",
-    "version": 12,
-    "startDate": "2026-01-29T23:01:54+01:00",
-    "expiresDate": "2026-01-30T05:01:54+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall Stromversorgung - Korbach",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
   }
 ]
