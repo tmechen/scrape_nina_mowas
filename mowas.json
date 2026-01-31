@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20260131-99-003",
-    "version": 12,
-    "startDate": "2026-01-31T13:28:01+01:00",
-    "expiresDate": "2026-01-31T19:28:01+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Dobersdorf",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-DA-W184-20260131-000",
     "version": 12,
     "startDate": "2026-01-31T14:59:45+01:00",
