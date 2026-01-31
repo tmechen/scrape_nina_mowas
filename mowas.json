@@ -98,14 +98,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20260131-99-001",
+    "id": "mow.DE-SH-KI-SE099-20260131-99-003",
     "version": 12,
-    "startDate": "2026-01-31T10:25:54+01:00",
+    "startDate": "2026-01-31T13:28:01+01:00",
+    "expiresDate": "2026-01-31T19:28:01+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gefahreninformation Feuerwehreinsatz - Dobersdorf",
+      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Dobersdorf",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
