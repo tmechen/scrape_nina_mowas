@@ -117,27 +117,5 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
-  },
-  {
-    "id": "mow.DE-MV-SN-SE049-20260202-49-000",
-    "version": 12,
-    "startDate": "2026-02-02T02:02:30+01:00",
-    "expiresDate": "2026-02-02T08:02:29+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand einer Lagerhalle - Lübesse",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
