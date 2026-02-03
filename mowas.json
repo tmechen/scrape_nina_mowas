@@ -182,28 +182,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20260202-105-004",
-    "version": 12,
-    "startDate": "2026-02-02T21:48:30+01:00",
-    "expiresDate": "2026-02-03T03:48:30+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung - Feuerwehreinsatz - Ratzeburg",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20260202-105-005",
     "version": 12,
     "startDate": "2026-02-02T23:19:30+01:00",
@@ -226,14 +204,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260203-28-000",
+    "id": "mow.DE-SH-EH-SE028-20260203-28-001",
     "version": 12,
-    "startDate": "2026-02-03T02:48:09+01:00",
+    "startDate": "2026-02-03T04:01:39+01:00",
+    "expiresDate": "2026-02-03T10:01:39+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Heide",
+      "de": "Entwarnung: Feuerwehreinsatz - Heide",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
@@ -244,6 +223,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE049-20260203-49-001",
+    "version": 12,
+    "startDate": "2026-02-03T04:05:27+01:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Brand einer Scheune mit Munitionsbelastung - Pokrent",
+      "en": "Risk of explosion",
+      "ar": "خطر الانفجار",
+      "es": "Peligro de explosión",
+      "fr": "Risque d'explosion",
+      "pl": "Niebezpieczeństwo wybuchu",
+      "ru": "Опасность взрыва",
+      "tr": "Patlama tehlikesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-020"
     }
   }
 ]
