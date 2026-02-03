@@ -98,27 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20260202-121-000",
-    "version": 12,
-    "startDate": "2026-02-02T10:10:47+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Störung Wasserversorgung - Rohrbach",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-RP-LD-SE117-20260202-121-001",
     "version": 12,
     "startDate": "2026-02-02T13:12:22+01:00",
@@ -140,25 +119,24 @@
     }
   },
   {
-    "id": "mow.DE-BW-BC-W124-20260203-000",
+    "id": "mow.DE-RP-LD-SE117-20260203-121-001",
     "version": 12,
-    "startDate": "2026-02-03T11:00:41+01:00",
-    "expiresDate": "2026-02-03T17:00:41+01:00",
+    "startDate": "2026-02-03T17:27:47+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Entwarnung: Gebäudebrand - Schemmerberg",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
+      "de": "Störung Wasserversorgung - Rohrbach",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
     },
     "transKeys": {
-      "event": "BBK-EVC-010"
+      "event": "BBK-EVC-078"
     }
   }
 ]
