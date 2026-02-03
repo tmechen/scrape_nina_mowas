@@ -161,28 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260203-28-001",
-    "version": 12,
-    "startDate": "2026-02-03T04:01:39+01:00",
-    "expiresDate": "2026-02-03T10:01:39+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Heide",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SN-C-W092-20260203-000",
     "version": 12,
     "startDate": "2026-02-03T05:46:57+01:00",
