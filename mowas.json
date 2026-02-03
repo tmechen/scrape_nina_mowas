@@ -138,5 +138,26 @@
     "transKeys": {
       "event": "BBK-EVC-078"
     }
+  },
+  {
+    "id": "mow.DE-NI-H-SE110-20260203-110-000",
+    "version": 12,
+    "startDate": "2026-02-03T18:50:10+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Schulausfall - Region Hannover und Landeshauptstadt Hannover",
+      "en": "Black ice",
+      "ar": "ثلج انزلاقي",
+      "es": "Superficies heladas",
+      "fr": "Verglas",
+      "pl": "Gołoledź",
+      "ru": "Гололед",
+      "tr": "Buzlanma"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-032"
+    }
   }
 ]
