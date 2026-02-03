@@ -140,50 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-C-W092-20260203-000",
-    "version": 12,
-    "startDate": "2026-02-03T05:46:57+01:00",
-    "expiresDate": "2026-02-03T11:46:56+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Großbrand - Kleinschirma, Stadt Freiberg, Wegefahrt, Oederan, Memmendorf",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-MV-SN-SE049-20260203-49-002",
-    "version": 12,
-    "startDate": "2026-02-03T05:54:00+01:00",
-    "expiresDate": "2026-02-03T11:54:00+01:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand einer Scheune mit Munitionsbelastung - Pokrent",
-      "en": "Risk of explosion",
-      "ar": "خطر الانفجار",
-      "es": "Peligro de explosión",
-      "fr": "Risque d'explosion",
-      "pl": "Niebezpieczeństwo wybuchu",
-      "ru": "Опасность взрыва",
-      "tr": "Patlama tehlikesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-020"
-    }
-  },
-  {
     "id": "mow.DE-BW-BC-W124-20260203-000",
     "version": 12,
     "startDate": "2026-02-03T11:00:41+01:00",
