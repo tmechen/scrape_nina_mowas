@@ -159,5 +159,26 @@
     "transKeys": {
       "event": "BBK-EVC-032"
     }
+  },
+  {
+    "id": "mow.DE-NW-EU-SE091-20260203-109-000",
+    "version": 12,
+    "startDate": "2026-02-03T22:21:41+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung in Nettersheim - 53947 Nettersheim",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
