@@ -161,14 +161,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-EU-SE091-20260203-109-000",
+    "id": "mow.DE-NW-EU-SE091-20260204-109-000",
     "version": 12,
-    "startDate": "2026-02-03T22:21:41+01:00",
+    "startDate": "2026-02-04T03:37:36+01:00",
+    "expiresDate": "2026-02-04T09:37:36+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Stromversorgung in Nettersheim - 53947 Nettersheim",
+      "de": "Entwarnung: Ausfall Stromversorgung in Nettersheim - 53947 Nettersheim",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
