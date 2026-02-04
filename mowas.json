@@ -182,14 +182,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20260204-105-000",
+    "id": "mow.DE-SH-OD-SE105-20260204-105-001",
     "version": 12,
-    "startDate": "2026-02-04T20:43:53+01:00",
+    "startDate": "2026-02-04T23:07:41+01:00",
+    "expiresDate": "2026-02-05T05:07:40+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Witzeeze, Am Krähenholz",
+      "de": "Entwarnung: Feuerwehreinsatz - Witzeeze, Am Krähenholz",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
