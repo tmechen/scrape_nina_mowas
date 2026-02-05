@@ -140,27 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-H-SE110-20260203-110-000",
-    "version": 12,
-    "startDate": "2026-02-03T18:50:10+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Schulausfall - Region Hannover und Landeshauptstadt Hannover",
-      "en": "Black ice",
-      "ar": "ثلج انزلاقي",
-      "es": "Superficies heladas",
-      "fr": "Verglas",
-      "pl": "Gołoledź",
-      "ru": "Гололед",
-      "tr": "Buzlanma"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-032"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20260205-28-000",
     "version": 12,
     "startDate": "2026-02-05T02:44:36+01:00",
@@ -287,6 +266,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NI-H-SE110-20260205-110-000",
+    "version": 12,
+    "startDate": "2026-02-05T08:43:24+01:00",
+    "expiresDate": "2026-02-05T14:43:23+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Schulausfall - Region Hannover und Landeshauptstadt Hannover",
+      "en": "Black ice",
+      "ar": "ثلج انزلاقي",
+      "es": "Superficies heladas",
+      "fr": "Verglas",
+      "pl": "Gołoledź",
+      "ru": "Гололед",
+      "tr": "Buzlanma"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-032"
+    }
+  },
+  {
+    "id": "mow.DE-HE-OF-W192-20260205-000",
+    "version": 12,
+    "startDate": "2026-02-05T08:46:04+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Brand - Egelsbach",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
