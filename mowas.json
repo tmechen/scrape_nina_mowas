@@ -119,27 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-C-W206-20260205-000",
-    "version": 12,
-    "startDate": "2026-02-05T03:03:58+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Glättegefahr durch überfrierende Nässe - Großraum Döbeln, Waldheim, Roßwein",
-      "en": "Black ice",
-      "ar": "ثلج انزلاقي",
-      "es": "Superficies heladas",
-      "fr": "Verglas",
-      "pl": "Gołoledź",
-      "ru": "Гололед",
-      "tr": "Buzlanma"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-032"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20260205-106-001",
     "version": 12,
     "startDate": "2026-02-05T11:56:55+01:00",
@@ -169,28 +148,6 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Geruchsbelästigung im Bereich Erzhausen,Weiterstadt - Erzhausen, Weiterstadt",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20260205-28-003",
-    "version": 12,
-    "startDate": "2026-02-05T14:42:19+01:00",
-    "expiresDate": "2026-02-05T20:42:18+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Nordermeldorf",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -289,6 +246,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SN-C-W206-20260205-001",
+    "version": 12,
+    "startDate": "2026-02-05T20:40:28+01:00",
+    "expiresDate": "2026-02-06T02:40:28+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Glättegefahr durch überfrierende Nässe - Großraum Döbeln, Waldheim, Roßwein",
+      "en": "Black ice",
+      "ar": "ثلج انزلاقي",
+      "es": "Superficies heladas",
+      "fr": "Verglas",
+      "pl": "Gołoledź",
+      "ru": "Гололед",
+      "tr": "Buzlanma"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-032"
     }
   }
 ]
