@@ -140,49 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-H-SE110-20260205-110-000",
-    "version": 12,
-    "startDate": "2026-02-05T08:43:24+01:00",
-    "expiresDate": "2026-02-05T14:43:23+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Schulausfall - Region Hannover und Landeshauptstadt Hannover",
-      "en": "Black ice",
-      "ar": "ثلج انزلاقي",
-      "es": "Superficies heladas",
-      "fr": "Verglas",
-      "pl": "Gołoledź",
-      "ru": "Гололед",
-      "tr": "Buzlanma"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-032"
-    }
-  },
-  {
-    "id": "mow.DE-HE-OF-W192-20260205-000",
-    "version": 12,
-    "startDate": "2026-02-05T08:46:04+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brand - Egelsbach",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-F-SE119-20260205-128-000",
     "version": 12,
     "startDate": "2026-02-05T11:44:25+01:00",
@@ -268,14 +225,14 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260205-28-001",
+    "id": "mow.DE-HE-DI-W104-20260205-002",
     "version": 12,
-    "startDate": "2026-02-05T12:37:11+01:00",
+    "startDate": "2026-02-05T12:44:28+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Nordermeldorf",
+      "de": "Geruchsbelästigung im Bereich Erzhausen,Weiterstadt - Erzhausen, Weiterstadt",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -289,14 +246,58 @@
     }
   },
   {
-    "id": "mow.DE-HE-DI-W104-20260205-002",
+    "id": "mow.DE-SH-EH-SE028-20260205-28-002",
     "version": 12,
-    "startDate": "2026-02-05T12:44:28+01:00",
+    "startDate": "2026-02-05T14:15:33+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Geruchsbelästigung im Bereich Erzhausen,Weiterstadt - Erzhausen, Weiterstadt",
+      "de": "Feuerwehreinsatz - Hasloh",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20260205-28-003",
+    "version": 12,
+    "startDate": "2026-02-05T14:42:19+01:00",
+    "expiresDate": "2026-02-05T20:42:18+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Nordermeldorf",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HE-OF-W192-20260205-001",
+    "version": 12,
+    "startDate": "2026-02-05T15:01:47+01:00",
+    "expiresDate": "2026-02-05T21:01:47+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brand - Egelsbach",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
