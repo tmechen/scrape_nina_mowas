@@ -161,27 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-VER-W077-20260204-000",
-    "version": 12,
-    "startDate": "2026-02-04T20:42:15+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brandrauch durch Gebäudebrand - Quelkhorn",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20260205-28-000",
     "version": 12,
     "startDate": "2026-02-05T02:44:36+01:00",
@@ -225,14 +204,37 @@
     }
   },
   {
-    "id": "mow.DE-NW-HF-SE039-20260205-39-000",
+    "id": "mow.DE-NI-VER-W077-20260205-000",
     "version": 12,
-    "startDate": "2026-02-05T03:45:07+01:00",
+    "startDate": "2026-02-05T07:14:35+01:00",
+    "expiresDate": "2026-02-05T13:14:35+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung in Herford - Herford",
+      "de": "Entwarnung: Brandrauch durch Gebäudebrand - Quelkhorn",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HF-SE039-20260205-39-001",
+    "version": 12,
+    "startDate": "2026-02-05T07:24:21+01:00",
+    "expiresDate": "2026-02-05T13:24:21+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung in Herford - Herford",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
