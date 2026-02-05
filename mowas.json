@@ -119,27 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20260205-106-001",
-    "version": 12,
-    "startDate": "2026-02-05T11:56:55+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Einsatz der Feuerwehr im Bereich Wixhausen - Darmstadt",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-DI-W104-20260205-002",
     "version": 12,
     "startDate": "2026-02-05T12:44:28+01:00",
@@ -148,28 +127,6 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Geruchsbelästigung im Bereich Erzhausen,Weiterstadt - Erzhausen, Weiterstadt",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-HE-OF-W192-20260205-001",
-    "version": 12,
-    "startDate": "2026-02-05T15:01:47+01:00",
-    "expiresDate": "2026-02-05T21:01:47+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brand - Egelsbach",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -268,6 +225,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-032"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20260205-106-002",
+    "version": 12,
+    "startDate": "2026-02-05T21:33:50+01:00",
+    "expiresDate": "2026-02-06T03:33:50+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Einsatz der Feuerwehr im Bereich Wixhausen - Darmstadt",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
