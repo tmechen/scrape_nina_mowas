@@ -119,14 +119,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20260206-56-000",
+    "id": "mow.DE-NW-ERK-SE056-20260206-56-001",
     "version": 12,
-    "startDate": "2026-02-06T20:06:07+01:00",
+    "startDate": "2026-02-06T22:56:54+01:00",
+    "expiresDate": "2026-02-07T04:56:53+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung in Selfkant - Tüddern, Millen, Isenbruch, Schalbruch und Havert",
+      "de": "Entwarnung: Geruchsbelästigung in Selfkant - Tüddern, Millen, Isenbruch, Schalbruch und Havert",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
