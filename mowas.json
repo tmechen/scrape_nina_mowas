@@ -117,27 +117,5 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
-  },
-  {
-    "id": "mow.DE-RP-LD-SE117-20260206-121-000",
-    "version": 12,
-    "startDate": "2026-02-06T12:59:26+01:00",
-    "expiresDate": "2026-02-06T18:59:25+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Störung Wasserversorgung - Rohrbach",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
   }
 ]
