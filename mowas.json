@@ -139,5 +139,26 @@
     "transKeys": {
       "event": "BBK-EVC-024"
     }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE049-20260206-49-000",
+    "version": 12,
+    "startDate": "2026-02-06T10:16:54+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Brand - Wamckow",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
