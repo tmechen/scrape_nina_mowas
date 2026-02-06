@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-HST-W239-20260206-000",
-    "version": 12,
-    "startDate": "2026-02-06T08:07:35+01:00",
-    "expiresDate": "2026-02-06T14:07:34+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Extreme Wetterlage - Gemeinde Sundhagen",
-      "en": "Extreme black ice",
-      "ar": "جليد شديد",
-      "es": "Superficies heladas extremas",
-      "fr": "Verglas extrême",
-      "pl": "Ekstremalne oblodzenie",
-      "ru": "Экстремальный гололед",
-      "tr": "Şiddetli buzlanma"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-024"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE049-20260206-49-000",
     "version": 12,
     "startDate": "2026-02-06T10:16:54+01:00",
