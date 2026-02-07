@@ -207,14 +207,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20260207-000",
+    "id": "mow.DE-BW-RA-W025-20260207-001",
     "version": 12,
-    "startDate": "2026-02-07T11:50:40+01:00",
+    "startDate": "2026-02-07T12:03:36+01:00",
+    "expiresDate": "2026-02-07T18:03:35+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenen-Probealarm - Loffenau",
+      "de": "Entwarnung: Sirenen-Probealarm - Loffenau",
       "en": "Siren test",
       "ar": "تجربة صفارة الإنذار",
       "es": "Prueba de sirena",
