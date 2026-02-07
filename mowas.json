@@ -163,14 +163,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-AP-W115-20260207-000",
+    "id": "mow.DE-TH-AP-W115-20260207-001",
     "version": 12,
-    "startDate": "2026-02-07T09:50:05+01:00",
+    "startDate": "2026-02-07T10:00:29+01:00",
+    "expiresDate": "2026-02-07T16:00:28+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenenprobealarm - Weimarer Land",
+      "de": "Entwarnung: Sirenenprobealarm - Weimarer Land",
       "en": "Siren test",
       "ar": "تجربة صفارة الإنذار",
       "es": "Prueba de sirena",
