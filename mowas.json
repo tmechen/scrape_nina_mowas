@@ -98,27 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20260208-121-000",
-    "version": 12,
-    "startDate": "2026-02-08T11:55:50+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand in Hermersberg - Türen und Fenster geschlossen halten! - Hermersberg",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BB-CB-SE036-20260208-36-001",
     "version": 12,
     "startDate": "2026-02-08T15:54:22+01:00",
@@ -138,6 +117,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LD-SE117-20260208-121-001",
+    "version": 12,
+    "startDate": "2026-02-08T16:57:14+01:00",
+    "expiresDate": "2026-02-08T22:57:14+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand in Hermersberg - Türen und Fenster geschlossen halten! - Hermersberg",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
