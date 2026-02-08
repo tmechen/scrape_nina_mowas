@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20260208-36-001",
-    "version": 12,
-    "startDate": "2026-02-08T15:54:22+01:00",
-    "expiresDate": "2026-02-08T21:54:21+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in der Ortslage Sonnewalde - Sonnewalde",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-LD-SE117-20260208-121-001",
     "version": 12,
     "startDate": "2026-02-08T16:57:14+01:00",
