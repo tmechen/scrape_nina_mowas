@@ -98,27 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20260208-36-000",
-    "version": 12,
-    "startDate": "2026-02-08T04:14:57+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand in der Ortslage Sonnewalde - Sonnewalde",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-LD-SE117-20260208-121-000",
     "version": 12,
     "startDate": "2026-02-08T11:55:50+01:00",
@@ -137,6 +116,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BB-CB-SE036-20260208-36-001",
+    "version": 12,
+    "startDate": "2026-02-08T15:54:22+01:00",
+    "expiresDate": "2026-02-08T21:54:21+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand in der Ortslage Sonnewalde - Sonnewalde",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
