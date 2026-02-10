@@ -140,14 +140,15 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20260210-33-000",
+    "id": "mow.DE-HH-HH-SE033-20260210-33-001",
     "version": 12,
-    "startDate": "2026-02-10T19:02:09+01:00",
+    "startDate": "2026-02-10T21:07:36+01:00",
+    "expiresDate": "2026-02-11T03:07:36+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "500 Pfund -Bombe gefunden - Hamburg-Wilhelmsburg / Waltershof",
+      "de": "Entwarnung: 500 Pfund -Bombe gefunden - Hamburg-Wilhelmsburg / Waltershof",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
