@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20260211-29-000",
-    "version": 12,
-    "startDate": "2026-02-11T12:30:22+01:00",
-    "expiresDate": "2026-02-11T18:30:22+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand im LK Ammerland - Gemeinde Wiefelstede",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20260211-84-001",
     "version": 12,
     "startDate": "2026-02-11T13:15:52+01:00",
