@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20260210-33-001",
-    "version": 12,
-    "startDate": "2026-02-10T21:07:36+01:00",
-    "expiresDate": "2026-02-11T03:07:36+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 500 Pfund -Bombe gefunden - Hamburg-Wilhelmsburg / Waltershof",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-SN-HY-SE048-20260210-122-001",
     "version": 12,
     "startDate": "2026-02-10T21:36:54+01:00",
