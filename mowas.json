@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20260211-84-001",
-    "version": 12,
-    "startDate": "2026-02-11T13:15:52+01:00",
-    "expiresDate": "2026-02-11T19:15:51+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefährdung durch Brandgase - Pfatter",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-RE-SE078-20260211-78-002",
     "version": 12,
     "startDate": "2026-02-11T16:50:08+01:00",
