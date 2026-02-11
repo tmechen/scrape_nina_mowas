@@ -119,14 +119,14 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20260210-122-001",
+    "id": "mow.DE-NI-STD-SE029B-20260211-129-000",
     "version": 12,
-    "startDate": "2026-02-10T21:36:54+01:00",
-    "severity": "Minor",
+    "startDate": "2026-02-11T08:14:05+01:00",
+    "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Starke Belastung durch Brandrauch und Rauchgeruch - Schirgiswalde-Kirschau Ortslage Callenberg",
+      "de": "Großbrand im LK Ammerland - Gemeinde Wiefelstede",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
@@ -140,14 +140,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20260211-129-000",
+    "id": "mow.DE-SN-HY-SE048-20260211-122-000",
     "version": 12,
-    "startDate": "2026-02-11T08:14:05+01:00",
-    "severity": "Severe",
+    "startDate": "2026-02-11T10:26:20+01:00",
+    "expiresDate": "2026-02-11T16:26:20+01:00",
+    "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand im LK Ammerland - Gemeinde Wiefelstede",
+      "de": "Entwarnung: Starke Belastung durch Brandrauch und Rauchgeruch - Schirgiswalde-Kirschau Ortslage Callenberg",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
