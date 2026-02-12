@@ -138,5 +138,26 @@
     "transKeys": {
       "event": "BBK-EVC-071"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20260212-129-000",
+    "version": 12,
+    "startDate": "2026-02-12T09:57:07+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Schadstofffreisetzung in Warmsen - 31606 Warmsen",
+      "en": "Chemical accident",
+      "ar": "حادث كيماوي",
+      "es": "Accidente químico",
+      "fr": "Accident chimique",
+      "pl": "Wypadek chemiczny",
+      "ru": "Химическая авария",
+      "tr": "Kimyasal kaza"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-012"
+    }
   }
 ]
