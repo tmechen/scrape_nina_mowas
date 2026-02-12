@@ -140,14 +140,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-HL-SE103-20260212-103-000",
+    "id": "mow.DE-SH-HL-SE103-20260212-103-001",
     "version": 12,
-    "startDate": "2026-02-12T19:05:54+01:00",
+    "startDate": "2026-02-12T23:26:52+01:00",
+    "expiresDate": "2026-02-13T05:26:52+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall - Lübeck, Stadtteil Vorwerk",
+      "de": "Entwarnung: Stromausfall - Lübeck, Stadtteil Vorwerk",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
