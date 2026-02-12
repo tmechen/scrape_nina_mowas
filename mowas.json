@@ -159,5 +159,26 @@
     "transKeys": {
       "event": "BBK-EVC-012"
     }
+  },
+  {
+    "id": "mow.DE-BW-LOE-W023-20260212-000",
+    "version": 12,
+    "startDate": "2026-02-12T11:38:48+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Technische Störung der Integrierten Leitstelle Lörrach - Landkreis Lörrach",
+      "en": "IT system outage",
+      "ar": "انقطاع أنظمة تكنولوجيا المعلومات",
+      "es": "Fallo de los sistemas informáticos",
+      "fr": "Défaillance des systèmes informatiques",
+      "pl": "Awaria systemów informatycznych",
+      "ru": "Отказ информационных систем",
+      "tr": "BT sistemleri arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-004"
+    }
   }
 ]
