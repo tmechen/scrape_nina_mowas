@@ -140,28 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20260212-29-000",
-    "version": 12,
-    "startDate": "2026-02-12T14:25:06+01:00",
-    "expiresDate": "2026-02-12T20:25:06+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Schadstofffreisetzung in Warmsen - 31606 Warmsen",
-      "en": "Chemical accident",
-      "ar": "حادث كيماوي",
-      "es": "Accidente químico",
-      "fr": "Accident chimique",
-      "pl": "Wypadek chemiczny",
-      "ru": "Химическая авария",
-      "tr": "Kimyasal kaza"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-012"
-    }
-  },
-  {
     "id": "mow.DE-SH-HL-SE103-20260212-103-000",
     "version": 12,
     "startDate": "2026-02-12T19:05:54+01:00",
