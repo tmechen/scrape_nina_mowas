@@ -140,14 +140,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-COE-SE051-20260213-124-000",
+    "id": "mow.DE-NW-COE-SE051-20260213-124-001",
     "version": 12,
-    "startDate": "2026-02-13T19:16:44+01:00",
+    "startDate": "2026-02-13T21:53:40+01:00",
+    "expiresDate": "2026-02-14T03:53:40+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in Billerbeck - Gut Holtmann",
+      "de": "Entwarnung: Rauchgase in Billerbeck - Gut Holtmann",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
