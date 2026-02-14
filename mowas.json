@@ -140,36 +140,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260214-28-000",
+    "id": "mow.DE-NI-BS-SE129-20260214-157-001",
     "version": 12,
-    "startDate": "2026-02-14T02:24:15+01:00",
-    "expiresDate": "2026-02-14T08:24:14+01:00",
-    "severity": "Minor",
+    "startDate": "2026-02-14T06:21:41+01:00",
+    "expiresDate": "2026-02-14T12:21:40+01:00",
+    "severity": "Severe",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Stadt Heide",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-SH-OD-SE105-20260214-105-000",
-    "version": 12,
-    "startDate": "2026-02-14T05:27:38+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Rauchentwicklung - Eutin Fissau - Sielbecker Landstraße",
+      "de": "Entwarnung: Rauchentwicklung durch brennende Autoreifen - Sickte, Gewerbebetrieb Am Bockshorn",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -183,15 +162,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-BS-SE129-20260214-157-001",
+    "id": "mow.DE-SH-OD-SE105-20260214-105-001",
     "version": 12,
-    "startDate": "2026-02-14T06:21:41+01:00",
-    "expiresDate": "2026-02-14T12:21:40+01:00",
-    "severity": "Severe",
+    "startDate": "2026-02-14T08:46:17+01:00",
+    "expiresDate": "2026-02-14T14:46:16+01:00",
+    "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch brennende Autoreifen - Sickte, Gewerbebetrieb Am Bockshorn",
+      "de": "Entwarnung: Feuerwehreinsatz - Rauchentwicklung - Eutin Fissau - Sielbecker Landstraße",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
