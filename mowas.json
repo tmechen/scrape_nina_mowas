@@ -183,14 +183,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-BS-SE129-20260214-157-000",
+    "id": "mow.DE-NI-BS-SE129-20260214-157-001",
     "version": 12,
-    "startDate": "2026-02-14T05:45:15+01:00",
+    "startDate": "2026-02-14T06:21:41+01:00",
+    "expiresDate": "2026-02-14T12:21:40+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch brennende Autoreifen - Sickte, Gewerbebetrieb Am Bockshorn",
+      "de": "Entwarnung: Rauchentwicklung durch brennende Autoreifen - Sickte, Gewerbebetrieb Am Bockshorn",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
