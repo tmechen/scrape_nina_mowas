@@ -162,14 +162,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-LDK-W187-20260215-000",
+    "id": "mow.DE-HE-LDK-W187-20260215-001",
     "version": 12,
-    "startDate": "2026-02-15T10:03:40+01:00",
+    "startDate": "2026-02-15T11:10:57+01:00",
+    "expiresDate": "2026-02-15T17:10:57+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Feuer in Dietzhölztal - Dietzhölztal; Eschenburg",
+      "de": "Entwarnung: Starke Rauchentwicklung durch Feuer in Dietzhölztal - Dietzhölztal; Eschenburg",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
