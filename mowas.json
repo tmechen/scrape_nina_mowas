@@ -138,5 +138,26 @@
     "transKeys": {
       "event": "BBK-EVC-071"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20260215-29-000",
+    "version": 12,
+    "startDate": "2026-02-15T01:05:34+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall in Rhüden - Landkreis Goslar - Bereich Rhüden",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
   }
 ]
