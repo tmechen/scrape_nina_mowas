@@ -117,27 +117,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-HE-F-SE119-20260216-128-001",
-    "version": 12,
-    "startDate": "2026-02-16T12:19:15+01:00",
-    "expiresDate": "2026-02-16T18:19:14+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Gefahrstoffaustritt, Austritt gestoppt - Frankfurt-Höchst, Unterliederbach und Nied | Frankfurt West",
-      "en": "Chemical accident",
-      "ar": "حادث كيماوي",
-      "es": "Accidente químico",
-      "fr": "Accident chimique",
-      "pl": "Wypadek chemiczny",
-      "ru": "Химическая авария",
-      "tr": "Kimyasal kaza"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-012"
-    }
   }
 ]
