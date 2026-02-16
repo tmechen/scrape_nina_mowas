@@ -119,14 +119,15 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20260216-143-001",
+    "id": "mow.DE-ST-MD-SE022-20260216-143-002",
     "version": 12,
-    "startDate": "2026-02-16T21:28:53+01:00",
+    "startDate": "2026-02-16T23:55:36+01:00",
+    "expiresDate": "2026-02-17T05:55:35+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung bei Großbrand - Magdeburg, Stadtfeld Ost und Stadtfeld West- Sudenburger Wuhne",
+      "de": "Entwarnung: Rauchentwicklung bei Großbrand - Magdeburg, Stadtfeld Ost und Stadtfeld West- Sudenburger Wuhne",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
