@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-AN-W166-20260216-000",
-    "version": 12,
-    "startDate": "2026-02-16T09:02:43+01:00",
-    "expiresDate": "2026-02-16T15:02:42+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rezatparkplatz wegen Hochwasser gesperrt - Stadt Ansbach",
-      "en": "Flooding",
-      "ar": "طوفان",
-      "es": "Inundación",
-      "fr": "Inondation",
-      "pl": "Wystąpienie wody z brzegów",
-      "ru": "Затопление",
-      "tr": "Su baskını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-071"
-    }
-  },
-  {
     "id": "mow.DE-HE-F-SE119-20260216-128-001",
     "version": 12,
     "startDate": "2026-02-16T12:19:15+01:00",
