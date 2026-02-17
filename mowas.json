@@ -140,14 +140,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-HAM-SE085-20260217-85-000",
+    "id": "mow.DE-NW-HAM-SE085-20260217-85-001",
     "version": 12,
-    "startDate": "2026-02-17T18:09:49+01:00",
+    "startDate": "2026-02-17T22:05:54+01:00",
+    "expiresDate": "2026-02-18T04:05:54+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Belästigung durch Rauchgase in der Stadt Hamm - HAMM -Mark /Braam-Ostwennemar",
+      "de": "Entwarnung: Belästigung durch Rauchgase in der Stadt Hamm - HAMM -Mark /Braam-Ostwennemar",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
