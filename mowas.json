@@ -140,14 +140,14 @@
     }
   },
   {
-    "id": "mow.DE-RP-LU-SE005-20260218-5-000",
+    "id": "mow.DE-NW-DO-SE067-20260218-67-000",
     "version": 12,
-    "startDate": "2026-02-18T13:59:05+01:00",
+    "startDate": "2026-02-18T16:21:29+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Evakuierung aufgrund Entschärfung einer Weltkriegsbombe - Stadt Ludwigshafen am Rhein",
+      "de": "Kampfmittelfund - Dortmund; Blindgänger-Entschärfung im Bereich der Straße Rischholz.",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
@@ -161,14 +161,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20260218-67-000",
+    "id": "mow.DE-RP-LU-SE005-20260218-5-001",
     "version": 12,
-    "startDate": "2026-02-18T16:21:29+01:00",
+    "startDate": "2026-02-18T17:39:56+01:00",
+    "expiresDate": "2026-02-18T23:39:56+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund - Dortmund; Blindgänger-Entschärfung im Bereich der Straße Rischholz.",
+      "de": "Entwarnung: Evakuierung aufgrund Entschärfung einer Weltkriegsbombe - Stadt Ludwigshafen am Rhein",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
