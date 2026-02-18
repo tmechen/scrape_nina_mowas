@@ -98,14 +98,14 @@
     }
   },
   {
-    "id": "mow.DE-BY-WUE-W164-20260209-000",
+    "id": "mow.DE-HE-FD-W183-20260217-000",
     "version": 12,
-    "startDate": "2026-02-09T08:01:55+01:00",
+    "startDate": "2026-02-17T14:47:16+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Abkochgebot für Trinkwasser - 97855 Markt Triefenstein, Ortsteil Lengfurt",
+      "de": "Abkochgebot Trinkwasser Gemeinde Ehrenberg Ortsteile Wüstensachsen und Melperts - Ehrenberg",
       "en": "Contaminated drinking water",
       "ar": "تلوث مياه الشرب",
       "es": "Contaminación de agua potable",
@@ -119,14 +119,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-FD-W183-20260217-000",
+    "id": "mow.DE-BY-WUE-W164-20260218-000",
     "version": 12,
-    "startDate": "2026-02-17T14:47:16+01:00",
+    "startDate": "2026-02-18T09:26:56+01:00",
+    "expiresDate": "2026-02-18T15:26:55+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Abkochgebot Trinkwasser Gemeinde Ehrenberg Ortsteile Wüstensachsen und Melperts - Ehrenberg",
+      "de": "Entwarnung: Abkochgebot für Trinkwasser - 97855 Markt Triefenstein, Ortsteil Lengfurt",
       "en": "Contaminated drinking water",
       "ar": "تلوث مياه الشرب",
       "es": "Contaminación de agua potable",
