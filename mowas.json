@@ -119,27 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20260218-67-000",
-    "version": 12,
-    "startDate": "2026-02-18T16:21:29+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund - Dortmund; Blindgänger-Entschärfung im Bereich der Straße Rischholz.",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-RP-LU-SE005-20260218-5-001",
     "version": 12,
     "startDate": "2026-02-18T17:39:56+01:00",
@@ -171,6 +150,28 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Bombenfund in Gelsenkirchen-Beckhausen - Gelsenkirchen, Ortsteil Beckhausen",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20260218-67-001",
+    "version": 12,
+    "startDate": "2026-02-18T20:34:03+01:00",
+    "expiresDate": "2026-02-19T02:34:02+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund - Dortmund; Blindgänger-Entschärfung im Bereich der Straße Rischholz.",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
