@@ -119,58 +119,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-GE-SE064-20260218-64-002",
+    "id": "mow.DE-SH-EH-SE028-20260219-28-000",
     "version": 12,
-    "startDate": "2026-02-18T19:46:48+01:00",
-    "expiresDate": "2026-02-19T01:46:48+01:00",
+    "startDate": "2026-02-19T02:58:27+01:00",
+    "expiresDate": "2026-02-19T08:58:27+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Bombenfund in Gelsenkirchen-Beckhausen - Gelsenkirchen, Ortsteil Beckhausen",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NW-DO-SE067-20260218-67-001",
-    "version": 12,
-    "startDate": "2026-02-18T20:34:03+01:00",
-    "expiresDate": "2026-02-19T02:34:02+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund - Dortmund; Blindgänger-Entschärfung im Bereich der Straße Rischholz.",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20260218-28-000",
-    "version": 12,
-    "startDate": "2026-02-18T22:35:00+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Brunsbüttel",
+      "de": "Entwarnung: Feuerwehreinsatz - Brunsbüttel",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
