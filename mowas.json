@@ -117,27 +117,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-HE-LDK-W187-20260219-001",
-    "version": 12,
-    "startDate": "2026-02-19T13:18:13+01:00",
-    "expiresDate": "2026-02-19T19:18:12+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starker Schneefall mit Schneeverwehungen - Lahn-Dill-Kreis",
-      "en": "Snowfall",
-      "ar": "سقوط الجليد",
-      "es": "Nevada",
-      "fr": "Chute de neige",
-      "pl": "Opady śniegu",
-      "ru": "Снегопад",
-      "tr": "Kar düşmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-057"
-    }
   }
 ]
