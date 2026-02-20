@@ -119,14 +119,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-E-SE052-20260220-52-000",
+    "id": "mow.DE-NW-E-SE052-20260220-52-001",
     "version": 12,
-    "startDate": "2026-02-20T15:14:21+01:00",
+    "startDate": "2026-02-20T19:21:26+01:00",
+    "expiresDate": "2026-02-21T01:21:25+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase (Essen- Frillendorf) - Essen",
+      "de": "Entwarnung: Rauchgase (Essen- Frillendorf) - Essen",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
