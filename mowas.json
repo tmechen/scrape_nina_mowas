@@ -119,14 +119,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-HIG-W111-20260221-000",
+    "id": "mow.DE-TH-HIG-W111-20260221-001",
     "version": 12,
-    "startDate": "2026-02-21T11:06:12+01:00",
+    "startDate": "2026-02-21T12:09:36+01:00",
+    "expiresDate": "2026-02-21T18:09:36+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenen-Funktionsprobe - Landgemeinde Dingelstädt und VG Hanstein-Rusteberg",
+      "de": "Entwarnung: Sirenen-Funktionsprobe - Landgemeinde Dingelstädt und VG Hanstein-Rusteberg",
       "en": "Siren test",
       "ar": "تجربة صفارة الإنذار",
       "es": "Prueba de sirena",
