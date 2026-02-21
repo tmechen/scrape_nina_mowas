@@ -119,14 +119,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20260221-18-000",
+    "id": "mow.DE-BW-S-SE018-20260221-18-001",
     "version": 12,
-    "startDate": "2026-02-21T18:49:30+01:00",
+    "startDate": "2026-02-21T20:31:20+01:00",
+    "expiresDate": "2026-02-22T02:31:20+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung  - Enzberg",
+      "de": "Entwarnung: Geruchsbelästigung  - Enzberg",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
