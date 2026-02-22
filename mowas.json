@@ -119,27 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20260222-56-000",
-    "version": 12,
-    "startDate": "2026-02-22T02:27:28+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brandgase - Kreis Heinsberg, Gemeinde Selkant, Gemeinde Waldfeucht, Stadt Heinsberg",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-ERB-W191-20260222-000",
     "version": 12,
     "startDate": "2026-02-22T10:38:25+01:00",
@@ -158,6 +137,48 @@
     },
     "transKeys": {
       "event": "BBK-EVC-038"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20260222-56-001",
+    "version": 12,
+    "startDate": "2026-02-22T14:08:16+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Brandgase - Gemeinde Selkant, Gemeinde Waldfeucht, Stadt Heinsberg",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20260222-50-000",
+    "version": 12,
+    "startDate": "2026-02-22T14:12:14+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großflächiger Stromausfall im Schwarzwald-Baar-Kreis - Landkreis Schwarzwald-Baar",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
