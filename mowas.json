@@ -119,25 +119,24 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20260221-18-001",
+    "id": "mow.DE-NW-ERK-SE056-20260222-56-000",
     "version": 12,
-    "startDate": "2026-02-21T20:31:20+01:00",
-    "expiresDate": "2026-02-22T02:31:20+01:00",
-    "severity": "Severe",
+    "startDate": "2026-02-22T02:27:28+01:00",
+    "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung  - Enzberg",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
+      "de": "Geruchsbelästigung durch Brandgase - Kreis Heinsberg, Gemeinde Selkant, Gemeinde Waldfeucht, Stadt Heinsberg",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
     },
     "transKeys": {
-      "event": "BBK-EVC-030"
+      "event": "BBK-EVC-010"
     }
   }
 ]
