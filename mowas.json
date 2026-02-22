@@ -161,14 +161,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20260222-50-000",
+    "id": "mow.DE-BW-RT-SE050-20260222-50-001",
     "version": 12,
-    "startDate": "2026-02-22T14:12:14+01:00",
+    "startDate": "2026-02-22T15:32:43+01:00",
+    "expiresDate": "2026-02-22T21:32:42+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großflächiger Stromausfall im Schwarzwald-Baar-Kreis - Landkreis Schwarzwald-Baar",
+      "de": "Entwarnung: Großflächiger Stromausfall im Schwarzwald-Baar-Kreis - Landkreis Schwarzwald-Baar",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
