@@ -140,28 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20260223-56-000",
-    "version": 12,
-    "startDate": "2026-02-23T10:21:56+01:00",
-    "expiresDate": "2026-02-23T16:21:55+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brandgase - Gemeinde Selkant, Gemeinde Waldfeucht, Stadt Heinsberg",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-RE-SE078-20260223-78-001",
     "version": 12,
     "startDate": "2026-02-23T14:57:13+01:00",
