@@ -140,28 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HSK-SE096-20260223-96-000",
-    "version": 12,
-    "startDate": "2026-02-23T06:25:37+01:00",
-    "expiresDate": "2026-02-23T12:25:36+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Meschede Eversberg - Meschede Eversberg",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-ERK-SE056-20260223-56-000",
     "version": 12,
     "startDate": "2026-02-23T10:21:56+01:00",
