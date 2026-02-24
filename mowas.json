@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-RO-W136-20260224-001",
-    "version": 12,
-    "startDate": "2026-02-24T15:06:06+01:00",
-    "expiresDate": "2026-02-24T21:06:05+01:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand mit extremer Rauchentwicklung - Au - Bad Feilnbach",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-DO-SE067-20260224-67-003",
     "version": 12,
     "startDate": "2026-02-24T16:20:02+01:00",
