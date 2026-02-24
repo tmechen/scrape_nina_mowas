@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20260224-67-003",
-    "version": 12,
-    "startDate": "2026-02-24T16:20:02+01:00",
-    "expiresDate": "2026-02-24T22:20:01+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund - Dortmund; Blindgänger-Entschärfung im Bereich Remydamm",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-ST-SK-W070-20260224-000",
     "version": 12,
     "startDate": "2026-02-24T18:00:02+01:00",
