@@ -119,27 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-ERB-W191-20260222-000",
-    "version": 12,
-    "startDate": "2026-02-22T10:38:25+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Steigender Pegel an der Mergbach - 64385 Reichelsheim Bismarkstraße Höhe Hnr. 20 (Eisen-Treusch Parkplatz)",
-      "en": "Flooding",
-      "ar": "فيضان",
-      "es": "Inundación",
-      "fr": "Crue",
-      "pl": "Powódź",
-      "ru": "Наводнение",
-      "tr": "Sel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-SE004-20260224-4-000",
     "version": 12,
     "startDate": "2026-02-24T06:58:19+01:00",
@@ -290,6 +269,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-HE-ERB-W191-20260224-000",
+    "version": 12,
+    "startDate": "2026-02-24T10:25:08+01:00",
+    "expiresDate": "2026-02-24T16:25:07+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Steigender Pegel an der Mergbach - 64385 Reichelsheim Bismarkstraße Höhe Hnr. 20 (Eisen-Treusch Parkplatz)",
+      "en": "Flooding",
+      "ar": "فيضان",
+      "es": "Inundación",
+      "fr": "Crue",
+      "pl": "Powódź",
+      "ru": "Наводнение",
+      "tr": "Sel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
