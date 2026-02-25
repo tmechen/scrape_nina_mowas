@@ -160,5 +160,26 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
+  },
+  {
+    "id": "mow.DE-NI-HM-W214-20260225-000",
+    "version": 12,
+    "startDate": "2026-02-25T20:27:40+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "unkontrollierte Ausbreitung von Brandrauch - Aerzen, Grehberg und Vogelsiedlung",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
