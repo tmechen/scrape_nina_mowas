@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20260225-001",
-    "version": 12,
-    "startDate": "2026-02-25T16:25:55+01:00",
-    "expiresDate": "2026-02-25T22:25:54+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Freisetzung einer Rauchwolke durch PKW-Brand - Bruchsal",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-HL-SE103-20260225-103-000",
     "version": 12,
     "startDate": "2026-02-25T18:06:28+01:00",
@@ -170,6 +148,27 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "unkontrollierte Ausbreitung von Brandrauch - Aerzen, Grehberg und Vogelsiedlung",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20260225-28-000",
+    "version": 12,
+    "startDate": "2026-02-25T22:08:25+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Lohe-Rickelshof",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
