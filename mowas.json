@@ -139,5 +139,26 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-SH-HL-SE103-20260225-103-000",
+    "version": 12,
+    "startDate": "2026-02-25T18:06:28+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Lübeck",
+      "en": "Health hazard",
+      "ar": "خطر على الصحة",
+      "es": "Riesgo para la salud",
+      "fr": "Risque sanitaire",
+      "pl": "Zagrożenie dla zdrowia",
+      "ru": "Опасность для здоровья",
+      "tr": "Sağlık tehlikesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-081"
+    }
   }
 ]
