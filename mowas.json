@@ -119,14 +119,15 @@
     }
   },
   {
-    "id": "mow.DE-ST-SK-W070-20260224-000",
+    "id": "mow.DE-ST-SK-W070-20260225-000",
     "version": 12,
-    "startDate": "2026-02-24T18:00:02+01:00",
+    "startDate": "2026-02-25T10:35:43+01:00",
+    "expiresDate": "2026-02-25T16:35:43+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittel bei Tollwitz (Stadt Bad Dürrenberg) gefunden - Bad Dürrenberg",
+      "de": "Entwarnung: Kampfmittel bei Tollwitz (Stadt Bad Dürrenberg) gefunden - Bad Dürrenberg",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
