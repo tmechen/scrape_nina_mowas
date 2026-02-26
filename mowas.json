@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-HL-SE103-20260226-103-000",
-    "version": 12,
-    "startDate": "2026-02-26T01:50:41+01:00",
-    "expiresDate": "2026-02-26T07:50:41+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Lübeck",
-      "en": "Health hazard",
-      "ar": "خطر على الصحة",
-      "es": "Riesgo para la salud",
-      "fr": "Risque sanitaire",
-      "pl": "Zagrożenie dla zdrowia",
-      "ru": "Опасность для здоровья",
-      "tr": "Sağlık tehlikesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-081"
-    }
-  },
-  {
     "id": "mow.DE-NW-EU-SE091-20260226-109-001",
     "version": 12,
     "startDate": "2026-02-26T03:44:15+01:00",
