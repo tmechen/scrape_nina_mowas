@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-EU-SE091-20260226-109-001",
-    "version": 12,
-    "startDate": "2026-02-26T03:44:15+01:00",
-    "expiresDate": "2026-02-26T09:44:15+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase im Schleidener Tal - Hellenthal",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-KA-W138-20260226-001",
     "version": 12,
     "startDate": "2026-02-26T07:09:18+01:00",
