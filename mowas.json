@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20260226-143-001",
-    "version": 12,
-    "startDate": "2026-02-26T18:12:52+01:00",
-    "expiresDate": "2026-02-27T00:12:52+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Magdeburg - Magdeburg",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-ST-MSH-W058-20260226-001",
     "version": 12,
     "startDate": "2026-02-26T22:29:47+01:00",
