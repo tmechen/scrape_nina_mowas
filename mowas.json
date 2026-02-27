@@ -117,27 +117,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-NW-BN-SE060-20260227-60-001",
-    "version": 12,
-    "startDate": "2026-02-27T11:31:00+01:00",
-    "expiresDate": "2026-02-27T17:30:59+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: ENTWARNUNG::::::Brandrauch durch Brand in Müllverbrennungsanlage - Bonn Weststadt",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
