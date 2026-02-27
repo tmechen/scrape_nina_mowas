@@ -138,5 +138,26 @@
     "transKeys": {
       "event": "BBK-EVC-005"
     }
+  },
+  {
+    "id": "mow.DE-BW-CW-W267-20260227-000",
+    "version": 12,
+    "startDate": "2026-02-27T23:50:50+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand – Information - Calw, Bahnhofstraße im Bereich ZOB",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
