@@ -119,14 +119,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-BN-SE060-20260227-60-000",
+    "id": "mow.DE-NW-BN-SE060-20260227-60-001",
     "version": 12,
-    "startDate": "2026-02-27T10:15:39+01:00",
+    "startDate": "2026-02-27T11:31:00+01:00",
+    "expiresDate": "2026-02-27T17:30:59+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brandrauch durch Brand in Müllverbrennungsanlage - Bonn Weststadt",
+      "de": "Entwarnung: ENTWARNUNG::::::Brandrauch durch Brand in Müllverbrennungsanlage - Bonn Weststadt",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
