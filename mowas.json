@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-AN-W166-20260228-000",
-    "version": 12,
-    "startDate": "2026-02-28T02:04:43+01:00",
-    "expiresDate": "2026-02-28T08:04:43+01:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall der Notrufnummer 112 im Versorgungsbereich der ILS AN  - Landkreis Ansbach, Landkreis Neustadt/Aisch, Stadt Ansbach",
-      "en": "Emergency number outage",
-      "ar": "انقطاع اتصال الطوارئ",
-      "es": "Fallo del número de emergencias",
-      "fr": "Défaillance de l'appel d'urgence",
-      "pl": "Awaria połączenia alarmowego",
-      "ru": "Отказ системы вызова экстренных оперативных служб",
-      "tr": "Acil çağrı arızası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-005"
-    }
-  },
-  {
     "id": "mow.DE-MV-LRO-W007-20260228-000",
     "version": 12,
     "startDate": "2026-02-28T03:26:59+01:00",
