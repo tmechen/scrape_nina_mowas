@@ -161,5 +161,26 @@
     "transKeys": {
       "event": "BBK-EVC-060"
     }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20260228-50-000",
+    "version": 12,
+    "startDate": "2026-02-28T17:02:47+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gasaustritt im Bereich Friedhof - Friedhofstraße / Kirchstraße Grafenberg",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
