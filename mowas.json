@@ -119,27 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-LRO-W007-20260227-000",
-    "version": 12,
-    "startDate": "2026-02-28T00:25:04+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "starke Rauchentwicklung durch Löscharbeiten - Kröpelin",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-CW-W267-20260228-000",
     "version": 12,
     "startDate": "2026-02-28T01:26:15+01:00",
@@ -181,6 +160,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-005"
+    }
+  },
+  {
+    "id": "mow.DE-MV-LRO-W007-20260228-000",
+    "version": 12,
+    "startDate": "2026-02-28T03:26:59+01:00",
+    "expiresDate": "2026-02-28T09:26:59+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: starke Rauchentwicklung durch Löscharbeiten - Kröpelin",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
