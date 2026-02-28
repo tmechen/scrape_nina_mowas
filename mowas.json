@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-WO-W242-20260228-001",
-    "version": 12,
-    "startDate": "2026-02-28T14:34:28+01:00",
-    "expiresDate": "2026-02-28T20:34:27+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ende! Sirenen Test im gesamten Stadtgebiet Worms - Worms",
-      "en": "Siren test",
-      "ar": "تجربة صفارة الإنذار",
-      "es": "Prueba de sirena",
-      "fr": "Test des sirènes",
-      "pl": "Test syren",
-      "ru": "Проверка средств оповещения",
-      "tr": "Siren testi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20260228-50-001",
     "version": 12,
     "startDate": "2026-02-28T18:39:51+01:00",
