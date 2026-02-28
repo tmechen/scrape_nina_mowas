@@ -119,27 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20260228-33-000",
-    "version": 12,
-    "startDate": "2026-02-28T07:15:29+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Übung im Bevölkerungsschutz - Hamburg - Hamburg",
-      "en": "Traffic alert",
-      "ar": "تحذير مروري",
-      "es": "Advertencia de tráfico",
-      "fr": "Alerte trafic",
-      "pl": "Ostrzeżenie drogowe",
-      "ru": "Предупреждение о ситуации на дороге",
-      "tr": "Trafik uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-075"
-    }
-  },
-  {
     "id": "mow.DE-RP-WO-W242-20260228-000",
     "version": 12,
     "startDate": "2026-02-28T10:50:08+01:00",
@@ -158,6 +137,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20260228-33-001",
+    "version": 12,
+    "startDate": "2026-02-28T12:30:18+01:00",
+    "expiresDate": "2026-02-28T18:30:18+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Übung im Bevölkerungsschutz - Hamburg - Hamburg",
+      "en": "Traffic alert",
+      "ar": "تحذير مروري",
+      "es": "Advertencia de tráfico",
+      "fr": "Alerte trafic",
+      "pl": "Ostrzeżenie drogowe",
+      "ru": "Предупреждение о ситуации на дороге",
+      "tr": "Trafik uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-075"
     }
   }
 ]
