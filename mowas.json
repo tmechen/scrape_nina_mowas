@@ -140,14 +140,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20260228-001",
+    "id": "mow.DE-SH-EH-SE028-20260301-28-001",
     "version": 12,
-    "startDate": "2026-02-28T19:44:59+01:00",
+    "startDate": "2026-03-01T13:10:23+01:00",
+    "expiresDate": "2026-03-01T19:10:23+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand im Bereich Laudenbach - Stadt Laudenbach / Gemeinde Laudenbach",
+      "de": "Entwarnung: Feuerwehreinsatz - Glückstadt",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -161,14 +162,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260301-28-000",
+    "id": "mow.DE-BW-HD-W086-20260301-000",
     "version": 12,
-    "startDate": "2026-03-01T11:04:39+01:00",
+    "startDate": "2026-03-01T13:24:35+01:00",
+    "expiresDate": "2026-03-01T19:24:35+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Glückstadt",
+      "de": "Entwarnung: Großbrand im Bereich Laudenbach - Stadt Laudenbach / Gemeinde Laudenbach",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
