@@ -159,27 +159,5 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20260228-18-001",
-    "version": 12,
-    "startDate": "2026-03-01T00:03:52+01:00",
-    "expiresDate": "2026-03-01T06:03:52+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand im Bereich Laudenbach - Stadt Laudenbach / Gemeinde Laudenbach",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
