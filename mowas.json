@@ -138,49 +138,5 @@
     "transKeys": {
       "event": "BBK-EVC-005"
     }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20260301-28-001",
-    "version": 12,
-    "startDate": "2026-03-01T13:10:23+01:00",
-    "expiresDate": "2026-03-01T19:10:23+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Glückstadt",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BW-HD-W086-20260301-000",
-    "version": 12,
-    "startDate": "2026-03-01T13:24:35+01:00",
-    "expiresDate": "2026-03-01T19:24:35+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand im Bereich Laudenbach - Stadt Laudenbach / Gemeinde Laudenbach",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
   }
 ]
