@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-EL-W089-20260302-001",
-    "version": 12,
-    "startDate": "2026-03-02T18:08:01+01:00",
-    "expiresDate": "2026-03-03T00:08:00+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Fund einer Granate - Lehe",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NI-H-SE110-20260302-110-001",
     "version": 12,
     "startDate": "2026-03-02T19:13:02+01:00",
