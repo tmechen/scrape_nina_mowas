@@ -162,14 +162,15 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20260301-143-000",
+    "id": "mow.DE-ST-MD-SE022-20260302-143-000",
     "version": 12,
-    "startDate": "2026-03-02T00:29:31+01:00",
+    "startDate": "2026-03-02T01:27:54+01:00",
+    "expiresDate": "2026-03-02T07:27:53+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Notruf 112 im gesamten Harzkreis - Landkreis Harz",
+      "de": "Entwarnung: Ausfall Notruf 112 im gesamten Harzkreis - Landkreis Harz",
       "en": "Emergency number outage",
       "ar": "انقطاع اتصال الطوارئ",
       "es": "Fallo del número de emergencias",
