@@ -119,14 +119,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE113-20260228-113-000",
+    "id": "mow.DE-RP-KO-SE113-20260302-113-000",
     "version": 12,
-    "startDate": "2026-02-28T19:21:31+01:00",
+    "startDate": "2026-03-02T14:53:40+01:00",
+    "expiresDate": "2026-03-02T20:53:40+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall des Notrufs in Teilen von Koblenz - Koblenz",
+      "de": "Entwarnung: Ausfall des Notrufs in Teilen von Koblenz - Koblenz",
       "en": "Emergency number outage",
       "ar": "انقطاع اتصال الطوارئ",
       "es": "Fallo del número de emergencias",
