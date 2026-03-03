@@ -163,27 +163,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BI-SE070-20260303-70-000",
-    "version": 12,
-    "startDate": "2026-03-03T09:17:46+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "---Rauchgase--- - Senne",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-MG-SE053-20260303-53-000",
     "version": 12,
     "startDate": "2026-03-03T12:26:08+01:00",
@@ -202,6 +181,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BI-SE070-20260303-70-001",
+    "version": 12,
+    "startDate": "2026-03-03T14:31:57+01:00",
+    "expiresDate": "2026-03-03T20:31:57+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: ---Rauchgase--- - Senne",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-TUE-W126-20260303-000",
+    "version": 12,
+    "startDate": "2026-03-03T14:39:42+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand eines Wohnhauses  - LK Tübingen Bereich Gemeinde Starzach",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
