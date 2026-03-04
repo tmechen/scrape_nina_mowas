@@ -140,28 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MG-SE053-20260304-53-000",
-    "version": 12,
-    "startDate": "2026-03-04T11:17:35+01:00",
-    "expiresDate": "2026-03-04T17:17:34+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Mönchengladbach und Umgebung - Mönchengladbach / Kreisgrenze Viersen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-LOE-W023-20260304-002",
     "version": 12,
     "startDate": "2026-03-04T11:47:36+01:00",
@@ -203,6 +181,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20260304-129-000",
+    "version": 12,
+    "startDate": "2026-03-04T17:15:24+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall in der Gemeinde Emstek - Emstek",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
