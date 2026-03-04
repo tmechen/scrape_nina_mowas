@@ -140,14 +140,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20260304-129-000",
+    "id": "mow.DE-NI-STD-SE029-20260304-29-000",
     "version": 12,
-    "startDate": "2026-03-04T17:15:24+01:00",
+    "startDate": "2026-03-04T20:03:33+01:00",
+    "expiresDate": "2026-03-05T02:03:33+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall in der Gemeinde Emstek - Emstek",
+      "de": "Entwarnung: Stromausfall in der Gemeinde Emstek - Emstek",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
