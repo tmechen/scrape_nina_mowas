@@ -162,14 +162,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20260304-105-000",
+    "id": "mow.DE-SH-OD-SE105-20260304-105-001",
     "version": 12,
-    "startDate": "2026-03-04T20:25:03+01:00",
+    "startDate": "2026-03-04T21:50:06+01:00",
+    "expiresDate": "2026-03-05T03:50:05+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung und Brandgeruch - Mölln, Grambeker Weg",
+      "de": "Entwarnung: Rauchentwicklung und Brandgeruch - Mölln, Grambeker Weg",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
