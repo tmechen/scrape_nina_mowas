@@ -119,27 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-LOE-W023-20260304-000",
-    "version": 12,
-    "startDate": "2026-03-04T09:08:01+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Probealarm - Landkreis Lörrach",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20260304-106-000",
     "version": 12,
     "startDate": "2026-03-04T10:32:16+01:00",
@@ -158,27 +137,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-067"
-    }
-  },
-  {
-    "id": "mow.DE-BW-LOE-W023-20260304-001",
-    "version": 12,
-    "startDate": "2026-03-04T10:57:34+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kommunaler Warntag/Probewarnung - Lörrach, Weil am Rhein, Efringen-Kirchen, Binzen, Eimeldingen",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
     }
   },
   {
@@ -201,6 +159,50 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-LOE-W023-20260304-002",
+    "version": 12,
+    "startDate": "2026-03-04T11:47:36+01:00",
+    "expiresDate": "2026-03-04T17:47:36+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kommunaler Warntag/Probewarnung - Lörrach, Weil am Rhein, Efringen-Kirchen, Binzen, Eimeldingen",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BW-LOE-W023-20260304-003",
+    "version": 12,
+    "startDate": "2026-03-04T11:47:46+01:00",
+    "expiresDate": "2026-03-04T17:47:46+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Probealarm - Landkreis Lörrach",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
     }
   }
 ]
