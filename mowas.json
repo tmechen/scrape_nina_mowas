@@ -161,50 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20260305-89-001",
-    "version": 12,
-    "startDate": "2026-03-05T17:19:59+01:00",
-    "expiresDate": "2026-03-05T23:19:58+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Rüthen  - Kallenhardt",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NW-KLE-SE058-20260305-58-001",
-    "version": 12,
-    "startDate": "2026-03-05T17:28:14+01:00",
-    "expiresDate": "2026-03-05T23:28:13+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Rees-Haldern - Rees-Haldern",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-TS-W135-20260305-001",
     "version": 12,
     "startDate": "2026-03-05T18:51:50+01:00",
