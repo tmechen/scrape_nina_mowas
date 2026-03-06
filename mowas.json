@@ -182,5 +182,26 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-BW-CW-W267-20260306-000",
+    "version": 12,
+    "startDate": "2026-03-06T11:10:55+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bevölkerungsinformation - Landkreis Calw, Flußbereiche Steinach, Waldach und Nagold",
+      "en": "Raw sewage",
+      "ar": "مياه صرف مجهولة المصدر",
+      "es": "Aguas residuales sin tratar",
+      "fr": "Eaux usées non épurées",
+      "pl": "Nieoczyszczone ścieki",
+      "ru": "Неочищенные сточные воды",
+      "tr": "Arıtılmamış atık su"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-073"
+    }
   }
 ]
