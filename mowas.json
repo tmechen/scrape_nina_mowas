@@ -140,27 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-J-W110-20260305-000",
-    "version": 12,
-    "startDate": "2026-03-05T14:39:43+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brandereignis mit Geruchsbelästigung - Gemeinde Uhlstädt-Kirchhasel",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-HD-W086-20260306-001",
     "version": 12,
     "startDate": "2026-03-06T08:45:05+01:00",
@@ -180,6 +159,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-TH-J-W110-20260306-000",
+    "version": 12,
+    "startDate": "2026-03-06T10:43:07+01:00",
+    "expiresDate": "2026-03-06T16:43:06+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandereignis mit Geruchsbelästigung - Gemeinde Uhlstädt-Kirchhasel",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
