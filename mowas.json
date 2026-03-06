@@ -161,14 +161,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20260306-000",
+    "id": "mow.DE-BW-HD-W086-20260306-001",
     "version": 12,
-    "startDate": "2026-03-06T08:37:14+01:00",
+    "startDate": "2026-03-06T08:45:05+01:00",
+    "expiresDate": "2026-03-06T14:45:04+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenentest in Hockenheim - Hockenheim",
+      "de": "Entwarnung: Sirenentest in Hockenheim - Hockenheim",
       "en": "Siren test",
       "ar": "تجربة صفارة الإنذار",
       "es": "Prueba de sirena",
