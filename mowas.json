@@ -140,28 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-CW-W267-20260309-001",
-    "version": 12,
-    "startDate": "2026-03-09T12:36:27+01:00",
-    "expiresDate": "2026-03-09T18:36:27+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand – Simmozheim - Simmozheim",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20260309-29-001",
     "version": 12,
     "startDate": "2026-03-09T15:05:55+01:00",
