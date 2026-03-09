@@ -162,14 +162,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20260309-100-001",
+    "id": "mow.DE-SH-FL-SE100-20260309-100-002",
     "version": 12,
-    "startDate": "2026-03-09T21:04:32+01:00",
+    "startDate": "2026-03-09T23:04:57+01:00",
+    "expiresDate": "2026-03-10T05:04:56+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gebäudebrand - Flensburg - Taruper Weg",
+      "de": "Entwarnung: Gebäudebrand - Flensburg - Taruper Weg",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
