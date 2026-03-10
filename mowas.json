@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20260310-106-001",
-    "version": 12,
-    "startDate": "2026-03-10T17:48:29+01:00",
-    "expiresDate": "2026-03-10T23:48:28+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung  - Friedrichsdorf - Burgholzhausen",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-OB-SE055-20260310-55-000",
     "version": 12,
     "startDate": "2026-03-10T18:20:37+01:00",
