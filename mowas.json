@@ -140,14 +140,36 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260310-28-000",
+    "id": "mow.DE-BY-CO-W141-20260310-001",
     "version": 12,
-    "startDate": "2026-03-10T04:20:04+01:00",
+    "startDate": "2026-03-10T08:24:15+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz  - Wesselburen",
+      "de": "Brandgase - Ahorn, Untersiemau und Niedefüllbach",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20260310-28-001",
+    "version": 12,
+    "startDate": "2026-03-10T08:26:54+01:00",
+    "expiresDate": "2026-03-10T14:26:53+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz  - Wesselburen",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
