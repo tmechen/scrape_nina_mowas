@@ -141,27 +141,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DU-SE038-20260310-38-000",
-    "version": 12,
-    "startDate": "2026-03-10T17:00:24+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Wichtige Information der Stadt Duisburg (Kampfmittelfund) - Duisburg-Neudorf",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-MS-SE043-20260310-43-001",
     "version": 12,
     "startDate": "2026-03-10T17:10:12+01:00",
@@ -279,6 +258,28 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Bombenfund in Dresden - Evakuierung am 11. März erforderlich- Dresden - Dresden",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DU-SE038-20260310-38-001",
+    "version": 12,
+    "startDate": "2026-03-10T20:23:39+01:00",
+    "expiresDate": "2026-03-11T02:23:38+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Wichtige Information der Stadt Duisburg (Kampfmittelfund) - Duisburg-Neudorf",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
