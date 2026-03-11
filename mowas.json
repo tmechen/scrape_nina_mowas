@@ -161,28 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-L-W093-20260311-001",
-    "version": 12,
-    "startDate": "2026-03-11T17:39:05+01:00",
-    "expiresDate": "2026-03-11T23:39:04+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brand - Leipzig, Zentrum-West",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20260311-99-002",
     "version": 12,
     "startDate": "2026-03-11T19:17:36+01:00",
