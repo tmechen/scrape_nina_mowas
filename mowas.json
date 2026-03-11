@@ -140,27 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-W094-20260310-000",
-    "version": 12,
-    "startDate": "2026-03-10T19:00:08+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bombenfund in Dresden - Evakuierung am 11. März erforderlich- Dresden - Dresden",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BB-EW-SE079-20260311-79-000",
     "version": 12,
     "startDate": "2026-03-11T05:50:35+01:00",
@@ -179,6 +158,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SN-DD-W094-20260311-000",
+    "version": 12,
+    "startDate": "2026-03-11T07:00:03+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Bombenfund in Dresden – Evakuierung jetzt erforderlich – Dresden - Dresden",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
