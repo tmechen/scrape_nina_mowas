@@ -140,27 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DU-SE038-20260311-38-000",
-    "version": 12,
-    "startDate": "2026-03-11T15:40:30+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Wichtige Information der Stadt Duisburg Sprengung einer Weltkriegsbombe - Duisburg-Neudorf",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-RP-SIM-W243-20260311-002",
     "version": 12,
     "startDate": "2026-03-11T17:38:28+01:00",
@@ -223,6 +202,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DU-SE038-20260311-38-001",
+    "version": 12,
+    "startDate": "2026-03-11T23:22:31+01:00",
+    "expiresDate": "2026-03-12T05:22:31+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Wichtige Information der Stadt Duisburg Sprengung einer Weltkriegsbomb - Duisburg-Neudorf",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
