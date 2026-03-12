@@ -140,50 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20260312-106-001",
-    "version": 12,
-    "startDate": "2026-03-12T10:30:07+01:00",
-    "expiresDate": "2026-03-12T16:30:07+01:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm - test alert - Warntag - Land Hessen",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-RP-KO-SE153-20260312-173-001",
-    "version": 12,
-    "startDate": "2026-03-12T10:45:04+01:00",
-    "expiresDate": "2026-03-12T16:45:04+01:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Landesweiter Warntag Rheinland-Pfalz - Rheinland-Pfalz",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-NW-D-SE020-20260312-20-001",
     "version": 12,
     "startDate": "2026-03-12T11:20:05+01:00",
