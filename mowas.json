@@ -140,28 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-EL-W089-20260312-001",
-    "version": 12,
-    "startDate": "2026-03-12T12:30:07+01:00",
-    "expiresDate": "2026-03-12T18:30:07+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: kreisweiter Warntag - Landkreis Emsland",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-BW-HN-W045-20260312-000",
     "version": 12,
     "startDate": "2026-03-12T14:47:48+01:00",
