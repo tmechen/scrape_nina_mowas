@@ -161,28 +161,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20260311-99-002",
-    "version": 12,
-    "startDate": "2026-03-11T19:17:36+01:00",
-    "expiresDate": "2026-03-12T01:17:35+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Kronshagen und Ottendorf im Kreis Rendsburg-Eckerförde",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-DU-SE038-20260311-38-001",
     "version": 12,
     "startDate": "2026-03-11T23:22:31+01:00",
@@ -205,12 +183,12 @@
     }
   },
   {
-    "id": "mow.DE-NW-W-SE061-20260311-61-000",
+    "id": "mow.DE-NW-W-SE061-20260312-61-000",
     "version": 12,
-    "startDate": "2026-03-12T00:48:54+01:00",
+    "startDate": "2026-03-12T02:10:03+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
       "de": "Rauchgase - Wuppertal",
       "en": "Fumes",
