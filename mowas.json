@@ -180,5 +180,26 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-MV-HST-W239-20260313-000",
+    "version": 12,
+    "startDate": "2026-03-13T19:16:21+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Stralsund,Frankenvorstadt",
+      "en": "Air pollution",
+      "ar": "تلوث الهواء",
+      "es": "Contaminación atmosférica",
+      "fr": "Pollution atmosphérique",
+      "pl": "Zanieczyszczenie powietrza",
+      "ru": "Загрязнение воздуха",
+      "tr": "Hava kirliliği"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-047"
+    }
   }
 ]
