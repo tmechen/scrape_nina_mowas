@@ -140,27 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20260314-18-000",
-    "version": 12,
-    "startDate": "2026-03-14T09:36:19+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand Mülldeponie Neckarhausen - Neckarhausen, Ladenburg",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20260314-001",
     "version": 12,
     "startDate": "2026-03-14T11:04:06+01:00",
@@ -202,6 +181,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-067"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20260314-18-001",
+    "version": 12,
+    "startDate": "2026-03-14T12:42:25+01:00",
+    "expiresDate": "2026-03-14T18:42:25+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand Mülldeponie Neckarhausen - Neckarhausen, Ladenburg",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
