@@ -98,14 +98,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-RO-W136-20260317-000",
+    "id": "mow.DE-BY-RO-W136-20260318-000",
     "version": 12,
-    "startDate": "2026-03-18T00:29:44+01:00",
+    "startDate": "2026-03-18T03:04:48+01:00",
+    "expiresDate": "2026-03-18T09:04:47+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung im Tegernseer Tal - Tegernseer Tal",
+      "de": "Entwarnung: Geruchsbelästigung im Tegernseer Tal - Tegernseer Tal",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
