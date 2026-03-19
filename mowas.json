@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20260319-121-000",
-    "version": 12,
-    "startDate": "2026-03-19T16:20:10+01:00",
-    "expiresDate": "2026-03-19T22:20:09+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Störung Wasserversorgung - Landau-Mörzheim",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20260319-002",
     "version": 12,
     "startDate": "2026-03-19T17:59:39+01:00",
@@ -160,6 +138,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20260319-003",
+    "version": 12,
+    "startDate": "2026-03-19T22:46:39+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Information der unteren Wasserbehörde - Landkreis Greiz",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
