@@ -183,14 +183,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-BC-W124-20260319-000",
+    "id": "mow.DE-BW-BC-W124-20260319-001",
     "version": 12,
-    "startDate": "2026-03-19T07:35:00+01:00",
+    "startDate": "2026-03-19T08:34:30+01:00",
+    "expiresDate": "2026-03-19T14:34:30+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Brandeinsatz - Warthausen / Biberach an der Riß",
+      "de": "Entwarnung: Rauchentwicklung durch Brandeinsatz - Warthausen / Biberach an der Riß",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
