@@ -140,28 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-BC-W124-20260319-001",
-    "version": 12,
-    "startDate": "2026-03-19T08:34:30+01:00",
-    "expiresDate": "2026-03-19T14:34:30+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brandeinsatz - Warthausen / Biberach an der Riß",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20260319-99-001",
     "version": 12,
     "startDate": "2026-03-19T09:12:04+01:00",
