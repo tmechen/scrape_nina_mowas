@@ -98,49 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20260319-001",
-    "version": 12,
-    "startDate": "2026-03-19T07:29:01+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Großbrand Deponie - Zeulenroda",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BW-HN-W045-20260319-001",
-    "version": 12,
-    "startDate": "2026-03-19T11:20:21+01:00",
-    "expiresDate": "2026-03-19T17:20:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kreisweiter Test der Warnsysteme - Landkreis Heilbronn - Landkreis Heilbronn",
-      "en": "Siren test",
-      "ar": "تجربة صفارة الإنذار",
-      "es": "Prueba de sirena",
-      "fr": "Test des sirènes",
-      "pl": "Test syren",
-      "ru": "Проверка средств оповещения",
-      "tr": "Siren testi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-BY-HO-W142-20260319-001",
     "version": 12,
     "startDate": "2026-03-19T13:52:52+01:00",
@@ -182,6 +139,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20260319-002",
+    "version": 12,
+    "startDate": "2026-03-19T17:59:39+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Großbrand Deponie - Zeulenroda",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
