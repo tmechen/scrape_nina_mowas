@@ -163,14 +163,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-SE137-20260319-166-001",
+    "id": "mow.DE-BY-N-SE137-20260319-166-002",
     "version": 12,
-    "startDate": "2026-03-19T18:52:07+01:00",
+    "startDate": "2026-03-19T19:49:25+01:00",
+    "expiresDate": "2026-03-20T01:49:24+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch einen Gebäudebrand - Heßdorf, Landkreis Erlangen-Höchstadt",
+      "de": "Entwarnung: Starke Rauchentwicklung durch einen Gebäudebrand - Heßdorf, Landkreis Erlangen-Höchstadt",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
