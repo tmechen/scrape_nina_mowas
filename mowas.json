@@ -119,35 +119,14 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20260320-000",
+    "id": "mow.DE-BY-RO-W136-20260320-001",
     "version": 12,
-    "startDate": "2026-03-20T07:08:16+01:00",
+    "startDate": "2026-03-20T10:25:06+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
     "i18nTitle": {
-      "de": "Großbrand Deponie - Zeulenroda",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BY-RO-W136-20260320-000",
-    "version": 12,
-    "startDate": "2026-03-20T09:14:23+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserverunreinigung - Abkochverfügung ohne Chlorung - Gemeinde Großkarolinenfeld und Schechen",
+      "de": "Trinkwasserverunreinigung - Abkochverfügung ohne Chlorung - Gemeinde Großkarolinenfeld",
       "en": "Contaminated drinking water",
       "ar": "تلوث مياه الشرب",
       "es": "Contaminación de agua potable",
@@ -158,6 +137,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20260320-001",
+    "version": 12,
+    "startDate": "2026-03-20T10:39:35+01:00",
+    "expiresDate": "2026-03-20T16:39:35+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand Deponie - Zeulenroda",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
