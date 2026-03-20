@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20260320-001",
-    "version": 12,
-    "startDate": "2026-03-20T10:39:35+01:00",
-    "expiresDate": "2026-03-20T16:39:35+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand Deponie - Zeulenroda",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-RO-W136-20260320-002",
     "version": 12,
     "startDate": "2026-03-20T11:11:06+01:00",
