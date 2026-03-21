@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-EW-SE079-20260321-79-001",
-    "version": 12,
-    "startDate": "2026-03-21T14:31:52+01:00",
-    "expiresDate": "2026-03-21T20:31:51+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Entwarnung \"Übung\" Stromausfall Stadt Bernau bei Berlin - Stadt Bernau bei Berlin und alle Ortsteile",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20260321-003",
     "version": 12,
     "startDate": "2026-03-21T14:51:26+01:00",
