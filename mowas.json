@@ -140,27 +140,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20260321-002",
-    "version": 12,
-    "startDate": "2026-03-21T11:41:40+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Brand - Geruchsbelästigung durch Brandrauch - Gemeinde Nobitz",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-TH-HIG-W111-20260321-001",
     "version": 12,
     "startDate": "2026-03-21T12:17:50+01:00",
@@ -223,6 +202,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20260321-003",
+    "version": 12,
+    "startDate": "2026-03-21T14:51:26+01:00",
+    "expiresDate": "2026-03-21T20:51:26+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand - Geruchsbelästigung durch Brandrauch - Gemeinde Nobitz",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
