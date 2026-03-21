@@ -119,27 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-PF-W024-20260320-000",
-    "version": 12,
-    "startDate": "2026-03-20T11:16:17+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserversorgung Abkochgebot - Gemeinde Wiernsheim, OT Wiernsheim",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-TH-HIG-W111-20260321-001",
     "version": 12,
     "startDate": "2026-03-21T12:17:50+01:00",
@@ -224,6 +203,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-PF-W024-20260321-000",
+    "version": 12,
+    "startDate": "2026-03-21T15:59:38+01:00",
+    "expiresDate": "2026-03-21T21:59:38+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasserversorgung Abkochgebot - Gemeinde Wiernsheim, OT Wiernsheim",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
