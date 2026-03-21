@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260321-28-001",
-    "version": 12,
-    "startDate": "2026-03-21T17:43:54+01:00",
-    "expiresDate": "2026-03-21T23:43:54+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Gemeinde Seester,Seestermühe,Raabesenbek",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-GT-SE040-20260321-40-000",
     "version": 12,
     "startDate": "2026-03-21T20:03:58+01:00",
