@@ -205,5 +205,26 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-GT-SE040-20260321-40-000",
+    "version": 12,
+    "startDate": "2026-03-21T20:03:58+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Gasversorgung in Bereichen von Werther (Westf.) - Werther (Westf.)",
+      "en": "Gas supply outage",
+      "ar": "انقطاع إمدادات الغاز",
+      "es": "Interrupción del suministro de gas",
+      "fr": "Coupure de gaz",
+      "pl": "Awaria zasilania gazem",
+      "ru": "Отказ системы газоснабжения",
+      "tr": "Gaz beslemesi arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-003"
+    }
   }
 ]
