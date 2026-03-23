@@ -119,28 +119,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20260323-105-000",
-    "version": 12,
-    "startDate": "2026-03-23T01:30:39+01:00",
-    "expiresDate": "2026-03-23T07:30:39+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Reinfeld",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20260323-28-001",
     "version": 12,
     "startDate": "2026-03-23T04:47:59+01:00",
