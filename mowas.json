@@ -141,14 +141,15 @@
     }
   },
   {
-    "id": "mow.DE-SN-C-W092-20260323-000",
+    "id": "mow.DE-SH-EH-SE028-20260323-28-001",
     "version": 12,
-    "startDate": "2026-03-23T02:26:09+01:00",
+    "startDate": "2026-03-23T04:47:59+01:00",
+    "expiresDate": "2026-03-23T10:47:58+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke bei LKW-Brand A4-Hainichen - Stadtgebiet Hainichen",
+      "de": "Entwarnung: Feuerwehreinsatz - Marne",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -162,15 +163,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260323-28-001",
+    "id": "mow.DE-SN-C-W092-20260323-001",
     "version": 12,
-    "startDate": "2026-03-23T04:47:59+01:00",
-    "expiresDate": "2026-03-23T10:47:58+01:00",
+    "startDate": "2026-03-23T06:04:31+01:00",
+    "expiresDate": "2026-03-23T12:04:30+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Marne",
+      "de": "Entwarnung: Rauchwolke bei LKW-Brand A4-Hainichen - Stadtgebiet Hainichen",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
