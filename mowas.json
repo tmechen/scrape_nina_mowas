@@ -96,27 +96,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20260323-18-000",
-    "version": 12,
-    "startDate": "2026-03-23T10:11:16+01:00",
-    "expiresDate": "2026-03-23T16:11:16+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Abkochgebot Trinkwasserverunreinigung - Landkreis Calw, Gemeinde Ebhausen Ortsteil Rotfelden",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
   }
 ]
