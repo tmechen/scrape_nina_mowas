@@ -98,28 +98,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20260324-57-001",
-    "version": 12,
-    "startDate": "2026-03-24T18:04:11+01:00",
-    "expiresDate": "2026-03-25T00:04:11+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandereignis (Ausbreitung von Brandrauch) - Niederkassel Rheidt",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-BO-SE077-20260324-77-002",
     "version": 12,
     "startDate": "2026-03-24T18:47:19+01:00",
@@ -186,14 +164,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-W-SE061-20260324-61-000",
+    "id": "mow.DE-NW-W-SE061-20260324-61-001",
     "version": 12,
-    "startDate": "2026-03-24T20:30:01+01:00",
+    "startDate": "2026-03-25T00:24:47+01:00",
+    "expiresDate": "2026-03-25T06:24:46+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Stromversorgung - Wuppertal Bereich Dönberg",
+      "de": "Entwarnung: Ausfall Stromversorgung - Wuppertal Bereich Dönberg",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
