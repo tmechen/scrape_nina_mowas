@@ -120,14 +120,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-HSK-SE096-20260325-96-000",
+    "id": "mow.DE-NW-HSK-SE096-20260325-96-001",
     "version": 12,
-    "startDate": "2026-03-25T10:06:44+01:00",
+    "startDate": "2026-03-25T13:24:38+01:00",
+    "expiresDate": "2026-03-25T19:24:37+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke mit Geruchsbelästigung durch Brand in Gewerbebetrieb - Bestwig",
+      "de": "Entwarnung: Rauchwolke mit Geruchsbelästigung durch Brand in Gewerbebetrieb - Bestwig",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
