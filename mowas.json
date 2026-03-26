@@ -160,5 +160,26 @@
     "transKeys": {
       "event": "BBK-EVC-010"
     }
+  },
+  {
+    "id": "mow.DE-NW-GT-SE040-20260326-40-001",
+    "version": 12,
+    "startDate": "2026-03-26T09:13:57+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall der Gasversorgung - Rietberg",
+      "en": "Gas supply outage",
+      "ar": "انقطاع إمدادات الغاز",
+      "es": "Interrupción del suministro de gas",
+      "fr": "Coupure de gaz",
+      "pl": "Awaria zasilania gazem",
+      "ru": "Отказ системы газоснабжения",
+      "tr": "Gaz beslemesi arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-003"
+    }
   }
 ]
