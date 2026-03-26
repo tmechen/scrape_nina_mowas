@@ -56,72 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-F-SE119-20260326-128-000",
-    "version": 12,
-    "startDate": "2026-03-26T09:40:21+01:00",
-    "expiresDate": "2026-03-26T15:40:20+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Afrikanische Schweinepest im Landkreis Groß-Gerau - Landkreis Groß-Gerau",
-      "en": "Epizootic",
-      "ar": "وباء حيواني",
-      "es": "Epizootia",
-      "fr": "Épizootie",
-      "pl": "Pomór zwierząt",
-      "ru": "Эпизоотия",
-      "tr": "Hayvan hastalıkları"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-067"
-    }
-  },
-  {
-    "id": "mow.DE-NW-E-SE052-20260326-52-001",
-    "version": 12,
-    "startDate": "2026-03-26T09:58:12+01:00",
-    "expiresDate": "2026-03-26T15:58:11+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase (Essen- Altenessen) - Essen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NW-GT-SE040-20260326-40-002",
-    "version": 12,
-    "startDate": "2026-03-26T10:16:07+01:00",
-    "expiresDate": "2026-03-26T16:16:07+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase im Ortsteil Druffel - Rietberg, Neuenkirchen, Druffel",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-GT-SE040-20260326-40-003",
     "version": 12,
     "startDate": "2026-03-26T11:11:28+01:00",
@@ -210,14 +144,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20260326-105-000",
+    "id": "mow.DE-SH-OD-SE105-20260326-105-001",
     "version": 12,
-    "startDate": "2026-03-26T14:45:32+01:00",
+    "startDate": "2026-03-26T15:38:09+01:00",
+    "expiresDate": "2026-03-26T21:38:08+01:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Bad Schwartau",
+      "de": "Entwarnung: Feuerwehreinsatz - Bad Schwartau",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
