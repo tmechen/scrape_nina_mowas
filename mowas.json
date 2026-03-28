@@ -121,14 +121,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-UN-SE068-20260328-68-000",
+    "id": "mow.DE-NW-UN-SE068-20260328-68-001",
     "version": 12,
-    "startDate": "2026-03-28T11:22:59+01:00",
+    "startDate": "2026-03-28T12:17:18+01:00",
+    "expiresDate": "2026-03-28T18:17:17+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase und Geruchsbelästigung - Werne",
+      "de": "Entwarnung: Rauchgase und Geruchsbelästigung - Werne",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
