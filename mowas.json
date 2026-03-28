@@ -56,27 +56,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-DH-W233-20260327-000",
-    "version": 12,
-    "startDate": "2026-03-27T20:34:57+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gasaustritt - 28816 Stuhr-Heiligenrode",
-      "en": "Gas leak",
-      "ar": "تسرب غاز",
-      "es": "Escape de gas",
-      "fr": "Fuite de gaz",
-      "pl": "Wyciek gazu",
-      "ru": "Утечка газа",
-      "tr": "Gaz kaçağı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20260328-50-001",
     "version": 12,
     "startDate": "2026-03-28T09:50:36+01:00",
@@ -117,6 +96,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NI-DH-W233-20260328-000",
+    "version": 12,
+    "startDate": "2026-03-28T11:13:03+01:00",
+    "expiresDate": "2026-03-28T17:13:03+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gasaustritt - 28816 Stuhr-Heiligenrode",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-NW-UN-SE068-20260328-68-000",
+    "version": 12,
+    "startDate": "2026-03-28T11:22:59+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase und Geruchsbelästigung - Werne",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
