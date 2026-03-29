@@ -56,35 +56,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20260329-106-000",
+    "id": "mow.DE-HE-DI-W104-20260329-001",
     "version": 12,
-    "startDate": "2026-03-29T18:50:56+02:00",
+    "startDate": "2026-03-29T21:06:39+02:00",
+    "expiresDate": "2026-03-30T03:06:39+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Einsatz der Feuerwehr - Darmstadt",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-HE-DI-W104-20260329-000",
-    "version": 12,
-    "startDate": "2026-03-29T18:53:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgas - Weiterstadt-Riedbahn",
+      "de": "Entwarnung: Rauchgas - Weiterstadt-Riedbahn",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -95,6 +75,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20260329-106-001",
+    "version": 12,
+    "startDate": "2026-03-29T21:08:43+02:00",
+    "expiresDate": "2026-03-30T03:08:43+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Einsatz der Feuerwehr - Darmstadt",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
