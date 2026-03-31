@@ -56,14 +56,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-OE-SE086-20260331-86-001",
-    "version": 12,
-    "startDate": "2026-03-31T12:59:45+02:00",
+    "id": "mow.DE-NW-OE-SE086-20260331-86-002",
+    "version": 13,
+    "startDate": "2026-03-31T20:11:02+02:00",
+    "expiresDate": "2026-04-01T02:11:02+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall von Internet und Festnetztelefonie - Attendorn",
+      "de": "Entwarnung: Ausfall von Internet und Festnetztelefonie - Attendorn",
       "en": "Telephone line outage",
       "ar": "انقطاع خطوط الهاتف",
       "es": "Fallo de la línea telefónica",
