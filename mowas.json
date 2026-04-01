@@ -99,14 +99,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-BO-SE077-20260401-77-000",
+    "id": "mow.DE-NW-BO-SE077-20260401-77-001",
     "version": 13,
-    "startDate": "2026-04-01T18:31:54+02:00",
+    "startDate": "2026-04-01T19:58:42+02:00",
+    "expiresDate": "2026-04-02T01:58:41+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall des bochumer Notruf - Bochum",
+      "de": "Entwarnung: Ausfall des bochumer Notruf - Bochum",
       "en": "Emergency number outage",
       "ar": "انقطاع اتصال الطوارئ",
       "es": "Fallo del número de emergencias",
