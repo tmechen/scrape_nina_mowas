@@ -1,0 +1,151 @@
+[
+  {
+    "id": "mow.DE-SL-SLS-W038-20260113-000",
+    "version": 11,
+    "startDate": "2026-01-13T12:09:37+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "4. Aktualisierung! - Beeinträchtigung des Trinkwassers - Chlorungsmaßnahmen - Biringen, Fürweiler, Gerlfangen, und Oberesch der Gde. Rehlingen-Siersburg",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20260304-106-000",
+    "version": 12,
+    "startDate": "2026-03-04T10:32:16+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Einrichtung von Schutzzonen zur Bekämpfung der Afrikanischen Schweinepest (ASP) - Süd-westlicher Bereich des Landkreises Waldeck-Frankenberg",
+      "en": "Epizootic",
+      "ar": "وباء حيواني",
+      "es": "Epizootia",
+      "fr": "Épizootie",
+      "pl": "Pomór zwierząt",
+      "ru": "Эпизоотия",
+      "tr": "Hayvan hastalıkları"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-067"
+    }
+  },
+  {
+    "id": "mow.DE-BY-RO-W136-20260429-000",
+    "version": 13,
+    "startDate": "2026-04-29T09:54:46+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Hohe Waldbrandgefahr - Verbot von Daxenfeuern  - Stadt und Landkreis Rosenheim",
+      "en": "Risk of fire",
+      "ar": "خطر الحريق",
+      "es": "Peligro de incendio",
+      "fr": "Risque d'incendie",
+      "pl": "Niebezpieczeństwo pożaru",
+      "ru": "Опасность возникновения пожара",
+      "tr": "Yangın tehlikesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-011"
+    }
+  },
+  {
+    "id": "mow.DE-BY-TS-W135-20260505-000",
+    "version": 13,
+    "startDate": "2026-05-05T08:17:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bergwaldbrand am Saurüsselkopf - Ruhpolding - Landkreis Traunstein und Berchtesgadener Land",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20260505-28-001",
+    "version": 13,
+    "startDate": "2026-05-05T13:42:22+02:00",
+    "expiresDate": "2026-05-05T19:42:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Heide",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20260505-28-002",
+    "version": 13,
+    "startDate": "2026-05-05T18:01:53+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Kudensee",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BY-HO-W142-20260505-001",
+    "version": 13,
+    "startDate": "2026-05-05T18:59:44+02:00",
+    "expiresDate": "2026-05-06T00:59:43+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung bei Brandeinsatz - Konradsreuth Ortsteil Weißlenreuth",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  }
+]
