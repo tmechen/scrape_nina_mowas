@@ -84,28 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-KR-SE075-20260507-75-001",
-    "version": 13,
-    "startDate": "2026-05-07T06:54:00+02:00",
-    "expiresDate": "2026-05-07T12:54:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Krefeld - Krefeld",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-NE-SE044-20260507-44-000",
     "version": 13,
     "startDate": "2026-05-07T08:45:56+02:00",
@@ -172,27 +150,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DN-SE054-20260507-54-000",
-    "version": 13,
-    "startDate": "2026-05-07T10:51:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Hürtgenwald - Straß",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-HB-HB-SE019-20260507-19-003",
     "version": 13,
     "startDate": "2026-05-07T11:11:12+02:00",
@@ -234,6 +191,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20260507-54-001",
+    "version": 13,
+    "startDate": "2026-05-07T12:08:29+02:00",
+    "expiresDate": "2026-05-07T18:08:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Hürtgenwald - Straß",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-W108-20260507-000",
+    "version": 13,
+    "startDate": "2026-05-07T13:28:39+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall der Trink- und Löschwasserversorgung - westliche Ortsteile Stadt Erfurt und Witterda mit OT Friedrichsdorf (SÖM)",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
