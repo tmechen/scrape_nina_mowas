@@ -124,27 +124,5 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
-  },
-  {
-    "id": "mow.DE-BB-P-SE082-20260508-82-002",
-    "version": 13,
-    "startDate": "2026-05-08T17:01:05+02:00",
-    "expiresDate": "2026-05-08T23:01:04+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sofortige Evakuierungsanordnung - Potsdam-West",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
   }
 ]
