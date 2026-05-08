@@ -84,28 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20260508-18-002",
-    "version": 13,
-    "startDate": "2026-05-08T13:27:23+02:00",
-    "expiresDate": "2026-05-08T19:27:22+02:00",
-    "severity": "Extreme",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Fund einer Weltkriegsbombe mit Evakuierungsmaßnahmen - Stuttgart-Nord",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BY-WUE-W164-20260508-000",
     "version": 13,
     "startDate": "2026-05-08T13:57:44+02:00",
