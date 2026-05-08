@@ -106,14 +106,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20260508-18-001",
+    "id": "mow.DE-BW-S-SE018-20260508-18-002",
     "version": 13,
-    "startDate": "2026-05-08T12:05:09+02:00",
+    "startDate": "2026-05-08T13:27:23+02:00",
+    "expiresDate": "2026-05-08T19:27:22+02:00",
     "severity": "Extreme",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Fund einer Weltkriegsbombe mit Evakuierungsmaßnahmen, Aktualisierung Bürgertelefon - Stuttgart-Nord",
+      "de": "Entwarnung: Fund einer Weltkriegsbombe mit Evakuierungsmaßnahmen - Stuttgart-Nord",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
