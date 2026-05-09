@@ -105,27 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20260509-99-000",
-    "version": 13,
-    "startDate": "2026-05-09T19:07:01+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahreninformation Feuerwehreinsatz - Schinkel",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20260509-84-001",
     "version": 13,
     "startDate": "2026-05-09T21:59:27+02:00",
@@ -177,6 +156,28 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Lagerhallenbrand in Hüfingen - Hüfingen, Bräunlingen, Donaueschingen und Löffingen",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20260509-99-001",
+    "version": 13,
+    "startDate": "2026-05-09T23:39:26+02:00",
+    "expiresDate": "2026-05-10T05:39:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Schinkel",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
