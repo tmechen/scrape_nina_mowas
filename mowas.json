@@ -84,28 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-SHG-W289-20260510-000",
-    "version": 13,
-    "startDate": "2026-05-10T06:59:27+02:00",
-    "expiresDate": "2026-05-10T12:59:26+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Rinteln - Rinteln",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-W108-20260510-000",
     "version": 13,
     "startDate": "2026-05-10T12:33:15+02:00",
