@@ -84,14 +84,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE113-20260510-113-000",
+    "id": "mow.DE-RP-KO-SE113-20260511-113-000",
     "version": 13,
-    "startDate": "2026-05-11T01:01:31+02:00",
+    "startDate": "2026-05-11T06:07:54+02:00",
+    "expiresDate": "2026-05-11T12:07:53+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke durch Großbrand von Lagerhallen - Lautzenhausen",
+      "de": "Entwarnung: Rauchwolke durch Großbrand von Lagerhallen - Lautzenhausen",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -105,14 +106,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20260510-4-000",
+    "id": "mow.DE-RP-TR-SE004-20260511-4-000",
     "version": 13,
-    "startDate": "2026-05-11T01:14:14+02:00",
+    "startDate": "2026-05-11T06:20:00+02:00",
+    "expiresDate": "2026-05-11T12:20:00+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke durch Großbrand von Lagerhallen - Lautzenhausen",
+      "de": "Entwarnung: Rauchwolke durch Großbrand von Lagerhallen - Lautzenhausen",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
