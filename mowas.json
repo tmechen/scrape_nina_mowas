@@ -84,14 +84,15 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20260512-19-001",
+    "id": "mow.DE-HB-HB-SE019-20260512-19-002",
     "version": 13,
-    "startDate": "2026-05-12T07:27:46+02:00",
+    "startDate": "2026-05-12T11:12:48+02:00",
+    "expiresDate": "2026-05-12T17:12:47+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Brand eines Fachwerkhauses - Bremen - Borgfeld",
+      "de": "Entwarnung: Rauchentwicklung durch Brand eines Fachwerkhauses - Bremen - Borgfeld",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
