@@ -106,14 +106,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-ERB-W191-20260512-000",
+    "id": "mow.DE-HE-ERB-W191-20260512-001",
     "version": 13,
-    "startDate": "2026-05-12T13:19:23+02:00",
+    "startDate": "2026-05-12T14:13:00+02:00",
+    "expiresDate": "2026-05-12T20:13:00+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung auf Grund eines Brandes - Erbach-Kernstadt",
+      "de": "Entwarnung: Geruchsbelästigung auf Grund eines Brandes - Erbach-Kernstadt",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
