@@ -42,35 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-WUE-W164-20260508-000",
+    "id": "mow.DE-HE-WI-W097-20260513-000",
     "version": 13,
-    "startDate": "2026-05-08T13:57:44+02:00",
+    "startDate": "2026-05-13T12:37:28+02:00",
+    "expiresDate": "2026-05-13T18:37:27+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Abkochgebot für Trinkwasser in Gössenheim, inkl. OT Sachsenheim (MSP) - Gössenheim inkl. OT Sachsenheim, Lkr MSP",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-HE-WI-W097-20260512-000",
-    "version": 13,
-    "startDate": "2026-05-12T21:14:46+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Fund einer Weltkriegsbombe in Erbenheim - Wiesbaden",
+      "de": "Entwarnung: Fund einer Weltkriegsbombe in Erbenheim - Wiesbaden",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
@@ -81,6 +61,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BY-WUE-W164-20260513-000",
+    "version": 13,
+    "startDate": "2026-05-13T13:03:33+02:00",
+    "expiresDate": "2026-05-13T19:03:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Abkochgebot für Trinkwasser in Gössenheim, inkl. OT Sachsenheim (MSP) - Gössenheim inkl. OT Sachsenheim, Lkr MSP",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
