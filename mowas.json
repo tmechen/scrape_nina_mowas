@@ -63,27 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20260513-4-001",
-    "version": 13,
-    "startDate": "2026-05-13T17:52:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Lagerhallenbrand - Bollendorf Weilerbach",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20260513-125-001",
     "version": 13,
     "startDate": "2026-05-13T21:12:50+02:00",
@@ -103,6 +82,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20260513-4-002",
+    "version": 13,
+    "startDate": "2026-05-13T23:07:42+02:00",
+    "expiresDate": "2026-05-14T05:07:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Lagerhallenbrand - Bollendorf Weilerbach",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
