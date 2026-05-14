@@ -63,27 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-UN-SE068-20260514-68-000",
-    "version": 13,
-    "startDate": "2026-05-14T05:17:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase - Stadt Selm / Bereich Nordkirchen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20260514-84-000",
     "version": 13,
     "startDate": "2026-05-14T13:40:24+02:00",
@@ -103,6 +82,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-UN-SE068-20260514-68-001",
+    "version": 13,
+    "startDate": "2026-05-14T14:22:43+02:00",
+    "expiresDate": "2026-05-14T20:22:43+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase - Stadt Selm / Bereich Nordkirchen",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
