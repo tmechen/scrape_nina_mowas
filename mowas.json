@@ -63,27 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20260513-84-000",
-    "version": 13,
-    "startDate": "2026-05-14T01:39:39+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefährdung auf Grund eines Bombenfunds - Sittenauerstraße, Regensburg",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-UN-SE068-20260514-68-000",
     "version": 13,
     "startDate": "2026-05-14T05:17:25+02:00",
@@ -102,6 +81,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20260514-84-000",
+    "version": 13,
+    "startDate": "2026-05-14T13:40:24+02:00",
+    "expiresDate": "2026-05-14T19:40:23+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefährdung auf Grund eines Bombenfunds - Sittenauerstraße, Regensburg",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
