@@ -63,28 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20260514-84-000",
-    "version": 13,
-    "startDate": "2026-05-14T13:40:24+02:00",
-    "expiresDate": "2026-05-14T19:40:23+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefährdung auf Grund eines Bombenfunds - Sittenauerstraße, Regensburg",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-UN-SE068-20260514-68-001",
     "version": 13,
     "startDate": "2026-05-14T14:22:43+02:00",
@@ -107,14 +85,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20260514-100-001",
+    "id": "mow.DE-SH-FL-SE100-20260514-100-002",
     "version": 13,
-    "startDate": "2026-05-14T18:19:26+02:00",
+    "startDate": "2026-05-14T19:10:17+02:00",
+    "expiresDate": "2026-05-15T01:10:17+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Flensburg, Trögelsbyer Weg",
+      "de": "Entwarnung: Starke Rauchentwicklung - Flensburg, Trögelsbyer Weg",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
