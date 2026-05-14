@@ -63,28 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-UN-SE068-20260514-68-001",
-    "version": 13,
-    "startDate": "2026-05-14T14:22:43+02:00",
-    "expiresDate": "2026-05-14T20:22:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase - Stadt Selm / Bereich Nordkirchen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-FL-SE100-20260514-100-002",
     "version": 13,
     "startDate": "2026-05-14T19:10:17+02:00",
@@ -104,6 +82,48 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SN-DD-W094-20260514-000",
+    "version": 13,
+    "startDate": "2026-05-14T21:30:58+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand mit starker Rauchentwicklung - Rabenau-Oelsa",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20260514-122-000",
+    "version": 13,
+    "startDate": "2026-05-14T21:56:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Verunreinigtes Trinkwasser - Zentendorf, Deschka, Zodel, Groß-Krauscha, Neu-Krauscha, Emmerichswalde",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
