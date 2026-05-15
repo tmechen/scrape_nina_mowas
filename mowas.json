@@ -84,50 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HAM-SE085-20260515-85-001",
-    "version": 13,
-    "startDate": "2026-05-15T12:50:37+02:00",
-    "expiresDate": "2026-05-15T18:50:37+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Belästigung durch Rauchgase in der Stadt Hamm - HAMM - BOCKUM-HÖVEL",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-NW-KR-SE075-20260515-75-001",
-    "version": 13,
-    "startDate": "2026-05-15T13:47:29+02:00",
-    "expiresDate": "2026-05-15T19:47:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Krefeld-Uerdingen durch ein Brandereignis - Krefeld",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20260515-18-000",
     "version": 13,
     "startDate": "2026-05-15T18:04:59+02:00",
@@ -168,6 +124,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20260515-28-000",
+    "version": 13,
+    "startDate": "2026-05-15T19:29:47+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Bargenstedt",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
