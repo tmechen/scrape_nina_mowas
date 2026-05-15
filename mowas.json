@@ -63,27 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-W094-20260514-000",
-    "version": 13,
-    "startDate": "2026-05-14T21:30:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand mit starker Rauchentwicklung - Rabenau-Oelsa",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SN-HY-SE048-20260514-122-000",
     "version": 13,
     "startDate": "2026-05-14T21:56:15+02:00",
@@ -102,6 +81,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-SN-DD-W094-20260515-000",
+    "version": 13,
+    "startDate": "2026-05-15T05:40:03+02:00",
+    "expiresDate": "2026-05-15T11:40:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand mit starker Rauchentwicklung - Rabenau-Oelsa",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
