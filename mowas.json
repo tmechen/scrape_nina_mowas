@@ -63,50 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20260517-18-001",
-    "version": 13,
-    "startDate": "2026-05-17T15:08:15+02:00",
-    "expiresDate": "2026-05-17T21:08:15+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Pforzheim - Pforzheim",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20260517-18-002",
-    "version": 13,
-    "startDate": "2026-05-17T15:09:00+02:00",
-    "expiresDate": "2026-05-17T21:09:00+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Pforzheim - Pforzheim",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BW-PF-W024-20260517-002",
     "version": 13,
     "startDate": "2026-05-17T20:07:35+02:00",
