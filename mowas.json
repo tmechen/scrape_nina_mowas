@@ -84,48 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20260515-18-000",
-    "version": 13,
-    "startDate": "2026-05-15T18:04:59+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Pforzheim - Pforzheim",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20260517-18-000",
-    "version": 13,
-    "startDate": "2026-05-17T06:00:27+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Pforzheim - Pforzheim",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE003-20260517-3-001",
     "version": 13,
     "startDate": "2026-05-17T11:12:19+02:00",
@@ -135,6 +93,50 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Entschärfung Weltkriegsbombe - Bitburg Nord. Bereich Messenweg",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20260517-18-001",
+    "version": 13,
+    "startDate": "2026-05-17T15:08:15+02:00",
+    "expiresDate": "2026-05-17T21:08:15+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Pforzheim - Pforzheim",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20260517-18-002",
+    "version": 13,
+    "startDate": "2026-05-17T15:09:00+02:00",
+    "expiresDate": "2026-05-17T21:09:00+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Pforzheim - Pforzheim",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
