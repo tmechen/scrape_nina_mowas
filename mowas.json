@@ -124,5 +124,26 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE003-20260517-3-000",
+    "version": 13,
+    "startDate": "2026-05-17T08:38:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Entschärfung Weltkriegsbombe - Bitburg Nord. Bereich Messenweg",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
   }
 ]
