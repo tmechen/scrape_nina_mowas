@@ -61,5 +61,26 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20260518-82-000",
+    "version": 13,
+    "startDate": "2026-05-18T09:12:04+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bekämpfung des Eichenprozessionsspinners aus der Luft und vom Boden - Amt Bad Wilsnack/Weisen",
+      "en": "Pest infestation",
+      "ar": "غزو الحشرات",
+      "es": "Infestación de plagas",
+      "fr": "Infestation parasitaire",
+      "pl": "Atak szkodników",
+      "ru": "Нашествие вредителей",
+      "tr": "Haşere istilası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-054"
+    }
   }
 ]
