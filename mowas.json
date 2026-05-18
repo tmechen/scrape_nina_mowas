@@ -63,49 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20260518-82-001",
-    "version": 13,
-    "startDate": "2026-05-18T18:33:56+02:00",
-    "expiresDate": "2026-05-19T00:33:55+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bekämpfung des Eichenprozessionsspinners aus der Luft und vom Boden - Amt Bad Wilsnack/Weisen",
-      "en": "Pest infestation",
-      "ar": "غزو الحشرات",
-      "es": "Infestación de plagas",
-      "fr": "Infestation parasitaire",
-      "pl": "Atak szkodników",
-      "ru": "Нашествие вредителей",
-      "tr": "Haşere istilası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-054"
-    }
-  },
-  {
-    "id": "mow.DE-SH-FL-SE100-20260518-100-006",
-    "version": 13,
-    "startDate": "2026-05-18T20:59:52+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Flensburg Weiche",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BR-B-SE017-20260518-17-001",
     "version": 13,
     "startDate": "2026-05-18T22:32:06+02:00",
@@ -147,6 +104,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20260518-100-007",
+    "version": 13,
+    "startDate": "2026-05-19T00:32:20+02:00",
+    "expiresDate": "2026-05-19T06:32:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung - Flensburg Weiche",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
