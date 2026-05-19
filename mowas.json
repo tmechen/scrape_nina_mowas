@@ -42,56 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20260515-122-001",
+    "id": "mow.DE-BB-P-SE082-20260519-82-002",
     "version": 13,
-    "startDate": "2026-05-15T12:11:11+02:00",
+    "startDate": "2026-05-19T15:11:35+02:00",
+    "expiresDate": "2026-05-19T21:11:35+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Verunreinigtes Trinkwasser - Zentendorf, Deschka, Zodel, Groß-Krauscha, Neu-Krauscha, Emmerichswalde",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-BB-P-SE082-20260519-82-000",
-    "version": 13,
-    "startDate": "2026-05-19T06:00:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bekämpfung des Eichenprozessionsspinners aus der Luft und vom Boden - Amt Bad Wilsnack / Weisen",
-      "en": "Pest infestation",
-      "ar": "غزو الحشرات",
-      "es": "Infestación de plagas",
-      "fr": "Infestation parasitaire",
-      "pl": "Atak szkodników",
-      "ru": "Нашествие вредителей",
-      "tr": "Haşere istilası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-054"
-    }
-  },
-  {
-    "id": "mow.DE-BB-P-SE082-20260519-82-001",
-    "version": 13,
-    "startDate": "2026-05-19T12:14:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchwolke beim Brand auf dem Gelände einer Recyclingfirma - Döberitz",
+      "de": "Entwarnung: Rauchwolke beim Brand auf dem Gelände einer Recyclingfirma - Döberitz",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -105,33 +64,56 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-W094-20260519-000",
+    "id": "mow.DE-SN-HY-SE048-20260519-122-000",
     "version": 13,
-    "startDate": "2026-05-19T13:39:48+02:00",
+    "startDate": "2026-05-19T16:21:43+02:00",
+    "expiresDate": "2026-05-19T22:21:43+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand eines Bungalows mit starker Rauchentwicklung - Dürrröhrsdorf-Dittersbach OT Elbersdorf",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
+      "de": "Entwarnung: Verunreinigtes Trinkwasser - Zentendorf, Deschka, Zodel, Groß-Krauscha, Neu-Krauscha, Emmerichswalde",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
     },
     "transKeys": {
-      "event": "BBK-EVC-034"
+      "event": "BBK-EVC-069"
     }
   },
   {
-    "id": "mow.DE-NI-DH-W233-20260519-000",
+    "id": "mow.DE-BB-P-SE082-20260519-82-003",
     "version": 13,
-    "startDate": "2026-05-19T14:02:36+02:00",
+    "startDate": "2026-05-19T17:11:04+02:00",
+    "expiresDate": "2026-05-19T23:11:04+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bekämpfung des Eichenprozessionsspinners aus der Luft und vom Boden - Amt Bad Wilsnack / Weisen",
+      "en": "Pest infestation",
+      "ar": "غزو الحشرات",
+      "es": "Infestación de plagas",
+      "fr": "Infestation parasitaire",
+      "pl": "Atak szkodników",
+      "ru": "Нашествие вредителей",
+      "tr": "Haşere istilası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-054"
+    }
+  },
+  {
+    "id": "mow.DE-NI-DH-W233-20260519-001",
+    "version": 13,
+    "startDate": "2026-05-19T17:20:41+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
     "i18nTitle": {
       "de": "Stromausfall in Teilen der Stadt Syke - Syke",
       "en": "Power outage",
@@ -144,6 +126,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-SN-DD-W094-20260519-001",
+    "version": 13,
+    "startDate": "2026-05-19T17:45:35+02:00",
+    "expiresDate": "2026-05-19T23:45:35+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand eines Bungalows mit starker Rauchentwicklung - Dürrröhrsdorf-Dittersbach OT Elbersdorf",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
