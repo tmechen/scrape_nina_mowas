@@ -42,28 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20260519-82-002",
-    "version": 13,
-    "startDate": "2026-05-19T15:11:35+02:00",
-    "expiresDate": "2026-05-19T21:11:35+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke beim Brand auf dem Gelände einer Recyclingfirma - Döberitz",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SN-HY-SE048-20260519-122-000",
     "version": 13,
     "startDate": "2026-05-19T16:21:43+02:00",
@@ -108,27 +86,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-DH-W233-20260519-001",
-    "version": 13,
-    "startDate": "2026-05-19T17:20:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Stromausfall in Teilen der Stadt Syke - Syke",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-SN-DD-W094-20260519-001",
     "version": 13,
     "startDate": "2026-05-19T17:45:35+02:00",
@@ -148,6 +105,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NI-DH-W233-20260519-002",
+    "version": 13,
+    "startDate": "2026-05-19T20:38:11+02:00",
+    "expiresDate": "2026-05-20T02:38:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall in Teilen der Stadt Syke - Syke",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
