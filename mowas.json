@@ -42,50 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20260519-122-000",
-    "version": 13,
-    "startDate": "2026-05-19T16:21:43+02:00",
-    "expiresDate": "2026-05-19T22:21:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Verunreinigtes Trinkwasser - Zentendorf, Deschka, Zodel, Groß-Krauscha, Neu-Krauscha, Emmerichswalde",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-BB-P-SE082-20260519-82-003",
-    "version": 13,
-    "startDate": "2026-05-19T17:11:04+02:00",
-    "expiresDate": "2026-05-19T23:11:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bekämpfung des Eichenprozessionsspinners aus der Luft und vom Boden - Amt Bad Wilsnack / Weisen",
-      "en": "Pest infestation",
-      "ar": "غزو الحشرات",
-      "es": "Infestación de plagas",
-      "fr": "Infestation parasitaire",
-      "pl": "Atak szkodników",
-      "ru": "Нашествие вредителей",
-      "tr": "Haşere istilası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-054"
-    }
-  },
-  {
     "id": "mow.DE-SN-DD-W094-20260519-001",
     "version": 13,
     "startDate": "2026-05-19T17:45:35+02:00",
