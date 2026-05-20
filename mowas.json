@@ -42,49 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20260520-143-002",
-    "version": 14,
-    "startDate": "2026-05-20T14:18:06+02:00",
-    "expiresDate": "2026-05-20T20:18:05+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand - Thale",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RT-SE050-20260520-50-000",
-    "version": 14,
-    "startDate": "2026-05-20T15:16:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand Recyclingfirma, starke Rauchentwicklung - Ebersbach, Strutweg 35",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-ARN-W014-20260520-001",
     "version": 14,
     "startDate": "2026-05-20T16:12:32+02:00",
@@ -170,6 +127,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20260520-50-001",
+    "version": 14,
+    "startDate": "2026-05-20T21:07:00+02:00",
+    "expiresDate": "2026-05-21T03:07:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand Recyclingfirma, starke Rauchentwicklung - Ebersbach, Strutweg 35",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
