@@ -42,15 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-ARN-W014-20260520-001",
+    "id": "mow.DE-BW-RT-SE050-20260520-50-001",
     "version": 14,
-    "startDate": "2026-05-20T16:12:32+02:00",
-    "expiresDate": "2026-05-20T22:12:32+02:00",
+    "startDate": "2026-05-20T21:07:00+02:00",
+    "expiresDate": "2026-05-21T03:07:00+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung wegen Gebäudebrand - Stadt Arnstadt",
+      "de": "Entwarnung: Brand Recyclingfirma, starke Rauchentwicklung - Ebersbach, Strutweg 35",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -64,81 +64,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-RE-SE078-20260520-78-001",
+    "id": "mow.DE-NI-CE-W087-20260520-000",
     "version": 14,
-    "startDate": "2026-05-20T16:38:04+02:00",
-    "expiresDate": "2026-05-20T22:38:04+02:00",
+    "startDate": "2026-05-20T22:32:49+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Weltkriegsbombenfund in Datteln - Datteln, Ortsteile Dümmer und Mecklinghoven",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NW-SO-SE089-20260520-89-002",
-    "version": 14,
-    "startDate": "2026-05-20T16:45:50+02:00",
-    "expiresDate": "2026-05-20T22:45:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stadt Lippstadt Ortsteil Lipperbruch - Stadt Lippstadt Ortsteil Lipperbruch",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NW-SO-SE089-20260520-89-003",
-    "version": 14,
-    "startDate": "2026-05-20T16:46:06+02:00",
-    "expiresDate": "2026-05-20T22:46:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Lippstadt  Ortsteil Lipperbruch - Stadt Lippstadt Ortsteil Lipperbruch",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RT-SE050-20260520-50-001",
-    "version": 14,
-    "startDate": "2026-05-20T21:07:00+02:00",
-    "expiresDate": "2026-05-21T03:07:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand Recyclingfirma, starke Rauchentwicklung - Ebersbach, Strutweg 35",
+      "de": "Starke Rauchentwicklung - Ovelgönne",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
