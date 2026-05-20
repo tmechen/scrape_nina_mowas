@@ -64,14 +64,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-CE-W087-20260520-000",
+    "id": "mow.DE-NI-CE-W087-20260520-001",
     "version": 14,
-    "startDate": "2026-05-20T22:32:49+02:00",
+    "startDate": "2026-05-20T23:37:48+02:00",
+    "expiresDate": "2026-05-21T05:37:47+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Ovelgönne",
+      "de": "Entwarnung: Starke Rauchentwicklung - Ovelgönne",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
