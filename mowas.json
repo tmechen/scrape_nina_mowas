@@ -61,5 +61,27 @@
     "transKeys": {
       "event": "BBK-EVC-045"
     }
+  },
+  {
+    "id": "mow.DE-BY-N-SE137-20260521-166-001",
+    "version": 14,
+    "startDate": "2026-05-21T20:15:04+02:00",
+    "expiresDate": "2026-05-22T02:15:04+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Probealarm - Stadt Erlangen - Bergkirchweih",
+      "en": "Major event",
+      "ar": "فعالية كبيرة",
+      "es": "Evento multitudinario",
+      "fr": "Événement de grande ampleur",
+      "pl": "Impreza masowa",
+      "ru": "Массовое мероприятие",
+      "tr": "Büyük etkinlik"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-035"
+    }
   }
 ]
