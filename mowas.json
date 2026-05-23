@@ -61,5 +61,27 @@
     "transKeys": {
       "event": "BBK-EVC-045"
     }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20260523-001",
+    "version": 14,
+    "startDate": "2026-05-23T10:40:24+02:00",
+    "expiresDate": "2026-05-23T16:40:23+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandereignis - Lauingen Bereich Lindenstr",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
   }
 ]
