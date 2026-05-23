@@ -85,14 +85,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-E-SE052-20260523-52-000",
+    "id": "mow.DE-NW-E-SE052-20260523-52-001",
     "version": 14,
-    "startDate": "2026-05-23T19:36:20+02:00",
+    "startDate": "2026-05-23T22:54:34+02:00",
+    "expiresDate": "2026-05-24T04:54:34+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase (Essen- Bochhold) - Essen",
+      "de": "Entwarnung: Rauchgase (Essen- Bochhold) - Essen",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
