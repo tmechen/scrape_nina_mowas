@@ -63,28 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20260523-4-001",
-    "version": 14,
-    "startDate": "2026-05-23T16:48:28+02:00",
-    "expiresDate": "2026-05-23T22:48:28+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand - Baumholder - Auf Schneeweid",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-E-SE052-20260523-52-001",
     "version": 14,
     "startDate": "2026-05-23T22:54:34+02:00",
