@@ -63,36 +63,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20260523-001",
+    "id": "mow.DE-RP-TR-SE004-20260523-4-001",
     "version": 14,
-    "startDate": "2026-05-23T10:40:24+02:00",
-    "expiresDate": "2026-05-23T16:40:23+02:00",
+    "startDate": "2026-05-23T16:48:28+02:00",
+    "expiresDate": "2026-05-23T22:48:28+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Brandereignis - Lauingen Bereich Lindenstr",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-RP-TR-SE004-20260523-4-000",
-    "version": 14,
-    "startDate": "2026-05-23T15:28:15+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand - Baumholder - Auf Schneeweid",
+      "de": "Entwarnung: Großbrand - Baumholder - Auf Schneeweid",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
