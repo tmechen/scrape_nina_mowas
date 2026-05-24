@@ -85,14 +85,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-RV-W228-20260524-000",
+    "id": "mow.DE-BW-RV-W228-20260524-001",
     "version": 14,
-    "startDate": "2026-05-24T05:37:48+02:00",
+    "startDate": "2026-05-24T06:18:01+02:00",
+    "expiresDate": "2026-05-24T12:18:01+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand mit Gefahr durch Rauchgase - Mengen",
+      "de": "Entwarnung: Großbrand mit Gefahr durch Rauchgase - Mengen",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
