@@ -63,15 +63,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260525-28-001",
+    "id": "mow.DE-BY-N-SE137-20260525-166-001",
     "version": 14,
-    "startDate": "2026-05-25T16:30:41+02:00",
-    "expiresDate": "2026-05-25T22:30:40+02:00",
-    "severity": "Minor",
+    "startDate": "2026-05-25T23:05:38+02:00",
+    "expiresDate": "2026-05-26T05:05:37+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Itzehoe",
+      "de": "Entwarnung: Brandereignis Fürth Hafenstraße - Fürth",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
