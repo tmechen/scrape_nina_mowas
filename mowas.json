@@ -63,14 +63,15 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20260525-35-001",
+    "id": "mow.DE-SL-SB-SE035-20260525-35-002",
     "version": 14,
-    "startDate": "2026-05-25T05:32:20+02:00",
+    "startDate": "2026-05-25T11:03:54+02:00",
+    "expiresDate": "2026-05-25T17:03:53+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Brandereignis - Hemmersdorf/Rehlingen-Siersburg",
+      "de": "Entwarnung: Rauchentwicklung durch Brandereignis - Hemmersdorf/Rehlingen-Siersburg",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
