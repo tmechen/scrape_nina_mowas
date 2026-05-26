@@ -84,50 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20260526-125-001",
-    "version": 14,
-    "startDate": "2026-05-26T18:47:55+02:00",
-    "expiresDate": "2026-05-27T00:47:54+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gasaustritt - Raumbach",
-      "en": "Gas leak",
-      "ar": "تسرب غاز",
-      "es": "Escape de gas",
-      "fr": "Fuite de gaz",
-      "pl": "Wyciek gazu",
-      "ru": "Утечка газа",
-      "tr": "Gaz kaçağı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
-    "id": "mow.DE-SL-SB-SE035-20260526-35-001",
-    "version": 14,
-    "startDate": "2026-05-26T19:23:49+02:00",
-    "expiresDate": "2026-05-27T01:23:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brandereignis - Dillingen Industriegebiet Nord, Pachtener Heide, Beckingen",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-SE004-20260526-4-001",
     "version": 14,
     "startDate": "2026-05-26T20:16:50+02:00",
