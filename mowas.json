@@ -84,14 +84,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20260526-125-000",
+    "id": "mow.DE-RP-MZ-SE114-20260526-125-001",
     "version": 14,
-    "startDate": "2026-05-26T15:51:16+02:00",
+    "startDate": "2026-05-26T18:47:55+02:00",
+    "expiresDate": "2026-05-27T00:47:54+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gasaustritt - Raumbach",
+      "de": "Entwarnung: Gasaustritt - Raumbach",
       "en": "Gas leak",
       "ar": "تسرب غاز",
       "es": "Escape de gas",
@@ -105,35 +106,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20260526-4-000",
+    "id": "mow.DE-SL-SB-SE035-20260526-35-001",
     "version": 14,
-    "startDate": "2026-05-26T16:04:54+02:00",
+    "startDate": "2026-05-26T19:23:49+02:00",
+    "expiresDate": "2026-05-27T01:23:49+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Brand einer Werkstatt - Nohen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-SL-SB-SE035-20260526-35-000",
-    "version": 14,
-    "startDate": "2026-05-26T16:53:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Brandereignis - Dillingen Industriegebiet Nord, Pachtener Heide, Beckingen",
+      "de": "Entwarnung: Rauchentwicklung durch Brandereignis - Dillingen Industriegebiet Nord, Pachtener Heide, Beckingen",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -144,6 +125,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20260526-4-001",
+    "version": 14,
+    "startDate": "2026-05-26T20:16:50+02:00",
+    "expiresDate": "2026-05-27T02:16:49+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Brand einer Werkstatt - Nohen",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
