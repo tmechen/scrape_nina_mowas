@@ -191,27 +191,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-RE-SE078-20260527-78-000",
-    "version": 14,
-    "startDate": "2026-05-27T17:26:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "1.2 Weltkriegsbombe - Stadt Marl (Stadtteil Alt-Marl)",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-D-SE047-20260527-47-000",
     "version": 14,
     "startDate": "2026-05-27T17:30:14+02:00",
@@ -233,14 +212,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20260527-67-000",
+    "id": "mow.DE-SL-SB-SE035-20260527-35-001",
     "version": 14,
-    "startDate": "2026-05-27T18:24:52+02:00",
+    "startDate": "2026-05-27T18:37:51+02:00",
+    "expiresDate": "2026-05-28T00:37:50+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brand - Dortmund",
+      "de": "Entwarnung: Rauchentwicklung Brand in Winterbach - Winterbach",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -254,15 +234,37 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20260527-35-001",
+    "id": "mow.DE-NW-RE-SE078-20260527-78-001",
     "version": 14,
-    "startDate": "2026-05-27T18:37:51+02:00",
-    "expiresDate": "2026-05-28T00:37:50+02:00",
+    "startDate": "2026-05-27T20:02:06+02:00",
+    "expiresDate": "2026-05-28T02:02:05+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung Brand in Winterbach - Winterbach",
+      "de": "Entwarnung: 1.2 Weltkriegsbombe - Stadt Marl (Stadtteil Alt-Marl)",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20260527-67-001",
+    "version": 14,
+    "startDate": "2026-05-27T20:15:32+02:00",
+    "expiresDate": "2026-05-28T02:15:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brand - Dortmund",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
