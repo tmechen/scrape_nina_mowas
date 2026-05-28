@@ -84,138 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-RE-SE078-20260527-78-001",
-    "version": 14,
-    "startDate": "2026-05-27T20:02:06+02:00",
-    "expiresDate": "2026-05-28T02:02:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 1.2 Weltkriegsbombe - Stadt Marl (Stadtteil Alt-Marl)",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NW-DO-SE067-20260527-67-001",
-    "version": 14,
-    "startDate": "2026-05-27T20:15:32+02:00",
-    "expiresDate": "2026-05-28T02:15:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brand - Dortmund",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-HE-GI-W182-20260527-001",
-    "version": 15,
-    "startDate": "2026-05-27T21:18:05+02:00",
-    "expiresDate": "2026-05-28T03:18:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung Brandereigniss - Gemeinde Buseck",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-HE-FB-W193-20260527-001",
-    "version": 15,
-    "startDate": "2026-05-27T21:53:36+02:00",
-    "expiresDate": "2026-05-28T03:53:36+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase / Rauchsäule - Rosbach v.d.H",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NW-D-SE047-20260527-47-001",
-    "version": 15,
-    "startDate": "2026-05-27T22:29:24+02:00",
-    "expiresDate": "2026-05-28T04:29:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Weltkriegsbombe in Düsseldorf - Düsseldorf - Oberbilk",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20260527-28-001",
-    "version": 15,
-    "startDate": "2026-05-27T23:18:32+02:00",
-    "expiresDate": "2026-05-28T05:18:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Windbergen",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-KA-W138-20260527-001",
     "version": 15,
     "startDate": "2026-05-27T23:58:51+02:00",
@@ -257,6 +125,48 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20260528-82-000",
+    "version": 15,
+    "startDate": "2026-05-28T05:11:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung - Nauen Waldsiedlung",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20260528-82-001",
+    "version": 15,
+    "startDate": "2026-05-28T05:44:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Vodafone/ Kabel Deutschland - Rathenow, Steckelsdorf, Großwudicke, Stechow, Mögelin, Ferchesar",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
