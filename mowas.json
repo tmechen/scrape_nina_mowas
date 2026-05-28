@@ -84,50 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20260527-001",
-    "version": 15,
-    "startDate": "2026-05-27T23:58:51+02:00",
-    "expiresDate": "2026-05-28T05:58:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: A.03 Brand - Warnung - Bruchsal",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-NW-WES-SE097-20260527-97-001",
-    "version": 15,
-    "startDate": "2026-05-28T00:42:02+02:00",
-    "expiresDate": "2026-05-28T06:42:02+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenentschärfung in Moers-Mitte - Moers-Mitte",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BB-P-SE082-20260528-82-000",
     "version": 15,
     "startDate": "2026-05-28T05:11:57+02:00",
