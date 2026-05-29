@@ -126,28 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20260529-29-002",
-    "version": 15,
-    "startDate": "2026-05-29T19:29:45+02:00",
-    "expiresDate": "2026-05-30T01:29:45+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung bei Großbrand - Deinste",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NI-H-SE110-20260529-110-002",
     "version": 15,
     "startDate": "2026-05-29T21:18:57+02:00",
