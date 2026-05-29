@@ -105,28 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE113-20260528-113-001",
-    "version": 15,
-    "startDate": "2026-05-28T20:01:48+02:00",
-    "expiresDate": "2026-05-29T02:01:47+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Freisetzung explosiver / brennbarer Gase - Gondershausen",
-      "en": "Risk of explosion",
-      "ar": "خطر الانفجار",
-      "es": "Peligro de explosión",
-      "fr": "Risque d'explosion",
-      "pl": "Niebezpieczeństwo wybuchu",
-      "ru": "Опасность взрыва",
-      "tr": "Patlama tehlikesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-020"
-    }
-  },
-  {
     "id": "mow.DE-BY-NEW-W265-20260528-002",
     "version": 15,
     "startDate": "2026-05-28T21:34:59+02:00",
@@ -145,27 +123,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-NI-EL-W089-20260528-000",
-    "version": 15,
-    "startDate": "2026-05-28T22:08:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausfall der Trinkwasserversorgung - Lingen",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
     }
   },
   {
@@ -232,6 +189,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-EL-W089-20260529-000",
+    "version": 15,
+    "startDate": "2026-05-29T02:52:45+02:00",
+    "expiresDate": "2026-05-29T08:52:45+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall der Trinkwasserversorgung - Lingen",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
