@@ -105,15 +105,57 @@
     }
   },
   {
-    "id": "mow.DE-NW-NE-SE044-20260529-44-001",
+    "id": "mow.DE-NI-STD-SE029-20260529-29-001",
     "version": 15,
-    "startDate": "2026-05-29T14:48:33+02:00",
-    "expiresDate": "2026-05-29T20:48:33+02:00",
+    "startDate": "2026-05-29T18:59:03+02:00",
     "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Unwetterwarnung im Bereich der Grossleitstelle Oldenburger Land - gesamter Bereich der GOL",
+      "en": "Severe thunderstorm with extreme gale-force winds",
+      "ar": "عواصف شديدة مصحوبة بهبوب أعاصير",
+      "es": "Tormenta fuerte con rachas de temporal huracanado extremas",
+      "fr": "Orages violents avec vent d'ouragan extrême",
+      "pl": "Silna burza z ekstremalnymi porywami wiatru",
+      "ru": "Сильная гроза с экстремальными ураганными шквалами",
+      "tr": "Şiddetli kasırgalı fırtına"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-086"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20260529-29-002",
+    "version": 15,
+    "startDate": "2026-05-29T19:29:45+02:00",
+    "expiresDate": "2026-05-30T01:29:45+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Grevenbroich - Grevenbroich",
+      "de": "Entwarnung: starke Rauchentwicklung bei Großbrand - Deinste",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NI-H-SE110-20260529-110-001",
+    "version": 15,
+    "startDate": "2026-05-29T20:05:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchgasausbreitung - Hannover-Misburg",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -127,14 +169,14 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20260529-29-000",
+    "id": "mow.DE-BY-KE-W173-20260529-001",
     "version": 15,
-    "startDate": "2026-05-29T15:26:18+02:00",
-    "severity": "Severe",
+    "startDate": "2026-05-29T20:43:38+02:00",
+    "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "starke Rauchentwicklung bei Großbrand - Deinste",
+      "de": "Feuerwehreinsatz Brand - Stadt Füssen gesamtes Stadtgebiet",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
