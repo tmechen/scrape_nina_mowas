@@ -126,28 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20260531-29-000",
-    "version": 15,
-    "startDate": "2026-05-31T14:45:54+02:00",
-    "expiresDate": "2026-05-31T20:45:53+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Bombenräumung 31.05.2026 - Stadt Osnabrück - Lokviertel",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-TH-UH-W116-20260531-001",
     "version": 15,
     "startDate": "2026-05-31T18:41:13+02:00",
