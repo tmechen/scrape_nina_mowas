@@ -146,5 +146,26 @@
     "transKeys": {
       "event": "BBK-EVC-079"
     }
+  },
+  {
+    "id": "mow.DE-TH-UH-W116-20260531-000",
+    "version": 15,
+    "startDate": "2026-05-31T17:27:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gasaustritt aus einer Gasleitung - Südeichsfeld OT Diedorf",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
