@@ -168,5 +168,26 @@
     "transKeys": {
       "event": "BBK-EVC-027"
     }
+  },
+  {
+    "id": "mow.DE-BY-N-SE137-20260531-166-000",
+    "version": 15,
+    "startDate": "2026-05-31T19:19:23+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Unwetterwarnung - Stadt Erlangen - Bergkirchweih",
+      "en": "Thunderstorm",
+      "ar": "عاصفة رعدية",
+      "es": "Tormentas",
+      "fr": "Orage",
+      "pl": "Burza",
+      "ru": "Гроза",
+      "tr": "Kötü hava koşulları"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-031"
+    }
   }
 ]
