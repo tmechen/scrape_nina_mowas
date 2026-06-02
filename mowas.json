@@ -63,27 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260601-28-004",
-    "version": 15,
-    "startDate": "2026-06-01T23:11:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Allgemeiner Schadensfall - Bokholt-Hanredder OT Voßloch",
-      "en": "Gas supply outage",
-      "ar": "انقطاع إمدادات الغاز",
-      "es": "Interrupción del suministro de gas",
-      "fr": "Coupure de gaz",
-      "pl": "Awaria zasilania gazem",
-      "ru": "Отказ системы газоснабжения",
-      "tr": "Gaz beslemesi arızası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-003"
-    }
-  },
-  {
     "id": "mow.DE-BB-FF-SE080-20260602-80-000",
     "version": 15,
     "startDate": "2026-06-02T11:35:53+02:00",
@@ -167,6 +146,92 @@
     },
     "transKeys": {
       "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20260602-28-000",
+    "version": 15,
+    "startDate": "2026-06-02T17:10:00+02:00",
+    "expiresDate": "2026-06-02T23:10:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Allgemeiner Schadensfall - Bokholt-Hanredder OT Voßloch",
+      "en": "Gas supply outage",
+      "ar": "انقطاع إمدادات الغاز",
+      "es": "Interrupción del suministro de gas",
+      "fr": "Coupure de gaz",
+      "pl": "Awaria zasilania gazem",
+      "ru": "Отказ системы газоснабжения",
+      "tr": "Gaz beslemesi arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-003"
+    }
+  },
+  {
+    "id": "mow.DE-BB-FF-SE080-20260602-80-001",
+    "version": 15,
+    "startDate": "2026-06-02T18:16:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Evakuierungsanordnung in Frankfurt(Oder) Ortsteil Lossow - Lossow",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BY-PA-W160-20260602-001",
+    "version": 15,
+    "startDate": "2026-06-02T19:56:49+02:00",
+    "expiresDate": "2026-06-03T01:56:48+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: 4.01 Schadstofffreisetzung in Stadtgebiet Vilshofen - Stadtgebiet Vilshofen",
+      "en": "Dangerous goods accident",
+      "ar": "حادث مواد خطرة",
+      "es": "Accidente imputable a mercancías peligrosas",
+      "fr": "Accident impliquant des substances dangereuses",
+      "pl": "Wypadek z materiałami niebezpiecznymi",
+      "ru": "Авария при перевозке опасных грузов",
+      "tr": "Tehlikeli madde kazası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-029"
+    }
+  },
+  {
+    "id": "mow.DE-NW-AC-SE090-20260602-90-000",
+    "version": 15,
+    "startDate": "2026-06-02T20:39:49+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geringfügiger Produktaustritt aus einem Kesselwagen. - Aachen",
+      "en": "Chemical hazard",
+      "ar": "خطر كيماوي",
+      "es": "Peligro químico",
+      "fr": "Risque chimique",
+      "pl": "Zagrożenie chemiczne",
+      "ru": "Химическая опасность",
+      "tr": "Kimyasal tehlike"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-014"
     }
   }
 ]
