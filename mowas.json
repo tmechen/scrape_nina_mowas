@@ -84,49 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-W094-20260601-000",
-    "version": 15,
-    "startDate": "2026-06-01T22:20:42+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelastigung durch unbekannte Substanz - Grumbach",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20260601-28-003",
-    "version": 15,
-    "startDate": "2026-06-01T23:09:06+02:00",
-    "expiresDate": "2026-06-02T05:09:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Bokholt-Hanreddder",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20260601-28-004",
     "version": 15,
     "startDate": "2026-06-01T23:11:04+02:00",
@@ -148,69 +105,25 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260601-28-005",
+    "id": "mow.DE-SN-DD-W094-20260602-000",
     "version": 15,
-    "startDate": "2026-06-01T23:13:54+02:00",
-    "expiresDate": "2026-06-02T05:13:53+02:00",
+    "startDate": "2026-06-02T07:18:44+02:00",
+    "expiresDate": "2026-06-02T13:18:44+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Bokholt-Hanredder",
-      "en": "Gas leak",
-      "ar": "تسرب غاز",
-      "es": "Escape de gas",
-      "fr": "Fuite de gaz",
-      "pl": "Wyciek gazu",
-      "ru": "Утечка газа",
-      "tr": "Gaz kaçağı"
+      "de": "Entwarnung: Geruchsbelastigung durch unbekannte Substanz - Grumbach",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
     },
     "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
-    "id": "mow.DE-NW-MK-SE095-20260601-95-001",
-    "version": 15,
-    "startDate": "2026-06-02T00:14:42+02:00",
-    "expiresDate": "2026-06-02T06:14:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Iserlohn - Iserlohn Stenglingsen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-ST-SLK-W069-20260601-002",
-    "version": 15,
-    "startDate": "2026-06-02T01:35:55+02:00",
-    "expiresDate": "2026-06-02T07:35:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase durch Brand einer Lagerhalle - Schönebeck",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
+      "event": "BBK-EVC-078"
     }
   }
 ]
