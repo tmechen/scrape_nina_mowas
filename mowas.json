@@ -105,72 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-PA-W160-20260602-001",
-    "version": 15,
-    "startDate": "2026-06-02T19:56:49+02:00",
-    "expiresDate": "2026-06-03T01:56:48+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 4.01 Schadstofffreisetzung in Stadtgebiet Vilshofen - Stadtgebiet Vilshofen",
-      "en": "Dangerous goods accident",
-      "ar": "حادث مواد خطرة",
-      "es": "Accidente imputable a mercancías peligrosas",
-      "fr": "Accident impliquant des substances dangereuses",
-      "pl": "Wypadek z materiałami niebezpiecznymi",
-      "ru": "Авария при перевозке опасных грузов",
-      "tr": "Tehlikeli madde kazası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-029"
-    }
-  },
-  {
-    "id": "mow.DE-BB-FF-SE080-20260602-80-002",
-    "version": 15,
-    "startDate": "2026-06-02T20:43:35+02:00",
-    "expiresDate": "2026-06-03T02:43:35+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Frankfurt (Oder) Buschmühlenweg, Grenzbahnhof Umkreis 1000m",
-      "en": "Dangerous goods accident",
-      "ar": "حادث مواد خطرة",
-      "es": "Accidente imputable a mercancías peligrosas",
-      "fr": "Accident impliquant des substances dangereuses",
-      "pl": "Wypadek z materiałami niebezpiecznymi",
-      "ru": "Авария при перевозке опасных грузов",
-      "tr": "Tehlikeli madde kazası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-029"
-    }
-  },
-  {
-    "id": "mow.DE-NW-AC-SE090-20260602-90-001",
-    "version": 15,
-    "startDate": "2026-06-02T21:03:07+02:00",
-    "expiresDate": "2026-06-03T03:03:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geringfügiger Produktaustritt aus einem Kesselwagen. - Aachen",
-      "en": "Chemical hazard",
-      "ar": "خطر كيماوي",
-      "es": "Peligro químico",
-      "fr": "Risque chimique",
-      "pl": "Zagrożenie chemiczne",
-      "ru": "Химическая опасность",
-      "tr": "Kimyasal tehlike"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-014"
-    }
-  },
-  {
     "id": "mow.DE-BY-SC-SE150-20260602-175-002",
     "version": 15,
     "startDate": "2026-06-02T22:43:40+02:00",
@@ -233,6 +167,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20260603-56-000",
+    "version": 15,
+    "startDate": "2026-06-03T03:28:26+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in Heinsberg - Heinsberg",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
