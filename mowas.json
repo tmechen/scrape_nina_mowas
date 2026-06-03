@@ -105,50 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20260603-50-000",
-    "version": 15,
-    "startDate": "2026-06-03T09:25:15+02:00",
-    "expiresDate": "2026-06-03T15:25:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: In Ostrach und seinen Ortsteilen großflächigen Stromausfällen - Ostrach",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-BB-FF-SE080-20260603-80-000",
-    "version": 15,
-    "startDate": "2026-06-03T10:50:42+02:00",
-    "expiresDate": "2026-06-03T16:50:42+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Evakuierungsanordnung in Frankfurt(Oder) Ortsteil Lossow - Lossow",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-SH-NMS-SE101-20260603-101-001",
     "version": 15,
     "startDate": "2026-06-03T13:04:44+02:00",
