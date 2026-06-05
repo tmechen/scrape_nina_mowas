@@ -42,27 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-AB-SE139-20260521-171-000",
-    "version": 14,
-    "startDate": "2026-05-21T15:43:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Abkochgebot - Schneeberg",
-      "en": "Food safety alert",
-      "ar": "تحذير حول سلامة الأغذية",
-      "es": "Alerta alimentaria",
-      "fr": "Alerte alimentaire",
-      "pl": "Ostrzeżenie dotyczące artykułów spożywczych",
-      "ru": "Предупреждение о безопасности пищевых продуктов",
-      "tr": "Gıda maddesi uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-045"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20260605-125-002",
     "version": 15,
     "startDate": "2026-06-05T10:38:22+02:00",
@@ -82,6 +61,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-AB-SE139-20260605-171-000",
+    "version": 15,
+    "startDate": "2026-06-05T13:48:22+02:00",
+    "expiresDate": "2026-06-05T19:48:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Abkochgebot - Schneeberg",
+      "en": "Food safety alert",
+      "ar": "تحذير حول سلامة الأغذية",
+      "es": "Alerta alimentaria",
+      "fr": "Alerte alimentaire",
+      "pl": "Ostrzeżenie dotyczące artykułów spożywczych",
+      "ru": "Предупреждение о безопасности пищевых продуктов",
+      "tr": "Gıda maddesi uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-045"
     }
   }
 ]
