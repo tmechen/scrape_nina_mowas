@@ -42,28 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-AB-SE139-20260605-171-000",
-    "version": 15,
-    "startDate": "2026-06-05T13:48:22+02:00",
-    "expiresDate": "2026-06-05T19:48:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Abkochgebot - Schneeberg",
-      "en": "Food safety alert",
-      "ar": "تحذير حول سلامة الأغذية",
-      "es": "Alerta alimentaria",
-      "fr": "Alerte alimentaire",
-      "pl": "Ostrzeżenie dotyczące artykułów spożywczych",
-      "ru": "Предупреждение о безопасности пищевых продуктов",
-      "tr": "Gıda maddesi uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-045"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-SE004-20260605-4-000",
     "version": 15,
     "startDate": "2026-06-05T16:08:41+02:00",
@@ -85,14 +63,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-SE137-20260605-166-000",
+    "id": "mow.DE-BY-N-SE137-20260605-166-001",
     "version": 15,
-    "startDate": "2026-06-05T16:11:51+02:00",
+    "startDate": "2026-06-05T19:19:47+02:00",
+    "expiresDate": "2026-06-06T01:19:47+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Fund einer Fliegerbombe - Fürth - südlich der Albert-Einstein-Straße",
+      "de": "Entwarnung: Fund einer Fliegerbombe - Fürth - südlich der Albert-Einstein-Straße",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
