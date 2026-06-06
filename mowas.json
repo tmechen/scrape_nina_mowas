@@ -42,50 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-GL-SE063-20260606-63-002",
-    "version": 15,
-    "startDate": "2026-06-06T12:20:05+02:00",
-    "expiresDate": "2026-06-06T18:20:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kreisweiter Warntag 06.06.2026- Probewarnung  TEST - Rheinisch-Bergischer Kreis",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-NW-K-SE031-20260606-31-001",
-    "version": 15,
-    "startDate": "2026-06-06T12:20:05+02:00",
-    "expiresDate": "2026-06-06T18:20:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm - Köln",
-      "en": "Siren test",
-      "ar": "تجربة صفارة الإنذار",
-      "es": "Prueba de sirena",
-      "fr": "Test des sirènes",
-      "pl": "Test syren",
-      "ru": "Проверка средств оповещения",
-      "tr": "Siren testi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20260606-18-001",
     "version": 15,
     "startDate": "2026-06-06T13:41:49+02:00",
