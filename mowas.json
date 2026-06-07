@@ -42,36 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE024-20260607-24-001",
+    "id": "mow.DE-NW-ME-SE071-20260607-71-002",
     "version": 15,
-    "startDate": "2026-06-07T10:09:35+02:00",
-    "expiresDate": "2026-06-07T16:09:34+02:00",
+    "startDate": "2026-06-07T16:32:07+02:00",
+    "expiresDate": "2026-06-07T22:32:07+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: FEUERWEHREINSATZ - Stadt Ueckermünde",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-NW-ME-SE071-20260607-71-001",
-    "version": 15,
-    "startDate": "2026-06-07T14:20:02+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in [Ortsangabe] - Stadt Haan",
+      "de": "Entwarnung: Geruchsbelästigung in [Ortsangabe] - Stadt Haan",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
