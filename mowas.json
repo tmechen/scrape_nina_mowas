@@ -42,28 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20260607-29-001",
-    "version": 15,
-    "startDate": "2026-06-07T06:00:56+02:00",
-    "expiresDate": "2026-06-07T12:00:55+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Extreme Rauchentwicklung - Bremervörde-Mehedorf",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE024-20260607-24-001",
     "version": 15,
     "startDate": "2026-06-07T10:09:35+02:00",
