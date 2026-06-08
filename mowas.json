@@ -42,27 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-H-SE110-20260608-110-000",
-    "version": 15,
-    "startDate": "2026-06-08T02:44:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "[01a] Rauchgasausbreitung - Wunstorf",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20260608-50-000",
     "version": 15,
     "startDate": "2026-06-08T03:22:35+02:00",
@@ -81,6 +60,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NI-H-SE110-20260608-110-002",
+    "version": 15,
+    "startDate": "2026-06-08T05:15:33+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchgasausbreitung - Wunstorf",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
