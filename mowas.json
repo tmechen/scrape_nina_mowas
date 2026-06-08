@@ -63,50 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-SHG-W289-20260608-003",
-    "version": 15,
-    "startDate": "2026-06-08T17:15:55+02:00",
-    "expiresDate": "2026-06-08T23:15:54+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Weltkriegsgranate gefunden / Evakuierung - Rinteln",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NI-H-SE110-20260608-110-003",
-    "version": 15,
-    "startDate": "2026-06-08T17:56:23+02:00",
-    "expiresDate": "2026-06-08T23:56:22+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgasausbreitung - Wunstorf",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-DO-SE067-20260608-67-001",
     "version": 15,
     "startDate": "2026-06-08T18:43:49+02:00",
@@ -126,27 +82,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-HE-MTK-W098-20260608-000",
-    "version": 15,
-    "startDate": "2026-06-08T19:28:17+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase durch Brandereignis - Hattersheim am Main",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
     }
   },
   {
@@ -211,6 +146,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-HE-MTK-W098-20260608-001",
+    "version": 15,
+    "startDate": "2026-06-08T23:11:08+02:00",
+    "expiresDate": "2026-06-09T05:11:08+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase durch Brandereignis - Hattersheim am Main",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
