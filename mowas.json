@@ -42,27 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20260608-50-001",
-    "version": 15,
-    "startDate": "2026-06-08T09:56:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Stromausfall in Reutlingen, Wannweil und Kirchentellinsfurt - Reutlingen, Wannweil und Kirchentellinsfurt",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BW-TUE-W126-20260608-000",
     "version": 15,
     "startDate": "2026-06-08T10:41:30+02:00",
@@ -81,28 +60,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-SN-C-W092-20260608-001",
-    "version": 15,
-    "startDate": "2026-06-08T15:18:04+02:00",
-    "expiresDate": "2026-06-08T21:18:03+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke aus Industriegebäude - Zwönitz, Ortsteil Zwönitz",
-      "en": "Chemical hazard",
-      "ar": "خطر كيماوي",
-      "es": "Peligro químico",
-      "fr": "Risque chimique",
-      "pl": "Zagrożenie chemiczne",
-      "ru": "Химическая опасность",
-      "tr": "Kimyasal tehlike"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-014"
     }
   },
   {
@@ -147,27 +104,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029-20260608-29-000",
-    "version": 15,
-    "startDate": "2026-06-08T18:36:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand Mehrfamilienhaus in Scheeßel - Scheeßel",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
     }
   },
   {
@@ -232,6 +168,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20260608-50-002",
+    "version": 15,
+    "startDate": "2026-06-08T21:25:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Stromausfall in Reutlingen, Wannweil und Kirchentellinsfurt - Reutlingen, Wannweil und Kirchentellinsfurt",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20260608-29-001",
+    "version": 15,
+    "startDate": "2026-06-08T21:42:51+02:00",
+    "expiresDate": "2026-06-09T03:42:50+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand Mehrfamilienhaus in Scheeßel - Scheeßel",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
