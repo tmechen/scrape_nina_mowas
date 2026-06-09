@@ -63,28 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-TUE-W126-20260608-001",
-    "version": 15,
-    "startDate": "2026-06-09T00:46:16+02:00",
-    "expiresDate": "2026-06-09T06:46:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall Kirchentellinsfurt - Kirchentellinsfurt",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-HE-F-SE119-20260609-128-000",
     "version": 15,
     "startDate": "2026-06-09T05:05:37+02:00",
