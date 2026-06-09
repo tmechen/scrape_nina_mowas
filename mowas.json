@@ -42,27 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-F-SE119-20260608-128-001",
-    "version": 15,
-    "startDate": "2026-06-08T20:20:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchgase durch Brandereignis - Rüsselsheim-Königstädten",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20260608-50-002",
     "version": 15,
     "startDate": "2026-06-08T21:25:01+02:00",
@@ -81,50 +60,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029-20260608-29-001",
-    "version": 15,
-    "startDate": "2026-06-08T21:42:51+02:00",
-    "expiresDate": "2026-06-09T03:42:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand Mehrfamilienhaus in Scheeßel - Scheeßel",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-HE-MTK-W098-20260608-001",
-    "version": 15,
-    "startDate": "2026-06-08T23:11:08+02:00",
-    "expiresDate": "2026-06-09T05:11:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase durch Brandereignis - Hattersheim am Main",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
     }
   },
   {
@@ -147,6 +82,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-HE-F-SE119-20260609-128-000",
+    "version": 15,
+    "startDate": "2026-06-09T05:05:37+02:00",
+    "expiresDate": "2026-06-09T11:05:36+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase durch Brandereignis - Rüsselsheim-Königstädten",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
