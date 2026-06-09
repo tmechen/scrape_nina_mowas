@@ -63,25 +63,25 @@
     }
   },
   {
-    "id": "mow.DE-HE-F-SE119-20260609-128-000",
+    "id": "mow.DE-MV-HGW-W005-20260609-001",
     "version": 15,
-    "startDate": "2026-06-09T05:05:37+02:00",
-    "expiresDate": "2026-06-09T11:05:36+02:00",
+    "startDate": "2026-06-09T13:09:17+02:00",
+    "expiresDate": "2026-06-09T19:09:16+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Rauchgase durch Brandereignis - Rüsselsheim-Königstädten",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
+      "de": "Entwarnung: Gasaustritt in 17440 Kröslin, Platz der Einheit - Kröslin",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
     },
     "transKeys": {
-      "event": "BBK-EVC-010"
+      "event": "BBK-EVC-027"
     }
   }
 ]
