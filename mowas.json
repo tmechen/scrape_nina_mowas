@@ -63,49 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20260610-129-000",
-    "version": 15,
-    "startDate": "2026-06-10T12:22:01+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Tostedt",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-HB-HB-SE019-20260610-19-002",
-    "version": 15,
-    "startDate": "2026-06-10T12:22:58+02:00",
-    "expiresDate": "2026-06-10T18:22:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gebäudebrand - Rauchentwicklung - Bremen, Stadtteil Lüssum-Bockhorn",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-MS-SE043-20260610-43-001",
     "version": 15,
     "startDate": "2026-06-10T15:06:44+02:00",
@@ -128,14 +85,37 @@
     }
   },
   {
-    "id": "mow.DE-NW-KLE-SE058-20260610-58-000",
+    "id": "mow.DE-NI-STD-SE029-20260610-29-000",
     "version": 15,
-    "startDate": "2026-06-10T15:31:26+02:00",
+    "startDate": "2026-06-10T16:18:15+02:00",
+    "expiresDate": "2026-06-10T22:18:15+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund in Kleve - Kleve",
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Tostedt",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-KLE-SE058-20260610-58-001",
+    "version": 15,
+    "startDate": "2026-06-10T18:34:33+02:00",
+    "expiresDate": "2026-06-11T00:34:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Kleve - Kleve",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
@@ -146,6 +126,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BY-WUE-W164-20260610-000",
+    "version": 15,
+    "startDate": "2026-06-10T18:53:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasserverunreinigung - Würzburg und Gerbrunn",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20260610-106-001",
+    "version": 15,
+    "startDate": "2026-06-10T19:20:25+02:00",
+    "expiresDate": "2026-06-11T01:20:25+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand mit Rauchwolke - Niestetal-Sandershausen",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
