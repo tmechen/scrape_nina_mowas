@@ -63,15 +63,57 @@
     }
   },
   {
-    "id": "mow.DE-RP-LU-SE005-20260610-5-000",
+    "id": "mow.DE-BB-P-SE082-20260610-82-001",
     "version": 15,
-    "startDate": "2026-06-10T03:20:51+02:00",
-    "expiresDate": "2026-06-10T09:20:51+02:00",
+    "startDate": "2026-06-10T09:16:20+02:00",
+    "expiresDate": "2026-06-10T15:16:19+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Brand Lagerhalle, Geruchsbelästigung - Dudenhofen",
+      "de": "Entwarnung: Brand in 16845 Nackel - Nackel",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MS-SE043-20260610-43-000",
+    "version": 15,
+    "startDate": "2026-06-10T11:23:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund MS - Münster - Rikeweg",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20260610-129-000",
+    "version": 15,
+    "startDate": "2026-06-10T12:22:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Tostedt",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
@@ -85,14 +127,15 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20260610-82-000",
+    "id": "mow.DE-HB-HB-SE019-20260610-19-002",
     "version": 15,
-    "startDate": "2026-06-10T06:56:30+02:00",
+    "startDate": "2026-06-10T12:22:58+02:00",
+    "expiresDate": "2026-06-10T18:22:57+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in 16845 Nackel - Nackel",
+      "de": "Entwarnung: Gebäudebrand - Rauchentwicklung - Bremen, Stadtteil Lüssum-Bockhorn",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
