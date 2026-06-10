@@ -63,28 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-KLE-SE058-20260610-58-001",
-    "version": 15,
-    "startDate": "2026-06-10T18:34:33+02:00",
-    "expiresDate": "2026-06-11T00:34:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Kleve - Kleve",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BY-WUE-W164-20260610-000",
     "version": 15,
     "startDate": "2026-06-10T18:53:27+02:00",
