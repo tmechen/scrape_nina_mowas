@@ -42,27 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20260608-50-002",
-    "version": 15,
-    "startDate": "2026-06-08T21:25:01+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Stromausfall in Reutlingen, Wannweil und Kirchentellinsfurt - Reutlingen, Wannweil und Kirchentellinsfurt",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BY-WUE-W164-20260610-000",
     "version": 15,
     "startDate": "2026-06-10T18:53:27+02:00",
@@ -84,47 +63,46 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20260610-18-002",
+    "id": "mow.DE-BY-A-W083-20260611-000",
     "version": 15,
-    "startDate": "2026-06-10T23:03:01+02:00",
-    "expiresDate": "2026-06-11T05:03:00+02:00",
+    "startDate": "2026-06-11T05:46:24+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Brand – Information - Bad Liebenzell - Möttlingen",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
+      "de": "Brandereignis - Ötz (Gemeinde Thierhaupten)",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
     },
     "transKeys": {
-      "event": "BBK-EVC-034"
+      "event": "BBK-EVC-030"
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20260610-18-003",
+    "id": "mow.DE-BW-RT-SE050-20260611-50-000",
     "version": 15,
-    "startDate": "2026-06-10T23:04:16+02:00",
-    "expiresDate": "2026-06-11T05:04:15+02:00",
+    "startDate": "2026-06-11T07:10:34+02:00",
+    "expiresDate": "2026-06-11T13:10:33+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung im Bereich Neuhausen - Gemeinde Neuhausen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
+      "de": "Entwarnung: Stromausfall in Reutlingen, Wannweil und Kirchentellinsfurt - Reutlingen, Wannweil und Kirchentellinsfurt",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
     },
     "transKeys": {
-      "event": "BBK-EVC-010"
+      "event": "BBK-EVC-063"
     }
   }
 ]
