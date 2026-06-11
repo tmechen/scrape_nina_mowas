@@ -42,48 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WUE-W164-20260610-000",
-    "version": 15,
-    "startDate": "2026-06-10T18:53:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserverunreinigung - Würzburg und Gerbrunn",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-BY-A-W083-20260611-000",
-    "version": 15,
-    "startDate": "2026-06-11T05:46:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brandereignis - Ötz (Gemeinde Thierhaupten)",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20260611-50-000",
     "version": 15,
     "startDate": "2026-06-11T07:10:34+02:00",
@@ -103,6 +61,115 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BY-WUE-W164-20260611-000",
+    "version": 15,
+    "startDate": "2026-06-11T09:15:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Trinkwasserverunreinigung - Stadtgebiet Würzburg und Gemeinde Gerbrunn",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-HE-DA-W184-20260611-001",
+    "version": 15,
+    "startDate": "2026-06-11T11:12:16+02:00",
+    "expiresDate": "2026-06-11T17:12:16+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sirenenprobe heute ab 11:00 Uhr - Darmstadt",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20260611-105-001",
+    "version": 15,
+    "startDate": "2026-06-11T11:48:31+02:00",
+    "expiresDate": "2026-06-11T17:48:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großflächiger Stromausfall - Großraum Eutin",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BW-HN-W045-20260611-001",
+    "version": 15,
+    "startDate": "2026-06-11T12:03:03+02:00",
+    "expiresDate": "2026-06-11T18:03:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kreisweiter Test der Warnsysteme - Landkreis Heilbronn",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20260611-001",
+    "version": 15,
+    "startDate": "2026-06-11T12:07:31+02:00",
+    "expiresDate": "2026-06-11T18:07:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandereignis - Ötz (Gemeinde Thierhaupten)",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
