@@ -106,14 +106,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-NE-SE044-20260613-44-000",
+    "id": "mow.DE-NW-NE-SE044-20260613-44-001",
     "version": 15,
-    "startDate": "2026-06-13T13:54:57+02:00",
+    "startDate": "2026-06-13T15:45:30+02:00",
+    "expiresDate": "2026-06-13T21:45:30+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in Grevenbroich - Grevenbroich",
+      "de": "Entwarnung: Rauchgase in Grevenbroich - Grevenbroich",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -124,6 +125,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-SC-SE150-20260613-175-000",
+    "version": 15,
+    "startDate": "2026-06-13T16:23:39+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall im Bereich Mosbach und Güsseldorf - Mosbach, Güsseldorf und Engelhof",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
