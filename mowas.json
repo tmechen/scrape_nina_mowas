@@ -63,49 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-SHA-W039-20260612-000",
-    "version": 15,
-    "startDate": "2026-06-12T12:23:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand im Bereich Crailsheim-Tiefenbach, Geruchsbildung durch Rauch - Crailsheim-Tiefenbach",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NW-BM-SE042-20260613-42-001",
-    "version": 15,
-    "startDate": "2026-06-13T11:01:59+02:00",
-    "expiresDate": "2026-06-13T17:01:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandgase - Rhein-Erft-Kreis",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-NE-SE044-20260613-44-001",
     "version": 15,
     "startDate": "2026-06-13T15:45:30+02:00",
@@ -128,14 +85,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-SC-SE150-20260613-175-000",
+    "id": "mow.DE-BY-SC-SE150-20260613-175-001",
     "version": 15,
-    "startDate": "2026-06-13T16:23:39+02:00",
+    "startDate": "2026-06-13T17:25:31+02:00",
+    "expiresDate": "2026-06-13T23:25:31+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall im Bereich Mosbach und Güsseldorf - Mosbach, Güsseldorf und Engelhof",
+      "de": "Entwarnung: Stromausfall im Bereich Mosbach und Güsseldorf - Mosbach, Güsseldorf und Engelhof",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
@@ -146,6 +104,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BW-SHA-W039-20260613-000",
+    "version": 15,
+    "startDate": "2026-06-13T17:55:24+02:00",
+    "expiresDate": "2026-06-13T23:55:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand im Bereich Crailsheim-Tiefenbach, Geruchsbildung durch Rauch - Crailsheim-Tiefenbach",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
