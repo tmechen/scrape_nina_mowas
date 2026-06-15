@@ -42,15 +42,56 @@
     }
   },
   {
-    "id": "mow.DE-ST-SK-W070-20260615-000",
+    "id": "mow.DE-BY-KE-W173-20260615-000",
     "version": 15,
-    "startDate": "2026-06-15T02:36:30+02:00",
-    "expiresDate": "2026-06-15T08:36:30+02:00",
+    "startDate": "2026-06-15T05:45:39+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung auf Grund eines Brandes - Steigra",
+      "de": "Feuerwehreinsatz Brand - Wiedemannsdorf/ Oberstaufen",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20260615-84-001",
+    "version": 15,
+    "startDate": "2026-06-15T07:06:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz Brand / Reduzierung der Warnstufe - Wiedemannsdorf/ Oberstaufen",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20260615-56-000",
+    "version": 15,
+    "startDate": "2026-06-15T07:34:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Selfkant-Höngen - Selfkant-Höngen",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -61,6 +102,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-NMS-SE101-20260615-101-000",
+    "version": 15,
+    "startDate": "2026-06-15T08:39:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Schadenereignis Brandrauch - Gadelander Straße in Neumünster",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
