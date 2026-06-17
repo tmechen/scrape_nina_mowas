@@ -63,102 +63,36 @@
     }
   },
   {
-    "id": "mow.DE-TH-AP-W115-20260616-001",
+    "id": "mow.DE-RP-TR-SE004-20260617-4-000",
     "version": 15,
-    "startDate": "2026-06-16T20:19:50+02:00",
-    "expiresDate": "2026-06-17T02:19:49+02:00",
+    "startDate": "2026-06-17T03:21:12+02:00",
+    "expiresDate": "2026-06-17T09:21:11+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz Großbrand - Meckfeld / Blankenhain",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
+      "de": "Entwarnung: Großbrand - Wittlich - Schloßstraße",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
     },
     "transKeys": {
-      "event": "BBK-EVC-010"
+      "event": "BBK-EVC-034"
     }
   },
   {
-    "id": "mow.DE-BB-EW-SE079-20260616-79-001",
+    "id": "mow.DE-BW-LB-W026-20260617-000",
     "version": 15,
-    "startDate": "2026-06-16T20:24:45+02:00",
-    "expiresDate": "2026-06-17T02:24:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung und Geruchsbelästigung durch Brand - Prenzlau",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-TH-EF-SE012-20260616-12-001",
-    "version": 15,
-    "startDate": "2026-06-16T20:39:32+02:00",
-    "expiresDate": "2026-06-17T02:39:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandereignis mit Geruchsbelästigung - Brandereignis in Meckfeld (Landkreis WE-Land)",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-HE-GI-W182-20260616-001",
-    "version": 15,
-    "startDate": "2026-06-16T21:44:40+02:00",
-    "expiresDate": "2026-06-17T03:44:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch brennende Strohballen - Laubach - Caravanpark",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-RP-TR-SE004-20260616-4-000",
-    "version": 15,
-    "startDate": "2026-06-16T23:29:49+02:00",
+    "startDate": "2026-06-17T04:21:58+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Großbrand - Wittlich - Schloßstraße",
+      "de": "Starke Rauchentwicklung in Oberriexingen - Oberriexingen",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
