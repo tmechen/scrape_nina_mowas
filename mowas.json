@@ -63,49 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-W108-20260618-000",
-    "version": 15,
-    "startDate": "2026-06-18T10:53:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Havarie an der Trinkwasserleitung Bereich Bachra, Schafau, Roldisleben - LK Sömmerda Bereich Bachra, Schafau, Roldisleben",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BB-P-SE082-20260618-82-001",
-    "version": 15,
-    "startDate": "2026-06-18T13:34:55+02:00",
-    "expiresDate": "2026-06-18T19:34:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in Rathenow/Steckelsdorf/Bölkershof in einer Papier-Lagerhalle - Rathenow/Steckelsdorf/Bölkershof",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-SC-SE150-20260618-175-000",
     "version": 15,
     "startDate": "2026-06-18T14:58:24+02:00",
@@ -168,6 +125,70 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BO-SE077-20260618-77-000",
+    "version": 15,
+    "startDate": "2026-06-18T19:04:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase aufgrund eines (Ereignis) - Bochum, Linden",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-W108-20260618-001",
+    "version": 15,
+    "startDate": "2026-06-18T19:21:33+02:00",
+    "expiresDate": "2026-06-19T01:21:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Havarie an der Trinkwasserleitung Bereich Bachra, Schafau, Roldisleben - LK Sömmerda Bereich Bachra, Schafau, Roldisleben",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20260618-000",
+    "version": 15,
+    "startDate": "2026-06-18T19:59:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahrstoffausbreitung: Ammoniakaustritt - Ingolstadt",
+      "en": "Chemical hazard",
+      "ar": "خطر كيماوي",
+      "es": "Peligro químico",
+      "fr": "Risque chimique",
+      "pl": "Zagrożenie chemiczne",
+      "ru": "Химическая опасность",
+      "tr": "Kimyasal tehlike"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-014"
     }
   }
 ]
