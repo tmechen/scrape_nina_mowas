@@ -63,14 +63,57 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20260617-50-000",
+    "id": "mow.DE-BW-RT-SE050-20260618-50-000",
     "version": 15,
-    "startDate": "2026-06-18T01:15:15+02:00",
+    "startDate": "2026-06-18T08:03:59+02:00",
+    "expiresDate": "2026-06-18T14:03:58+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Infolge eines Brandes im Bereich der Gemeinde Neufra Rauchgaswolke fre - 72419 Neufra und 72501 Gammertingen",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-W108-20260618-000",
+    "version": 15,
+    "startDate": "2026-06-18T10:53:21+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Infolge eines Brandes im Bereich der Gemeinde Neufra Rauchgaswolke freigesetzt - 72419 Neufra und 72501 Gammertingen",
+      "de": "Havarie an der Trinkwasserleitung Bereich Bachra, Schafau, Roldisleben - LK Sömmerda Bereich Bachra, Schafau, Roldisleben",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20260618-122-000",
+    "version": 15,
+    "startDate": "2026-06-18T10:54:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand Industrieobjekt - Lauta-Stadt",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
