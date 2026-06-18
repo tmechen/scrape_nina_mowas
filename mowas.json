@@ -63,28 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20260617-105-001",
-    "version": 15,
-    "startDate": "2026-06-17T20:05:40+02:00",
-    "expiresDate": "2026-06-18T02:05:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Siebenbäumen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20260617-50-000",
     "version": 15,
     "startDate": "2026-06-18T01:15:15+02:00",
