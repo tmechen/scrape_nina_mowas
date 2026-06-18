@@ -63,28 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20260618-122-001",
-    "version": 15,
-    "startDate": "2026-06-18T17:59:58+02:00",
-    "expiresDate": "2026-06-18T23:59:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand Industrieobjekt - Lauta-Stadt",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-W108-20260618-001",
     "version": 15,
     "startDate": "2026-06-18T19:21:33+02:00",
@@ -104,27 +82,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BY-IN-W139-20260618-000",
-    "version": 15,
-    "startDate": "2026-06-18T19:59:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahrstoffausbreitung: Ammoniakaustritt - Ingolstadt",
-      "en": "Chemical hazard",
-      "ar": "خطر كيماوي",
-      "es": "Peligro químico",
-      "fr": "Risque chimique",
-      "pl": "Zagrożenie chemiczne",
-      "ru": "Химическая опасность",
-      "tr": "Kimyasal tehlike"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-014"
     }
   },
   {
@@ -172,14 +129,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20260618-84-000",
+    "id": "mow.DE-BY-R-SE084-20260618-84-001",
     "version": 15,
-    "startDate": "2026-06-18T22:22:26+02:00",
+    "startDate": "2026-06-18T23:45:43+02:00",
+    "expiresDate": "2026-06-19T05:45:42+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Vermisstensuche - Stadt Abenberg",
+      "de": "Entwarnung: Vermisstensuche - Stadt Abenberg",
       "en": "Alert",
       "ar": "تحذير",
       "es": "Advertencia",
@@ -190,6 +148,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-IN-W139-20260618-001",
+    "version": 15,
+    "startDate": "2026-06-19T00:21:12+02:00",
+    "expiresDate": "2026-06-19T06:21:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahrstoffausbreitung: Ammoniakaustritt - Ingolstadt",
+      "en": "Chemical hazard",
+      "ar": "خطر كيماوي",
+      "es": "Peligro químico",
+      "fr": "Risque chimique",
+      "pl": "Zagrożenie chemiczne",
+      "ru": "Химическая опасность",
+      "tr": "Kimyasal tehlike"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-014"
     }
   }
 ]
