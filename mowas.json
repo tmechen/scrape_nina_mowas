@@ -84,27 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20260618-122-000",
-    "version": 15,
-    "startDate": "2026-06-18T10:54:30+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand Industrieobjekt - Lauta-Stadt",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BB-P-SE082-20260618-82-001",
     "version": 15,
     "startDate": "2026-06-18T13:34:55+02:00",
@@ -127,14 +106,36 @@
     }
   },
   {
-    "id": "mow.DE-SH-NMS-SE101-20260618-101-000",
+    "id": "mow.DE-BY-SC-SE150-20260618-175-000",
     "version": 15,
-    "startDate": "2026-06-18T14:25:34+02:00",
+    "startDate": "2026-06-18T14:58:24+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Neumünster-Wittorf",
+      "de": "Rauchentwicklung durch Waldbrand - B2 zwischen Röttenbach und Roth sowie im Bereich Laffenau und Wallesau",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-SH-NMS-SE101-20260618-101-001",
+    "version": 15,
+    "startDate": "2026-06-18T15:31:07+02:00",
+    "expiresDate": "2026-06-18T21:31:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Neumünster-Wittorf",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -145,6 +146,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20260618-122-001",
+    "version": 15,
+    "startDate": "2026-06-18T17:59:58+02:00",
+    "expiresDate": "2026-06-18T23:59:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand Industrieobjekt - Lauta-Stadt",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
