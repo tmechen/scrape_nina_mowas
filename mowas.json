@@ -84,36 +84,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20260619-57-001",
+    "id": "mow.DE-SH-OD-SE105-20260619-105-001",
     "version": 15,
-    "startDate": "2026-06-19T05:17:04+02:00",
-    "expiresDate": "2026-06-19T11:17:04+02:00",
+    "startDate": "2026-06-19T09:40:52+02:00",
+    "expiresDate": "2026-06-19T15:40:51+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einem Brandereignis - Lohmar Donrath",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-SH-OD-SE105-20260619-105-000",
-    "version": 15,
-    "startDate": "2026-06-19T08:18:02+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuer - Basedow",
+      "de": "Entwarnung: Feuer - Basedow",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
