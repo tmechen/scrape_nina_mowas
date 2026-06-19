@@ -63,50 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-W108-20260618-001",
-    "version": 15,
-    "startDate": "2026-06-18T19:21:33+02:00",
-    "expiresDate": "2026-06-19T01:21:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Havarie an der Trinkwasserleitung Bereich Bachra, Schafau, Roldisleben - LK Sömmerda Bereich Bachra, Schafau, Roldisleben",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BY-SC-SE150-20260618-175-001",
-    "version": 15,
-    "startDate": "2026-06-18T21:31:50+02:00",
-    "expiresDate": "2026-06-19T03:31:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Waldbrand - B2 zwischen Röttenbach und Roth sowie im Bereich Laffenau und Wallesau",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-NW-BO-SE077-20260618-77-001",
     "version": 15,
     "startDate": "2026-06-18T22:04:22+02:00",
@@ -170,6 +126,48 @@
     },
     "transKeys": {
       "event": "BBK-EVC-014"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SU-SE057-20260619-57-000",
+    "version": 15,
+    "startDate": "2026-06-19T02:09:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor einem Brandereignis - Lohmar Donrath",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-KLE-SE058-20260619-58-000",
+    "version": 15,
+    "startDate": "2026-06-19T03:52:33+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Uedem - Uedem",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
