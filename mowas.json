@@ -63,27 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-WW-SE116-20260619-123-000",
-    "version": 16,
-    "startDate": "2026-06-19T20:52:17+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Extremhochwasser (Fluss) - Anliegergemeinden der Dörsbach",
-      "en": "Flooding",
-      "ar": "فيضان",
-      "es": "Inundación",
-      "fr": "Crue",
-      "pl": "Powódź",
-      "ru": "Наводнение",
-      "tr": "Sel"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-038"
-    }
-  },
-  {
     "id": "mow.DE-MV-NB-W076-20260619-001",
     "version": 16,
     "startDate": "2026-06-19T20:54:36+02:00",
@@ -146,6 +125,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-RP-WW-SE116-20260619-123-001",
+    "version": 16,
+    "startDate": "2026-06-20T00:20:54+02:00",
+    "expiresDate": "2026-06-20T06:20:53+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Extremhochwasser (Fluss) - Anliegergemeinden der Dörsbach",
+      "en": "Flooding",
+      "ar": "فيضان",
+      "es": "Inundación",
+      "fr": "Crue",
+      "pl": "Powódź",
+      "ru": "Наводнение",
+      "tr": "Sel"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-038"
     }
   }
 ]
