@@ -63,93 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BO-SE077-20260618-77-001",
-    "version": 15,
-    "startDate": "2026-06-18T22:04:22+02:00",
-    "expiresDate": "2026-06-19T04:04:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase aufgrund eines (Ereignis) - Bochum, Linden",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20260618-84-001",
-    "version": 15,
-    "startDate": "2026-06-18T23:45:43+02:00",
-    "expiresDate": "2026-06-19T05:45:42+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Vermisstensuche - Stadt Abenberg",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BY-IN-W139-20260618-001",
-    "version": 15,
-    "startDate": "2026-06-19T00:21:12+02:00",
-    "expiresDate": "2026-06-19T06:21:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahrstoffausbreitung: Ammoniakaustritt - Ingolstadt",
-      "en": "Chemical hazard",
-      "ar": "خطر كيماوي",
-      "es": "Peligro químico",
-      "fr": "Risque chimique",
-      "pl": "Zagrożenie chemiczne",
-      "ru": "Химическая опасность",
-      "tr": "Kimyasal tehlike"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-014"
-    }
-  },
-  {
-    "id": "mow.DE-NW-SU-SE057-20260619-57-000",
-    "version": 15,
-    "startDate": "2026-06-19T02:09:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor einem Brandereignis - Lohmar Donrath",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-KLE-SE058-20260619-58-000",
     "version": 15,
     "startDate": "2026-06-19T03:52:33+02:00",
@@ -168,6 +81,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SU-SE057-20260619-57-001",
+    "version": 15,
+    "startDate": "2026-06-19T05:17:04+02:00",
+    "expiresDate": "2026-06-19T11:17:04+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einem Brandereignis - Lohmar Donrath",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20260619-105-000",
+    "version": 15,
+    "startDate": "2026-06-19T08:18:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuer - Basedow",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
