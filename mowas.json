@@ -85,27 +85,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BM-SE042-20260620-42-000",
-    "version": 16,
-    "startDate": "2026-06-20T11:12:47+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall - Stadt Hürth",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-TH-HIG-W111-20260620-001",
     "version": 16,
     "startDate": "2026-06-20T12:21:22+02:00",
@@ -169,6 +148,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BM-SE042-20260620-42-001",
+    "version": 16,
+    "startDate": "2026-06-20T13:50:40+02:00",
+    "expiresDate": "2026-06-20T19:50:40+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall - Stadt Hürth",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
