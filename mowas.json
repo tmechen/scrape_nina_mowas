@@ -84,14 +84,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20260620-18-000",
+    "id": "mow.DE-BW-S-SE018-20260620-18-001",
     "version": 16,
-    "startDate": "2026-06-20T20:01:09+02:00",
+    "startDate": "2026-06-20T21:10:03+02:00",
+    "expiresDate": "2026-06-21T03:10:03+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand auf Entsorgungsanlage - Landkreis Calw, Gemeinde Simmozheim - Simmozheim",
+      "de": "Entwarnung: Brand auf Entsorgungsanlage - Landkreis Calw, Gemeinde Simmozheim - Simmozheim",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
