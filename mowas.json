@@ -84,49 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20260622-19-002",
-    "version": 16,
-    "startDate": "2026-06-22T16:16:47+02:00",
-    "expiresDate": "2026-06-22T22:16:47+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brand eines Wohn- und Geschäftsgebäudes - Bremen - Innenstadt",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RT-SE050-20260622-50-000",
-    "version": 16,
-    "startDate": "2026-06-22T17:45:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Defekt eines Gefahrgut-LKW auf der A8 in Fahrtrichtung München - BAB 8 zwischen AS Mühlhausen und AS Hohenstadt",
-      "en": "Risk of explosion",
-      "ar": "خطر الانفجار",
-      "es": "Peligro de explosión",
-      "fr": "Risque d'explosion",
-      "pl": "Niebezpieczeństwo wybuchu",
-      "ru": "Опасность взрыва",
-      "tr": "Patlama tehlikesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-020"
-    }
-  },
-  {
     "id": "mow.DE-RP-AW-W255-20260622-000",
     "version": 16,
     "startDate": "2026-06-22T19:15:20+02:00",
@@ -171,14 +128,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20260622-004",
+    "id": "mow.DE-BW-RA-W025-20260622-005",
     "version": 16,
-    "startDate": "2026-06-22T20:42:44+02:00",
+    "startDate": "2026-06-22T21:08:45+02:00",
+    "expiresDate": "2026-06-23T03:08:45+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall - Baden-Baden - Oberbeuern, Lichtental, Geroldsau, Teile der Innenstadt",
+      "de": "Entwarnung: Stromausfall - Baden-Baden - Oberbeuern, Lichtental, Geroldsau, Teile der Innenstadt",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
@@ -189,6 +147,71 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20260622-50-002",
+    "version": 16,
+    "startDate": "2026-06-22T22:18:58+02:00",
+    "expiresDate": "2026-06-23T04:18:58+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Defekt eines Gefahrgut-LKW auf der A8 in Fahrtrichtung München - BAB 8 zwischen AS Mühlhausen und AS Hohenstadt",
+      "en": "Risk of explosion",
+      "ar": "خطر الانفجار",
+      "es": "Peligro de explosión",
+      "fr": "Risque d'explosion",
+      "pl": "Niebezpieczeństwo wybuchu",
+      "ru": "Опасность взрыва",
+      "tr": "Patlama tehlikesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-020"
+    }
+  },
+  {
+    "id": "mow.DE-BB-EW-SE079-20260622-79-001",
+    "version": 16,
+    "startDate": "2026-06-22T22:20:52+02:00",
+    "expiresDate": "2026-06-23T04:20:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Achtung Gasaustritt Explosionsgefahr - Basdorf",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BOR-SE059-20260622-59-000",
+    "version": 16,
+    "startDate": "2026-06-22T23:20:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand in Isselburg - Isselburg",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
