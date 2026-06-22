@@ -63,49 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-AW-W255-20260621-000",
-    "version": 16,
-    "startDate": "2026-06-21T14:52:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahr der Trinkwasserversorgung - Remagen",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BB-FF-SE080-20260622-80-001",
-    "version": 16,
-    "startDate": "2026-06-22T12:29:51+02:00",
-    "expiresDate": "2026-06-22T18:29:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Vorsorgliche Information der Stadt Briesen - Briesen",
-      "en": "Chemical hazard",
-      "ar": "خطر كيماوي",
-      "es": "Peligro químico",
-      "fr": "Risque chimique",
-      "pl": "Zagrożenie chemiczne",
-      "ru": "Химическая опасность",
-      "tr": "Kimyasal tehlike"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-014"
-    }
-  },
-  {
     "id": "mow.DE-HE-ERB-W191-20260622-000",
     "version": 16,
     "startDate": "2026-06-22T13:23:38+02:00",
@@ -146,6 +103,92 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20260622-50-000",
+    "version": 16,
+    "startDate": "2026-06-22T17:45:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Defekt eines Gefahrgut-LKW auf der A8 in Fahrtrichtung München - BAB 8 zwischen AS Mühlhausen und AS Hohenstadt",
+      "en": "Risk of explosion",
+      "ar": "خطر الانفجار",
+      "es": "Peligro de explosión",
+      "fr": "Risque d'explosion",
+      "pl": "Niebezpieczeństwo wybuchu",
+      "ru": "Опасность взрыва",
+      "tr": "Patlama tehlikesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-020"
+    }
+  },
+  {
+    "id": "mow.DE-RP-AW-W255-20260622-000",
+    "version": 16,
+    "startDate": "2026-06-22T19:15:20+02:00",
+    "expiresDate": "2026-06-23T01:15:19+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefahr der Trinkwasserversorgung - Remagen",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BW-MOS-W031-20260622-001",
+    "version": 16,
+    "startDate": "2026-06-22T20:04:14+02:00",
+    "expiresDate": "2026-06-23T02:04:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchwolke durch Brandereigniss (Neckarzimmern) - Neckarzimmern",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20260622-004",
+    "version": 16,
+    "startDate": "2026-06-22T20:42:44+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Stromausfall - Baden-Baden - Oberbeuern, Lichtental, Geroldsau, Teile der Innenstadt",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
