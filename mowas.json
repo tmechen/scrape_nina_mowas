@@ -63,28 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-ERB-W191-20260623-000",
-    "version": 16,
-    "startDate": "2026-06-23T11:15:01+02:00",
-    "expiresDate": "2026-06-23T17:15:01+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hitzewarnstufe 2 - Odenwaldkreis",
-      "en": "Heat",
-      "ar": "حرارة",
-      "es": "Temperatura elevada",
-      "fr": "Chaleur intense",
-      "pl": "Upał",
-      "ru": "Жара",
-      "tr": "Aşırı sıcaklık"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-037"
-    }
-  },
-  {
     "id": "mow.DE-ST-MSH-W058-20260623-000",
     "version": 16,
     "startDate": "2026-06-23T11:35:38+02:00",
@@ -127,30 +105,9 @@
     }
   },
   {
-    "id": "mow.DE-NW-HA-SE087-20260623-149-000",
+    "id": "mow.DE-RP-BIT-W285-20260623-004",
     "version": 16,
-    "startDate": "2026-06-23T12:52:48+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Hagen - Eckesey - Hagen",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-RP-BIT-W285-20260623-003",
-    "version": 16,
-    "startDate": "2026-06-23T15:23:44+02:00",
+    "startDate": "2026-06-23T17:15:17+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
@@ -166,6 +123,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DU-SE038-20260623-38-000",
+    "version": 16,
+    "startDate": "2026-06-23T17:27:04+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Wichtige Information der Stadt Duisburg (Kampfmittelfund) - Duisburg-Hochfeld",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HA-SE087-20260623-149-001",
+    "version": 16,
+    "startDate": "2026-06-23T18:03:17+02:00",
+    "expiresDate": "2026-06-24T00:03:17+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Hagen - Eckesey - Hagen",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
