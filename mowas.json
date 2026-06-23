@@ -84,36 +84,36 @@
     }
   },
   {
-    "id": "mow.DE-NW-BOR-SE059-20260622-59-001",
+    "id": "mow.DE-RP-LU-SE005-20260623-5-002",
     "version": 16,
-    "startDate": "2026-06-23T00:24:55+02:00",
-    "expiresDate": "2026-06-23T06:24:54+02:00",
+    "startDate": "2026-06-23T09:09:28+02:00",
+    "expiresDate": "2026-06-23T15:09:27+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Großbrand in Isselburg - Isselburg",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
+      "de": "Entwarnung: Entwarnung Ausfall der Stromversorgung im Stadtgebiet - Haßloch / Kreis Bad Dürkheim",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
     },
     "transKeys": {
-      "event": "BBK-EVC-030"
+      "event": "BBK-EVC-063"
     }
   },
   {
-    "id": "mow.DE-RP-LU-SE005-20260623-5-000",
+    "id": "mow.DE-RP-BIT-W285-20260623-001",
     "version": 16,
-    "startDate": "2026-06-23T05:12:15+02:00",
+    "startDate": "2026-06-23T09:52:45+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Warnung Ausfall der Stromversorgung im Stadtgebiet - Haßloch / Kreis Bad Dürkheim",
+      "de": "Stromausfall im Bereich der Stadt Bitburg - Bitburg",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
