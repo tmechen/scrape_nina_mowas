@@ -84,94 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-MOS-W031-20260622-001",
-    "version": 16,
-    "startDate": "2026-06-22T20:04:14+02:00",
-    "expiresDate": "2026-06-23T02:04:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Brandereigniss (Neckarzimmern) - Neckarzimmern",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RA-W025-20260622-005",
-    "version": 16,
-    "startDate": "2026-06-22T21:08:45+02:00",
-    "expiresDate": "2026-06-23T03:08:45+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall - Baden-Baden - Oberbeuern, Lichtental, Geroldsau, Teile der Innenstadt",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RT-SE050-20260622-50-002",
-    "version": 16,
-    "startDate": "2026-06-22T22:18:58+02:00",
-    "expiresDate": "2026-06-23T04:18:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Defekt eines Gefahrgut-LKW auf der A8 in Fahrtrichtung München - BAB 8 zwischen AS Mühlhausen und AS Hohenstadt",
-      "en": "Risk of explosion",
-      "ar": "خطر الانفجار",
-      "es": "Peligro de explosión",
-      "fr": "Risque d'explosion",
-      "pl": "Niebezpieczeństwo wybuchu",
-      "ru": "Опасность взрыва",
-      "tr": "Patlama tehlikesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-020"
-    }
-  },
-  {
-    "id": "mow.DE-BB-EW-SE079-20260622-79-001",
-    "version": 16,
-    "startDate": "2026-06-22T22:20:52+02:00",
-    "expiresDate": "2026-06-23T04:20:52+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Achtung Gasaustritt Explosionsgefahr - Basdorf",
-      "en": "Gas leak",
-      "ar": "تسرب غاز",
-      "es": "Escape de gas",
-      "fr": "Fuite de gaz",
-      "pl": "Wyciek gazu",
-      "ru": "Утечка газа",
-      "tr": "Gaz kaçağı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-NW-BOR-SE059-20260622-59-001",
     "version": 16,
     "startDate": "2026-06-23T00:24:55+02:00",
@@ -191,6 +103,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LU-SE005-20260623-5-000",
+    "version": 16,
+    "startDate": "2026-06-23T05:12:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung Ausfall der Stromversorgung im Stadtgebiet - Haßloch / Kreis Bad Dürkheim",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
