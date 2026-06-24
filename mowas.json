@@ -148,14 +148,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260623-28-000",
+    "id": "mow.DE-RP-MZ-SE114-20260623-125-001",
     "version": 16,
-    "startDate": "2026-06-23T21:23:16+02:00",
+    "startDate": "2026-06-23T22:53:09+02:00",
+    "expiresDate": "2026-06-24T04:53:09+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Quickborn",
+      "de": "Entwarnung: Starke Rauchentwicklung - Stadt Worms",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
@@ -169,15 +170,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20260623-125-001",
+    "id": "mow.DE-SH-EH-SE028-20260624-28-000",
     "version": 16,
-    "startDate": "2026-06-23T22:53:09+02:00",
-    "expiresDate": "2026-06-24T04:53:09+02:00",
+    "startDate": "2026-06-24T02:00:08+02:00",
+    "expiresDate": "2026-06-24T08:00:07+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung - Stadt Worms",
+      "de": "Entwarnung: Feuerwehreinsatz - Quickborn",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
