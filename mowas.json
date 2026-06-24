@@ -106,27 +106,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-HO-W142-20260624-000",
-    "version": 16,
-    "startDate": "2026-06-24T08:59:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Sirenenprobealarmierung - Verwaltungsgemeinschaft Tröstau / Bad Alexandersbad / Nagel",
-      "en": "Siren test",
-      "ar": "تجربة صفارة الإنذار",
-      "es": "Prueba de sirena",
-      "fr": "Test des sirènes",
-      "pl": "Test syren",
-      "ru": "Проверка средств оповещения",
-      "tr": "Siren testi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-ST-MSH-W058-20260624-000",
     "version": 16,
     "startDate": "2026-06-24T09:33:51+02:00",
@@ -169,14 +148,37 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20260624-000",
+    "id": "mow.DE-BY-HO-W142-20260624-001",
     "version": 16,
-    "startDate": "2026-06-24T11:17:49+02:00",
+    "startDate": "2026-06-24T13:03:29+02:00",
+    "expiresDate": "2026-06-24T19:03:29+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand mit starker Rauchentwicklung - Rastatt - Innenstadt",
+      "de": "Entwarnung: Sirenenprobealarmierung - Verwaltungsgemeinschaft Tröstau / Bad Alexandersbad / Nagel",
+      "en": "Siren test",
+      "ar": "تجربة صفارة الإنذار",
+      "es": "Prueba de sirena",
+      "fr": "Test des sirènes",
+      "pl": "Test syren",
+      "ru": "Проверка средств оповещения",
+      "tr": "Siren testi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20260624-001",
+    "version": 16,
+    "startDate": "2026-06-24T13:08:03+02:00",
+    "expiresDate": "2026-06-24T19:08:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand mit starker Rauchentwicklung - Rastatt - Innenstadt",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -187,6 +189,70 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BB-CB-SE036-20260624-36-001",
+    "version": 16,
+    "startDate": "2026-06-24T13:20:40+02:00",
+    "expiresDate": "2026-06-24T19:20:40+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gasleck Gemeinde Tettau - Lauchhammer Straße, 01945 Tettau",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MS-SE043-20260624-43-000",
+    "version": 16,
+    "startDate": "2026-06-24T13:22:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Münster, Bereich Hammer Str./ LVM Preußenstadion - Münster",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-MV-NB-W076-20260624-000",
+    "version": 16,
+    "startDate": "2026-06-24T13:56:59+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung - Neustrelitz",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
