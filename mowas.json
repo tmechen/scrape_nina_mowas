@@ -42,27 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20260623-000",
-    "version": 16,
-    "startDate": "2026-06-23T11:35:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Eingeschränkte Nutzung Trinkwasser durch Wasserrohrbruch - Trinkwasserversorgungsgebiet Hayn & Schwenda",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-HE-ERB-W191-20260623-001",
     "version": 16,
     "startDate": "2026-06-23T12:42:08+02:00",
@@ -84,49 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-BIT-W285-20260623-004",
-    "version": 16,
-    "startDate": "2026-06-23T17:15:17+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Stromausfall im Bereich der Stadt Bitburg - Bitburg",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20260624-28-000",
-    "version": 16,
-    "startDate": "2026-06-24T02:00:08+02:00",
-    "expiresDate": "2026-06-24T08:00:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Quickborn",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-TUE-W126-20260624-000",
     "version": 16,
     "startDate": "2026-06-24T06:00:05+02:00",
@@ -145,6 +81,112 @@
     },
     "transKeys": {
       "event": "BBK-EVC-037"
+    }
+  },
+  {
+    "id": "mow.DE-RP-BIT-W285-20260624-000",
+    "version": 16,
+    "startDate": "2026-06-24T08:16:38+02:00",
+    "expiresDate": "2026-06-24T14:16:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall im Bereich der Stadt Bitburg - Bitburg",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BY-HO-W142-20260624-000",
+    "version": 16,
+    "startDate": "2026-06-24T08:59:28+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenenprobealarmierung - Verwaltungsgemeinschaft Tröstau / Bad Alexandersbad / Nagel",
+      "en": "Siren test",
+      "ar": "تجربة صفارة الإنذار",
+      "es": "Prueba de sirena",
+      "fr": "Test des sirènes",
+      "pl": "Test syren",
+      "ru": "Проверка средств оповещения",
+      "tr": "Siren testi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20260624-000",
+    "version": 16,
+    "startDate": "2026-06-24T09:33:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Update zur eingeschränkten Nutzung Trinkwasser durch Wasserrohrbruch - Trinkwasserversorgungsgebiet Hayn & Schwenda",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20260624-84-000",
+    "version": 16,
+    "startDate": "2026-06-24T10:51:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor hoher Waldbrandgefahr - Landkreis Rosenheim, Stadt Rosenheim, Landkreis Miesbach",
+      "en": "Risk of fire",
+      "ar": "خطر الحريق",
+      "es": "Peligro de incendio",
+      "fr": "Risque d'incendie",
+      "pl": "Niebezpieczeństwo pożaru",
+      "ru": "Опасность возникновения пожара",
+      "tr": "Yangın tehlikesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-011"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20260624-000",
+    "version": 16,
+    "startDate": "2026-06-24T11:17:49+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand mit starker Rauchentwicklung - Rastatt - Innenstadt",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
