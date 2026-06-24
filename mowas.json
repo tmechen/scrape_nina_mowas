@@ -126,50 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MS-SE043-20260624-43-001",
-    "version": 16,
-    "startDate": "2026-06-24T16:08:34+02:00",
-    "expiresDate": "2026-06-24T22:08:34+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Münster, Bereich Hammer Str./ LVM Preußenstadion - Münster",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-TH-GT-W112-20260624-001",
-    "version": 16,
-    "startDate": "2026-06-24T16:18:41+02:00",
-    "expiresDate": "2026-06-24T22:18:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung - Standortübungsplatz Ohrdruf",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-NDH-W019-20260624-001",
     "version": 16,
     "startDate": "2026-06-24T16:43:00+02:00",
