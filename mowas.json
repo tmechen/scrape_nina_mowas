@@ -232,14 +232,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260625-28-000",
+    "id": "mow.DE-SH-EH-SE028-20260625-28-001",
     "version": 16,
-    "startDate": "2026-06-25T16:26:39+02:00",
+    "startDate": "2026-06-25T17:35:50+02:00",
+    "expiresDate": "2026-06-25T23:35:49+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Heide",
+      "de": "Entwarnung: Feuerwehreinsatz - Heide",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
@@ -250,6 +251,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EA-W114-20260625-001",
+    "version": 16,
+    "startDate": "2026-06-25T17:53:21+02:00",
+    "expiresDate": "2026-06-25T23:53:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gasaustritt aus Gastank - Ortslage Wutha-Farnroda",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
     }
   }
 ]
