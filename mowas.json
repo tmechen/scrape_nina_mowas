@@ -168,27 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-NB-W076-20260625-000",
-    "version": 16,
-    "startDate": "2026-06-25T06:06:52+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchentwicklung - Neustrelitz",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-MV-HRO-W006-20260625-001",
     "version": 16,
     "startDate": "2026-06-25T08:16:22+02:00",
@@ -211,14 +190,36 @@
     }
   },
   {
-    "id": "mow.DE-BW-FR-W022-20260625-000",
+    "id": "mow.DE-MV-NB-W076-20260625-001",
     "version": 16,
-    "startDate": "2026-06-25T08:51:44+02:00",
+    "startDate": "2026-06-25T12:07:45+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Stromausfall Stadt Neuenburg am Rhein - Neuenburg am Rhein",
+      "de": "Rauchentwicklung und Geruchsbelästigung - Neustrelitz",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BW-FR-W022-20260625-001",
+    "version": 16,
+    "startDate": "2026-06-25T12:38:09+02:00",
+    "expiresDate": "2026-06-25T18:38:09+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall Stadt Neuenburg am Rhein - Neuenburg am Rhein",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
