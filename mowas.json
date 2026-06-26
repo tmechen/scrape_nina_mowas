@@ -147,27 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-TUE-W126-20260625-000",
-    "version": 16,
-    "startDate": "2026-06-25T06:00:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hitzewelle - Stadt und Landkreis Tübingen",
-      "en": "Heat",
-      "ar": "حرارة",
-      "es": "Temperatura elevada",
-      "fr": "Chaleur intense",
-      "pl": "Upał",
-      "ru": "Жара",
-      "tr": "Aşırı sıcaklık"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-037"
-    }
-  },
-  {
     "id": "mow.DE-MV-NB-W076-20260625-001",
     "version": 16,
     "startDate": "2026-06-25T12:07:45+02:00",
@@ -210,14 +189,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20260625-002",
+    "id": "mow.DE-BW-RA-W025-20260626-000",
     "version": 16,
-    "startDate": "2026-06-25T22:19:20+02:00",
+    "startDate": "2026-06-26T05:33:35+02:00",
+    "expiresDate": "2026-06-26T11:33:34+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand mit starker Rauchentwicklung - Gaggenau-Michelbach",
+      "de": "Entwarnung: Brand mit starker Rauchentwicklung - Gaggenau-Michelbach",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -228,6 +208,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-TUE-W126-20260626-000",
+    "version": 16,
+    "startDate": "2026-06-26T06:01:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hitzewelle - Stadt und Landkreis Tübingen",
+      "en": "Heat",
+      "ar": "حرارة",
+      "es": "Temperatura elevada",
+      "fr": "Chaleur intense",
+      "pl": "Upał",
+      "ru": "Жара",
+      "tr": "Aşırı sıcaklık"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-037"
     }
   }
 ]
