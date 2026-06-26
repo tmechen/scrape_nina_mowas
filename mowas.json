@@ -189,28 +189,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20260626-000",
-    "version": 16,
-    "startDate": "2026-06-26T05:33:35+02:00",
-    "expiresDate": "2026-06-26T11:33:34+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand mit starker Rauchentwicklung - Gaggenau-Michelbach",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-TUE-W126-20260626-000",
     "version": 16,
     "startDate": "2026-06-26T06:01:37+02:00",
@@ -232,14 +210,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20260626-000",
+    "id": "mow.DE-BW-KA-W138-20260626-001",
     "version": 16,
-    "startDate": "2026-06-26T09:40:39+02:00",
+    "startDate": "2026-06-26T10:13:49+02:00",
+    "expiresDate": "2026-06-26T16:13:49+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Stromversorgung - Information - Stadt Bretten mit Ortsteilen",
+      "de": "Entwarnung: Ausfall Stromversorgung - Information - Stadt Bretten mit Ortsteilen",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
@@ -250,6 +229,69 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MG-SE053-20260626-53-000",
+    "version": 16,
+    "startDate": "2026-06-26T11:23:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in Mönchengladbach - Mönchengladbach - Rheydt",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-RP-WW-SE116-20260626-123-000",
+    "version": 16,
+    "startDate": "2026-06-26T11:38:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasserverschmutzung - Holzhausen an der Heide & Obertiefenbach",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20260626-105-000",
+    "version": 16,
+    "startDate": "2026-06-26T12:25:44+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Schadenereignis - Aumühle",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
     }
   }
 ]
