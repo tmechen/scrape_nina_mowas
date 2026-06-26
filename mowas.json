@@ -401,14 +401,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20260626-31-000",
+    "id": "mow.DE-NW-K-SE031-20260626-31-001",
     "version": 16,
-    "startDate": "2026-06-26T23:14:04+02:00",
+    "startDate": "2026-06-27T01:05:03+02:00",
+    "expiresDate": "2026-06-27T07:05:02+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brandgase - Rhein-Erft-Kreis",
+      "de": "Entwarnung: Brandgase - Rhein-Erft-Kreis",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -422,14 +423,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-BN-SE060-20260626-60-000",
+    "id": "mow.DE-BW-HD-W086-20260626-000",
     "version": 16,
-    "startDate": "2026-06-26T23:25:07+02:00",
+    "startDate": "2026-06-27T01:09:05+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Ausfall Stromversorgung in Bonn Bad Godesberg - Bonn",
+      "de": "Stromausfall in Oftersheim und Schwetzingen - Oftersheim und Schwetzingen",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
@@ -440,6 +441,50 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BN-SE060-20260626-60-001",
+    "version": 16,
+    "startDate": "2026-06-27T01:21:37+02:00",
+    "expiresDate": "2026-06-27T07:21:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall Stromversorgung in Bonn Bad Godesberg - Bonn",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BW-BB-W125-20260626-001",
+    "version": 16,
+    "startDate": "2026-06-27T01:25:57+02:00",
+    "expiresDate": "2026-06-27T07:25:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Beeinträchtigung durch Brandgeruch Leonberg - Leonberg",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
