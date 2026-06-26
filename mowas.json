@@ -231,27 +231,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20260626-105-000",
-    "version": 16,
-    "startDate": "2026-06-26T12:25:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Schadenereignis - Aumühle",
-      "en": "Gas leak",
-      "ar": "تسرب غاز",
-      "es": "Escape de gas",
-      "fr": "Fuite de gaz",
-      "pl": "Wyciek gazu",
-      "ru": "Утечка газа",
-      "tr": "Gaz kaçağı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-027"
-    }
-  },
-  {
     "id": "mow.DE-NW-MG-SE053-20260626-53-001",
     "version": 16,
     "startDate": "2026-06-26T14:40:39+02:00",
@@ -293,6 +272,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20260626-105-003",
+    "version": 16,
+    "startDate": "2026-06-26T17:59:02+02:00",
+    "expiresDate": "2026-06-26T23:59:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Schadenereignis - Aumühle",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HAM-SE085-20260626-85-000",
+    "version": 16,
+    "startDate": "2026-06-26T17:59:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in der Stadt Hamm - Hamm",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
