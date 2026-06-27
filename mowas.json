@@ -294,27 +294,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-HD-W086-20260626-000",
-    "version": 16,
-    "startDate": "2026-06-27T01:09:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall in Oftersheim und Schwetzingen - Oftersheim und Schwetzingen",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BW-TUE-W126-20260627-000",
     "version": 16,
     "startDate": "2026-06-27T06:00:18+02:00",
@@ -420,6 +399,113 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20260627-000",
+    "version": 16,
+    "startDate": "2026-06-27T10:37:54+02:00",
+    "expiresDate": "2026-06-27T16:37:53+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall in Oftersheim und Schwetzingen - Oftersheim und Schwetzingen",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NI-WOB-W088-20260627-000",
+    "version": 16,
+    "startDate": "2026-06-27T10:47:55+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Extreme Wärmebelastung im Landkreis Helmstedt - Landkreis Helmstedt",
+      "en": "Heat",
+      "ar": "حرارة",
+      "es": "Temperatura elevada",
+      "fr": "Chaleur intense",
+      "pl": "Upał",
+      "ru": "Жара",
+      "tr": "Aşırı sıcaklık"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-037"
+    }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20260627-82-000",
+    "version": 16,
+    "startDate": "2026-06-27T11:35:53+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung und Rauchentwicklung - Groß Pankow",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-HE-DI-W104-20260627-000",
+    "version": 16,
+    "startDate": "2026-06-27T11:40:09+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Wasserverbrauch - Gemeinde Mühltal",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20260627-002",
+    "version": 16,
+    "startDate": "2026-06-27T12:05:56+02:00",
+    "expiresDate": "2026-06-27T18:05:55+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Probewarnung - Oberursel",
+      "en": "Siren test",
+      "ar": "تجربة صفارة الإنذار",
+      "es": "Prueba de sirena",
+      "fr": "Test des sirènes",
+      "pl": "Test syren",
+      "ru": "Проверка средств оповещения",
+      "tr": "Siren testi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
     }
   }
 ]
