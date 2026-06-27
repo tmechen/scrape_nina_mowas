@@ -252,28 +252,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20260626-89-001",
-    "version": 16,
-    "startDate": "2026-06-26T20:38:39+02:00",
-    "expiresDate": "2026-06-27T02:38:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall Stromversorgung - Geseke Kernstadt und westlicher Bereich der Alhardstraße",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20260626-129-000",
     "version": 16,
     "startDate": "2026-06-26T20:47:37+02:00",
@@ -295,27 +273,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-KLE-SE058-20260626-58-000",
-    "version": 16,
-    "startDate": "2026-06-26T22:11:41+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase in Straelen - Straelen, Wachtendonk",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HE-OF-W192-20260626-000",
     "version": 16,
     "startDate": "2026-06-26T22:12:00+02:00",
@@ -334,27 +291,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-HE-HG-W103-20260626-000",
-    "version": 16,
-    "startDate": "2026-06-26T22:15:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall - Weilrod und Grävenwiesbach",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
     }
   },
   {
@@ -485,6 +421,50 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20260627-000",
+    "version": 16,
+    "startDate": "2026-06-27T02:14:11+02:00",
+    "expiresDate": "2026-06-27T08:14:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall - Weilrod und Grävenwiesbach",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-KLE-SE058-20260627-58-000",
+    "version": 16,
+    "startDate": "2026-06-27T02:42:56+02:00",
+    "expiresDate": "2026-06-27T08:42:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase in Straelen - Straelen, Wachtendonk",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
