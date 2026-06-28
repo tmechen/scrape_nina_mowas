@@ -336,27 +336,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20260628-000",
-    "version": 16,
-    "startDate": "2026-06-28T08:41:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Meuselwitz/Mumsdorf",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-ST-HZ-W050-20260628-000",
     "version": 16,
     "startDate": "2026-06-28T11:11:04+02:00",
@@ -365,72 +344,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Waldbrand - L 93 zwischen Wienrode und Treseburg",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-MV-NB-W076-20260628-000",
-    "version": 16,
-    "startDate": "2026-06-28T14:38:22+02:00",
-    "expiresDate": "2026-06-28T20:38:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung und Geruchsbelästigung - Neustrelitz",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-RP-KL-SE112-20260628-112-001",
-    "version": 16,
-    "startDate": "2026-06-28T14:49:17+02:00",
-    "expiresDate": "2026-06-28T20:49:17+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand eines Feldes - Dreisen, Marnheim, Bolanden",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-SN-HY-SE048-20260628-122-001",
-    "version": 16,
-    "startDate": "2026-06-28T15:37:10+02:00",
-    "expiresDate": "2026-06-28T21:37:10+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung - Landkreis Leipzig und Stadt Leipzig",
       "en": "Forest fire",
       "ar": "حريق بالغابات",
       "es": "Incendio forestal",
@@ -504,6 +417,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20260628-001",
+    "version": 16,
+    "startDate": "2026-06-28T21:02:48+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung - Meuselwitz/Mumsdorf",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
