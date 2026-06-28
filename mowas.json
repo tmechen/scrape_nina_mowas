@@ -294,27 +294,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-TUE-W126-20260627-000",
-    "version": 16,
-    "startDate": "2026-06-27T06:00:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hitzewelle - Stadt und Landkreis Tübingen",
-      "en": "Heat",
-      "ar": "حرارة",
-      "es": "Temperatura elevada",
-      "fr": "Chaleur intense",
-      "pl": "Upał",
-      "ru": "Жара",
-      "tr": "Aşırı sıcaklık"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-037"
-    }
-  },
-  {
     "id": "mow.DE-NI-WOB-W088-20260627-000",
     "version": 16,
     "startDate": "2026-06-27T10:47:55+02:00",
@@ -378,58 +357,78 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20260627-003",
+    "id": "mow.DE-SL-SB-SE035-20260628-35-000",
     "version": 16,
-    "startDate": "2026-06-27T21:55:24+02:00",
-    "expiresDate": "2026-06-28T03:55:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Versorgungsunterbrechung Strom - Meuselwitz",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-SH-FL-SE100-20260627-100-002",
-    "version": 16,
-    "startDate": "2026-06-28T01:35:59+02:00",
-    "expiresDate": "2026-06-28T07:35:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Rabenholz",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-NW-HA-SE087-20260628-149-000",
-    "version": 16,
-    "startDate": "2026-06-28T03:40:48+02:00",
+    "startDate": "2026-06-28T04:50:26+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Rauchgase in Hagen Halden - Hagen",
+      "de": "Rauchentwicklung durch Brandereignis - Saarlouis",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20260628-99-001",
+    "version": 16,
+    "startDate": "2026-06-28T05:54:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Gefahreninformation Feuerwehreinsatz - Molfsee",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-TUE-W126-20260628-000",
+    "version": 16,
+    "startDate": "2026-06-28T06:01:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Hitzewelle - Stadt und Landkreis Tübingen",
+      "en": "Heat",
+      "ar": "حرارة",
+      "es": "Temperatura elevada",
+      "fr": "Chaleur intense",
+      "pl": "Upał",
+      "ru": "Жара",
+      "tr": "Aşırı sıcaklık"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-037"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HA-SE087-20260628-149-001",
+    "version": 16,
+    "startDate": "2026-06-28T06:47:35+02:00",
+    "expiresDate": "2026-06-28T12:47:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase in Hagen Halden - Hagen",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
