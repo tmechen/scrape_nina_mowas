@@ -147,27 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-NB-W076-20260625-001",
-    "version": 16,
-    "startDate": "2026-06-25T12:07:45+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchentwicklung und Geruchsbelästigung - Neustrelitz",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-LIP-SE041-20260625-41-000",
     "version": 16,
     "startDate": "2026-06-25T15:52:18+02:00",
@@ -357,28 +336,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20260628-99-002",
-    "version": 16,
-    "startDate": "2026-06-28T08:26:51+02:00",
-    "expiresDate": "2026-06-28T14:26:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Molfsee",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20260628-000",
     "version": 16,
     "startDate": "2026-06-28T08:41:39+02:00",
@@ -483,6 +440,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KL-SE112-20260628-112-000",
+    "version": 16,
+    "startDate": "2026-06-28T13:29:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand eines Feldes - Dreisen, Marnheim, Bolanden",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-MV-NB-W076-20260628-000",
+    "version": 16,
+    "startDate": "2026-06-28T14:38:22+02:00",
+    "expiresDate": "2026-06-28T20:38:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung und Geruchsbelästigung - Neustrelitz",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
