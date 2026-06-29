@@ -42,27 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-ERB-W191-20260623-001",
-    "version": 16,
-    "startDate": "2026-06-23T12:42:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hitzewarnung - Odenwaldkreis",
-      "en": "Heat",
-      "ar": "حرارة",
-      "es": "Temperatura elevada",
-      "fr": "Chaleur intense",
-      "pl": "Upał",
-      "ru": "Жара",
-      "tr": "Aşırı sıcaklık"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-037"
-    }
-  },
-  {
     "id": "mow.DE-BW-TUE-W126-20260624-000",
     "version": 16,
     "startDate": "2026-06-24T06:00:05+02:00",
@@ -189,27 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20260626-000",
-    "version": 16,
-    "startDate": "2026-06-26T20:11:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Wasserversorgung Rauher-Berg-Gruppe: Mögliche Verunreinigung, Abkochgebot - Ortsteil Rieden, Gemeinden Bibertal, Kötz, Waldstetten, Wiesenbach",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20260626-129-000",
     "version": 16,
     "startDate": "2026-06-26T20:47:37+02:00",
@@ -315,28 +273,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20260629-35-000",
-    "version": 16,
-    "startDate": "2026-06-29T02:49:07+02:00",
-    "expiresDate": "2026-06-29T08:49:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brandereignis - Homburg",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-TS-W135-20260629-000",
     "version": 16,
     "startDate": "2026-06-29T03:05:20+02:00",
@@ -355,50 +291,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-BB-CB-SE036-20260629-36-000",
-    "version": 16,
-    "startDate": "2026-06-29T06:01:41+02:00",
-    "expiresDate": "2026-06-29T12:01:40+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung aufgrund Brand einer Lagerhalle - Großkmehlen",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-BW-TUE-W126-20260629-001",
-    "version": 16,
-    "startDate": "2026-06-29T07:24:13+02:00",
-    "expiresDate": "2026-06-29T13:24:12+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Hitzewelle - Stadt und Landkreis Tübingen",
-      "en": "Heat",
-      "ar": "حرارة",
-      "es": "Temperatura elevada",
-      "fr": "Chaleur intense",
-      "pl": "Upał",
-      "ru": "Жара",
-      "tr": "Aşırı sıcaklık"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-037"
     }
   },
   {
@@ -423,15 +315,36 @@
     }
   },
   {
-    "id": "mow.DE-NI-WOB-W088-20260629-000",
+    "id": "mow.DE-BY-KRU-W174-20260629-000",
     "version": 16,
-    "startDate": "2026-06-29T07:57:34+02:00",
-    "expiresDate": "2026-06-29T13:57:33+02:00",
+    "startDate": "2026-06-29T10:59:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Wasserversorgung Rauher-Berg-Gruppe: Mögliche Verunreinigung, Abkochgebot - Ortsteil Rieden, Gemeinden Bibertal, Kötz, Waldstetten",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-HE-ERB-W191-20260629-000",
+    "version": 16,
+    "startDate": "2026-06-29T11:10:51+02:00",
+    "expiresDate": "2026-06-29T17:10:51+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Extreme Wärmebelastung im Landkreis Helmstedt - Landkreis Helmstedt",
+      "de": "Entwarnung: Hitzewarnung - Odenwaldkreis",
       "en": "Heat",
       "ar": "حرارة",
       "es": "Temperatura elevada",
