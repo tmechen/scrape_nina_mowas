@@ -294,49 +294,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-OF-W106-20260630-000",
-    "version": 16,
-    "startDate": "2026-06-30T14:59:20+02:00",
-    "expiresDate": "2026-06-30T20:59:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wassernotstand in Kreis und Stadt Offenbach - Offenbach",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-NW-KLE-SE058-20260630-58-001",
-    "version": 16,
-    "startDate": "2026-06-30T17:29:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Goch - Goch",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BW-RV-W228-20260630-000",
     "version": 16,
     "startDate": "2026-06-30T18:20:53+02:00",
@@ -400,27 +357,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ME-SE071-20260630-71-000",
-    "version": 16,
-    "startDate": "2026-06-30T19:24:35+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch einen Brand - Hilden",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20260630-50-000",
     "version": 16,
     "startDate": "2026-06-30T19:40:43+02:00",
@@ -460,6 +396,72 @@
     },
     "transKeys": {
       "event": "BBK-EVC-047"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ME-SE071-20260630-71-001",
+    "version": 16,
+    "startDate": "2026-06-30T20:56:13+02:00",
+    "expiresDate": "2026-07-01T02:56:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch einen Brand - Hilden",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-KLE-SE058-20260630-58-002",
+    "version": 16,
+    "startDate": "2026-06-30T21:58:32+02:00",
+    "expiresDate": "2026-07-01T03:58:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Goch - Goch",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20260630-002",
+    "version": 16,
+    "startDate": "2026-06-30T22:15:16+02:00",
+    "expiresDate": "2026-07-01T04:15:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand - Warnung - Ettlingen und Waldbronn",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
