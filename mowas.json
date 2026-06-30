@@ -231,27 +231,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-W046-20260629-000",
-    "version": 16,
-    "startDate": "2026-06-29T20:40:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung bei Großbrand - Magdeburg, Industriegebiet Rothensee",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20260630-99-000",
     "version": 16,
     "startDate": "2026-06-30T10:29:22+02:00",
@@ -454,6 +433,28 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Starke Rauchentwicklung durch ein Schadensfeuer in einer Müllsortieran - Stadtgebiet Bad Saulgau und anliege Gemeinden",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-W046-20260630-000",
+    "version": 16,
+    "startDate": "2026-07-01T00:15:56+02:00",
+    "expiresDate": "2026-07-01T06:15:55+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Schadensereignis beseitigt. - Magdeburg, Industriegebiet Rothensee",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
