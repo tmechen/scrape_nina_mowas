@@ -336,50 +336,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-VIE-SE074-20260629-74-001",
-    "version": 16,
-    "startDate": "2026-06-29T19:45:37+02:00",
-    "expiresDate": "2026-06-30T01:45:36+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Nettetal - Kaldenkirchen - Kaldenkirchen",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029B-20260629-129-000",
-    "version": 16,
-    "startDate": "2026-06-29T20:20:18+02:00",
-    "expiresDate": "2026-06-30T02:20:17+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Einschränkung der Trinkwasserversorgung - Landkreis Stade",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-W046-20260629-000",
     "version": 16,
     "startDate": "2026-06-29T20:40:16+02:00",
@@ -423,14 +379,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-COC-W256-20260629-000",
+    "id": "mow.DE-RP-COC-W256-20260630-000",
     "version": 16,
-    "startDate": "2026-06-30T00:04:26+02:00",
+    "startDate": "2026-06-30T02:38:16+02:00",
+    "expiresDate": "2026-06-30T08:38:16+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall im Bereich der Stadt Kaisersesch - 56759 Kaisersesch",
+      "de": "Entwarnung: Stromausfall im Bereich der Stadt Kaisersesch - 56759 Kaisersesch",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
