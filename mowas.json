@@ -63,27 +63,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20260624-84-000",
-    "version": 16,
-    "startDate": "2026-06-24T10:51:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor hoher Waldbrandgefahr - Landkreis Rosenheim, Stadt Rosenheim, Landkreis Miesbach",
-      "en": "Risk of fire",
-      "ar": "خطر الحريق",
-      "es": "Peligro de incendio",
-      "fr": "Risque d'incendie",
-      "pl": "Niebezpieczeństwo pożaru",
-      "ru": "Опасность возникновения пожара",
-      "tr": "Yangın tehlikesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-011"
-    }
-  },
-  {
     "id": "mow.DE-ST-MSH-W058-20260624-001",
     "version": 16,
     "startDate": "2026-06-24T17:17:15+02:00",
@@ -252,27 +231,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-RO-W136-20260629-000",
-    "version": 16,
-    "startDate": "2026-06-29T07:27:45+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand im Bereich Bereich Bernau - Übersee - Frauenchiemsee, Herrenchiemsee",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-KRU-W174-20260629-000",
     "version": 16,
     "startDate": "2026-06-29T10:59:13+02:00",
@@ -336,28 +294,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-COC-W256-20260630-000",
-    "version": 16,
-    "startDate": "2026-06-30T02:38:16+02:00",
-    "expiresDate": "2026-06-30T08:38:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall im Bereich der Stadt Kaisersesch - 56759 Kaisersesch",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-BY-TS-W135-20260630-000",
     "version": 16,
     "startDate": "2026-06-30T07:42:40+02:00",
@@ -377,6 +313,114 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20260630-84-000",
+    "version": 16,
+    "startDate": "2026-06-30T08:07:05+02:00",
+    "expiresDate": "2026-06-30T14:07:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor hoher Waldbrandgefahr - Landkreis Rosenheim, Stadt Rosenheim, Landkreis Miesbach",
+      "en": "Risk of fire",
+      "ar": "خطر الحريق",
+      "es": "Peligro de incendio",
+      "fr": "Risque d'incendie",
+      "pl": "Niebezpieczeństwo pożaru",
+      "ru": "Опасность возникновения пожара",
+      "tr": "Yangın tehlikesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-011"
+    }
+  },
+  {
+    "id": "mow.DE-BY-RO-W136-20260630-001",
+    "version": 16,
+    "startDate": "2026-06-30T08:08:32+02:00",
+    "expiresDate": "2026-06-30T14:08:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand im Bereich Bereich Bernau - Übersee - Frauenchiemsee, Herrenchiemsee",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-NMS-SE101-20260630-101-000",
+    "version": 16,
+    "startDate": "2026-06-30T08:46:34+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Massive Rauchentwicklung - Neumünster/ Wittorf",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20260630-99-000",
+    "version": 16,
+    "startDate": "2026-06-30T10:29:22+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahreninformation Feuerwehreinsatz - Neumünster",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20260630-105-001",
+    "version": 16,
+    "startDate": "2026-06-30T11:06:06+02:00",
+    "expiresDate": "2026-06-30T17:06:05+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor Gasaustritt im Bereich Seminarweg - Ratzeburg, Seminarweg",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
     }
   }
 ]
