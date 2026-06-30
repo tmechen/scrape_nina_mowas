@@ -147,27 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-OF-W192-20260626-000",
-    "version": 16,
-    "startDate": "2026-06-26T22:12:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Möglicher Wassernotstand in Kreis und Stadt Offenbach - Kreis Offenbach",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-HE-OF-W106-20260626-000",
     "version": 16,
     "startDate": "2026-06-26T22:19:33+02:00",
@@ -294,28 +273,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20260630-000",
-    "version": 16,
-    "startDate": "2026-06-30T07:42:40+02:00",
-    "expiresDate": "2026-06-30T13:42:40+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Übersee, Chiemsee",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20260630-84-000",
     "version": 16,
     "startDate": "2026-06-30T08:07:05+02:00",
@@ -421,6 +378,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20260630-000",
+    "version": 16,
+    "startDate": "2026-06-30T12:59:10+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung bei Großbrand - Amsdorf",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-HE-OF-W192-20260630-000",
+    "version": 16,
+    "startDate": "2026-06-30T13:54:52+02:00",
+    "expiresDate": "2026-06-30T19:54:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Möglicher Wassernotstand in Kreis und Stadt Offenbach - Kreis Offenbach",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
