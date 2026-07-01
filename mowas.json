@@ -126,27 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-DI-W104-20260627-000",
-    "version": 16,
-    "startDate": "2026-06-27T11:40:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Wasserverbrauch - Gemeinde Mühltal",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20260628-001",
     "version": 16,
     "startDate": "2026-06-28T21:02:48+02:00",
@@ -359,6 +338,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-047"
+    }
+  },
+  {
+    "id": "mow.DE-HE-DI-W104-20260701-000",
+    "version": 16,
+    "startDate": "2026-07-01T18:38:23+02:00",
+    "expiresDate": "2026-07-02T00:38:22+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Wasserverbrauch - Gemeinde Mühltal",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
