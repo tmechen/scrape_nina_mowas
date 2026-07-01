@@ -42,27 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-TUE-W126-20260624-000",
-    "version": 16,
-    "startDate": "2026-06-24T06:00:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Hitzewelle - Stadt und Landkreis Tübingen",
-      "en": "Heat",
-      "ar": "حرارة",
-      "es": "Temperatura elevada",
-      "fr": "Chaleur intense",
-      "pl": "Upał",
-      "ru": "Жара",
-      "tr": "Aşırı sıcaklık"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-037"
-    }
-  },
-  {
     "id": "mow.DE-ST-MSH-W058-20260624-001",
     "version": 16,
     "startDate": "2026-06-24T17:17:15+02:00",
@@ -315,37 +294,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-KLE-SE058-20260630-58-002",
+    "id": "mow.DE-ST-MSH-W058-20260701-000",
     "version": 16,
-    "startDate": "2026-06-30T21:58:32+02:00",
-    "expiresDate": "2026-07-01T03:58:32+02:00",
+    "startDate": "2026-07-01T02:55:37+02:00",
+    "expiresDate": "2026-07-01T08:55:37+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Goch - Goch",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-BW-KA-W138-20260630-002",
-    "version": 16,
-    "startDate": "2026-06-30T22:15:16+02:00",
-    "expiresDate": "2026-07-01T04:15:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand - Warnung - Ettlingen und Waldbronn",
+      "de": "Entwarnung: Starke Rauchentwicklung bei Großbrand - Amsdorf",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
@@ -359,75 +316,31 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20260630-18-000",
+    "id": "mow.DE-BY-CO-W141-20260701-000",
     "version": 16,
-    "startDate": "2026-06-30T23:14:08+02:00",
-    "expiresDate": "2026-07-01T05:14:07+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Explosion - Meldung - Ettlingen",
-      "en": "Risk of explosion",
-      "ar": "خطر الانفجار",
-      "es": "Peligro de explosión",
-      "fr": "Risque d'explosion",
-      "pl": "Niebezpieczeństwo wybuchu",
-      "ru": "Опасность взрыва",
-      "tr": "Patlama tehlikesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-020"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RV-W228-20260630-001",
-    "version": 16,
-    "startDate": "2026-06-30T23:47:33+02:00",
-    "expiresDate": "2026-07-01T05:47:33+02:00",
+    "startDate": "2026-07-01T05:29:55+02:00",
+    "expiresDate": "2026-07-01T11:29:54+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch ein Schadensfeuer in einer Müllsortieran - Stadtgebiet Bad Saulgau und anliege Gemeinden",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
+      "de": "Entwarnung: Giftige Rauchwolke durch Großbrand einer Lagerhalle - OT Trieb",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
     },
     "transKeys": {
-      "event": "BBK-EVC-034"
+      "event": "BBK-EVC-010"
     }
   },
   {
-    "id": "mow.DE-ST-MD-W046-20260630-000",
+    "id": "mow.DE-BY-CO-W141-20260701-001",
     "version": 16,
-    "startDate": "2026-07-01T00:15:56+02:00",
-    "expiresDate": "2026-07-01T06:15:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Schadensereignis beseitigt. - Magdeburg, Industriegebiet Rothensee",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-BY-CO-W141-20260630-000",
-    "version": 16,
-    "startDate": "2026-07-01T01:18:59+02:00",
+    "startDate": "2026-07-01T05:40:13+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
@@ -446,15 +359,36 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20260701-000",
+    "id": "mow.DE-BW-TUE-W126-20260701-000",
     "version": 16,
-    "startDate": "2026-07-01T02:55:37+02:00",
-    "expiresDate": "2026-07-01T08:55:37+02:00",
+    "startDate": "2026-07-01T06:15:01+02:00",
+    "expiresDate": "2026-07-01T12:15:00+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung bei Großbrand - Amsdorf",
+      "de": "Entwarnung: Hitzewelle - Stadt und Landkreis Tübingen",
+      "en": "Heat",
+      "ar": "حرارة",
+      "es": "Temperatura elevada",
+      "fr": "Chaleur intense",
+      "pl": "Upał",
+      "ru": "Жара",
+      "tr": "Aşırı sıcaklık"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-037"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20260701-28-000",
+    "version": 16,
+    "startDate": "2026-07-01T07:58:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Nordwestlicher Kreis Segeberg",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
