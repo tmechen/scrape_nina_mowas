@@ -277,14 +277,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20260702-129-000",
+    "id": "mow.DE-NI-STD-SE029B-20260702-129-001",
     "version": 16,
-    "startDate": "2026-07-02T23:12:06+02:00",
+    "startDate": "2026-07-03T01:40:57+02:00",
+    "expiresDate": "2026-07-03T07:40:57+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gebäudebrand in Bakede - Bakede / Beber",
+      "de": "Entwarnung: Gebäudebrand in Bakede - Bakede / Beber",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
