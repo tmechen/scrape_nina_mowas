@@ -231,25 +231,24 @@
     }
   },
   {
-    "id": "mow.DE-HE-DI-W104-20260701-000",
+    "id": "mow.DE-BW-KA-W138-20260701-000",
     "version": 16,
-    "startDate": "2026-07-01T18:38:23+02:00",
-    "expiresDate": "2026-07-02T00:38:22+02:00",
+    "startDate": "2026-07-02T01:18:52+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Wasserverbrauch - Gemeinde Mühltal",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
+      "de": "Brand - Meldung - Marxzell",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
     },
     "transKeys": {
-      "event": "BBK-EVC-078"
+      "event": "BBK-EVC-034"
     }
   }
 ]
