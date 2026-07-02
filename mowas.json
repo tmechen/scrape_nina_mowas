@@ -189,27 +189,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-FFB-W143-20260701-000",
-    "version": 16,
-    "startDate": "2026-07-01T17:11:03+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ölfilm auf dem Lech flußabwärts - Gemeinde Kaufering, Gemeinde Hurlach",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-ST-MSH-W058-20260701-001",
     "version": 16,
     "startDate": "2026-07-01T17:16:56+02:00",
@@ -218,27 +197,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Unterbrechung Trinkwasserversorgung ab Donnerstag, den 2. Juli 2026 - Drebsdorf, Kleinleinungen und Großleinungen",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-NI-GOE-W264-20260702-000",
-    "version": 16,
-    "startDate": "2026-07-02T11:00:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Entschärfung einer Handgranate - Göttingen, Auf der Hufe",
       "en": "Alert",
       "ar": "تحذير",
       "es": "Advertencia",
@@ -293,6 +251,92 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-HE-MTK-W098-20260702-000",
+    "version": 16,
+    "startDate": "2026-07-02T13:13:19+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall - Hofheim und Kriftel",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NI-GOE-W264-20260702-001",
+    "version": 16,
+    "startDate": "2026-07-02T13:37:58+02:00",
+    "expiresDate": "2026-07-02T19:37:58+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Entschärfung einer Handgranate - Göttingen, Auf der Hufe",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BOR-SE059-20260702-59-000",
+    "version": 16,
+    "startDate": "2026-07-02T13:39:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase in 48599 Gronau - Gronau",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-FFB-W143-20260702-000",
+    "version": 16,
+    "startDate": "2026-07-02T14:03:17+02:00",
+    "expiresDate": "2026-07-02T20:03:16+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ölfilm auf dem Lech flußabwärts - Gemeinde Kaufering, Gemeinde Hurlach",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
