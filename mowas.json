@@ -168,72 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-MTK-W098-20260702-001",
-    "version": 16,
-    "startDate": "2026-07-02T14:57:23+02:00",
-    "expiresDate": "2026-07-02T20:57:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall - Hofheim und Kriftel",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-HE-F-SE119-20260702-128-000",
-    "version": 16,
-    "startDate": "2026-07-02T15:00:03+02:00",
-    "expiresDate": "2026-07-02T21:00:03+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Notfallrettung überlastet - Frankfurt am Main",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-NW-BOR-SE059-20260702-59-001",
-    "version": 16,
-    "startDate": "2026-07-02T15:26:25+02:00",
-    "expiresDate": "2026-07-02T21:26:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in 48599 Gronau - Gronau",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE127-20260702-214-001",
     "version": 16,
     "startDate": "2026-07-02T16:50:18+02:00",
@@ -298,14 +232,57 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-W094-20260702-000",
+    "id": "mow.DE-BW-RA-W025-20260702-000",
     "version": 16,
-    "startDate": "2026-07-02T20:25:32+02:00",
+    "startDate": "2026-07-02T20:53:05+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Großbrand in einem Recyclingbetrieb - Dresden-Lockwitz",
+      "de": "Ausfall der Stromversorgung - eventueller Notrufausfall - Bühlertal",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-BW-OG-W204-20260702-002",
+    "version": 16,
+    "startDate": "2026-07-02T21:50:22+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Stromausfall - Sasbach, Obersasbach und Lauf im Ortenaukreis",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-SN-DD-W094-20260702-001",
+    "version": 16,
+    "startDate": "2026-07-02T21:57:42+02:00",
+    "expiresDate": "2026-07-03T03:57:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand in einem Recyclingbetrieb - Dresden-Lockwitz",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
