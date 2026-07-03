@@ -84,50 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-OG-W204-20260703-000",
-    "version": 16,
-    "startDate": "2026-07-03T07:36:44+02:00",
-    "expiresDate": "2026-07-03T13:36:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starker Brand- und Rauchgeruch - Kehl, Willstätt, Offenburg, Neuried, Schutterwald, Appenweier",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KRU-W174-20260703-000",
-    "version": 16,
-    "startDate": "2026-07-03T08:35:32+02:00",
-    "expiresDate": "2026-07-03T14:35:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wasserversorgung Rauher-Berg-Gruppe: Mögliche Verunreinigung, Abkochge - Ortsteil Rieden, Gemeinden Bibertal, Kötz, Waldstetten",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-ST-MSH-W058-20260703-000",
     "version": 16,
     "startDate": "2026-07-03T10:01:36+02:00",
@@ -216,27 +172,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-WM-W167-20260703-000",
-    "version": 16,
-    "startDate": "2026-07-03T12:28:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Störung der Trinkwasserversorgung - Gemeinde Bernried",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20260703-50-000",
     "version": 16,
     "startDate": "2026-07-03T12:44:16+02:00",
@@ -278,6 +213,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-WM-W167-20260703-001",
+    "version": 16,
+    "startDate": "2026-07-03T13:43:28+02:00",
+    "expiresDate": "2026-07-03T19:43:28+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Störung der Trinkwasserversorgung - Gemeinde Bernried",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
