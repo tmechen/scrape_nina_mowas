@@ -84,69 +84,24 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20260703-50-000",
+    "id": "mow.DE-BY-KRU-W174-20260703-001",
     "version": 16,
-    "startDate": "2026-07-03T12:44:16+02:00",
-    "expiresDate": "2026-07-03T18:44:16+02:00",
+    "startDate": "2026-07-03T19:17:13+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Dringender Aufruf zum Wassersparen - Stadt Aichtal",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
+      "de": "Abkochgebot für Trinkwasser - Kleinkötz, Großkötz, Ebersbach und Gemeinde Bibertal.",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
     },
     "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-SN-C-W092-20260703-001",
-    "version": 16,
-    "startDate": "2026-07-03T12:52:51+02:00",
-    "expiresDate": "2026-07-03T18:52:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung - Chemnitz - Sonnenberg",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BY-WM-W167-20260703-001",
-    "version": 16,
-    "startDate": "2026-07-03T13:43:28+02:00",
-    "expiresDate": "2026-07-03T19:43:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Störung der Trinkwasserversorgung - Gemeinde Bernried",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
+      "event": "BBK-EVC-069"
     }
   }
 ]
