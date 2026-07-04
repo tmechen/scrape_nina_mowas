@@ -105,94 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-IN-W139-20260704-001",
-    "version": 16,
-    "startDate": "2026-07-04T11:35:11+02:00",
-    "expiresDate": "2026-07-04T17:35:10+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm Feuerwehr Landkreis Neuburg - Schrobenhausen - Neuburg-Schrobenhausen",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RA-W025-20260704-003",
-    "version": 16,
-    "startDate": "2026-07-04T12:04:05+02:00",
-    "expiresDate": "2026-07-04T18:04:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenen-Probealarm - Loffenau",
-      "en": "Siren test",
-      "ar": "تجربة صفارة الإنذار",
-      "es": "Prueba de sirena",
-      "fr": "Test des sirènes",
-      "pl": "Test syren",
-      "ru": "Проверка средств оповещения",
-      "tr": "Siren testi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
-    "id": "mow.DE-NI-HM-W214-20260704-001",
-    "version": 16,
-    "startDate": "2026-07-04T12:12:17+02:00",
-    "expiresDate": "2026-07-04T18:12:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kreisweiter Warntag - Landkreis Hameln-Pyrmont",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-NW-BM-SE042-20260704-42-001",
-    "version": 16,
-    "startDate": "2026-07-04T12:17:46+02:00",
-    "expiresDate": "2026-07-04T18:17:45+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm - Stadt Erftstadt",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE127-20260704-214-003",
     "version": 17,
     "startDate": "2026-07-04T14:46:52+02:00",
@@ -233,6 +145,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-081"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20260704-50-003",
+    "version": 17,
+    "startDate": "2026-07-04T18:49:09+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand eines Ökonomiegebäudes. Starke Rauchentwicklung - Freudenstadt Ortsteil Musbach am Segelflugplatz",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
