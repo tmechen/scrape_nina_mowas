@@ -105,27 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE127-20260704-214-002",
-    "version": 16,
-    "startDate": "2026-07-04T10:11:34+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Brand - Stuttgart-Wangen",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20260704-001",
     "version": 16,
     "startDate": "2026-07-04T11:03:44+02:00",
@@ -255,6 +234,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE127-20260704-214-003",
+    "version": 17,
+    "startDate": "2026-07-04T14:46:52+02:00",
+    "expiresDate": "2026-07-04T20:46:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Brand - Stuttgart-Wangen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
