@@ -147,27 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-EW-SE079-20260705-79-001",
-    "version": 17,
-    "startDate": "2026-07-05T13:24:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Brand in / im Stadtgebiet Oranienburg Süd - Oranienburg und umliegende Gemeinden Richtung Süden",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-AN-SE147-20260705-189-001",
     "version": 17,
     "startDate": "2026-07-05T13:29:36+02:00",
@@ -187,6 +166,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BB-EW-SE079-20260705-79-002",
+    "version": 17,
+    "startDate": "2026-07-05T15:23:08+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Brand in / im Stadtgebiet Oranienburg Süd - Oranienburg Gewerbepark Süd",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
