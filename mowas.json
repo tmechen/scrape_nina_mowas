@@ -170,27 +170,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-VS-W217-20260707-000",
-    "version": 17,
-    "startDate": "2026-07-07T13:17:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Großbrand in Hüfingen - Hüfingen",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029-20260707-29-001",
     "version": 17,
     "startDate": "2026-07-07T15:09:51+02:00",
@@ -230,6 +209,70 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20260707-35-000",
+    "version": 17,
+    "startDate": "2026-07-07T16:51:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung - Saarlouis",
+      "en": "Chemical accident",
+      "ar": "حادث كيماوي",
+      "es": "Accidente químico",
+      "fr": "Accident chimique",
+      "pl": "Wypadek chemiczny",
+      "ru": "Химическая авария",
+      "tr": "Kimyasal kaza"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-012"
+    }
+  },
+  {
+    "id": "mow.DE-BW-BC-W124-20260707-000",
+    "version": 17,
+    "startDate": "2026-07-07T16:54:04+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "mehrere Flächenbrände - Ahlen",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-VS-W217-20260707-001",
+    "version": 17,
+    "startDate": "2026-07-07T17:29:22+02:00",
+    "expiresDate": "2026-07-07T23:29:22+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Großbrand in Hüfingen - Hüfingen",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
