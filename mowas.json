@@ -126,48 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20260707-000",
-    "version": 17,
-    "startDate": "2026-07-07T15:38:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Waldbrand an der Bundesautobahn A9 - Zollgrün",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-SL-SB-SE035-20260707-35-000",
-    "version": 17,
-    "startDate": "2026-07-07T16:51:37+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung - Saarlouis",
-      "en": "Chemical accident",
-      "ar": "حادث كيماوي",
-      "es": "Accidente químico",
-      "fr": "Accident chimique",
-      "pl": "Wypadek chemiczny",
-      "ru": "Химическая авария",
-      "tr": "Kimyasal kaza"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-012"
-    }
-  },
-  {
     "id": "mow.DE-BW-VS-W217-20260707-001",
     "version": 17,
     "startDate": "2026-07-07T17:29:22+02:00",
@@ -234,14 +192,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20260707-106-000",
+    "id": "mow.DE-HE-KS-SE106-20260707-106-001",
     "version": 17,
-    "startDate": "2026-07-07T19:43:23+02:00",
+    "startDate": "2026-07-07T21:59:06+02:00",
+    "expiresDate": "2026-07-08T03:59:06+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Waldbrand - Weilrod und Grävenwiesbach",
+      "de": "Entwarnung: Waldbrand - Weilrod und Grävenwiesbach",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -252,6 +211,50 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20260707-35-001",
+    "version": 17,
+    "startDate": "2026-07-07T22:12:28+02:00",
+    "expiresDate": "2026-07-08T04:12:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung - Saarlouis",
+      "en": "Chemical accident",
+      "ar": "حادث كيماوي",
+      "es": "Accidente químico",
+      "fr": "Accident chimique",
+      "pl": "Wypadek chemiczny",
+      "ru": "Химическая авария",
+      "tr": "Kimyasal kaza"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-012"
+    }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20260707-001",
+    "version": 17,
+    "startDate": "2026-07-07T22:26:03+02:00",
+    "expiresDate": "2026-07-08T04:26:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Waldbrand an der Bundesautobahn A9 - Zollgrün",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
