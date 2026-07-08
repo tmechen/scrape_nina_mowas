@@ -84,27 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-EW-SE079-20260705-79-003",
-    "version": 17,
-    "startDate": "2026-07-06T01:19:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brand in / im Stadtgebiet Oranienburg Süd - Oranienburg",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-SU-SE057-20260706-57-000",
     "version": 17,
     "startDate": "2026-07-06T15:39:46+02:00",
@@ -126,69 +105,46 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20260707-106-001",
+    "id": "mow.DE-BB-EW-SE079-20260708-79-000",
     "version": 17,
-    "startDate": "2026-07-07T21:59:06+02:00",
-    "expiresDate": "2026-07-08T03:59:06+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Waldbrand - Weilrod und Grävenwiesbach",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-SL-SB-SE035-20260707-35-001",
-    "version": 17,
-    "startDate": "2026-07-07T22:12:28+02:00",
-    "expiresDate": "2026-07-08T04:12:27+02:00",
+    "startDate": "2026-07-08T03:50:42+02:00",
+    "expiresDate": "2026-07-08T09:50:42+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Saarlouis",
-      "en": "Chemical accident",
-      "ar": "حادث كيماوي",
-      "es": "Accidente químico",
-      "fr": "Accident chimique",
-      "pl": "Wypadek chemiczny",
-      "ru": "Химическая авария",
-      "tr": "Kimyasal kaza"
+      "de": "Entwarnung: Geruchsbelästigung durch Brand in / im Stadtgebiet Oranienburg Süd - Oranienburg",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
     },
     "transKeys": {
-      "event": "BBK-EVC-012"
+      "event": "BBK-EVC-030"
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20260707-001",
+    "id": "mow.DE-SH-EH-SE028-20260708-28-000",
     "version": 17,
-    "startDate": "2026-07-07T22:26:03+02:00",
-    "expiresDate": "2026-07-08T04:26:02+02:00",
+    "startDate": "2026-07-08T05:15:33+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Waldbrand an der Bundesautobahn A9 - Zollgrün",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
+      "de": "Feuerwehreinsatz - Weddingstedt",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
     },
     "transKeys": {
-      "event": "BBK-EVC-077"
+      "event": "BBK-EVC-034"
     }
   }
 ]
