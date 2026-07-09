@@ -147,27 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20260708-57-000",
-    "version": 17,
-    "startDate": "2026-07-09T01:26:04+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "SWI-A [Erstmeldung] Ollheim - Swisttal",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20260709-129-001",
     "version": 17,
     "startDate": "2026-07-09T07:26:41+02:00",
@@ -198,6 +177,71 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: SWI-A [Folgemeldung] Ollheim - Swisttal",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-EN-SE069-20260709-69-002",
+    "version": 17,
+    "startDate": "2026-07-09T11:56:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Witten - Im Bereich Husemannsportplatz im Radius von 250 m",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-HE-DA-W184-20260709-001",
+    "version": 17,
+    "startDate": "2026-07-09T12:34:14+02:00",
+    "expiresDate": "2026-07-09T18:34:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung - Darmstadt",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SU-SE057-20260709-57-002",
+    "version": 17,
+    "startDate": "2026-07-09T13:06:15+02:00",
+    "expiresDate": "2026-07-09T19:06:14+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: SWI-A [Erstmeldung] Ollheim - Swisttal",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
