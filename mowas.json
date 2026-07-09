@@ -147,28 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-DA-W184-20260709-001",
-    "version": 17,
-    "startDate": "2026-07-09T12:34:14+02:00",
-    "expiresDate": "2026-07-09T18:34:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Darmstadt",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-SU-SE057-20260709-57-002",
     "version": 17,
     "startDate": "2026-07-09T13:06:15+02:00",
@@ -257,27 +235,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KE-W173-20260709-000",
-    "version": 17,
-    "startDate": "2026-07-09T17:09:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz Brand - Kempten Ursulasried",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-RV-W228-20260709-001",
     "version": 17,
     "startDate": "2026-07-09T17:23:16+02:00",
@@ -319,6 +276,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KE-W173-20260709-001",
+    "version": 17,
+    "startDate": "2026-07-09T18:45:41+02:00",
+    "expiresDate": "2026-07-10T00:45:41+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz Brand - Kempten Ursulasried",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
