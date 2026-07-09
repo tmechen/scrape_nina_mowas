@@ -168,9 +168,9 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20260709-129-000",
+    "id": "mow.DE-NI-STD-SE029B-20260709-129-001",
     "version": 17,
-    "startDate": "2026-07-09T03:31:47+02:00",
+    "startDate": "2026-07-09T07:26:41+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
@@ -189,14 +189,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20260709-57-000",
+    "id": "mow.DE-NW-SU-SE057-20260709-57-001",
     "version": 17,
-    "startDate": "2026-07-09T03:35:15+02:00",
+    "startDate": "2026-07-09T09:58:25+02:00",
+    "expiresDate": "2026-07-09T15:58:25+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "SWI-A [Folgemeldung] Ollheim - Swisttal",
+      "de": "Entwarnung: SWI-A [Folgemeldung] Ollheim - Swisttal",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
