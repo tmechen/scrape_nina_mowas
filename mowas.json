@@ -168,28 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20260710-105-002",
-    "version": 17,
-    "startDate": "2026-07-10T17:21:36+02:00",
-    "expiresDate": "2026-07-10T23:21:36+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung - Burg auf Fehmarn",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-HD-W086-20260710-002",
     "version": 17,
     "startDate": "2026-07-10T19:58:40+02:00",
@@ -212,27 +190,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-SE137-20260710-166-000",
-    "version": 17,
-    "startDate": "2026-07-10T22:23:09+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch großen Waldbrand im Bereich Große Straße - Nürnberg",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20260710-105-004",
     "version": 17,
     "startDate": "2026-07-10T22:42:10+02:00",
@@ -252,6 +209,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-N-SE137-20260710-166-001",
+    "version": 17,
+    "startDate": "2026-07-10T23:45:32+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung/Rauchgeruch durch Waldbrand im Bereich Große Straße - Nürnberg",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
