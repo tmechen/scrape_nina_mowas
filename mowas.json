@@ -147,49 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-AB-W169-20260710-001",
-    "version": 17,
-    "startDate": "2026-07-10T10:17:50+02:00",
-    "expiresDate": "2026-07-10T16:17:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Vermisstensuche - Person konnte wohlbehalten angetroffen werden. - Johannesberg",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-NW-BOT-SE062-20260710-62-000",
-    "version": 17,
-    "startDate": "2026-07-10T13:41:40+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Stadt Bottrop (Stadtteil Welheimer Mark) - Stadt Bottrop, Stadtteil Welheimer Mark",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20260710-129-001",
     "version": 17,
     "startDate": "2026-07-10T14:43:07+02:00",
@@ -231,6 +188,92 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BOT-SE062-20260710-62-001",
+    "version": 17,
+    "startDate": "2026-07-10T15:51:26+02:00",
+    "expiresDate": "2026-07-10T21:51:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Stadt Bottrop (Stadtteil Welheimer Mark) - Stadt Bottrop, Stadtteil Welheimer Mark",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KO-W249-20260710-000",
+    "version": 17,
+    "startDate": "2026-07-10T16:08:48+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung der Bevölkerung im Bereich Linz am Rhein hinsichtlich einer Giftschlange ( - Linz am Rhein",
+      "en": "Risk of infection",
+      "ar": "خطر العدوى",
+      "es": "Riesgo de infección",
+      "fr": "Danger d'infection",
+      "pl": "Ryzyko zakażenia",
+      "ru": "Инфекционная угроза",
+      "tr": "Enfeksiyon tehlikesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-040"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20260710-105-002",
+    "version": 17,
+    "startDate": "2026-07-10T17:21:36+02:00",
+    "expiresDate": "2026-07-10T23:21:36+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: starke Rauchentwicklung - Burg auf Fehmarn",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-HD-W086-20260710-001",
+    "version": 17,
+    "startDate": "2026-07-10T17:40:43+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Vegetationsbrand - Laudenbach und Hemsbach",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
