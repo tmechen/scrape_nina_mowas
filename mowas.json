@@ -147,28 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-HGW-W005-20260709-001",
-    "version": 17,
-    "startDate": "2026-07-09T19:56:07+02:00",
-    "expiresDate": "2026-07-10T01:56:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: FEUERWEHREINSATZ - Greifswald,  im Bereich Ernst Thälmann-Ring 6",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BY-KE-W173-20260709-003",
     "version": 17,
     "startDate": "2026-07-09T21:05:15+02:00",
