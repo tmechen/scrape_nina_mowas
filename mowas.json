@@ -212,35 +212,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20260711-125-000",
+    "id": "mow.DE-BY-R-SE084-20260711-84-001",
     "version": 17,
-    "startDate": "2026-07-11T21:47:09+02:00",
+    "startDate": "2026-07-11T23:20:41+02:00",
+    "expiresDate": "2026-07-12T05:20:41+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Kirn Stadt Dhauner Straße",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20260711-84-000",
-    "version": 17,
-    "startDate": "2026-07-11T22:21:29+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz Brand - Westendoerf bei Kaufbeuren",
+      "de": "Entwarnung: Feuerwehreinsatz Brand - Westendoerf bei Kaufbeuren",
       "en": "Alert",
       "ar": "تحذير",
       "es": "Advertencia",
@@ -254,14 +234,37 @@
     }
   },
   {
-    "id": "mow.DE-BW-KA-W138-20260711-000",
+    "id": "mow.DE-RP-MZ-SE114-20260711-125-001",
     "version": 17,
-    "startDate": "2026-07-11T22:36:34+02:00",
+    "startDate": "2026-07-11T23:29:16+02:00",
+    "expiresDate": "2026-07-12T05:29:15+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "A.03 Brand - Warnung - Sulzfeld",
+      "de": "Entwarnung: Starke Rauchentwicklung - Kirn Stadt Dhauner Straße",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20260711-001",
+    "version": 17,
+    "startDate": "2026-07-11T23:44:55+02:00",
+    "expiresDate": "2026-07-12T05:44:55+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: A.03 Brand - Warnung - Sulzfeld",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
