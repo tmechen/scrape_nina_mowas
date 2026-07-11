@@ -190,14 +190,36 @@
     }
   },
   {
-    "id": "mow.DE-HE-LDK-W187-20260711-000",
+    "id": "mow.DE-SH-EH-SE028-20260711-28-000",
     "version": 17,
-    "startDate": "2026-07-11T12:23:00+02:00",
+    "startDate": "2026-07-11T13:10:26+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Brand mit Gefahr durch Rauchgase - Wetzlar Nauborn",
+      "de": "Feuerwehreinsatz - Horst IZ",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-HE-LDK-W187-20260711-001",
+    "version": 17,
+    "startDate": "2026-07-11T13:27:42+02:00",
+    "expiresDate": "2026-07-11T19:27:41+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand mit Gefahr durch Rauchgase - Wetzlar Nauborn",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
