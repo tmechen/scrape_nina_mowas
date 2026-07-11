@@ -168,28 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20260711-122-001",
-    "version": 17,
-    "startDate": "2026-07-11T05:42:40+02:00",
-    "expiresDate": "2026-07-11T11:42:40+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brand - Markkleeberg",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20260711-001",
     "version": 17,
     "startDate": "2026-07-11T11:03:22+02:00",
@@ -209,6 +187,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-HE-LDK-W187-20260711-000",
+    "version": 17,
+    "startDate": "2026-07-11T12:23:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand mit Gefahr durch Rauchgase - Wetzlar Nauborn",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
