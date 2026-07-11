@@ -168,28 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-SE137-20260711-166-000",
-    "version": 17,
-    "startDate": "2026-07-11T03:52:47+02:00",
-    "expiresDate": "2026-07-11T09:52:47+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung/Rauchgeruch durch Waldbrand im Bereich Große S - Nürnberg",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20260711-31-001",
     "version": 17,
     "startDate": "2026-07-11T04:03:02+02:00",
