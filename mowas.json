@@ -147,28 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-EU-SE091-20260712-109-000",
-    "version": 17,
-    "startDate": "2026-07-12T12:02:58+02:00",
-    "expiresDate": "2026-07-12T18:02:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserverunreinigung - Abkochgebot - Wasserverband Oleftal - Gemeinde Hellenthal, Gemeinde Kall, Gemeinde Dahlem, Stadt Schleiden",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE024-20260712-24-001",
     "version": 17,
     "startDate": "2026-07-12T13:55:46+02:00",
@@ -221,6 +199,111 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Großbrand in einem Industriebetrieb - Stadt Schifferstadt",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-GG-W222-20260712-003",
+    "version": 17,
+    "startDate": "2026-07-12T17:31:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung aufgrund von Brandereignis - Landkreis Groß-Gerau, Mörfelden-Walldorf",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-RP-WIL-W284-20260712-000",
+    "version": 17,
+    "startDate": "2026-07-12T17:46:53+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vegetationsbrand im Bereich L58 Kröv Richtung Kinderbeuern - 54538 Kinheim",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE049-20260712-49-000",
+    "version": 17,
+    "startDate": "2026-07-12T17:49:08+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung - Neuenhagen Dassow",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20260712-4-000",
+    "version": 17,
+    "startDate": "2026-07-12T17:50:47+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vegetationsbrand im Bereich L58 Kröv Richtung Kinderbeuern - 54538 Kinheim",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20260712-105-002",
+    "version": 17,
+    "startDate": "2026-07-12T18:30:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Feuerwehreinsatz - Bad Schwartau",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
