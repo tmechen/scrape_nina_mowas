@@ -147,28 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE024-20260712-24-001",
-    "version": 17,
-    "startDate": "2026-07-12T13:55:46+02:00",
-    "expiresDate": "2026-07-12T19:55:45+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Getreidebrand - Staven",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20260712-105-001",
     "version": 17,
     "startDate": "2026-07-12T15:16:05+02:00",
@@ -277,27 +255,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20260712-106-000",
-    "version": 17,
-    "startDate": "2026-07-12T19:09:27+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand - Kleingartenanlage im Bereich Unterer Zwergweg",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20260712-105-003",
     "version": 17,
     "startDate": "2026-07-12T19:21:56+02:00",
@@ -351,6 +308,28 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Vegetationsbrand im Bereich L58 Kröv Richtung Kinderbeuern - 54538 Kinheim",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20260712-106-001",
+    "version": 17,
+    "startDate": "2026-07-12T20:31:44+02:00",
+    "expiresDate": "2026-07-13T02:31:43+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand - Kleingartenanlage im Bereich Unterer Zwergweg",
       "en": "Forest fire",
       "ar": "حريق بالغابات",
       "es": "Incendio forestal",
