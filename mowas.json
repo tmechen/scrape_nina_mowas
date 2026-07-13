@@ -168,27 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE049-20260713-49-000",
-    "version": 17,
-    "startDate": "2026-07-13T17:33:12+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "starke Rauchentwicklung durch Waldbrand in der Region Speck, Granzin - Granzin",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20260713-28-001",
     "version": 17,
     "startDate": "2026-07-13T18:25:35+02:00",
@@ -241,6 +220,27 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Rauchentwicklung und Geruchsbelästigung durch Waldbrand in Speck - Boek, Amalienhof und Zartwitzer Hütte",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE024-20260713-24-000",
+    "version": 17,
+    "startDate": "2026-07-13T23:10:17+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "starke Rauchentwicklung durch Waldbrand in der Region Speck, Granzin - Granzin",
       "en": "Forest fire",
       "ar": "حريق بالغابات",
       "es": "Incendio forestal",
