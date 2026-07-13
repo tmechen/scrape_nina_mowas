@@ -147,81 +147,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-WIL-W284-20260712-001",
+    "id": "mow.DE-NW-RE-SE078-20260713-78-000",
     "version": 17,
-    "startDate": "2026-07-12T19:36:08+02:00",
-    "expiresDate": "2026-07-13T01:36:08+02:00",
+    "startDate": "2026-07-13T02:37:09+02:00",
+    "expiresDate": "2026-07-13T08:37:08+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Vegetationsbrand im Bereich L58 Kröv Richtung Kinderbeuern - 54538 Kinheim",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-RP-TR-SE004-20260712-4-001",
-    "version": 17,
-    "startDate": "2026-07-12T19:37:49+02:00",
-    "expiresDate": "2026-07-13T01:37:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Vegetationsbrand im Bereich L58 Kröv Richtung Kinderbeuern - 54538 Kinheim",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-HE-KS-SE106-20260712-106-001",
-    "version": 17,
-    "startDate": "2026-07-12T20:31:44+02:00",
-    "expiresDate": "2026-07-13T02:31:43+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand - Kleingartenanlage im Bereich Unterer Zwergweg",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-RP-LU-SE005-20260712-5-003",
-    "version": 17,
-    "startDate": "2026-07-12T21:42:24+02:00",
-    "expiresDate": "2026-07-13T03:42:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung aufgrund eines Großbrandes - Stadt Schifferstadt",
+      "de": "Entwarnung: 2.2 Vorsorgliche Information zu einer Geruchsbelästigung - Marl",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -235,46 +169,24 @@
     }
   },
   {
-    "id": "mow.DE-HE-GG-W222-20260712-004",
+    "id": "mow.DE-NI-NOM-W210-20260713-000",
     "version": 17,
-    "startDate": "2026-07-12T22:00:34+02:00",
-    "expiresDate": "2026-07-13T04:00:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung aufgrund von Brandereignis - Landkreis Groß-Gerau, Mörfelden-Walldorf",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-NW-RE-SE078-20260712-78-000",
-    "version": 17,
-    "startDate": "2026-07-13T01:30:53+02:00",
+    "startDate": "2026-07-13T04:52:24+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "2.2 Vorsorgliche Information zu einer Geruchsbelästigung - Marl",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
+      "de": "Ausfall Stromversorgung in Teilen des Stadtgebietes  Einbeck - Altgemeinde Kreiensen",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
     },
     "transKeys": {
-      "event": "BBK-EVC-030"
+      "event": "BBK-EVC-063"
     }
   }
 ]
