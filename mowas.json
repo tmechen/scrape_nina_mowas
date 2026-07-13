@@ -233,14 +233,15 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE024-20260713-24-000",
+    "id": "mow.DE-MV-SN-SE024-20260713-24-001",
     "version": 17,
-    "startDate": "2026-07-13T23:10:17+02:00",
+    "startDate": "2026-07-13T23:20:34+02:00",
+    "expiresDate": "2026-07-14T05:20:34+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "starke Rauchentwicklung durch Waldbrand in der Region Speck, Granzin - Granzin",
+      "de": "Entwarnung: starke Rauchentwicklung durch Waldbrand in der Region Speck, Granzin - Granzin",
       "en": "Forest fire",
       "ar": "حريق بالغابات",
       "es": "Incendio forestal",
