@@ -277,27 +277,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MK-SE095-20260714-95-000",
-    "version": 17,
-    "startDate": "2026-07-14T16:49:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase - Iserlohn /Veserde",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE049-20260714-49-000",
     "version": 17,
     "startDate": "2026-07-14T18:14:22+02:00",
@@ -360,6 +339,70 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MK-SE095-20260714-95-001",
+    "version": 17,
+    "startDate": "2026-07-14T18:59:31+02:00",
+    "expiresDate": "2026-07-15T00:59:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase - Iserlohn /Veserde",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE024-20260714-24-000",
+    "version": 17,
+    "startDate": "2026-07-14T19:01:58+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Evakuierung Bevölkerung Ortslage Granzin - 17237 Granzin",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-BY-N-SE137-20260714-166-000",
+    "version": 17,
+    "startDate": "2026-07-14T19:18:11+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Extremes Unwetter im Gebiet der ILS Nürnberg - Städte Nürnberg, Fürth und Erlangen sowie Landkreise ERH und LAU",
+      "en": "Severe thunderstorm with extremely heavy rain",
+      "ar": "خطر على الصحة",
+      "es": "Tormenta fuerte con lluvia extremadamente fuerte",
+      "fr": "Orages violents avec pluies extrêmes",
+      "pl": "Silna burza z ekstremalnie gwałtownym ulewnym deszczem",
+      "ru": "Сильная гроза с очень сильным ливнем",
+      "tr": "Aşırı şiddetli yağmurlu fırtına"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-082"
     }
   }
 ]
