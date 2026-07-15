@@ -189,50 +189,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260715-28-002",
-    "version": 17,
-    "startDate": "2026-07-15T13:36:56+02:00",
-    "expiresDate": "2026-07-15T19:36:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Vorsorgliche Information - Warnung Gemeinde Halstenbek",
-      "en": "Health hazard",
-      "ar": "خطر على الصحة",
-      "es": "Riesgo para la salud",
-      "fr": "Risque sanitaire",
-      "pl": "Zagrożenie dla zdrowia",
-      "ru": "Опасность для здоровья",
-      "tr": "Sağlık tehlikesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-081"
-    }
-  },
-  {
-    "id": "mow.DE-SH-OD-SE105-20260715-105-001",
-    "version": 17,
-    "startDate": "2026-07-15T13:42:00+02:00",
-    "expiresDate": "2026-07-15T19:42:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Timmendorfer Strand",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20260715-28-003",
     "version": 17,
     "startDate": "2026-07-15T14:55:11+02:00",
