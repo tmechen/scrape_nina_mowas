@@ -210,28 +210,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-SE137-20260714-166-001",
-    "version": 17,
-    "startDate": "2026-07-14T21:43:22+02:00",
-    "expiresDate": "2026-07-15T03:43:21+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Extremes Unwetter im Gebiet der ILS Nürnberg - Städte Nürnberg, Fürth und Erlangen sowie Landkreise ERH und LAU",
-      "en": "Severe thunderstorm with extremely heavy rain",
-      "ar": "خطر على الصحة",
-      "es": "Tormenta fuerte con lluvia extremadamente fuerte",
-      "fr": "Orages violents avec pluies extrêmes",
-      "pl": "Silna burza z ekstremalnie gwałtownym ulewnym deszczem",
-      "ru": "Сильная гроза с очень сильным ливнем",
-      "tr": "Aşırı şiddetli yağmurlu fırtına"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-082"
-    }
-  },
-  {
     "id": "mow.DE-ST-HZ-W050-20260714-001",
     "version": 17,
     "startDate": "2026-07-14T22:34:30+02:00",
@@ -250,6 +228,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-ST-WB-W056-20260715-000",
+    "version": 17,
+    "startDate": "2026-07-15T03:11:19+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in der Stadt Coswig Ortsteil Düben - Stadt Coswig Ortsteil Düben",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
