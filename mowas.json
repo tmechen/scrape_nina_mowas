@@ -231,58 +231,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-GE-SE064-20260715-64-001",
+    "id": "mow.DE-SH-EH-SE028-20260716-28-000",
     "version": 17,
-    "startDate": "2026-07-15T21:34:29+02:00",
-    "expiresDate": "2026-07-16T03:34:28+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Gelsenkirchen - Gelsenkirchen, Scholven und Hassel",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NW-RE-SE078-20260715-78-001",
-    "version": 17,
-    "startDate": "2026-07-15T21:45:54+02:00",
-    "expiresDate": "2026-07-16T03:45:53+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 2.1 Vorsorgliches Ereignis - Marl, Gladbeck, Dorsten, Herten",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20260715-28-004",
-    "version": 17,
-    "startDate": "2026-07-16T01:55:27+02:00",
+    "startDate": "2026-07-16T02:39:37+02:00",
+    "expiresDate": "2026-07-16T08:39:37+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Wesselburen",
+      "de": "Entwarnung: Feuerwehreinsatz - Wesselburen",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
