@@ -231,28 +231,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-GOE-W264-20260716-001",
-    "version": 17,
-    "startDate": "2026-07-16T13:43:54+02:00",
-    "expiresDate": "2026-07-16T19:43:54+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Erneute Sperrung der B27: Kampfmittelbeseitigung am 16. Juli - B27 - Zubringer",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BW-BC-W124-20260716-000",
     "version": 17,
     "startDate": "2026-07-16T15:18:57+02:00",
@@ -340,14 +318,37 @@
     }
   },
   {
-    "id": "mow.DE-BW-BB-W125-20260716-001",
+    "id": "mow.DE-BW-KA-W138-20260716-003",
     "version": 17,
-    "startDate": "2026-07-16T17:17:07+02:00",
+    "startDate": "2026-07-16T19:43:51+02:00",
+    "expiresDate": "2026-07-17T01:43:50+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung aufgrund chemischer Reaktion - Gültstein",
+      "de": "Entwarnung: E.03 Kampfmittelfund - Warnung - Bruchsal Bahnhof Radius 200m Radius",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BW-BB-W125-20260716-002",
+    "version": 17,
+    "startDate": "2026-07-16T19:45:15+02:00",
+    "expiresDate": "2026-07-17T01:45:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung aufgrund chemischer Reaktion - Gültstein",
       "en": "Alert",
       "ar": "تحذير",
       "es": "Advertencia",
