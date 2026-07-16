@@ -189,28 +189,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20260716-000",
-    "version": 17,
-    "startDate": "2026-07-16T12:13:44+02:00",
-    "expiresDate": "2026-07-16T18:13:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Abkochgebot für Trinkwasser - Kleinkötz, Großkötz, Ebersbach und Gemeinde Bibertal.",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-MV-SN-SE024-20260716-24-003",
     "version": 17,
     "startDate": "2026-07-16T12:44:53+02:00",
