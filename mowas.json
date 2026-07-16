@@ -252,28 +252,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HAM-SE085-20260716-85-001",
-    "version": 17,
-    "startDate": "2026-07-16T15:19:32+02:00",
-    "expiresDate": "2026-07-16T21:19:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in der Stadt Hamm - Hamm",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20260716-35-001",
     "version": 17,
     "startDate": "2026-07-16T15:43:28+02:00",
@@ -359,6 +337,48 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20260716-18-000",
+    "version": 17,
+    "startDate": "2026-07-16T20:41:50+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Unwetter - Aspach",
+      "en": "Extremely heavy rain",
+      "ar": "مطر قوي شديد للغاية",
+      "es": "Lluvia extremadamente fuerte",
+      "fr": "Pluies extrêmes",
+      "pl": "Ekstremalnie gwałtowny ulewny deszcz",
+      "ru": "Очень сильный ливень",
+      "tr": "Aşırı derecede ağır şiddetli yağmur"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-021"
+    }
+  },
+  {
+    "id": "mow.DE-SN-C-W092-20260716-000",
+    "version": 17,
+    "startDate": "2026-07-16T21:30:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung aufgrund eines Großbrandes - 09629 Reinsberg",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
