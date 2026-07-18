@@ -231,27 +231,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-BC-W124-20260717-000",
-    "version": 17,
-    "startDate": "2026-07-17T13:24:10+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Großbrand eines Industriebetriebes - Gemeinde Eberhardzell, Ochsenhausen, Rot an der Rot, Steinhausen",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-SU-SE057-20260718-57-000",
     "version": 17,
     "startDate": "2026-07-18T06:00:44+02:00",
@@ -317,27 +296,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DU-SE038-20260718-38-000",
-    "version": 17,
-    "startDate": "2026-07-18T07:59:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Anscheinsgefahr - Rauchwolke und Geruchsbelästigung - Duisburg-Hochfeld",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20260718-106-003",
     "version": 17,
     "startDate": "2026-07-18T09:59:13+02:00",
@@ -357,6 +315,71 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-BC-W124-20260718-000",
+    "version": 17,
+    "startDate": "2026-07-18T10:27:00+02:00",
+    "expiresDate": "2026-07-18T16:26:59+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand eines Industriebetriebes - Gemeinde Eberhardzell, Ochsenhausen, Rot an der Rot, Steinhausen",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DU-SE038-20260718-38-001",
+    "version": 17,
+    "startDate": "2026-07-18T11:09:56+02:00",
+    "expiresDate": "2026-07-18T17:09:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Anscheinsgefahr - Rauchwolke und Geruchsbelästigung - Duisburg-Hochfeld",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-TH-HIG-W111-20260718-000",
+    "version": 17,
+    "startDate": "2026-07-18T11:14:40+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Sirenen-Funktionsprobe - VG Eichsfeld-Wipperaue, Landgemeinden Am Ohmberg und Sonnenstein",
+      "en": "Siren test",
+      "ar": "تجربة صفارة الإنذار",
+      "es": "Prueba de sirena",
+      "fr": "Test des sirènes",
+      "pl": "Test syren",
+      "ru": "Проверка средств оповещения",
+      "tr": "Siren testi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-060"
     }
   }
 ]
