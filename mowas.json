@@ -231,28 +231,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20260718-57-000",
-    "version": 17,
-    "startDate": "2026-07-18T06:00:44+02:00",
-    "expiresDate": "2026-07-18T12:00:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandereignis (Ausbreitung von Brandrauch) - Bornheim-Merten",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-MV-NB-W076-20260718-000",
     "version": 17,
     "startDate": "2026-07-18T06:03:26+02:00",
@@ -261,28 +239,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Geruchsbelästigung durch Waldbrand im Müritz Nationalpark - Landkreis Mecklenburgische Seenplatte",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NW-RE-SE078-20260718-78-001",
-    "version": 17,
-    "startDate": "2026-07-18T06:33:38+02:00",
-    "expiresDate": "2026-07-18T12:33:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 3.1 Warnung Rauchgase - Datteln",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -362,14 +318,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-HIG-W111-20260718-000",
+    "id": "mow.DE-TH-HIG-W111-20260718-001",
     "version": 17,
-    "startDate": "2026-07-18T11:14:40+02:00",
+    "startDate": "2026-07-18T12:25:10+02:00",
+    "expiresDate": "2026-07-18T18:25:10+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sirenen-Funktionsprobe - VG Eichsfeld-Wipperaue, Landgemeinden Am Ohmberg und Sonnenstein",
+      "de": "Entwarnung: Sirenen-Funktionsprobe - VG Eichsfeld-Wipperaue, Landgemeinden Am Ohmberg und Sonnenstein",
       "en": "Siren test",
       "ar": "تجربة صفارة الإنذار",
       "es": "Prueba de sirena",
@@ -380,6 +337,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-060"
+    }
+  },
+  {
+    "id": "mow.DE-NW-W-SE061-20260718-61-000",
+    "version": 17,
+    "startDate": "2026-07-18T13:03:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brandereignis in der Straße \"Werwolf\" - Solingen",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
