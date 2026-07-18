@@ -317,14 +317,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20260718-106-002",
+    "id": "mow.DE-NW-DU-SE038-20260718-38-000",
     "version": 17,
-    "startDate": "2026-07-18T06:59:14+02:00",
+    "startDate": "2026-07-18T07:59:06+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Geruchsbelästigung - Trebur, Nauheim, Königstädten und Groß-Gerau",
+      "de": "Anscheinsgefahr - Rauchwolke und Geruchsbelästigung - Duisburg-Hochfeld",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -338,14 +338,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-DU-SE038-20260718-38-000",
+    "id": "mow.DE-HE-KS-SE106-20260718-106-003",
     "version": 17,
-    "startDate": "2026-07-18T07:59:06+02:00",
+    "startDate": "2026-07-18T09:59:13+02:00",
+    "expiresDate": "2026-07-18T15:59:13+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Anscheinsgefahr - Rauchwolke und Geruchsbelästigung - Duisburg-Hochfeld",
+      "de": "Entwarnung: Geruchsbelästigung - Trebur, Nauheim, Königstädten und Groß-Gerau",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
