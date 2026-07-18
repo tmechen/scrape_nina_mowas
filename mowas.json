@@ -252,50 +252,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20260718-106-003",
-    "version": 17,
-    "startDate": "2026-07-18T09:59:13+02:00",
-    "expiresDate": "2026-07-18T15:59:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Trebur, Nauheim, Königstädten und Groß-Gerau",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-BW-BC-W124-20260718-000",
-    "version": 17,
-    "startDate": "2026-07-18T10:27:00+02:00",
-    "expiresDate": "2026-07-18T16:26:59+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand eines Industriebetriebes - Gemeinde Eberhardzell, Ochsenhausen, Rot an der Rot, Steinhausen",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-DU-SE038-20260718-38-001",
     "version": 17,
     "startDate": "2026-07-18T11:09:56+02:00",
@@ -340,35 +296,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-W-SE061-20260718-61-000",
+    "id": "mow.DE-BW-PF-W024-20260718-001",
     "version": 17,
-    "startDate": "2026-07-18T13:03:30+02:00",
+    "startDate": "2026-07-18T15:47:52+02:00",
+    "expiresDate": "2026-07-18T21:47:52+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brandereignis in der Straße \"Werwolf\" - Solingen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BW-PF-W024-20260718-000",
-    "version": 17,
-    "startDate": "2026-07-18T13:51:59+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall in Gemeindegebiet Niefern-Öschelbronn - Niefern",
+      "de": "Entwarnung: Stromausfall in Gemeindegebiet Niefern-Öschelbronn - Niefern",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
@@ -379,6 +315,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-W-SE061-20260718-61-001",
+    "version": 17,
+    "startDate": "2026-07-18T16:12:17+02:00",
+    "expiresDate": "2026-07-18T22:12:16+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandereignis in der Straße \"Werwolf\" - Solingen",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
