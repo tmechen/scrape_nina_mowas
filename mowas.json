@@ -317,14 +317,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-BOT-SE062-20260718-62-000",
+    "id": "mow.DE-NW-BOT-SE062-20260718-62-001",
     "version": 17,
-    "startDate": "2026-07-18T18:48:49+02:00",
+    "startDate": "2026-07-18T20:18:06+02:00",
+    "expiresDate": "2026-07-19T02:18:06+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Wasserrohrbruch im Bottroper Süden - Bottrop",
+      "de": "Entwarnung: Wasserrohrbruch im Bottroper Süden - Bottrop",
       "en": "Alert",
       "ar": "تحذير",
       "es": "Advertencia",
