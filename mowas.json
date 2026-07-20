@@ -126,28 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-NE-SE044-20260720-44-001",
-    "version": 17,
-    "startDate": "2026-07-20T18:04:06+02:00",
-    "expiresDate": "2026-07-21T00:04:06+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase im Stadtgebiet Neuss - Neuss",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20260720-129-001",
     "version": 17,
     "startDate": "2026-07-20T22:56:46+02:00",
@@ -170,14 +148,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260720-28-000",
+    "id": "mow.DE-SH-EH-SE028-20260720-28-001",
     "version": 17,
-    "startDate": "2026-07-20T23:53:28+02:00",
+    "startDate": "2026-07-21T01:22:41+02:00",
+    "expiresDate": "2026-07-21T07:22:40+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Henstedt-Ulzburg",
+      "de": "Entwarnung: Feuerwehreinsatz - Henstedt-Ulzburg",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
