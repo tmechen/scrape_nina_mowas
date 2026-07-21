@@ -126,27 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20260721-31-000",
-    "version": 17,
-    "startDate": "2026-07-21T17:03:37+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "großräumige Rauchausbreitung - Köln-Sülz",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-EL-W089-20260721-001",
     "version": 17,
     "startDate": "2026-07-21T17:21:28+02:00",
@@ -187,6 +166,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20260721-31-001",
+    "version": 17,
+    "startDate": "2026-07-21T20:11:42+02:00",
+    "expiresDate": "2026-07-22T02:11:42+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: großräumige Rauchausbreitung - Köln-Sülz",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
