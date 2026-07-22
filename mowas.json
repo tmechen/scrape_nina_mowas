@@ -126,27 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-HY-SE048-20260722-122-000",
-    "version": 17,
-    "startDate": "2026-07-22T02:58:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Brand - Stadt Bautzen",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-SO-SE089-20260722-89-001",
     "version": 17,
     "startDate": "2026-07-22T17:23:36+02:00",
@@ -210,6 +189,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-029"
+    }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20260722-122-001",
+    "version": 17,
+    "startDate": "2026-07-22T21:16:04+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brand - Stadt Bautzen",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
