@@ -168,14 +168,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20260722-89-000",
+    "id": "mow.DE-NW-SO-SE089-20260722-89-001",
     "version": 17,
-    "startDate": "2026-07-22T15:39:21+02:00",
+    "startDate": "2026-07-22T17:23:36+02:00",
+    "expiresDate": "2026-07-22T23:23:35+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Lippstadt",
+      "de": "Entwarnung: Feuerwehreinsatz - Lippstadt",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -186,6 +187,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MSH-W058-20260722-001",
+    "version": 17,
+    "startDate": "2026-07-22T18:01:14+02:00",
+    "expiresDate": "2026-07-23T00:01:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brand - Landkreis Mansfeld-Südharz",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
