@@ -105,28 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-W249-20260723-000",
-    "version": 17,
-    "startDate": "2026-07-23T11:00:15+02:00",
-    "expiresDate": "2026-07-23T17:00:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung der Bevölkerung hinsichtlich einer Giftschlange - Linz am Rhein",
-      "en": "Risk of infection",
-      "ar": "خطر العدوى",
-      "es": "Riesgo de infección",
-      "fr": "Danger d'infection",
-      "pl": "Ryzyko zakażenia",
-      "ru": "Инфекционная угроза",
-      "tr": "Enfeksiyon tehlikesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-040"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20260723-28-001",
     "version": 17,
     "startDate": "2026-07-23T13:52:50+02:00",
@@ -179,6 +157,49 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Rauchgase (Essen- Altenessen) - Essen",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20260723-35-000",
+    "version": 17,
+    "startDate": "2026-07-23T18:06:19+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung - Primstal bis Kastel",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20260723-31-001",
+    "version": 17,
+    "startDate": "2026-07-23T18:36:30+02:00",
+    "expiresDate": "2026-07-24T00:36:30+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: großräumige Rauchausbreitung - Köln",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
