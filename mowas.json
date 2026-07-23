@@ -105,70 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-W249-20260710-000",
-    "version": 17,
-    "startDate": "2026-07-10T16:08:48+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung der Bevölkerung im Bereich Linz am Rhein hinsichtlich einer Giftschlange ( - Linz am Rhein",
-      "en": "Risk of infection",
-      "ar": "خطر العدوى",
-      "es": "Riesgo de infección",
-      "fr": "Danger d'infection",
-      "pl": "Ryzyko zakażenia",
-      "ru": "Инфекционная угроза",
-      "tr": "Enfeksiyon tehlikesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-040"
-    }
-  },
-  {
-    "id": "mow.DE-SN-HY-SE048-20260722-122-001",
-    "version": 17,
-    "startDate": "2026-07-22T21:16:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Brand - Stadt Bautzen",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-SH-KI-SE099-20260723-99-000",
-    "version": 17,
-    "startDate": "2026-07-23T03:53:46+02:00",
-    "expiresDate": "2026-07-23T09:53:45+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Felde",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-MV-LRO-W007-20260723-001",
     "version": 17,
     "startDate": "2026-07-23T07:23:18+02:00",
@@ -188,6 +124,50 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20260723-122-000",
+    "version": 17,
+    "startDate": "2026-07-23T09:50:39+02:00",
+    "expiresDate": "2026-07-23T15:50:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Brand - Stadt Bautzen",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KO-W249-20260723-000",
+    "version": 17,
+    "startDate": "2026-07-23T11:00:15+02:00",
+    "expiresDate": "2026-07-23T17:00:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung der Bevölkerung hinsichtlich einer Giftschlange - Linz am Rhein",
+      "en": "Risk of infection",
+      "ar": "خطر العدوى",
+      "es": "Riesgo de infección",
+      "fr": "Danger d'infection",
+      "pl": "Ryzyko zakażenia",
+      "ru": "Инфекционная угроза",
+      "tr": "Enfeksiyon tehlikesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-040"
     }
   }
 ]
