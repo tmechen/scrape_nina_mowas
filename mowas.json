@@ -105,28 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-DU-SE038-20260724-38-001",
-    "version": 17,
-    "startDate": "2026-07-24T19:14:03+02:00",
-    "expiresDate": "2026-07-25T01:14:03+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wichtige Information der Stadt Duisburg (Kampfmittelfund) - Duisburg-Homberg",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BW-HD-W086-20260724-001",
     "version": 17,
     "startDate": "2026-07-24T21:14:45+02:00",
