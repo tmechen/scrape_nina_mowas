@@ -42,27 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20260628-001",
-    "version": 16,
-    "startDate": "2026-06-28T21:02:48+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Meuselwitz/Mumsdorf",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-NW-SU-SE057-20260706-57-000",
     "version": 17,
     "startDate": "2026-07-06T15:39:46+02:00",
@@ -126,28 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20260726-129-001",
-    "version": 17,
-    "startDate": "2026-07-26T10:14:55+02:00",
-    "expiresDate": "2026-07-26T16:14:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung durch Feuer in Bremervörde - 27432 Bremervörde, B74 Richtung Elm und Umkreis",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-LIP-SE041-20260726-41-000",
     "version": 17,
     "startDate": "2026-07-26T15:13:13+02:00",
@@ -170,12 +127,33 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20260726-99-000",
+    "id": "mow.DE-TH-G-W109-20260726-000",
     "version": 17,
-    "startDate": "2026-07-26T15:35:39+02:00",
+    "startDate": "2026-07-26T16:14:55+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Aktualisierung; Starke Rauchentwicklung - Meuselwitz/Mumsdorf",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20260726-99-002",
+    "version": 17,
+    "startDate": "2026-07-26T16:32:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
     "i18nTitle": {
       "de": "Gefahreninformation Feuerwehreinsatz - Jevenstedt",
       "en": "Fumes",
@@ -191,14 +169,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-CO-W141-20260726-000",
+    "id": "mow.DE-BY-CO-W141-20260726-001",
     "version": 17,
-    "startDate": "2026-07-26T15:46:46+02:00",
+    "startDate": "2026-07-26T16:37:34+02:00",
+    "expiresDate": "2026-07-26T22:37:33+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung - OT Neuensorg",
+      "de": "Entwarnung: Starke Rauchentwicklung - OT Neuensorg",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -209,6 +188,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-MA-W044-20260726-000",
+    "version": 17,
+    "startDate": "2026-07-26T16:47:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vegetationsbrand Mannheim Friesenheimer Insel - Mannheim",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
