@@ -148,27 +148,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-MA-W044-20260726-000",
-    "version": 17,
-    "startDate": "2026-07-26T16:47:30+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vegetationsbrand Mannheim Friesenheimer Insel - Mannheim",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-KS-SE106-20260726-106-001",
     "version": 17,
     "startDate": "2026-07-26T21:01:54+02:00",
@@ -209,6 +188,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-MA-W044-20260726-001",
+    "version": 17,
+    "startDate": "2026-07-26T22:26:40+02:00",
+    "expiresDate": "2026-07-27T04:26:39+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Vegetationsbrand Mannheim Friesenheimer Insel - Mannheim",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
