@@ -84,27 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-BRB-SE081-20260725-81-000",
-    "version": 17,
-    "startDate": "2026-07-25T18:36:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand auf dem TÜP Jüterbog West - Jüterbog, LK TF, LK PM",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20260726-000",
     "version": 17,
     "startDate": "2026-07-26T16:14:55+02:00",
@@ -123,28 +102,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-HE-KS-SE106-20260727-106-000",
-    "version": 17,
-    "startDate": "2026-07-27T06:31:04+02:00",
-    "expiresDate": "2026-07-27T12:31:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand mit Rauchwolke - Hofgeismar",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
     }
   },
   {
@@ -189,6 +146,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BB-BRB-SE081-20260727-81-000",
+    "version": 17,
+    "startDate": "2026-07-27T14:05:00+02:00",
+    "expiresDate": "2026-07-27T20:05:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand auf dem TÜP Jüterbog West - Jüterbog, LK TF, LK PM",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
