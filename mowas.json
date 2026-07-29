@@ -189,49 +189,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-MTK-W098-20260728-002",
-    "version": 17,
-    "startDate": "2026-07-28T22:06:31+02:00",
-    "expiresDate": "2026-07-29T04:06:30+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung und Brandgeruch durch Gebäudebrand in Kriftel - Kriftel , Frankfurt-Zeilsheim, Hofheim, Hattersheim",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20260728-18-000",
-    "version": 17,
-    "startDate": "2026-07-29T00:30:03+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Stromausfall Gemeinde Lauchringen - Lauchringen",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-NI-GOE-W264-20260728-001",
     "version": 17,
     "startDate": "2026-07-29T00:36:00+02:00",
@@ -295,6 +252,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20260729-18-000",
+    "version": 17,
+    "startDate": "2026-07-29T04:05:19+02:00",
+    "expiresDate": "2026-07-29T10:05:19+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Stromausfall Gemeinde Lauchringen - Lauchringen",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20260729-29-000",
+    "version": 17,
+    "startDate": "2026-07-29T06:01:16+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bombenräumung 29. Juli 2026 - Stadt Osnabrück - Stadtteil Eversburg",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
