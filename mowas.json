@@ -147,27 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-EF-SE012-20260728-12-001",
-    "version": 17,
-    "startDate": "2026-07-28T19:45:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung und Geruchsbelästigung - Stadtgebiet Suhl",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-TH-EF-SE012-20260728-12-002",
     "version": 17,
     "startDate": "2026-07-28T20:41:46+02:00",
@@ -294,6 +273,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20260728-12-003",
+    "version": 17,
+    "startDate": "2026-07-29T01:55:31+02:00",
+    "expiresDate": "2026-07-29T07:55:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung und Geruchsbelästigung - Stadtgebiet Suhl",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
