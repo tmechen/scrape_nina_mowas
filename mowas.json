@@ -147,28 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE113-20260729-113-001",
-    "version": 17,
-    "startDate": "2026-07-29T17:19:43+02:00",
-    "expiresDate": "2026-07-29T23:19:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserversorgung ausgefallen - Koisdorf",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-SO-SE089-20260729-89-002",
     "version": 17,
     "startDate": "2026-07-29T20:18:01+02:00",
@@ -191,14 +169,35 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20260729-18-001",
+    "id": "mow.DE-BW-S-SE018-20260729-18-002",
     "version": 17,
-    "startDate": "2026-07-29T22:20:18+02:00",
+    "startDate": "2026-07-29T23:09:16+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Brand am Schemelsberg - Erlenbach Schemelsberg",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-EM-W288-20260729-000",
+    "version": 17,
+    "startDate": "2026-07-29T23:59:55+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Brand am Schemelsberg - Erlenbach Schemelsberg",
+      "de": "Brand in Riegel am Kaiserstuhl - Riegel am Kaiserstuhl",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
