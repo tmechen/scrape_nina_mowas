@@ -126,27 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20260729-35-000",
-    "version": 17,
-    "startDate": "2026-07-29T14:09:48+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand Lagerhalle - Wellesweiler",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-SO-SE089-20260729-89-002",
     "version": 17,
     "startDate": "2026-07-29T20:18:01+02:00",
@@ -169,9 +148,30 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20260729-18-002",
+    "id": "mow.DE-BW-EM-W288-20260729-000",
     "version": 17,
-    "startDate": "2026-07-29T23:09:16+02:00",
+    "startDate": "2026-07-29T23:59:55+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand in Riegel am Kaiserstuhl - Riegel am Kaiserstuhl",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20260729-18-004",
+    "version": 17,
+    "startDate": "2026-07-30T00:21:57+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
@@ -190,14 +190,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-EM-W288-20260729-000",
+    "id": "mow.DE-SL-SB-SE035-20260729-35-001",
     "version": 17,
-    "startDate": "2026-07-29T23:59:55+02:00",
+    "startDate": "2026-07-30T00:32:40+02:00",
+    "expiresDate": "2026-07-30T06:32:40+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in Riegel am Kaiserstuhl - Riegel am Kaiserstuhl",
+      "de": "Entwarnung: Brand Lagerhalle - Wellesweiler",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
