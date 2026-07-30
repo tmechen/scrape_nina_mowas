@@ -126,27 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-EM-W288-20260730-000",
-    "version": 17,
-    "startDate": "2026-07-30T05:40:53+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Brand in Riegel am Kaiserstuhl /Geruchsbelästigung durch Brandrauch - Riegel am Kaiserstuhl",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-RO-W136-20260730-000",
     "version": 17,
     "startDate": "2026-07-30T13:03:34+02:00",
@@ -168,27 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20260730-4-000",
-    "version": 17,
-    "startDate": "2026-07-30T13:35:43+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Waldbrand - Reichenbach, Kronweiler, Frauenberg. Idar-Oberstein",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-BB-BRB-SE081-20260730-81-001",
     "version": 17,
     "startDate": "2026-07-30T15:41:39+02:00",
@@ -207,94 +165,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-BW-HD-W086-20260730-001",
-    "version": 17,
-    "startDate": "2026-07-30T15:49:18+02:00",
-    "expiresDate": "2026-07-30T21:49:17+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand im Bereich Weinheim-West - Stadt Weinheim / Gemeinde Weinheim",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NW-EU-SE091-20260730-109-001",
-    "version": 17,
-    "startDate": "2026-07-30T15:53:35+02:00",
-    "expiresDate": "2026-07-30T21:53:34+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Waldbrand / Vegetationsbrand in Mechernich-Bescheid - 53894 Mechernich",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-TH-EA-W114-20260730-001",
-    "version": 17,
-    "startDate": "2026-07-30T16:06:02+02:00",
-    "expiresDate": "2026-07-30T22:06:02+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Flächenbrand - Gemarkung Merkers",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-ST-MSH-W058-20260730-004",
-    "version": 17,
-    "startDate": "2026-07-30T16:09:14+02:00",
-    "expiresDate": "2026-07-30T22:09:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Aktualisierung - Brand im Bereich Schloss - Wallhausen",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
     }
   },
   {
@@ -539,27 +409,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20260730-006",
-    "version": 18,
-    "startDate": "2026-07-30T19:51:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Feuerwehreinsatz - Gemeinde Kastl AÖ, Bereich Raiffeisenstraße und umliegende Straßen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-HB-HB-SE019-20260730-19-001",
     "version": 18,
     "startDate": "2026-07-30T19:58:49+02:00",
@@ -582,27 +431,6 @@
     }
   },
   {
-    "id": "mow.DE-BB-P-SE082-20260730-82-002",
-    "version": 18,
-    "startDate": "2026-07-30T20:41:24+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Evakuierung wegwn eines Brand in Neuruppin Treskow - Neuruppin Treskow",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-MV-LRO-W007-20260730-002",
     "version": 18,
     "startDate": "2026-07-30T20:44:37+02:00",
@@ -621,6 +449,93 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20260730-82-003",
+    "version": 18,
+    "startDate": "2026-07-30T21:43:02+02:00",
+    "expiresDate": "2026-07-31T03:43:02+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Evakuierung wegwn eines Brand in Neuruppin Treskow - Neuruppin Treskow",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20260730-4-001",
+    "version": 18,
+    "startDate": "2026-07-30T21:57:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Waldbrand - Reichenbach, Kronweiler, Frauenberg. Idar-Oberstein",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-BW-EM-W288-20260730-001",
+    "version": 18,
+    "startDate": "2026-07-30T22:22:59+02:00",
+    "expiresDate": "2026-07-31T04:22:59+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand in Riegel am Kaiserstuhl /Geruchsbelästigung durch Brandrauch - Riegel am Kaiserstuhl",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-TS-W135-20260730-007",
+    "version": 18,
+    "startDate": "2026-07-30T22:35:14+02:00",
+    "expiresDate": "2026-07-31T04:35:13+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Gemeinde Kastl AÖ, Bereich Raiffeisenstraße und umliegende Straßen",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
