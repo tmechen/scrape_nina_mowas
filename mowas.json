@@ -147,27 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-LRO-W007-20260730-001",
-    "version": 17,
-    "startDate": "2026-07-30T09:44:42+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchwolke durch Brand einer Scheune - Landkreis Rostock",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-RO-W136-20260730-000",
     "version": 17,
     "startDate": "2026-07-30T13:03:34+02:00",
@@ -207,28 +186,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-SH-OD-SE105-20260730-105-002",
-    "version": 17,
-    "startDate": "2026-07-30T15:17:24+02:00",
-    "expiresDate": "2026-07-30T21:17:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Hoisdorf",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
     }
   },
   {
@@ -612,6 +569,48 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Geruchsbelästigung aufgrund eines Brandes - Bremen, Industriehäfen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20260730-82-002",
+    "version": 18,
+    "startDate": "2026-07-30T20:41:24+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Evakuierung wegwn eines Brand in Neuruppin Treskow - Neuruppin Treskow",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-MV-LRO-W007-20260730-002",
+    "version": 18,
+    "startDate": "2026-07-30T20:44:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchwolke durch Brand einer Scheune - Landkreis Rostock",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
