@@ -252,14 +252,36 @@
     }
   },
   {
-    "id": "mow.DE-NW-UN-SE068-20260731-68-000",
+    "id": "mow.DE-NW-UN-SE068-20260731-68-001",
     "version": 19,
-    "startDate": "2026-07-31T23:39:16+02:00",
+    "startDate": "2026-08-01T01:29:33+02:00",
+    "expiresDate": "2026-08-01T07:29:33+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase - Schwerte - Innenstadtbereich",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20260731-50-000",
+    "version": 19,
+    "startDate": "2026-08-01T01:38:21+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Rauchgase - Schwerte - Innenstadtbereich",
+      "de": "Brand eines Lagers in einer Müllverwertungsanlage - Stadt Friedrichshafen",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
