@@ -168,27 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20260730-005",
-    "version": 18,
-    "startDate": "2026-07-30T16:23:02+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchentwicklung mit Geruchsbelästigung - Oberwössen, Achental, gesamter Landkreis Traunstein",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-MV-LRO-W007-20260730-002",
     "version": 18,
     "startDate": "2026-07-30T20:44:37+02:00",
@@ -231,28 +210,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-PF-W024-20260730-001",
-    "version": 18,
-    "startDate": "2026-07-31T00:37:20+02:00",
-    "expiresDate": "2026-07-31T06:37:19+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Ötisheim & Ölbronn-Dürrn",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-ST-SK-W070-20260731-000",
     "version": 18,
     "startDate": "2026-07-31T03:41:32+02:00",
@@ -274,14 +231,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-FB-W193-20260731-000",
+    "id": "mow.DE-HE-FB-W193-20260731-001",
     "version": 18,
-    "startDate": "2026-07-31T03:53:44+02:00",
+    "startDate": "2026-07-31T06:46:28+02:00",
+    "expiresDate": "2026-07-31T12:46:28+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase / Rauchsäule - Stadt Karben",
+      "de": "Entwarnung: Rauchgase / Rauchsäule - Stadt Karben",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -295,14 +253,36 @@
     }
   },
   {
-    "id": "mow.DE-NI-GOE-W264-20260731-000",
+    "id": "mow.DE-NI-GOE-W264-20260731-001",
     "version": 18,
-    "startDate": "2026-07-31T03:55:49+02:00",
+    "startDate": "2026-07-31T07:12:46+02:00",
+    "expiresDate": "2026-07-31T13:12:46+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brandrauch - Adelebsen",
+      "de": "Entwarnung: Geruchsbelästigung durch Brandrauch - Adelebsen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-TS-W135-20260731-000",
+    "version": 19,
+    "startDate": "2026-07-31T08:30:59+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Bergwaldbrand in Unterwössen - Gemeinden im Achental, Landkreis Traunstein",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
