@@ -274,27 +274,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20260731-50-000",
-    "version": 19,
-    "startDate": "2026-08-01T01:38:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand eines Lagers in einer Müllverwertungsanlage - Stadt Friedrichshafen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BY-TS-W135-20260801-000",
     "version": 19,
     "startDate": "2026-08-01T03:00:03+02:00",
@@ -313,6 +292,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20260801-50-000",
+    "version": 19,
+    "startDate": "2026-08-01T06:14:58+02:00",
+    "expiresDate": "2026-08-01T12:14:58+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand eines Lagers in einer Müllverwertungsanlage - Stadt Friedrichshafen",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
