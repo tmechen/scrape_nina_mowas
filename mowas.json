@@ -189,28 +189,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20260801-001",
-    "version": 19,
-    "startDate": "2026-08-01T18:03:03+02:00",
-    "expiresDate": "2026-08-02T00:03:02+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Hochstaufen Bad Reichenhall",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-NW-ERK-SE056-20260801-56-000",
     "version": 19,
     "startDate": "2026-08-01T19:13:56+02:00",
