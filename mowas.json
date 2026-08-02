@@ -383,5 +383,27 @@
     "transKeys": {
       "event": "BBK-EVC-011"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20260802-29-003",
+    "version": 19,
+    "startDate": "2026-08-02T19:02:04+02:00",
+    "expiresDate": "2026-08-03T01:02:04+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Landkreis Diepholz - Neuenkirchen",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
   }
 ]
