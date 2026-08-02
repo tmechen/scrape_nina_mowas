@@ -210,28 +210,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-UH-W116-20260802-001",
-    "version": 19,
-    "startDate": "2026-08-02T13:02:25+02:00",
-    "expiresDate": "2026-08-02T19:02:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brandereignis - Bad Langensalza Gartenanlage Am Volkspark",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20260802-28-001",
     "version": 19,
     "startDate": "2026-08-02T15:24:34+02:00",
@@ -241,27 +219,6 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Feuerwehreinsatz - Kükels",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-RP-MZ-SE114-20260802-125-000",
-    "version": 19,
-    "startDate": "2026-08-02T16:02:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Sprendlingen, Pfaffen-Schwabenheim",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
@@ -394,6 +351,27 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Landkreis Diepholz - Neuenkirchen",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20260802-125-001",
+    "version": 19,
+    "startDate": "2026-08-02T19:27:22+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung - Sprendlingen, Pfaffen-Schwabenheim",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
