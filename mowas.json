@@ -210,28 +210,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20260802-29-003",
-    "version": 19,
-    "startDate": "2026-08-02T19:02:04+02:00",
-    "expiresDate": "2026-08-03T01:02:04+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Landkreis Diepholz - Neuenkirchen",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20260802-125-002",
     "version": 19,
     "startDate": "2026-08-02T21:53:18+02:00",
@@ -271,6 +249,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BW-OG-W204-20260802-000",
+    "version": 19,
+    "startDate": "2026-08-03T01:31:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Brand in Zell - Zell a. H. mit Randgemeinden",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
