@@ -210,48 +210,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20260802-129-000",
-    "version": 19,
-    "startDate": "2026-08-02T22:16:43+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Großbrand - Starke Rauchentwicklung - Goslar Bassgeige",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-BW-OG-W204-20260802-000",
-    "version": 19,
-    "startDate": "2026-08-03T01:31:57+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brand in Zell - Zell a. H. mit Randgemeinden",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-MZ-SE114-20260802-125-003",
     "version": 19,
     "startDate": "2026-08-03T01:43:20+02:00",
@@ -295,14 +253,37 @@
     }
   },
   {
-    "id": "mow.DE-HE-DI-W104-20260803-000",
+    "id": "mow.DE-NI-STD-SE029-20260803-29-000",
     "version": 19,
-    "startDate": "2026-08-03T02:30:25+02:00",
+    "startDate": "2026-08-03T03:41:28+02:00",
+    "expiresDate": "2026-08-03T09:41:27+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausgedehnter Feldbrand - Bickenbach, Jugenheim und Alsbach",
+      "de": "Entwarnung: Großbrand - Starke Rauchentwicklung - Goslar Bassgeige",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-HE-DI-W104-20260803-001",
+    "version": 19,
+    "startDate": "2026-08-03T04:37:47+02:00",
+    "expiresDate": "2026-08-03T10:37:46+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausgedehnter Feldbrand - Bickenbach, Jugenheim und Alsbach",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -313,6 +294,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-OG-W204-20260803-000",
+    "version": 19,
+    "startDate": "2026-08-03T05:28:10+02:00",
+    "expiresDate": "2026-08-03T11:28:09+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brand in Zell - Zell a. H. mit Randgemeinden",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
