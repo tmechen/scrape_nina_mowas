@@ -126,28 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KN-W131-20260803-000",
-    "version": 19,
-    "startDate": "2026-08-03T13:50:51+02:00",
-    "expiresDate": "2026-08-03T19:50:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserverunreinigung - Gaienhofen- Hemmenhofen- Horn",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NW-DN-SE054-20260803-54-004",
     "version": 19,
     "startDate": "2026-08-03T15:17:49+02:00",
@@ -232,6 +210,48 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-NI-EL-W089-20260803-000",
+    "version": 19,
+    "startDate": "2026-08-03T19:29:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Großbrand - Lingen (Ems)",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NI-OL-W015-20260803-000",
+    "version": 19,
+    "startDate": "2026-08-03T19:43:41+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand im Landkreis Ammerland , Stadt Westerstede - Westerstede",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
