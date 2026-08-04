@@ -147,28 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20260804-99-001",
-    "version": 19,
-    "startDate": "2026-08-04T11:47:58+02:00",
-    "expiresDate": "2026-08-04T17:47:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Heikendorf",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20260804-000",
     "version": 19,
     "startDate": "2026-08-04T13:25:45+02:00",
