@@ -169,14 +169,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-LU-SE005-20260804-5-000",
+    "id": "mow.DE-RP-LU-SE005-20260804-5-001",
     "version": 19,
-    "startDate": "2026-08-04T21:38:02+02:00",
+    "startDate": "2026-08-05T00:47:52+02:00",
+    "expiresDate": "2026-08-05T06:47:52+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Großbrand In Lambrecht - Lambrecht",
+      "de": "Entwarnung: Großbrand In Lambrecht - Lambrecht",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
