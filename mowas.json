@@ -147,25 +147,24 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20260804-000",
+    "id": "mow.DE-NW-BOR-SE059-20260804-59-000",
     "version": 19,
-    "startDate": "2026-08-04T13:25:45+02:00",
-    "expiresDate": "2026-08-04T19:25:44+02:00",
+    "startDate": "2026-08-04T18:24:23+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Aktualisierung; Starke Rauchentwicklung - Meuselwitz/Mumsdorf",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
+      "de": "Rauchgase in Borken OT Borken - Stadt Borken",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
     },
     "transKeys": {
-      "event": "BBK-EVC-077"
+      "event": "BBK-EVC-010"
     }
   }
 ]
