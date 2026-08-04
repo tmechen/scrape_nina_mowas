@@ -147,58 +147,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-OL-W015-20260803-001",
+    "id": "mow.DE-RP-LD-SE117-20260804-121-000",
     "version": 19,
-    "startDate": "2026-08-03T21:16:09+02:00",
-    "expiresDate": "2026-08-04T03:16:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand im Landkreis Ammerland , Stadt Westerstede - Westerstede",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NI-EL-W089-20260803-001",
-    "version": 19,
-    "startDate": "2026-08-03T21:27:50+02:00",
-    "expiresDate": "2026-08-04T03:27:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Lingen (Ems)",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-RP-LD-SE117-20260803-121-000",
-    "version": 19,
-    "startDate": "2026-08-04T00:20:34+02:00",
+    "startDate": "2026-08-04T06:04:42+02:00",
+    "expiresDate": "2026-08-04T12:04:41+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehr im Brandeinsatz - ausbreitender Brandrauch - Contwig und Stambach",
+      "de": "Entwarnung: Feuerwehr im Brandeinsatz - ausbreitender Brandrauch - Contwig und Stambach",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
