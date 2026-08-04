@@ -188,5 +188,26 @@
     "transKeys": {
       "event": "BBK-EVC-077"
     }
+  },
+  {
+    "id": "mow.DE-HE-GI-W182-20260804-000",
+    "version": 19,
+    "startDate": "2026-08-04T10:02:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasser in den Ortsteilen Winnen und Nordeck muss abgekocht werden - Stadt Allendorf/Lda - Ortsteile Winnen und Nordeck",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
