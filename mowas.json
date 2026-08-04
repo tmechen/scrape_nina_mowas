@@ -147,14 +147,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-BOR-SE059-20260804-59-000",
+    "id": "mow.DE-NW-BOR-SE059-20260804-59-001",
     "version": 19,
-    "startDate": "2026-08-04T18:24:23+02:00",
+    "startDate": "2026-08-04T21:17:53+02:00",
+    "expiresDate": "2026-08-05T03:17:53+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase in Borken OT Borken - Stadt Borken",
+      "de": "Entwarnung: Rauchgase in Borken OT Borken - Stadt Borken",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -165,6 +166,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LU-SE005-20260804-5-000",
+    "version": 19,
+    "startDate": "2026-08-04T21:38:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großbrand In Lambrecht - Lambrecht",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
