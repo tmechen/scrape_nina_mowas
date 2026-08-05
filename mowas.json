@@ -105,49 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SU-SE057-20260805-57-000",
-    "version": 19,
-    "startDate": "2026-08-05T12:10:43+02:00",
-    "expiresDate": "2026-08-05T18:10:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kein Aufenthalt in der Sieg!!! - Gemeinde Windeck",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-NI-WTM-W213-20260805-000",
-    "version": 19,
-    "startDate": "2026-08-05T12:37:02+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung Sprengstofffund - 26548 Norderney",
-      "en": "Risk of explosion",
-      "ar": "خطر الانفجار",
-      "es": "Peligro de explosión",
-      "fr": "Risque d'explosion",
-      "pl": "Niebezpieczeństwo wybuchu",
-      "ru": "Опасность взрыва",
-      "tr": "Patlama tehlikesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-020"
-    }
-  },
-  {
     "id": "mow.DE-NW-KLE-SE058-20260805-58-000",
     "version": 19,
     "startDate": "2026-08-05T13:31:14+02:00",
@@ -210,6 +167,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NI-WTM-W213-20260805-001",
+    "version": 19,
+    "startDate": "2026-08-05T18:42:03+02:00",
+    "expiresDate": "2026-08-06T00:42:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung Sprengstofffund - 26548 Norderney",
+      "en": "Risk of explosion",
+      "ar": "خطر الانفجار",
+      "es": "Peligro de explosión",
+      "fr": "Risque d'explosion",
+      "pl": "Niebezpieczeństwo wybuchu",
+      "ru": "Опасность взрыва",
+      "tr": "Patlama tehlikesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-020"
     }
   }
 ]
