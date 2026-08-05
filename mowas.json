@@ -105,28 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-UH-W116-20260805-001",
-    "version": 19,
-    "startDate": "2026-08-05T11:11:40+02:00",
-    "expiresDate": "2026-08-05T17:11:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brandereignis - Görmar",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-SU-SE057-20260805-57-000",
     "version": 19,
     "startDate": "2026-08-05T12:10:43+02:00",
@@ -213,14 +191,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-D-SE047-20260805-47-000",
+    "id": "mow.DE-NW-D-SE047-20260805-47-001",
     "version": 19,
-    "startDate": "2026-08-05T15:17:47+02:00",
+    "startDate": "2026-08-05T16:24:26+02:00",
+    "expiresDate": "2026-08-05T22:24:25+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Weltkriegsbombe in Düsseldorf - Düsseldorf - Kalkum",
+      "de": "Entwarnung: Weltkriegsbombe in Düsseldorf - Düsseldorf - Kalkum",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
