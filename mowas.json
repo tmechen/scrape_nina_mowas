@@ -126,28 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-GG-W222-20260807-000",
-    "version": 19,
-    "startDate": "2026-08-07T10:18:55+02:00",
-    "expiresDate": "2026-08-07T16:18:54+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung nach Großbrand - Schöfferstadt Gernsheim",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BY-RO-W136-20260807-000",
     "version": 19,
     "startDate": "2026-08-07T11:59:32+02:00",
@@ -235,27 +213,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-OB-SE055-20260807-55-001",
-    "version": 19,
-    "startDate": "2026-08-07T14:43:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Kampfmittelfund in Oberhausen - Holten",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20260807-003",
     "version": 19,
     "startDate": "2026-08-07T16:05:40+02:00",
@@ -275,6 +232,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-OB-SE055-20260807-55-002",
+    "version": 19,
+    "startDate": "2026-08-07T17:12:55+02:00",
+    "expiresDate": "2026-08-07T23:12:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund in Oberhausen - Holten",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
