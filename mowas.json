@@ -147,28 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20260807-001",
-    "version": 19,
-    "startDate": "2026-08-07T13:31:26+02:00",
-    "expiresDate": "2026-08-07T19:31:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung auf Grund eines Feldbrandes - Weckersdorf",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20260807-003",
     "version": 19,
     "startDate": "2026-08-07T16:05:40+02:00",
