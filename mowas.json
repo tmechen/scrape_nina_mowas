@@ -105,28 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-A-W083-20260807-000",
-    "version": 19,
-    "startDate": "2026-08-07T06:38:13+02:00",
-    "expiresDate": "2026-08-07T12:38:12+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Giftige Rauchwolke / Brandgase - Ried",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-ST-SK-W070-20260807-001",
     "version": 19,
     "startDate": "2026-08-07T09:41:56+02:00",
@@ -135,27 +113,6 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Gefahr durch starke Rauchentwicklung - Asendorf",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-SH-FL-SE100-20260807-100-000",
-    "version": 19,
-    "startDate": "2026-08-07T10:18:54+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Schadfeuer im Bereich/ Rauchentwicklung - Schleswig",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -210,6 +167,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-011"
+    }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20260807-100-001",
+    "version": 19,
+    "startDate": "2026-08-07T12:04:28+02:00",
+    "expiresDate": "2026-08-07T18:04:28+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Schadfeuer im Bereich/ Rauchentwicklung - Schleswig",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
