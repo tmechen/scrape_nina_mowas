@@ -105,27 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-GG-W222-20260806-001",
-    "version": 19,
-    "startDate": "2026-08-06T20:40:42+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung nach Großbrand - Schöfferstadt Gernsheim",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-ERK-SE056-20260807-56-000",
     "version": 19,
     "startDate": "2026-08-07T02:30:23+02:00",
@@ -134,28 +113,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Geruchsbelästigung - Dremmen / Porselen / Ratheim / Millich",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-ST-WB-W056-20260807-001",
-    "version": 19,
-    "startDate": "2026-08-07T04:25:39+02:00",
-    "expiresDate": "2026-08-07T10:25:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand auf Schrottplatz - Holzdorf",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -231,6 +188,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-FL-SE100-20260807-100-000",
+    "version": 19,
+    "startDate": "2026-08-07T10:18:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Schadfeuer im Bereich/ Rauchentwicklung - Schleswig",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-GG-W222-20260807-000",
+    "version": 19,
+    "startDate": "2026-08-07T10:18:55+02:00",
+    "expiresDate": "2026-08-07T16:18:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung nach Großbrand - Schöfferstadt Gernsheim",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
