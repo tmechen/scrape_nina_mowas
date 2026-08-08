@@ -105,28 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-AA-W035-20260808-001",
-    "version": 19,
-    "startDate": "2026-08-08T19:22:35+02:00",
-    "expiresDate": "2026-08-09T01:22:35+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in Schwäbisch Gmünd - Innenstadt",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-HE-HG-W103-20260808-001",
     "version": 19,
     "startDate": "2026-08-08T20:26:48+02:00",
