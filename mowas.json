@@ -192,14 +192,14 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20260808-129-000",
+    "id": "mow.DE-HE-DI-W104-20260808-000",
     "version": 19,
-    "startDate": "2026-08-08T20:38:52+02:00",
+    "startDate": "2026-08-08T21:35:36+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Großbrand im Landkreis Cloppenburg der Gemeinde Cappeln, in der Eichenstraße - Cappeln OT Sevelten",
+      "de": "Rauchgas - Dieburg/Münster",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -213,14 +213,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-DI-W104-20260808-000",
+    "id": "mow.DE-NI-STD-SE029-20260808-29-000",
     "version": 19,
-    "startDate": "2026-08-08T21:35:36+02:00",
+    "startDate": "2026-08-08T22:08:33+02:00",
+    "expiresDate": "2026-08-09T04:08:33+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgas - Dieburg/Münster",
+      "de": "Entwarnung: Großbrand im Landkreis Cloppenburg der Gemeinde Cappeln, in der Eichen - Cappeln OT Sevelten",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
