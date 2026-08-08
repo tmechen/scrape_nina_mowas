@@ -126,27 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20260807-50-000",
-    "version": 19,
-    "startDate": "2026-08-08T00:31:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vorübergehendes Nutzungsverbot für Leitungswasser - 73079 Süßen, Bereich nördlich der Bahnlinie Landkreis Göppingen",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BB-EW-SE079-20260808-79-000",
     "version": 19,
     "startDate": "2026-08-08T10:10:52+02:00",
@@ -165,6 +144,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20260808-50-000",
+    "version": 19,
+    "startDate": "2026-08-08T11:21:27+02:00",
+    "expiresDate": "2026-08-08T17:21:26+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Vorübergehendes Nutzungsverbot für Leitungswasser - 73079 Süßen, Bereich nördlich der Bahnlinie Landkreis Göppingen",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-TH-EF-SE012-20260808-12-000",
+    "version": 19,
+    "startDate": "2026-08-08T11:21:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Einsatzübung im Eisenbahntunnel Sandberg - Thüringen",
+      "en": "Traffic alert",
+      "ar": "تحذير مروري",
+      "es": "Advertencia de tráfico",
+      "fr": "Alerte trafic",
+      "pl": "Ostrzeżenie drogowe",
+      "ru": "Предупреждение о ситуации на дороге",
+      "tr": "Trafik uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-075"
     }
   }
 ]
