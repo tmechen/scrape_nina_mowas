@@ -126,28 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-KR-SE075-20260809-75-000",
-    "version": 19,
-    "startDate": "2026-08-09T02:23:36+02:00",
-    "expiresDate": "2026-08-09T08:23:36+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall durch Brandereignis - Bockum",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-HE-DI-W104-20260809-000",
     "version": 19,
     "startDate": "2026-08-09T07:37:40+02:00",
@@ -167,6 +145,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-TH-GT-W112-20260809-000",
+    "version": 19,
+    "startDate": "2026-08-09T08:13:50+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Unterbrechung Trinkwasserversorgung - Stadt Tambach-Dietharz",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
