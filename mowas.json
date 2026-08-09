@@ -233,14 +233,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-CO-W141-20260809-000",
+    "id": "mow.DE-BY-CO-W141-20260809-001",
     "version": 19,
-    "startDate": "2026-08-09T20:58:13+02:00",
+    "startDate": "2026-08-09T22:19:37+02:00",
+    "expiresDate": "2026-08-10T04:19:37+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Giftige Rauchwolke durch Gebäudebrand - OT Uetzing / Bad Staffelstein",
+      "de": "Entwarnung: Giftige Rauchwolke durch Gebäudebrand - OT Uetzing / Bad Staffelstein",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
