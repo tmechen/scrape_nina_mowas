@@ -148,14 +148,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-GT-W112-20260809-000",
+    "id": "mow.DE-TH-GT-W112-20260809-001",
     "version": 19,
-    "startDate": "2026-08-09T08:13:50+02:00",
+    "startDate": "2026-08-09T10:13:06+02:00",
+    "expiresDate": "2026-08-09T16:13:05+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Unterbrechung Trinkwasserversorgung - Stadt Tambach-Dietharz",
+      "de": "Entwarnung: Unterbrechung Trinkwasserversorgung - Stadt Tambach-Dietharz",
       "en": "Alert",
       "ar": "تحذير",
       "es": "Advertencia",
