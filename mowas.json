@@ -320,14 +320,14 @@
     }
   },
   {
-    "id": "mow.DE-HE-LDK-W187-20260810-001",
+    "id": "mow.DE-HE-LDK-W187-20260810-003",
     "version": 19,
-    "startDate": "2026-08-10T16:57:21+02:00",
+    "startDate": "2026-08-10T18:09:13+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
     "i18nTitle": {
-      "de": "Brand mit Gefahr durch Rauchgase - Asslar",
+      "de": "Massive Verkehrsbehinderungen auf der A45 durch LKW-Brand - Asslar",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
