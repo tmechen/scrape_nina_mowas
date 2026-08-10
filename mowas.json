@@ -127,27 +127,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-HG-W103-20260810-000",
-    "version": 19,
-    "startDate": "2026-08-10T11:49:22+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Verunreingtes Trinkwasser - Stadt Kronberg im Taunus - Bereich \"Am Schafhof\", Kronberg Süd, Kronberg",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20260810-143-001",
     "version": 19,
     "startDate": "2026-08-10T12:00:50+02:00",
@@ -257,12 +236,76 @@
     }
   },
   {
-    "id": "mow.DE-HE-MKK-W220-20260810-000",
+    "id": "mow.DE-NW-SU-SE057-20260810-57-000",
     "version": 19,
-    "startDate": "2026-08-10T14:02:43+02:00",
+    "startDate": "2026-08-10T14:35:11+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
+    "i18nTitle": {
+      "de": "Brandereignis (Ausbreitung von Brandrauch) - Swisttal  und Alfter",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-AB-SE139-20260810-171-000",
+    "version": 19,
+    "startDate": "2026-08-10T14:55:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Waldbrand in Rodenbach - Alzenau alle Stadtteile",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20260810-001",
+    "version": 19,
+    "startDate": "2026-08-10T15:13:10+02:00",
+    "expiresDate": "2026-08-10T21:13:09+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Verunreingtes Trinkwasser - Stadt Kronberg im Taunus - Bereich \"Am Schafhof\", Kronberg Süd, Kronberg",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20260810-106-000",
+    "version": 19,
+    "startDate": "2026-08-10T15:16:27+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
     "i18nTitle": {
       "de": "Waldbrand im Bereich Nieder- und Oberrodenbach - Gemeindegebiet Rodenbach",
       "en": "Forest fire",
