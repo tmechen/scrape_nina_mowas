@@ -168,27 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-GOE-W264-20260809-000",
-    "version": 19,
-    "startDate": "2026-08-09T23:51:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Fenster und Türen geschlossen halten - Hann. Münden",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-SO-SE089-20260810-89-000",
     "version": 19,
     "startDate": "2026-08-10T05:41:49+02:00",
@@ -208,6 +187,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-GOE-W264-20260810-000",
+    "version": 19,
+    "startDate": "2026-08-10T06:53:53+02:00",
+    "expiresDate": "2026-08-10T12:53:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Fenster und Türen geschlossen halten - Hann. Münden",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
