@@ -147,28 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20260811-56-002",
-    "version": 19,
-    "startDate": "2026-08-11T18:00:33+02:00",
-    "expiresDate": "2026-08-12T00:00:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Geilenkirchen Hoven - Geilenkirchen Stadtteil Hoven",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20260811-001",
     "version": 19,
     "startDate": "2026-08-11T19:53:04+02:00",
@@ -275,6 +253,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-BY-HO-SE158-20260811-190-000",
+    "version": 19,
+    "startDate": "2026-08-12T00:52:44+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Wahrnehmbarer Brandgeruch und Rauch durch ausgedehnten Wald und Flächenbrand - Stadt und Landkreis Hof",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
