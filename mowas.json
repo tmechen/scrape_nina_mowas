@@ -126,28 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SLS-W038-20260811-000",
-    "version": 19,
-    "startDate": "2026-08-11T16:15:51+02:00",
-    "expiresDate": "2026-08-11T22:15:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 4. Aktualisierung! - Beeinträchtigung des Trinkwassers - Chlorungsmaßn - Biringen, Fürweiler, Gerlfangen, und Oberesch der Gde. Rehlingen-Siersburg",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20260811-18-002",
     "version": 19,
     "startDate": "2026-08-11T16:55:53+02:00",
@@ -276,6 +254,48 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-GG-W222-20260811-000",
+    "version": 19,
+    "startDate": "2026-08-11T22:32:35+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Waldbrand Bereich Mörfelden-Walldorf - Mörfelden-Walldorf",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-SN-Z-SE122-20260811-154-000",
+    "version": 19,
+    "startDate": "2026-08-11T23:00:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Szenario 12 - \"Rauchentwicklung durch Brand\" Kopie - Landkreis Vogtlandkreis",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
