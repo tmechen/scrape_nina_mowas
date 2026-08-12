@@ -189,50 +189,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20260812-18-000",
-    "version": 19,
-    "startDate": "2026-08-12T09:47:27+02:00",
-    "expiresDate": "2026-08-12T15:47:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Waldbrand in Zell und Steinach - Zell a.H.",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-NI-EL-W089-20260812-001",
-    "version": 19,
-    "startDate": "2026-08-12T10:18:43+02:00",
-    "expiresDate": "2026-08-12T16:18:42+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Lingen (Ems)",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-TUE-W126-20260812-000",
     "version": 19,
     "startDate": "2026-08-12T10:53:13+02:00",
@@ -251,27 +207,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-037"
-    }
-  },
-  {
-    "id": "mow.DE-NW-ERK-SE056-20260812-56-001",
-    "version": 19,
-    "startDate": "2026-08-12T12:13:22+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in Hückelhoven Ratheim, Heinsberg Oberbruch - Hückelhoven,Heinsberg",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
     }
   },
   {
@@ -316,27 +251,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-BY-BT-W082-20260812-000",
-    "version": 19,
-    "startDate": "2026-08-12T14:38:48+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand einer Scheune - starke Rauchentwicklung - Birk",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
     }
   },
   {
@@ -391,6 +305,92 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Rauchgase in Salzgitter-Heerte - Salzgitter",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20260812-56-003",
+    "version": 19,
+    "startDate": "2026-08-12T15:49:05+02:00",
+    "expiresDate": "2026-08-12T21:49:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung in Hückelhoven Ratheim, Heinsberg Oberbruch - Hückelhoven,Heinsberg",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ST-SE032-20260812-165-002",
+    "version": 19,
+    "startDate": "2026-08-12T16:19:37+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in Lotte und Westerkappeln und Mettingen - Lotte, Westerkappeln, Mettingen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-LA-W144-20260812-000",
+    "version": 19,
+    "startDate": "2026-08-12T16:25:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brand in Beutelhausen - Beutelhausen bei Adlkofen",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-BY-BT-W082-20260812-001",
+    "version": 19,
+    "startDate": "2026-08-12T16:28:17+02:00",
+    "expiresDate": "2026-08-12T22:28:17+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand einer Scheune - starke Rauchentwicklung - Birk",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
