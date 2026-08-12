@@ -231,28 +231,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20260812-56-003",
-    "version": 19,
-    "startDate": "2026-08-12T15:49:05+02:00",
-    "expiresDate": "2026-08-12T21:49:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in Hückelhoven Ratheim, Heinsberg Oberbruch - Hückelhoven,Heinsberg",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-BT-W082-20260812-001",
     "version": 19,
     "startDate": "2026-08-12T16:28:17+02:00",
@@ -383,27 +361,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ME-SE071-20260812-71-002",
-    "version": 19,
-    "startDate": "2026-08-12T20:00:40+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Bombenfund - Monheim am Rhein",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BW-RV-W228-20260812-000",
     "version": 19,
     "startDate": "2026-08-12T20:19:49+02:00",
@@ -487,6 +444,71 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NW-LEV-SE046-20260812-46-000",
+    "version": 19,
+    "startDate": "2026-08-12T22:08:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gezielte Sprengung einer Weltkriegsbombe - Leverkusen - Hitdorf",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ME-SE071-20260812-71-004",
+    "version": 19,
+    "startDate": "2026-08-12T22:20:17+02:00",
+    "expiresDate": "2026-08-13T04:20:16+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gezielte Sprengung einer Weltkriegsbombe - Monheim am Rhein",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ME-SE071-20260812-71-005",
+    "version": 19,
+    "startDate": "2026-08-12T22:20:46+02:00",
+    "expiresDate": "2026-08-13T04:20:45+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bombenfund - Monheim am Rhein",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
