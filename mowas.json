@@ -231,28 +231,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20260813-18-000",
-    "version": 19,
-    "startDate": "2026-08-13T08:39:38+02:00",
-    "expiresDate": "2026-08-13T14:39:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wartungsarbeiten an der Rufnummer 19222 wurde beendet - Rhein-Neckar-Kreis",
-      "en": "Telephone line outage",
-      "ar": "انقطاع خطوط الهاتف",
-      "es": "Fallo de la línea telefónica",
-      "fr": "Défaillance de la ligne téléphonique",
-      "pl": "Awaria linii telefonicznej",
-      "ru": "Отказ линии телефонной сети",
-      "tr": "Telefon hattı arızası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-006"
-    }
-  },
-  {
     "id": "mow.DE-HE-MTK-W098-20260813-001",
     "version": 19,
     "startDate": "2026-08-13T10:19:11+02:00",
@@ -341,14 +319,14 @@
     }
   },
   {
-    "id": "mow.DE-NW-UN-SE068-20260813-68-000",
+    "id": "mow.DE-ST-MD-SE022-20260813-143-001",
     "version": 19,
-    "startDate": "2026-08-13T13:37:55+02:00",
-    "severity": "Minor",
+    "startDate": "2026-08-13T14:17:03+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Rauchgase - Gemeinde Bönen",
+      "de": "Waldbrand in Benneckenstein - Benneckenstein Elend, Tanne, Trautenstein",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -362,14 +340,57 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20260813-143-000",
+    "id": "mow.DE-NW-HSK-SE096-20260813-96-000",
     "version": 19,
-    "startDate": "2026-08-13T13:45:34+02:00",
-    "severity": "Severe",
+    "startDate": "2026-08-13T15:12:43+02:00",
+    "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Waldbrand in Benneckenstein - Benneckenstein",
+      "de": "Rauchwolke - Stadt Marsberg",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20260813-54-000",
+    "version": 19,
+    "startDate": "2026-08-13T15:25:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung in den Kommunen Merzenich und Niederzier - Merzenich und Niederzier",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-UN-SE068-20260813-68-001",
+    "version": 19,
+    "startDate": "2026-08-13T15:29:05+02:00",
+    "expiresDate": "2026-08-13T21:29:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase - Gemeinde Bönen",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -380,6 +401,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SN-DD-W094-20260813-000",
+    "version": 19,
+    "startDate": "2026-08-13T15:29:43+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Durch einen Großbrand im Bereich Zeithain kommt es zu einer Geruchsbelästigung. - Zeithain",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
