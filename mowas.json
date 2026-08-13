@@ -383,14 +383,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260813-28-000",
+    "id": "mow.DE-SH-EH-SE028-20260813-28-001",
     "version": 19,
-    "startDate": "2026-08-13T11:32:34+02:00",
+    "startDate": "2026-08-13T12:35:52+02:00",
+    "expiresDate": "2026-08-13T18:35:51+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Tangstedt",
+      "de": "Entwarnung: Feuerwehreinsatz - Tangstedt",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
