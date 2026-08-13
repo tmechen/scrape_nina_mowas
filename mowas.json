@@ -231,28 +231,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-UN-SE068-20260813-68-001",
-    "version": 19,
-    "startDate": "2026-08-13T15:29:05+02:00",
-    "expiresDate": "2026-08-13T21:29:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase - Gemeinde Bönen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-DN-SE054-20260813-54-001",
     "version": 19,
     "startDate": "2026-08-13T16:22:01+02:00",
@@ -617,27 +595,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-GOE-W264-20260813-002",
-    "version": 19,
-    "startDate": "2026-08-13T21:16:36+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchwolke durch Brand - Herzberg",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-HSK-SE096-20260813-96-001",
     "version": 19,
     "startDate": "2026-08-13T21:27:01+02:00",
@@ -657,6 +614,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-NI-GOE-W264-20260813-003",
+    "version": 19,
+    "startDate": "2026-08-13T22:16:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchwolke durch Brand - Herzberg",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
