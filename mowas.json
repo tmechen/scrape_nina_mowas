@@ -317,27 +317,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20260813-35-000",
-    "version": 19,
-    "startDate": "2026-08-13T17:39:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Brandereignis - Ottweiler",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-ST-MD-SE022-20260813-143-004",
     "version": 19,
     "startDate": "2026-08-13T17:44:54+02:00",
@@ -635,6 +614,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20260813-35-001",
+    "version": 19,
+    "startDate": "2026-08-13T22:25:12+02:00",
+    "expiresDate": "2026-08-14T04:25:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Brandereignis - Ottweiler",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
