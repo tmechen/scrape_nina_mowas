@@ -231,28 +231,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-MTK-W098-20260813-001",
-    "version": 19,
-    "startDate": "2026-08-13T10:19:11+02:00",
-    "expiresDate": "2026-08-13T16:19:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Kelkheim,Hofheim,Liederbach,Kriftel",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20260813-28-001",
     "version": 19,
     "startDate": "2026-08-13T12:35:52+02:00",
@@ -422,6 +400,133 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20260813-54-001",
+    "version": 19,
+    "startDate": "2026-08-13T16:22:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch einen Waldbrand - Gemeinde Hürtgenwald",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20260813-143-003",
+    "version": 19,
+    "startDate": "2026-08-13T16:23:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchgase in Magdeburg durch Flächenbrand - Magdeburg (Gübser Weg / Zipkeleber Weg / Kopfendenweg)",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-AC-SE090-20260813-90-000",
+    "version": 19,
+    "startDate": "2026-08-13T17:06:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch einen Waldbrand - Gemeinde Hürtgenwald / Kreis Düren",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-HE-LDK-W187-20260813-001",
+    "version": 19,
+    "startDate": "2026-08-13T17:21:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Großbrand mit Gefahr durch Rauchgase - Hüttenberg",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MI-SE073-20260813-73-002",
+    "version": 19,
+    "startDate": "2026-08-13T17:29:24+02:00",
+    "expiresDate": "2026-08-13T23:29:23+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall Stromversorgung Porta Westfalica Wülpke, Nammen, Eisbergen, Kl - Porta Westfalica / Grenzbereich zum Land Niedersachsen Stadt Bückeburg",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20260813-29-001",
+    "version": 19,
+    "startDate": "2026-08-13T17:30:16+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Ausfall Stromversorgung Stadt Bückeburg und angrenzende Bereiche NRW - Stadt Bückeburg",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
