@@ -297,27 +297,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20260813-143-001",
-    "version": 19,
-    "startDate": "2026-08-13T14:17:03+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Waldbrand in Benneckenstein - Benneckenstein Elend, Tanne, Trautenstein",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-HSK-SE096-20260813-96-000",
     "version": 19,
     "startDate": "2026-08-13T15:12:43+02:00",
@@ -382,27 +361,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-DD-W094-20260813-000",
-    "version": 19,
-    "startDate": "2026-08-13T15:29:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Durch einen Großbrand im Bereich Zeithain kommt es zu einer Geruchsbelästigung. - Zeithain",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-DN-SE054-20260813-54-001",
     "version": 19,
     "startDate": "2026-08-13T16:22:01+02:00",
@@ -421,27 +379,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-ST-MD-SE022-20260813-143-003",
-    "version": 19,
-    "startDate": "2026-08-13T16:23:56+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchgase in Magdeburg durch Flächenbrand - Magdeburg (Gübser Weg / Zipkeleber Weg / Kopfendenweg)",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
     }
   },
   {
@@ -509,14 +446,80 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20260813-29-001",
+    "id": "mow.DE-SN-DD-W094-20260813-001",
     "version": 19,
-    "startDate": "2026-08-13T17:30:16+02:00",
+    "startDate": "2026-08-13T17:37:07+02:00",
+    "expiresDate": "2026-08-13T23:37:07+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Stromversorgung Stadt Bückeburg und angrenzende Bereiche NRW - Stadt Bückeburg",
+      "de": "Entwarnung: Durch einen Großbrand im Bereich Zeithain kommt es zu einer Geruchsbel - Zeithain",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20260813-35-000",
+    "version": 19,
+    "startDate": "2026-08-13T17:39:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brandereignis - Ottweiler",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20260813-143-004",
+    "version": 19,
+    "startDate": "2026-08-13T17:44:54+02:00",
+    "expiresDate": "2026-08-13T23:44:53+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Waldbrand in Benneckenstein - Benneckenstein Elend, Tanne, Trautenstein",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20260813-129-001",
+    "version": 19,
+    "startDate": "2026-08-13T17:45:16+02:00",
+    "expiresDate": "2026-08-13T23:45:16+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall Stromversorgung Stadt Bückeburg und angrenzende Bereiche NRW - Stadt Bückeburg",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
@@ -527,6 +530,91 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
+    }
+  },
+  {
+    "id": "mow.DE-ST-SLK-W069-20260813-000",
+    "version": 19,
+    "startDate": "2026-08-13T17:46:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Starke Rauchentwicklung durch Brandereignis - Schönebeck (Elbe), Salzlandkreis",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SO-SE089-20260813-89-000",
+    "version": 19,
+    "startDate": "2026-08-13T17:50:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung im Bereich des Arnsberger Waldes - Arnsberger Wald, in Teilbereichen der Soester Börde, Teilbereichen des HSK",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20260813-54-002",
+    "version": 19,
+    "startDate": "2026-08-13T18:00:18+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Waldbrand in der Gemeinde Hürtgenwald - Gemeindegebiet Hürtgendwald",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-ST-MD-SE022-20260813-143-005",
+    "version": 19,
+    "startDate": "2026-08-13T18:15:10+02:00",
+    "expiresDate": "2026-08-14T00:15:10+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase in Magdeburg durch Flächenbrand - Magdeburg (Gübser Weg / Zipkeleber Weg / Kopfendenweg)",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
