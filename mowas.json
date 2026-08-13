@@ -273,50 +273,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-MD-SE022-20260813-143-004",
-    "version": 19,
-    "startDate": "2026-08-13T17:44:54+02:00",
-    "expiresDate": "2026-08-13T23:44:53+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Waldbrand in Benneckenstein - Benneckenstein Elend, Tanne, Trautenstein",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029B-20260813-129-001",
-    "version": 19,
-    "startDate": "2026-08-13T17:45:16+02:00",
-    "expiresDate": "2026-08-13T23:45:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausfall Stromversorgung Stadt Bückeburg und angrenzende Bereiche NRW - Stadt Bückeburg",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-ST-SLK-W069-20260813-000",
     "version": 19,
     "startDate": "2026-08-13T17:46:12+02:00",
@@ -356,28 +312,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-ST-MD-SE022-20260813-143-005",
-    "version": 19,
-    "startDate": "2026-08-13T18:15:10+02:00",
-    "expiresDate": "2026-08-14T00:15:10+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchgase in Magdeburg durch Flächenbrand - Magdeburg (Gübser Weg / Zipkeleber Weg / Kopfendenweg)",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
     }
   },
   {
