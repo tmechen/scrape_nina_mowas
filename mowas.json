@@ -210,27 +210,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20260812-29-000",
-    "version": 19,
-    "startDate": "2026-08-12T15:04:08+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand (Stufe 2) - Stadt Osnabrück",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-HSK-SE096-20260812-96-000",
     "version": 19,
     "startDate": "2026-08-12T16:42:11+02:00",
@@ -273,14 +252,36 @@
     }
   },
   {
-    "id": "mow.DE-NW-HA-SE087-20260812-149-000",
+    "id": "mow.DE-HE-MTK-W098-20260813-000",
     "version": 19,
-    "startDate": "2026-08-12T21:00:18+02:00",
+    "startDate": "2026-08-13T05:26:28+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Waldbrand in Hagen - Hagen",
+      "de": "Geruchsbelästigung - Kelkheim,Hofheim,Liederbach,Kriftel",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HA-SE087-20260813-149-000",
+    "version": 19,
+    "startDate": "2026-08-13T06:31:55+02:00",
+    "expiresDate": "2026-08-13T12:31:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Waldbrand in Hagen - Hagen",
       "en": "Forest fire",
       "ar": "حريق بالغابات",
       "es": "Incendio forestal",
@@ -294,15 +295,37 @@
     }
   },
   {
-    "id": "mow.DE-BW-RV-W228-20260812-001",
+    "id": "mow.DE-NW-HA-SE087-20260813-149-001",
     "version": 19,
-    "startDate": "2026-08-12T22:50:07+02:00",
-    "expiresDate": "2026-08-13T04:50:07+02:00",
+    "startDate": "2026-08-13T06:32:03+02:00",
+    "expiresDate": "2026-08-13T12:32:02+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Großbrand mit Gefahr durch Rauchgase - Grünkraut",
+      "de": "Entwarnung: Waldbrand in Hagen - Hagen",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20260813-29-000",
+    "version": 19,
+    "startDate": "2026-08-13T06:34:44+02:00",
+    "expiresDate": "2026-08-13T12:34:43+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand (Stufe 2) - Stadt Osnabrück",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
@@ -313,27 +336,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-NW-HA-SE087-20260812-149-001",
-    "version": 19,
-    "startDate": "2026-08-12T23:04:29+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Waldbrand in Hagen - Hagen",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
     }
   }
 ]
