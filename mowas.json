@@ -357,28 +357,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-SE137-20260814-166-001",
-    "version": 19,
-    "startDate": "2026-08-14T10:29:18+02:00",
-    "expiresDate": "2026-08-14T16:29:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brand - Fürth",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-DN-SE054-20260814-54-003",
     "version": 19,
     "startDate": "2026-08-14T10:49:20+02:00",
@@ -527,27 +505,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20260814-19-000",
-    "version": 19,
-    "startDate": "2026-08-14T12:35:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Entschärfung/Sprengung einer Weltkriegsbombe - Bremen-Hastedt",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-BN-SE060-20260814-60-000",
     "version": 19,
     "startDate": "2026-08-14T12:37:11+02:00",
@@ -588,27 +545,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029B-20260814-129-001",
-    "version": 19,
-    "startDate": "2026-08-14T12:57:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Lingen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
     }
   },
   {
@@ -739,27 +675,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE019-20260814-19-001",
-    "version": 19,
-    "startDate": "2026-08-14T15:44:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Flächenbrand - Bremen-Mahndorf",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-SE004-20260814-4-001",
     "version": 19,
     "startDate": "2026-08-14T15:52:15+02:00",
@@ -864,6 +779,93 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20260814-19-002",
+    "version": 19,
+    "startDate": "2026-08-14T16:47:15+02:00",
+    "expiresDate": "2026-08-14T22:47:14+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Flächenbrand - Bremen-Mahndorf",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-OE-SE086-20260814-86-000",
+    "version": 19,
+    "startDate": "2026-08-14T17:17:51+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchniederschlag und Geruchsbelästigung durch Waldbrände in Nachbarkreisen - Drolshagen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20260814-129-002",
+    "version": 19,
+    "startDate": "2026-08-14T17:24:57+02:00",
+    "expiresDate": "2026-08-14T23:24:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Lingen",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20260814-19-003",
+    "version": 19,
+    "startDate": "2026-08-14T17:25:18+02:00",
+    "expiresDate": "2026-08-14T23:25:18+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Entschärfung/Sprengung einer Weltkriegsbombe - Bremen-Hastedt",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
