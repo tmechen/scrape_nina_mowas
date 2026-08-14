@@ -357,71 +357,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-LDK-W187-20260813-002",
-    "version": 19,
-    "startDate": "2026-08-13T19:08:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchentwicklung nach Brand - Hüttenberg",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NI-VEC-W078-20260813-001",
-    "version": 19,
-    "startDate": "2026-08-14T01:19:19+02:00",
-    "expiresDate": "2026-08-14T07:19:19+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Brand Innenstadt-Vechta - Vechta",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-ST-SLK-W069-20260814-000",
-    "version": 19,
-    "startDate": "2026-08-14T02:15:58+02:00",
-    "expiresDate": "2026-08-14T08:15:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Brandereignis - Schönebeck (Elbe), Salzlandkreis",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-DN-SE054-20260814-54-000",
     "version": 19,
     "startDate": "2026-08-14T04:01:54+02:00",
@@ -440,6 +375,91 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-BY-N-SE137-20260814-166-000",
+    "version": 19,
+    "startDate": "2026-08-14T07:09:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Brand - Fürth",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HE-LDK-W187-20260814-000",
+    "version": 19,
+    "startDate": "2026-08-14T07:49:08+02:00",
+    "expiresDate": "2026-08-14T13:49:08+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung nach Brand - Hüttenberg",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-ST-HZ-W050-20260814-000",
+    "version": 19,
+    "startDate": "2026-08-14T08:23:50+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "starke Rauchen/-Geruchsbelästigung durch Waldbrand bedingt - von Benneckenstein über Trautenstein zur Rappbode",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20260814-54-001",
+    "version": 19,
+    "startDate": "2026-08-14T08:28:22+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase im südwestlichen Stadtgebiet - Stadt Düren",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
