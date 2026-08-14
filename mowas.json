@@ -294,27 +294,6 @@
     }
   },
   {
-    "id": "mow.DE-SN-Z-SE122-20260813-154-000",
-    "version": 19,
-    "startDate": "2026-08-13T18:34:22+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Waldbrand - Landkreis Vogtlandkreis",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20260813-31-000",
     "version": 19,
     "startDate": "2026-08-13T18:56:24+02:00",
@@ -504,6 +483,196 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BM-SE042-20260814-42-000",
+    "version": 19,
+    "startDate": "2026-08-14T11:38:22+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Brandrauch - Stadtgebiet Erftstadt",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-EU-SE091-20260814-109-000",
+    "version": 19,
+    "startDate": "2026-08-14T12:09:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Waldbrand / Vegetationsbrand Kreis Düren - Hürtgenwald - Teilgebiete des Kreises Euskirchen",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20260814-99-000",
+    "version": 19,
+    "startDate": "2026-08-14T12:13:04+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelentschärfung in Flüggendorf - Flüggendorf",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-MV-LRO-W007-20260814-000",
+    "version": 19,
+    "startDate": "2026-08-14T12:13:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Brandrauch - Bützow",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SN-Z-SE122-20260814-154-000",
+    "version": 19,
+    "startDate": "2026-08-14T12:30:49+02:00",
+    "expiresDate": "2026-08-14T18:30:48+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Waldbrand - Landkreis Vogtlandkreis",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-BY-BA-W140-20260814-000",
+    "version": 19,
+    "startDate": "2026-08-14T12:33:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Waldbrand bei Oberhaid - Oberhaid, Appendorf, Sandhof, Baunach",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SU-SE057-20260814-57-001",
+    "version": 19,
+    "startDate": "2026-08-14T12:34:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Brandereignis (Ausbreitung von Brandrauch) - Gesamter Rhein-Sieg-Kreis, ausgehend aus Düren",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-HB-HB-SE019-20260814-19-000",
+    "version": 19,
+    "startDate": "2026-08-14T12:35:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Entschärfung/Sprengung einer Weltkriegsbombe - Bremen-Hastedt",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BN-SE060-20260814-60-000",
+    "version": 19,
+    "startDate": "2026-08-14T12:37:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brandereignis (Ausbreitung von Brandrauch) - Stadtgebiet Bonn, ausgehend aus Düren - Stadtgebiet Bonn",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
