@@ -378,94 +378,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-SO-SE089-20260813-89-001",
-    "version": 19,
-    "startDate": "2026-08-13T20:35:44+02:00",
-    "expiresDate": "2026-08-14T02:35:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung im Bereich des Arnsberger Waldes - Arnsberger Wald, in Teilbereichen der Soester Börde, Teilbereichen des HSK",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-HE-SWA-W096-20260813-001",
-    "version": 19,
-    "startDate": "2026-08-13T20:58:32+02:00",
-    "expiresDate": "2026-08-14T02:58:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand im Walluf mit starker Rauchentwicklung - Walluf, besonders nahe Rhein",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NW-HSK-SE096-20260813-96-001",
-    "version": 19,
-    "startDate": "2026-08-13T21:27:01+02:00",
-    "expiresDate": "2026-08-14T03:27:01+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Waldbrand mit starker Rauchentwicklung - Sundern / Hochsauerlandkreis",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
-    "id": "mow.DE-SL-SB-SE035-20260813-35-001",
-    "version": 19,
-    "startDate": "2026-08-13T22:25:12+02:00",
-    "expiresDate": "2026-08-14T04:25:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brandereignis - Ottweiler",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NI-GOE-W264-20260813-004",
     "version": 19,
     "startDate": "2026-08-13T23:07:44+02:00",
@@ -529,6 +441,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20260814-54-000",
+    "version": 19,
+    "startDate": "2026-08-14T04:01:54+02:00",
+    "severity": "Extreme",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausbreitung Waldbrand in die Ortslage Hürtgenwald-Gey - Hürtgenwald-Gey",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
     }
   }
 ]
