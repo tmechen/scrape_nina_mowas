@@ -744,27 +744,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BN-SE060-20260815-60-001",
-    "version": 19,
-    "startDate": "2026-08-15T12:08:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Kampfmittelfund - Bonn-Gronau",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-SE004-20260815-4-002",
     "version": 19,
     "startDate": "2026-08-15T12:25:20+02:00",
@@ -954,6 +933,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BN-SE060-20260815-60-002",
+    "version": 19,
+    "startDate": "2026-08-15T13:41:50+02:00",
+    "expiresDate": "2026-08-15T19:41:49+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund - Bonn-Gronau",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
