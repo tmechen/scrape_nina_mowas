@@ -672,28 +672,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20260815-4-012",
-    "version": 19,
-    "startDate": "2026-08-15T19:15:18+02:00",
-    "expiresDate": "2026-08-16T01:15:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: starke Rauchentwicklung im Freien - LK Bernkastel-Wittlich",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SL-SB-SE035-20260815-35-013",
     "version": 19,
     "startDate": "2026-08-15T19:31:42+02:00",
