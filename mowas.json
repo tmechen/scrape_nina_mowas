@@ -525,28 +525,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-HIG-W111-20260815-001",
-    "version": 19,
-    "startDate": "2026-08-15T12:05:17+02:00",
-    "expiresDate": "2026-08-15T18:05:17+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenen-Funktionsprobe - Landgemeinde Dingelstädt und VG Hanstein-Rusteberg",
-      "en": "Siren test",
-      "ar": "تجربة صفارة الإنذار",
-      "es": "Prueba de sirena",
-      "fr": "Test des sirènes",
-      "pl": "Test syren",
-      "ru": "Проверка средств оповещения",
-      "tr": "Siren testi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
     "id": "mow.DE-NW-AC-SE090-20260815-90-000",
     "version": 19,
     "startDate": "2026-08-15T12:34:29+02:00",
@@ -676,27 +654,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20260815-31-000",
-    "version": 19,
-    "startDate": "2026-08-15T13:16:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung - Märkischer Kreis",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-NW-BN-SE060-20260815-60-002",
     "version": 19,
     "startDate": "2026-08-15T13:41:50+02:00",
@@ -716,27 +673,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-NW-GM-SE088-20260815-88-001",
-    "version": 19,
-    "startDate": "2026-08-15T13:59:01+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in Lindlar, Wipperfürth, Marienheide, Gummersbach - Lindlar, Wipperfürth, Marienheide, Gummersbach",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
     }
   },
   {
@@ -863,27 +799,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BW-HN-W282-20260815-000",
-    "version": 19,
-    "startDate": "2026-08-15T15:35:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand in Heilbronn - Heilbronn Stadt- und Landkreis",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
     }
   },
   {
@@ -1036,14 +951,101 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20260815-35-003",
+    "id": "mow.DE-ST-BOE-W041-20260815-000",
     "version": 19,
-    "startDate": "2026-08-15T17:35:50+02:00",
+    "startDate": "2026-08-15T18:09:00+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "starke Rauchentwicklung durch Löscharbeiten - Eichenbarleben, Ochtmersleben",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-HN-W282-20260815-001",
+    "version": 19,
+    "startDate": "2026-08-15T18:14:55+02:00",
+    "expiresDate": "2026-08-16T00:14:55+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand in Heilbronn - Heilbronn Stadt- und Landkreis",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20260815-31-001",
+    "version": 19,
+    "startDate": "2026-08-15T18:18:29+02:00",
+    "expiresDate": "2026-08-16T00:18:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung - Märkischer Kreis",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-NW-GM-SE088-20260815-88-002",
+    "version": 19,
+    "startDate": "2026-08-15T18:20:50+02:00",
+    "expiresDate": "2026-08-16T00:20:49+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung in Lindlar, Wipperfürth, Marienheide, Gummersbach - Lindlar, Wipperfürth, Marienheide, Gummersbach",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20260815-35-010",
+    "version": 19,
+    "startDate": "2026-08-15T18:23:39+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Brandereignis - Nördliches Saarland",
+      "de": "Rauchentwicklung durch Brandereignis in Belgien - Saarland",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
