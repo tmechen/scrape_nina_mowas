@@ -867,27 +867,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-TR-SE004-20260815-4-008",
-    "version": 19,
-    "startDate": "2026-08-15T16:15:24+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "starke Rauchentwicklung im Freien - LK Bernkastel-Wittlich",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-TR-SE004-20260815-4-009",
     "version": 19,
     "startDate": "2026-08-15T16:44:48+02:00",
@@ -906,27 +885,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-RP-KO-SE153-20260815-173-001",
-    "version": 19,
-    "startDate": "2026-08-15T17:24:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauch- und Brandgeruch durch Waldbrände - LK AW, LK MYK, LK DAU, LK COC, LK BIT, LK TR-SB, Stadt TR,LK BKS-WI, LK NR",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
     }
   },
   {
@@ -1056,6 +1014,48 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KO-SE153-20260815-173-002",
+    "version": 19,
+    "startDate": "2026-08-15T18:42:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauch- und Brandgeruch durch Waldbrände - Landkreis AW,MYK,DAU,COC,BIT,TR-SB,BKS-WI,NR, KH und Stadt TR",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-TR-SE004-20260815-4-010",
+    "version": 19,
+    "startDate": "2026-08-15T18:48:43+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "starke Rauchentwicklung im Freien - LK Bernkastel-Wittlich",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
