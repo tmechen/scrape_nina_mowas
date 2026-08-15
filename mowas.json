@@ -525,27 +525,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-OB-SE055-20260815-55-000",
-    "version": 19,
-    "startDate": "2026-08-15T04:43:59+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Anscheinsgefahr - Rauchwolke und Geruchsbelästigung in Oberhausen-Alstaden - Oberhausen-Alstaden",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-RS-SE072-20260815-72-000",
     "version": 19,
     "startDate": "2026-08-15T05:32:01+02:00",
@@ -920,6 +899,28 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Geruchsbelästigung und Rauchüberzug durch Waldbrand - Stadtgebiet Nideggen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-OB-SE055-20260815-55-001",
+    "version": 19,
+    "startDate": "2026-08-15T12:45:06+02:00",
+    "expiresDate": "2026-08-15T18:45:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Anscheinsgefahr - Rauchwolke und Geruchsbelästigung in Oberhausen-Alst - Oberhausen-Alstaden",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
