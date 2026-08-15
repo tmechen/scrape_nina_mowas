@@ -588,28 +588,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BN-SE060-20260815-60-002",
-    "version": 19,
-    "startDate": "2026-08-15T13:41:50+02:00",
-    "expiresDate": "2026-08-15T19:41:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund - Bonn-Gronau",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-LEV-SE046-20260815-46-000",
     "version": 19,
     "startDate": "2026-08-15T14:03:59+02:00",
@@ -801,27 +779,6 @@
     }
   },
   {
-    "id": "mow.DE-ST-BOE-W041-20260815-000",
-    "version": 19,
-    "startDate": "2026-08-15T18:09:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "starke Rauchentwicklung durch Löscharbeiten - Eichenbarleben, Ochtmersleben",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-HN-W282-20260815-001",
     "version": 19,
     "startDate": "2026-08-15T18:14:55+02:00",
@@ -981,6 +938,28 @@
     "type": "Update",
     "i18nTitle": {
       "de": "ERNEUTER HINWEIS: Rauchentwicklung durch Brandereignis in Belgien - Saarland",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-ST-BOE-W041-20260815-001",
+    "version": 19,
+    "startDate": "2026-08-15T20:24:05+02:00",
+    "expiresDate": "2026-08-16T02:24:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: starke Rauchentwicklung durch Löscharbeiten - Eichenbarleben, Ochtmersleben",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
