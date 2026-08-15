@@ -1016,14 +1016,56 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE153-20260815-173-000",
+    "id": "mow.DE-RP-KO-SE153-20260815-173-001",
     "version": 19,
-    "startDate": "2026-08-15T16:54:28+02:00",
-    "severity": "Severe",
+    "startDate": "2026-08-15T17:24:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauch- und Brandgeruch durch Waldbrände - LK AW, LK MYK, LK DAU, LK COC, LK BIT, LK TR-SB, Stadt TR,LK BKS-WI, LK NR",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-AB-SE139-20260815-171-000",
+    "version": 19,
+    "startDate": "2026-08-15T17:25:40+02:00",
+    "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Rauch- und Brandgeruch durch Waldbrände - LK AW, LK MYK, LK Vulk.eifel, LK COC, LK BIT, LK TR-SB, Stadt TR,LK BKS-WIL",
+      "de": "Rauchentwicklung durch großen Waldbrand im Bereich Waldaschaff - Waldaschaff, Weibersbrunn, Heigenbrücken und angrenzend",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20260815-35-003",
+    "version": 19,
+    "startDate": "2026-08-15T17:35:50+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brandereignis - Nördliches Saarland",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
