@@ -588,28 +588,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-WES-SE097-20260815-97-000",
-    "version": 19,
-    "startDate": "2026-08-15T13:12:50+02:00",
-    "expiresDate": "2026-08-15T19:12:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung - Sonsbeck, Ortsteil Labbeck",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NW-BN-SE060-20260815-60-002",
     "version": 19,
     "startDate": "2026-08-15T13:41:50+02:00",
@@ -910,27 +888,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20260815-35-012",
-    "version": 19,
-    "startDate": "2026-08-15T18:59:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "ERNEUTER HINWEIS: Rauchentwicklung durch Brandereignis in Belgien - Saarland",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-AB-SE139-20260815-171-001",
     "version": 19,
     "startDate": "2026-08-15T18:59:41+02:00",
@@ -1013,6 +970,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20260815-35-013",
+    "version": 19,
+    "startDate": "2026-08-15T19:31:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "ERNEUTER HINWEIS: Rauchentwicklung durch Brandereignis in Belgien - Saarland",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
