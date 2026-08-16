@@ -273,27 +273,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20260814-99-000",
-    "version": 19,
-    "startDate": "2026-08-14T12:13:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelentschärfung in Flüggendorf - Flüggendorf",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-SU-SE057-20260814-57-001",
     "version": 19,
     "startDate": "2026-08-14T12:34:21+02:00",
@@ -365,27 +344,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Rauchausbreitung, großräumig durch Waldbrand - Bereich Büchel",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NW-RS-SE072-20260815-72-000",
-    "version": 19,
-    "startDate": "2026-08-15T05:32:01+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in Remscheid - Remscheid, gesamtes Stadtgebiet",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -630,28 +588,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-TUE-W126-20260816-000",
-    "version": 19,
-    "startDate": "2026-08-16T05:08:51+02:00",
-    "expiresDate": "2026-08-16T11:08:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Scheunenbrand - Neustetten",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-AC-SE090-20260816-90-001",
     "version": 19,
     "startDate": "2026-08-16T06:23:19+02:00",
@@ -887,6 +823,50 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-RS-SE072-20260816-72-000",
+    "version": 19,
+    "startDate": "2026-08-16T11:04:21+02:00",
+    "expiresDate": "2026-08-16T17:04:21+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung in Remscheid - Remscheid, gesamtes Stadtgebiet",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20260816-99-000",
+    "version": 19,
+    "startDate": "2026-08-16T11:14:54+02:00",
+    "expiresDate": "2026-08-16T17:14:54+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelentschärfung in Flüggendorf - Flüggendorf",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
