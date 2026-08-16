@@ -525,28 +525,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-AB-SE139-20260816-171-000",
-    "version": 19,
-    "startDate": "2026-08-16T07:32:53+02:00",
-    "expiresDate": "2026-08-16T13:32:53+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch großen Waldbrand im Bereich Waldaschaff - Waldaschaff, Weibersbrunn, Heigenbrücken Neuhütten, Wiesthal, Krommenthal",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-WUE-W164-20260816-000",
     "version": 19,
     "startDate": "2026-08-16T07:51:22+02:00",
