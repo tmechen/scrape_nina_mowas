@@ -672,27 +672,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-RT-SE050-20260815-50-000",
-    "version": 19,
-    "startDate": "2026-08-15T21:41:34+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand einer Scheune mit Heu und Stroh - Deißingen Belchenstraße",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-AC-SE090-20260815-90-001",
     "version": 19,
     "startDate": "2026-08-16T00:17:43+02:00",
@@ -830,6 +809,28 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Rauchentwicklung durch großen Waldbrand im Bereich Waldaschaff - Waldaschaff, Weibersbrunn, Heigenbrücken Neuhütten, Wiesthal, Krommenthal",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20260816-50-000",
+    "version": 19,
+    "startDate": "2026-08-16T08:20:23+02:00",
+    "expiresDate": "2026-08-16T14:20:23+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand einer Scheune mit Heu und Stroh - Deißingen Belchenstraße",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
