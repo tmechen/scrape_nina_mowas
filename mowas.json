@@ -126,27 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-TUE-W126-20260812-000",
-    "version": 19,
-    "startDate": "2026-08-12T10:53:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Hitzewelle - Stadt und Landkreis Tübingen",
-      "en": "Heat",
-      "ar": "حرارة",
-      "es": "Temperatura elevada",
-      "fr": "Chaleur intense",
-      "pl": "Upał",
-      "ru": "Жара",
-      "tr": "Aşırı sıcaklık"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-037"
-    }
-  },
-  {
     "id": "mow.DE-NW-DN-SE054-20260813-54-000",
     "version": 19,
     "startDate": "2026-08-13T15:25:52+02:00",
@@ -736,27 +715,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-LD-SE117-20260816-121-000",
-    "version": 19,
-    "startDate": "2026-08-16T06:35:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brandeinsatz in Niedersimten - Stadtteil Niedersimten",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-DU-SE038-20260816-38-000",
     "version": 19,
     "startDate": "2026-08-16T07:07:37+02:00",
@@ -852,6 +810,71 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Geruchsbelästigung in Krefeld - Stadtgebiet Krefeld",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-TUE-W126-20260816-001",
+    "version": 19,
+    "startDate": "2026-08-16T09:26:03+02:00",
+    "expiresDate": "2026-08-16T15:26:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Hitzewelle - Stadt und Landkreis Tübingen",
+      "en": "Heat",
+      "ar": "حرارة",
+      "es": "Temperatura elevada",
+      "fr": "Chaleur intense",
+      "pl": "Upał",
+      "ru": "Жара",
+      "tr": "Aşırı sıcaklık"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-037"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LD-SE117-20260816-121-001",
+    "version": 19,
+    "startDate": "2026-08-16T09:33:40+02:00",
+    "expiresDate": "2026-08-16T15:33:40+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandeinsatz in Niedersimten - Stadtteil Niedersimten",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-VIE-SE074-20260816-74-000",
+    "version": 19,
+    "startDate": "2026-08-16T09:35:09+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Großbrand in Duisburg - Stadtgebiet Willich",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
