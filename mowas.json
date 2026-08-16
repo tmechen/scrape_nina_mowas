@@ -776,5 +776,26 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-AC-SE090-20260816-90-000",
+    "version": 19,
+    "startDate": "2026-08-16T06:09:30+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vorsorgliche Vorbereitung auf eine Evakuierung - Monschau/Kalterherberg +Mützenich - Monschau - Plattevenn / Leyloch / Kalterherberg westlich Messeweg",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
   }
 ]
