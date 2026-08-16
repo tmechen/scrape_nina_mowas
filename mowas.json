@@ -756,14 +756,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-TUE-W126-20260815-000",
+    "id": "mow.DE-BW-TUE-W126-20260816-000",
     "version": 19,
-    "startDate": "2026-08-16T01:56:39+02:00",
+    "startDate": "2026-08-16T05:08:51+02:00",
+    "expiresDate": "2026-08-16T11:08:51+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Scheunenbrand - Neustetten",
+      "de": "Entwarnung: Scheunenbrand - Neustetten",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
