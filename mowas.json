@@ -483,28 +483,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20260816-35-000",
-    "version": 19,
-    "startDate": "2026-08-16T13:10:49+02:00",
-    "expiresDate": "2026-08-16T19:10:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: ERNEUTER HINWEIS: Rauchentwicklung durch Brandereignis in Belgien - Saarland",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-RP-WIL-W284-20260816-001",
     "version": 19,
     "startDate": "2026-08-16T14:11:37+02:00",
@@ -1143,14 +1121,35 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20260816-90-002",
+    "id": "mow.DE-NI-STD-SE029-20260816-29-001",
     "version": 19,
-    "startDate": "2026-08-16T18:54:21+02:00",
-    "severity": "Severe",
+    "startDate": "2026-08-16T18:59:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brandgeruch in Bückeburg - Bückeburg",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-AC-SE090-20260816-90-003",
+    "version": 19,
+    "startDate": "2026-08-16T19:16:40+02:00",
+    "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
     "i18nTitle": {
-      "de": "Dringende Empfehlung zur Evakuierung - Monschau - Plattevenn / Leyloch / Kalterherberg westlich Messeweg",
+      "de": "Information zur Betreuungsstelle Imgenbroich für die Ortsteile - Monschau - Plattevenn / Leyloch / Kalterherberg westlich Messeweg",
       "en": "Forest fire",
       "ar": "حريق بالغابات",
       "es": "Incendio forestal",
