@@ -315,27 +315,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20260816-18-000",
-    "version": 19,
-    "startDate": "2026-08-16T16:33:36+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brandgeruch - Information - Landkreis Rottweil",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-S-SE018-20260816-18-001",
     "version": 19,
     "startDate": "2026-08-16T18:18:12+02:00",
@@ -554,28 +533,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "ERNEUTER HINWEIS: Rauchentwicklung durch Brandereignis in Belgien - Saarland",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-HE-MTK-W098-20260817-000",
-    "version": 19,
-    "startDate": "2026-08-17T12:55:16+02:00",
-    "expiresDate": "2026-08-17T18:55:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Waldbrände - Main-Taunus-Kreis",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -1310,6 +1267,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20260817-18-001",
+    "version": 19,
+    "startDate": "2026-08-17T18:48:43+02:00",
+    "expiresDate": "2026-08-18T00:48:42+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brandgeruch - Information - Landkreis Rottweil",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
