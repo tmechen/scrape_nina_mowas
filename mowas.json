@@ -1008,28 +1008,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-NEW-W265-20260816-001",
-    "version": 19,
-    "startDate": "2026-08-16T23:38:05+02:00",
-    "expiresDate": "2026-08-17T05:38:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Ausbreitung von gefährlichen Brandgasen - Luhe-Wildenau",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-RT-SE050-20260816-50-002",
     "version": 19,
     "startDate": "2026-08-17T00:12:06+02:00",
@@ -1051,9 +1029,30 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20260816-000",
+    "id": "mow.DE-TH-G-W109-20260817-001",
     "version": 19,
-    "startDate": "2026-08-17T01:15:39+02:00",
+    "startDate": "2026-08-17T06:12:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Brand einer Lagerhalle - Bernsgrün / Arnsgrün",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SN-Z-SE122-20260817-154-000",
+    "version": 19,
+    "startDate": "2026-08-17T06:22:24+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
