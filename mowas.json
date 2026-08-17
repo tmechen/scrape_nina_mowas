@@ -735,27 +735,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-OG-W204-20260816-000",
-    "version": 19,
-    "startDate": "2026-08-16T15:42:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Brandgeruch - Ortenaukreis",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-PF-W024-20260816-000",
     "version": 19,
     "startDate": "2026-08-16T15:47:46+02:00",
@@ -1060,6 +1039,28 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Geruchsbelästigung durch Brandgeruch - Stadtkreis Baden-Baden und Landkreis Rastatt",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-OG-W204-20260817-000",
+    "version": 19,
+    "startDate": "2026-08-17T07:30:45+02:00",
+    "expiresDate": "2026-08-17T13:30:45+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brandgeruch - Ortenaukreis",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
