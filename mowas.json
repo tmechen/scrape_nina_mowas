@@ -126,27 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-AC-SE090-20260813-90-000",
-    "version": 19,
-    "startDate": "2026-08-13T17:06:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch einen Waldbrand - Gemeinde Hürtgenwald / Kreis Düren",
-      "en": "Forest fire",
-      "ar": "حريق بالغابات",
-      "es": "Incendio forestal",
-      "fr": "Feu de forêt",
-      "pl": "Pożar lasu",
-      "ru": "Лесной пожар",
-      "tr": "Orman yangını"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-077"
-    }
-  },
-  {
     "id": "mow.DE-NW-K-SE031-20260813-31-000",
     "version": 19,
     "startDate": "2026-08-13T18:56:24+02:00",
@@ -651,27 +630,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-MOS-W031-20260817-000",
-    "version": 19,
-    "startDate": "2026-08-17T15:12:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauch- und Brandgeruch durch Waldbrände in Nordrhein-Westfalen und Belgien - Neckar-Odenwald-Kreis",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-HE-GG-W222-20260817-001",
     "version": 19,
     "startDate": "2026-08-17T15:20:18+02:00",
@@ -924,27 +882,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-F-SE119-20260817-128-001",
-    "version": 19,
-    "startDate": "2026-08-17T16:58:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch mehrere Waldbrände - Stadtgebiet Frankfurt am Main",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BW-BB-W125-20260817-000",
     "version": 19,
     "startDate": "2026-08-17T18:22:32+02:00",
@@ -1031,14 +968,59 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20260818-56-000",
+    "id": "mow.DE-NW-AC-SE090-20260818-90-000",
     "version": 19,
-    "startDate": "2026-08-18T07:49:48+02:00",
+    "startDate": "2026-08-18T08:16:45+02:00",
+    "expiresDate": "2026-08-18T14:16:45+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch einen Waldbrand - Gemeinde Hürtgenwald / Kreis Düren",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-BW-MOS-W031-20260818-003",
+    "version": 19,
+    "startDate": "2026-08-18T08:17:45+02:00",
+    "expiresDate": "2026-08-18T14:17:45+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauch- und Brandgeruch durch Waldbrände in Nordrhein-Westfalen und Bel - Neckar-Odenwald-Kreis",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20260818-56-001",
+    "version": 19,
+    "startDate": "2026-08-18T08:21:15+02:00",
+    "expiresDate": "2026-08-18T14:21:15+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall in der Stadt Wegberg - Ortsteile Wildenrath, Dalheim-Rödgen, Arsbeck",
+      "de": "Entwarnung: Stromausfall in der Stadt Wegberg - Ortsteile Wildenrath, Dalheim-Rödgen, Arsbeck",
       "en": "Emergency number outage",
       "ar": "انقطاع اتصال الطوارئ",
       "es": "Fallo del número de emergencias",
@@ -1049,6 +1031,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-005"
+    }
+  },
+  {
+    "id": "mow.DE-HE-F-SE119-20260818-128-000",
+    "version": 19,
+    "startDate": "2026-08-18T08:31:26+02:00",
+    "expiresDate": "2026-08-18T14:31:25+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch mehrere Waldbrände - Stadtgebiet Frankfurt am Main",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
