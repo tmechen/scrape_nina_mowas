@@ -651,27 +651,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-KL-SE112-20260818-112-000",
-    "version": 19,
-    "startDate": "2026-08-18T14:03:13+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand mit Gefahr durch Rauchgase - Schrollbach",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-SI-SE066-20260818-66-000",
     "version": 19,
     "startDate": "2026-08-18T14:11:40+02:00",
@@ -908,6 +887,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KL-SE112-20260818-112-001",
+    "version": 19,
+    "startDate": "2026-08-18T22:55:59+02:00",
+    "expiresDate": "2026-08-19T04:55:58+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand mit Gefahr durch Rauchgase - Schrollbach",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
