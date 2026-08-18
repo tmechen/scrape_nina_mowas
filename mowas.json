@@ -693,28 +693,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20260818-28-001",
-    "version": 19,
-    "startDate": "2026-08-18T11:41:03+02:00",
-    "expiresDate": "2026-08-18T17:41:02+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Halstenbek",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-NE-SE044-20260818-44-000",
     "version": 19,
     "startDate": "2026-08-18T11:51:48+02:00",
