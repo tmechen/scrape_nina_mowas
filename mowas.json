@@ -607,5 +607,26 @@
     "transKeys": {
       "event": "BBK-EVC-031"
     }
+  },
+  {
+    "id": "mow.DE-HE-GI-W182-20260819-002",
+    "version": 19,
+    "startDate": "2026-08-20T00:03:01+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gasaustritt - Laubach Wetterfeld",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
