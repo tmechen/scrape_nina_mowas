@@ -567,27 +567,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-MNG-W107-20260819-000",
-    "version": 19,
-    "startDate": "2026-08-19T22:55:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefahreninformation über mehrere Baumsperren durch Unwetter - Landkreis Schmalkalden-Meiningen",
-      "en": "Severe thunderstorm with extreme gale-force winds",
-      "ar": "عواصف شديدة مصحوبة بهبوب أعاصير",
-      "es": "Tormenta fuerte con rachas de temporal huracanado extremas",
-      "fr": "Orages violents avec vent d'ouragan extrême",
-      "pl": "Silna burza z ekstremalnymi porywami wiatru",
-      "ru": "Сильная гроза с экстремальными ураганными шквалами",
-      "tr": "Şiddetli kasırgalı fırtına"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-086"
-    }
-  },
-  {
     "id": "mow.DE-RP-WW-SE116-20260819-123-000",
     "version": 19,
     "startDate": "2026-08-19T23:39:24+02:00",
@@ -627,6 +606,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-027"
+    }
+  },
+  {
+    "id": "mow.DE-TH-MNG-W107-20260819-001",
+    "version": 19,
+    "startDate": "2026-08-20T00:37:32+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Gefahreninformation über mehrere Baumsperren durch Unwetter - Landkreis Schmalkalden-Meiningen",
+      "en": "Severe thunderstorm with extreme gale-force winds",
+      "ar": "عواصف شديدة مصحوبة بهبوب أعاصير",
+      "es": "Tormenta fuerte con rachas de temporal huracanado extremas",
+      "fr": "Orages violents avec vent d'ouragan extrême",
+      "pl": "Silna burza z ekstremalnymi porywami wiatru",
+      "ru": "Сильная гроза с экстремальными ураганными шквалами",
+      "tr": "Şiddetli kasırgalı fırtına"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-086"
     }
   }
 ]
