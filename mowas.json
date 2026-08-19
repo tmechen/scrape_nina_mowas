@@ -712,5 +712,26 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20260819-29-000",
+    "version": 19,
+    "startDate": "2026-08-19T10:36:59+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahrguteinsatz im Landkreis Cloppenburg in der Gemeinde Bösel - Bösel",
+      "en": "Chemical accident",
+      "ar": "حادث كيماوي",
+      "es": "Accidente químico",
+      "fr": "Accident chimique",
+      "pl": "Wypadek chemiczny",
+      "ru": "Химическая авария",
+      "tr": "Kimyasal kaza"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-012"
+    }
   }
 ]
