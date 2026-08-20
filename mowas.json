@@ -462,50 +462,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-RO-W136-20260820-000",
-    "version": 19,
-    "startDate": "2026-08-20T13:06:21+02:00",
-    "expiresDate": "2026-08-20T19:06:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor hoher Waldbrandgefahr - Landkreis Rosenheim, Stadt Rosenheim und Landkreis Miesbach",
-      "en": "Risk of fire",
-      "ar": "خطر الحريق",
-      "es": "Peligro de incendio",
-      "fr": "Risque d'incendie",
-      "pl": "Niebezpieczeństwo pożaru",
-      "ru": "Опасность возникновения пожара",
-      "tr": "Yangın tehlikesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-011"
-    }
-  },
-  {
-    "id": "mow.DE-NI-GOE-W264-20260820-001",
-    "version": 19,
-    "startDate": "2026-08-20T13:16:52+02:00",
-    "expiresDate": "2026-08-20T19:16:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Entwarnung: Kampfmittelbeseitigung an der B27 erfolgreich - B27 Brücke",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-RP-WW-SE116-20260820-123-000",
     "version": 19,
     "startDate": "2026-08-20T14:48:08+02:00",
@@ -572,27 +528,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-BO-SE077-20260820-77-002",
-    "version": 19,
-    "startDate": "2026-08-20T17:43:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Fund von drei 250 kg Weltkriegsbomben - Bochum",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-BOT-SE062-20260820-62-001",
     "version": 19,
     "startDate": "2026-08-20T17:43:56+02:00",
@@ -656,6 +591,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BO-SE077-20260820-77-003",
+    "version": 19,
+    "startDate": "2026-08-20T19:06:53+02:00",
+    "expiresDate": "2026-08-21T01:06:53+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Fund von drei 250 kg Weltkriegsbomben - Bochum",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BY-BT-W082-20260820-000",
+    "version": 19,
+    "startDate": "2026-08-20T19:09:24+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Dachstuhlbrand - Starke Rauchentwicklung - Wartenfels",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
