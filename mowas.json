@@ -378,50 +378,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-EN-SE069-20260820-69-003",
-    "version": 19,
-    "startDate": "2026-08-20T19:02:40+02:00",
-    "expiresDate": "2026-08-21T01:02:39+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Fund von drei 250-kg-Weltkriegsbomben - Witten",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NW-BO-SE077-20260820-77-003",
-    "version": 19,
-    "startDate": "2026-08-20T19:06:53+02:00",
-    "expiresDate": "2026-08-21T01:06:53+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Fund von drei 250 kg Weltkriegsbomben - Bochum",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-RP-WW-SE116-20260820-123-001",
     "version": 19,
     "startDate": "2026-08-20T19:43:15+02:00",
