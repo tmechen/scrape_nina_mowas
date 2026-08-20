@@ -378,28 +378,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-MNG-W107-20260820-000",
-    "version": 19,
-    "startDate": "2026-08-20T16:10:35+02:00",
-    "expiresDate": "2026-08-20T22:10:35+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefahreninformation über mehrere Baumsperren durch Unwetter - Landkreis Schmalkalden-Meiningen",
-      "en": "Severe thunderstorm with extreme gale-force winds",
-      "ar": "عواصف شديدة مصحوبة بهبوب أعاصير",
-      "es": "Tormenta fuerte con rachas de temporal huracanado extremas",
-      "fr": "Orages violents avec vent d'ouragan extrême",
-      "pl": "Silna burza z ekstremalnymi porywami wiatru",
-      "ru": "Сильная гроза с экстремальными ураганными шквалами",
-      "tr": "Şiddetli kasırgalı fırtına"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-086"
-    }
-  },
-  {
     "id": "mow.DE-NW-BOT-SE062-20260820-62-001",
     "version": 19,
     "startDate": "2026-08-20T17:43:56+02:00",
@@ -506,27 +484,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20260820-84-000",
-    "version": 19,
-    "startDate": "2026-08-20T20:19:03+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Gefährdung durch Brandgase - Regensburg - Ost",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
     }
   },
   {
@@ -637,6 +594,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20260820-84-001",
+    "version": 19,
+    "startDate": "2026-08-20T22:24:21+02:00",
+    "expiresDate": "2026-08-21T04:24:20+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefährdung durch Brandgase - Regensburg - Ost",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
