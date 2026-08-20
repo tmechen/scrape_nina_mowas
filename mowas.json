@@ -546,27 +546,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-WW-W261-20260819-000",
-    "version": 19,
-    "startDate": "2026-08-19T21:32:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Aktuelle Lage für den Bereich Höhr-Grenzhausen - Höhr-Grenzhausen",
-      "en": "Storm",
-      "ar": "عاصفة",
-      "es": "Temporal",
-      "fr": "Tempête",
-      "pl": "Sztorm",
-      "ru": "Буря",
-      "tr": "Fırtına"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-064"
-    }
-  },
-  {
     "id": "mow.DE-RP-WW-SE116-20260819-123-000",
     "version": 19,
     "startDate": "2026-08-19T23:39:24+02:00",
@@ -627,6 +606,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-086"
+    }
+  },
+  {
+    "id": "mow.DE-RP-WW-W261-20260820-000",
+    "version": 19,
+    "startDate": "2026-08-20T08:07:15+02:00",
+    "expiresDate": "2026-08-20T14:07:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Aktuelle Lage für den Bereich Höhr-Grenzhausen - Höhr-Grenzhausen",
+      "en": "Storm",
+      "ar": "عاصفة",
+      "es": "Temporal",
+      "fr": "Tempête",
+      "pl": "Sztorm",
+      "ru": "Буря",
+      "tr": "Fırtına"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-064"
     }
   }
 ]
