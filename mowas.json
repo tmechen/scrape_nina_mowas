@@ -147,27 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20260817-35-001",
-    "version": 19,
-    "startDate": "2026-08-17T12:50:44+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "ERNEUTER HINWEIS: Rauchentwicklung durch Brandereignis in Belgien - Saarland",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-AC-SE090-20260818-90-003",
     "version": 19,
     "startDate": "2026-08-18T09:50:32+02:00",
@@ -441,6 +420,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20260821-35-000",
+    "version": 19,
+    "startDate": "2026-08-21T15:44:47+02:00",
+    "expiresDate": "2026-08-21T21:44:46+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: ERNEUTER HINWEIS: Rauchentwicklung durch Brandereignis in Belgien - Saarland",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
