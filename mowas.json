@@ -273,27 +273,6 @@
     }
   },
   {
-    "id": "mow.DE-RP-WW-SE116-20260820-123-001",
-    "version": 19,
-    "startDate": "2026-08-20T19:43:15+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Information für Bürger - 56424 Bannberscheid",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-NW-DN-SE054-20260821-54-000",
     "version": 19,
     "startDate": "2026-08-21T04:49:30+02:00",
@@ -442,6 +421,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-WW-SE116-20260821-123-000",
+    "version": 19,
+    "startDate": "2026-08-21T16:05:35+02:00",
+    "expiresDate": "2026-08-21T22:05:35+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Information für Bürger - 56424 Bannberscheid",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
