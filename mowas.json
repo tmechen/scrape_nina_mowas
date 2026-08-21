@@ -402,27 +402,6 @@
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE024-20260821-24-000",
-    "version": 19,
-    "startDate": "2026-08-21T19:14:28+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vorsorgliche Information - Barth - Glöwitz",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BW-HD-W086-20260821-002",
     "version": 19,
     "startDate": "2026-08-21T19:40:25+02:00",
@@ -464,6 +443,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-MV-SN-SE024-20260821-24-001",
+    "version": 19,
+    "startDate": "2026-08-21T20:37:46+02:00",
+    "expiresDate": "2026-08-22T02:37:46+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung aufgehoben - Barth - Glöwitz",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
