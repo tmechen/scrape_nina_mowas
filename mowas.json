@@ -294,28 +294,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20260822-105-002",
-    "version": 19,
-    "startDate": "2026-08-22T17:09:58+02:00",
-    "expiresDate": "2026-08-22T23:09:58+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandgase im Rahmen einer Feuerwehrausbildung - Bockholt",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-SH-KI-SE099-20260822-99-002",
     "version": 19,
     "startDate": "2026-08-22T21:13:39+02:00",
