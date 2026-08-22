@@ -294,27 +294,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20260822-105-000",
-    "version": 19,
-    "startDate": "2026-08-22T11:51:03+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brandgase im Rahmen einer Feuerwehrausbildung - Bockholt",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-LU-SE005-20260822-5-001",
     "version": 19,
     "startDate": "2026-08-22T13:12:54+02:00",
@@ -345,6 +324,27 @@
     "type": "Update",
     "i18nTitle": {
       "de": "Gefahreninformation Feuerwehreinsatz - Nortorf",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20260822-105-001",
+    "version": 19,
+    "startDate": "2026-08-22T16:04:48+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Brandgase im Rahmen einer Feuerwehrausbildung - Bockholt",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
