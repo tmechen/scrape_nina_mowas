@@ -294,14 +294,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20260822-99-001",
+    "id": "mow.DE-SH-OD-SE105-20260822-105-002",
     "version": 19,
-    "startDate": "2026-08-22T15:22:34+02:00",
+    "startDate": "2026-08-22T17:09:58+02:00",
+    "expiresDate": "2026-08-22T23:09:58+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gefahreninformation Feuerwehreinsatz - Nortorf",
+      "de": "Entwarnung: Brandgase im Rahmen einer Feuerwehrausbildung - Bockholt",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -315,15 +316,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20260822-105-002",
+    "id": "mow.DE-SH-KI-SE099-20260822-99-002",
     "version": 19,
-    "startDate": "2026-08-22T17:09:58+02:00",
-    "expiresDate": "2026-08-22T23:09:58+02:00",
+    "startDate": "2026-08-22T21:13:39+02:00",
+    "expiresDate": "2026-08-23T03:13:39+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Brandgase im Rahmen einer Feuerwehrausbildung - Bockholt",
+      "de": "Entwarnung: Gefahreninformation Feuerwehreinsatz - Nortorf",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
