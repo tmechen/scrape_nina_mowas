@@ -189,28 +189,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-PA-W160-20260824-000",
-    "version": 19,
-    "startDate": "2026-08-24T12:45:36+02:00",
-    "expiresDate": "2026-08-24T18:45:36+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 2.04 Verkeimtes Trinkwasser - Abkochanordnung für den Markt Obernzell - Markt Obernzell - Landkreis Passau",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-WUE-W164-20260824-000",
     "version": 19,
     "startDate": "2026-08-24T14:53:45+02:00",
@@ -229,6 +207,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HE-FD-W183-20260824-000",
+    "version": 19,
+    "startDate": "2026-08-24T18:52:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abkochgebot Trinkwasser - Ehrenberg-Wüstensachsen und Melperts",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
