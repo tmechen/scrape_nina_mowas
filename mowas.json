@@ -208,27 +208,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-BY-WUE-W164-20260824-001",
-    "version": 19,
-    "startDate": "2026-08-24T20:25:53+02:00",
-    "expiresDate": "2026-08-25T02:25:53+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sichtbarer Rauch und Rauchgeruch rund um den Truppenübungsplatz Hammel - Nördlicher Landkreis Main-Spessart",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
   }
 ]
