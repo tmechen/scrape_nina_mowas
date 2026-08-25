@@ -230,5 +230,26 @@
     "transKeys": {
       "event": "BBK-EVC-030"
     }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20260825-56-000",
+    "version": 19,
+    "startDate": "2026-08-25T10:33:10+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall des Notruf 112 in der Stadt Heinsberg - Heinsberg Horst und Randerath",
+      "en": "Emergency number outage",
+      "ar": "انقطاع اتصال الطوارئ",
+      "es": "Fallo del número de emergencias",
+      "fr": "Défaillance de l'appel d'urgence",
+      "pl": "Awaria połączenia alarmowego",
+      "ru": "Отказ системы вызова экстренных оперативных служб",
+      "tr": "Acil çağrı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-005"
+    }
   }
 ]
