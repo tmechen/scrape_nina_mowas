@@ -210,14 +210,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-GG-W222-20260825-000",
+    "id": "mow.DE-HE-GG-W222-20260825-001",
     "version": 19,
-    "startDate": "2026-08-25T06:14:50+02:00",
+    "startDate": "2026-08-25T07:26:27+02:00",
+    "expiresDate": "2026-08-25T13:26:27+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Geruchsbelästigung - Biebesheim",
+      "de": "Entwarnung: Geruchsbelästigung - Biebesheim",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
