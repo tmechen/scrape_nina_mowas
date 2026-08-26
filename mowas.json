@@ -147,28 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-GI-W182-20260826-000",
-    "version": 19,
-    "startDate": "2026-08-26T15:52:17+02:00",
-    "expiresDate": "2026-08-26T21:52:17+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Trinkwasser in den Ortsteilen Winnen und Nordeck muss abgekocht werden - Stadt Allendorf/Lda - Ortsteile Winnen und Nordeck",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BR-B-SE016-20260826-16-000",
     "version": 19,
     "startDate": "2026-08-26T16:54:10+02:00",
@@ -177,28 +155,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Entschärfung einer Weltkriegsbombe - Berlin-Neukölln",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20260826-18-001",
-    "version": 19,
-    "startDate": "2026-08-26T18:02:26+02:00",
-    "expiresDate": "2026-08-27T00:02:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Blindgängerentschärfung mit Evakuierung - Karlsruhe (Bereich Stuttgarter Straße)",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
@@ -233,28 +189,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-EN-SE069-20260826-69-001",
-    "version": 19,
-    "startDate": "2026-08-26T19:04:26+02:00",
-    "expiresDate": "2026-08-27T01:04:25+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand einer Lagerhalle - Ennepetal",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-NW-DO-SE067-20260826-67-001",
     "version": 19,
     "startDate": "2026-08-26T19:50:10+02:00",
@@ -274,6 +208,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BW-PF-W024-20260826-001",
+    "version": 19,
+    "startDate": "2026-08-27T00:13:40+02:00",
+    "expiresDate": "2026-08-27T06:13:40+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung aufgrund Brandereignis - Keltern OT Dietenhausen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
