@@ -231,14 +231,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-ME-SE071-20260826-71-000",
+    "id": "mow.DE-NW-ME-SE071-20260826-71-001",
     "version": 19,
-    "startDate": "2026-08-26T07:26:59+02:00",
+    "startDate": "2026-08-26T07:53:05+02:00",
+    "expiresDate": "2026-08-26T13:53:05+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Ausfall Stromversorgung - Wülfrath",
+      "de": "Entwarnung: Ausfall Stromversorgung - Wülfrath",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
