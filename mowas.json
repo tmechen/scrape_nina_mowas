@@ -253,9 +253,9 @@
     }
   },
   {
-    "id": "mow.DE-BW-HN-W282-20260826-001",
+    "id": "mow.DE-BW-HN-W282-20260826-002",
     "version": 19,
-    "startDate": "2026-08-26T09:49:02+02:00",
+    "startDate": "2026-08-26T10:52:43+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Update",
@@ -274,14 +274,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-UN-SE068-20260826-68-000",
+    "id": "mow.DE-NW-UN-SE068-20260826-68-001",
     "version": 19,
-    "startDate": "2026-08-26T10:11:01+02:00",
+    "startDate": "2026-08-26T11:44:04+02:00",
+    "expiresDate": "2026-08-26T17:44:03+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchgase - Fröndenberg (Ostbüren/Frömern)",
+      "de": "Entwarnung: Rauchgase - Fröndenberg (Ostbüren/Frömern)",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
