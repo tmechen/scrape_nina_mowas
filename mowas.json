@@ -147,27 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-BR-B-SE016-20260826-16-000",
-    "version": 19,
-    "startDate": "2026-08-26T16:54:10+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Entschärfung einer Weltkriegsbombe - Berlin-Neukölln",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-EU-SE091-20260826-109-001",
     "version": 19,
     "startDate": "2026-08-26T18:56:28+02:00",
@@ -189,15 +168,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20260826-67-001",
+    "id": "mow.DE-BR-B-SE016-20260827-16-000",
     "version": 19,
-    "startDate": "2026-08-26T19:50:10+02:00",
-    "expiresDate": "2026-08-27T01:50:10+02:00",
+    "startDate": "2026-08-27T05:25:14+02:00",
+    "expiresDate": "2026-08-27T11:25:14+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund - Dortmund; Blindgänger-Entschärfung im Bereich Strobelallee",
+      "de": "Entwarnung: Entschärfung einer Weltkriegsbombe - Berlin-Neukölln",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
@@ -211,25 +190,25 @@
     }
   },
   {
-    "id": "mow.DE-BW-PF-W024-20260826-001",
+    "id": "mow.DE-BW-HN-W282-20260827-002",
     "version": 19,
-    "startDate": "2026-08-27T00:13:40+02:00",
-    "expiresDate": "2026-08-27T06:13:40+02:00",
+    "startDate": "2026-08-27T06:19:29+02:00",
+    "expiresDate": "2026-08-27T12:19:28+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung aufgrund Brandereignis - Keltern OT Dietenhausen",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
+      "de": "Entwarnung: Brand im Landkreis Heilbronn, Erlenbach - Erlenbach",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
     },
     "transKeys": {
-      "event": "BBK-EVC-030"
+      "event": "BBK-EVC-034"
     }
   }
 ]
