@@ -166,5 +166,47 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
+  },
+  {
+    "id": "mow.DE-BW-KN-W131-20260828-000",
+    "version": 19,
+    "startDate": "2026-08-28T12:24:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Schadenereignis nach starkem Unwetter - Bohlingen",
+      "en": "Thunderstorm",
+      "ar": "عاصفة رعدية",
+      "es": "Tormentas",
+      "fr": "Orage",
+      "pl": "Burza",
+      "ru": "Гроза",
+      "tr": "Kötü hava koşulları"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-031"
+    }
+  },
+  {
+    "id": "mow.DE-BY-RO-W136-20260828-000",
+    "version": 19,
+    "startDate": "2026-08-28T12:56:11+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abkochverfügung und Chlorgebot für versorgte Ortsteile der Trinkwasserversorgung - Ortsteile der Gemeinde Riedering",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
   }
 ]
