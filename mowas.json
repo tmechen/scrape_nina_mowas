@@ -21,27 +21,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-FR-W022-20260807-000",
-    "version": 19,
-    "startDate": "2026-08-07T13:13:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Abkochgebot - Teile der Kernstadt Bad Krozingen",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-HE-GI-W182-20260819-001",
     "version": 19,
     "startDate": "2026-08-19T14:42:34+02:00",
@@ -189,14 +168,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-OF-W106-20260829-000",
+    "id": "mow.DE-HE-OF-W106-20260829-001",
     "version": 19,
-    "startDate": "2026-08-29T07:50:59+02:00",
+    "startDate": "2026-08-29T13:02:01+02:00",
+    "expiresDate": "2026-08-29T19:02:01+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Katastrophenschutzübung im Bereich des Hafens - Offenbach Hafeninsel",
+      "de": "Entwarnung: Katastrophenschutzübung im Bereich des Hafens - Offenbach Hafeninsel",
       "en": "Alert",
       "ar": "تحذير",
       "es": "Advertencia",
@@ -210,15 +190,57 @@
     }
   },
   {
-    "id": "mow.DE-BY-BT-W082-20260829-000",
+    "id": "mow.DE-BW-FR-W022-20260829-000",
     "version": 19,
-    "startDate": "2026-08-29T10:51:05+02:00",
-    "expiresDate": "2026-08-29T16:51:05+02:00",
+    "startDate": "2026-08-29T13:18:32+02:00",
+    "expiresDate": "2026-08-29T19:18:32+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Fischsterben am Naherholungsgebiet Mainaue Kulmbach - Kulmbach",
+      "de": "Entwarnung: Abkochgebot - Teile der Kernstadt Bad Krozingen",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-TH-HIG-W111-20260829-001",
+    "version": 19,
+    "startDate": "2026-08-29T13:33:10+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Ausbreitung von Brandrauch - Westhausen",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20260829-000",
+    "version": 19,
+    "startDate": "2026-08-29T13:53:16+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Verunreinigung der Brahme mit Öl - Brahmenau, Zschippach, Dorna",
       "en": "Health hazard",
       "ar": "خطر على الصحة",
       "es": "Riesgo para la salud",
@@ -232,36 +254,14 @@
     }
   },
   {
-    "id": "mow.DE-SL-SB-SE035-20260829-35-002",
+    "id": "mow.DE-SH-OD-SE105-20260829-105-000",
     "version": 19,
-    "startDate": "2026-08-29T11:10:55+02:00",
-    "expiresDate": "2026-08-29T17:10:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall - Ballweiler",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-TH-HIG-W111-20260829-000",
-    "version": 19,
-    "startDate": "2026-08-29T11:59:57+02:00",
+    "startDate": "2026-08-29T13:54:26+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Ausbreitung von Brandrauch in [ORT] - Westhausen",
+      "de": "Feuerwehreinsatz - Grammdorf",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -272,6 +272,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-KA-W138-20260829-000",
+    "version": 19,
+    "startDate": "2026-08-29T14:41:18+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "C.03 Ausfall Trinkwasserversorgung - Information - Zaisenhausen",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
