@@ -187,27 +187,5 @@
     "transKeys": {
       "event": "BBK-EVC-081"
     }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20260830-18-001",
-    "version": 19,
-    "startDate": "2026-08-30T11:20:22+02:00",
-    "expiresDate": "2026-08-30T17:20:22+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brandereignis im Stadtgebiet Mannheim - Mannheim",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
   }
 ]
