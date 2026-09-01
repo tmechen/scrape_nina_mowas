@@ -168,50 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-KN-W131-20260901-000",
-    "version": 19,
-    "startDate": "2026-09-01T15:33:55+02:00",
-    "expiresDate": "2026-09-01T21:33:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Schadenereignis nach starkem Unwetter - Bohlingen",
-      "en": "Thunderstorm",
-      "ar": "عاصفة رعدية",
-      "es": "Tormentas",
-      "fr": "Orage",
-      "pl": "Burza",
-      "ru": "Гроза",
-      "tr": "Kötü hava koşulları"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-031"
-    }
-  },
-  {
-    "id": "mow.DE-BY-KE-W173-20260901-001",
-    "version": 19,
-    "startDate": "2026-09-01T15:47:09+02:00",
-    "expiresDate": "2026-09-01T21:47:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz Brand - Obergünzburg",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-SL-SLS-W038-20260901-000",
     "version": 19,
     "startDate": "2026-09-01T16:57:24+02:00",
@@ -233,14 +189,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20260901-84-000",
+    "id": "mow.DE-BY-R-SE084-20260901-84-001",
     "version": 19,
-    "startDate": "2026-09-01T17:45:30+02:00",
+    "startDate": "2026-09-01T21:19:39+02:00",
+    "expiresDate": "2026-09-02T03:19:39+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung - Würzburg Heuchelhof und Rottenbauer",
+      "de": "Entwarnung: Rauchentwicklung - Würzburg Heuchelhof und Rottenbauer",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
