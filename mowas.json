@@ -168,28 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-WES-SE097-20260901-97-002",
-    "version": 19,
-    "startDate": "2026-09-01T13:13:42+02:00",
-    "expiresDate": "2026-09-01T19:13:42+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Moers - Stadtgebiet Moers",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BW-KN-W131-20260901-000",
     "version": 19,
     "startDate": "2026-09-01T15:33:55+02:00",
@@ -231,6 +209,48 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SLS-W038-20260901-000",
+    "version": 19,
+    "startDate": "2026-09-01T16:57:24+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Bakteriologische Beeinträchtigung des Trinkwassers - Chlorungsmaßnahmen - Biringen, Fürweiler, Gerlfangen, Oberesch und Hemmersdorf - Gde. ReSi",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20260901-84-000",
+    "version": 19,
+    "startDate": "2026-09-01T17:45:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung - Würzburg Heuchelhof und Rottenbauer",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
