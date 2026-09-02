@@ -84,27 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-VB-W221-20260825-000",
-    "version": 19,
-    "startDate": "2026-08-25T13:57:56+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Personensuche - Alsfeld und Umgebung",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-NW-EU-SE091-20260826-109-001",
     "version": 19,
     "startDate": "2026-08-26T18:56:28+02:00",
@@ -168,58 +147,36 @@
     }
   },
   {
-    "id": "mow.DE-ST-SDL-W029-20260902-002",
+    "id": "mow.DE-HE-VB-W221-20260902-000",
     "version": 19,
-    "startDate": "2026-09-02T08:08:35+02:00",
-    "expiresDate": "2026-09-02T14:08:35+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung - Gardelegen, Kloster Neuendorf, Jävenitz B188",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-TH-G-W109-20260902-000",
-    "version": 19,
-    "startDate": "2026-09-02T09:17:55+02:00",
-    "expiresDate": "2026-09-02T15:17:55+02:00",
+    "startDate": "2026-09-02T11:56:13+02:00",
+    "expiresDate": "2026-09-02T17:56:13+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Verunreinigung der Brahme mit Öl - Brahmenau, Zschippach, Dorna",
-      "en": "Health hazard",
-      "ar": "خطر على الصحة",
-      "es": "Riesgo para la salud",
-      "fr": "Risque sanitaire",
-      "pl": "Zagrożenie dla zdrowia",
-      "ru": "Опасность для здоровья",
-      "tr": "Sağlık tehlikesi"
+      "de": "Entwarnung: Personensuche - Alsfeld und Umgebung",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
     },
     "transKeys": {
-      "event": "BBK-EVC-081"
+      "event": "BBK-EVC-078"
     }
   },
   {
-    "id": "mow.DE-ST-SK-W070-20260902-000",
+    "id": "mow.DE-ST-SK-W070-20260902-001",
     "version": 19,
-    "startDate": "2026-09-02T10:40:06+02:00",
+    "startDate": "2026-09-02T12:17:58+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Warnung Großbrand - Schnellroda, Albersroda",
+      "de": "Warnung Großbrand - Schnellroda, Albersroda, St. Micheln, Zingst",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
