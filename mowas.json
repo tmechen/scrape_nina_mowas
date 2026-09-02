@@ -147,27 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20260829-000",
-    "version": 19,
-    "startDate": "2026-08-29T13:53:16+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Verunreinigung der Brahme mit Öl - Brahmenau, Zschippach, Dorna",
-      "en": "Health hazard",
-      "ar": "خطر على الصحة",
-      "es": "Riesgo para la salud",
-      "fr": "Risque sanitaire",
-      "pl": "Zagrożenie dla zdrowia",
-      "ru": "Опасность для здоровья",
-      "tr": "Sağlık tehlikesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-081"
-    }
-  },
-  {
     "id": "mow.DE-SL-SLS-W038-20260901-000",
     "version": 19,
     "startDate": "2026-09-01T16:57:24+02:00",
@@ -189,58 +168,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-MZ-SE114-20260901-125-001",
+    "id": "mow.DE-ST-SDL-W029-20260902-002",
     "version": 19,
-    "startDate": "2026-09-02T01:48:04+02:00",
-    "expiresDate": "2026-09-02T07:48:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung - Mainz - Bodenheim",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-HE-GG-W222-20260901-001",
-    "version": 19,
-    "startDate": "2026-09-02T01:50:30+02:00",
-    "expiresDate": "2026-09-02T07:50:29+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Mainz-Weisenau",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-ST-SDL-W029-20260902-001",
-    "version": 19,
-    "startDate": "2026-09-02T06:12:03+02:00",
+    "startDate": "2026-09-02T08:08:35+02:00",
+    "expiresDate": "2026-09-02T14:08:35+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Gardelegen, Kloster Neuendorf, Jävenitz B188",
+      "de": "Entwarnung: Starke Rauchentwicklung - Gardelegen, Kloster Neuendorf, Jävenitz B188",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -251,6 +187,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20260902-000",
+    "version": 19,
+    "startDate": "2026-09-02T09:17:55+02:00",
+    "expiresDate": "2026-09-02T15:17:55+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Verunreinigung der Brahme mit Öl - Brahmenau, Zschippach, Dorna",
+      "en": "Health hazard",
+      "ar": "خطر على الصحة",
+      "es": "Riesgo para la salud",
+      "fr": "Risque sanitaire",
+      "pl": "Zagrożenie dla zdrowia",
+      "ru": "Опасность для здоровья",
+      "tr": "Sağlık tehlikesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-081"
+    }
+  },
+  {
+    "id": "mow.DE-ST-SK-W070-20260902-000",
+    "version": 19,
+    "startDate": "2026-09-02T10:40:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung Großbrand - Schnellroda, Albersroda",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
