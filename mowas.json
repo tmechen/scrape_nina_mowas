@@ -189,93 +189,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-G-W109-20260903-000",
-    "version": 19,
-    "startDate": "2026-09-03T03:47:02+02:00",
-    "expiresDate": "2026-09-03T09:47:02+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand - Gefahr durch Rauchentwicklung - Bernsgrün und Umgebung",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-SN-Z-SE122-20260903-154-000",
-    "version": 19,
-    "startDate": "2026-09-03T03:57:18+02:00",
-    "expiresDate": "2026-09-03T09:57:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand - Gefahr durch Rauchentwicklung - Bernsgrün und Umgebung",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-TH-HIG-W111-20260903-000",
-    "version": 19,
-    "startDate": "2026-09-03T04:35:31+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Ausbreitung von Brandrauch in [Jützenbach] - Jützenbach",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BW-LB-W026-20260903-001",
-    "version": 19,
-    "startDate": "2026-09-03T05:12:14+02:00",
-    "expiresDate": "2026-09-03T11:12:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand - Ludwigsburg Ortsteil Neckarweihingen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-BW-UL-W127-20260903-000",
     "version": 19,
     "startDate": "2026-09-03T06:13:31+02:00",
@@ -298,14 +211,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-LB-W026-20260903-002",
+    "id": "mow.DE-BY-KRU-W174-20260903-000",
     "version": 19,
-    "startDate": "2026-09-03T06:22:07+02:00",
-    "severity": "Minor",
+    "startDate": "2026-09-03T07:11:45+02:00",
+    "expiresDate": "2026-09-03T13:11:44+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand - Ludwigsburg Ortsteil Neckarweihingen",
+      "de": "Entwarnung: Rauchgase / Rauchsäule - Ulm  und Stadtgebiet Neu-Ulm",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -319,15 +233,58 @@
     }
   },
   {
-    "id": "mow.DE-BY-KRU-W174-20260903-000",
+    "id": "mow.DE-BW-LB-W026-20260903-003",
     "version": 19,
-    "startDate": "2026-09-03T07:11:45+02:00",
-    "expiresDate": "2026-09-03T13:11:44+02:00",
-    "severity": "Severe",
+    "startDate": "2026-09-03T08:19:26+02:00",
+    "expiresDate": "2026-09-03T14:19:26+02:00",
+    "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Rauchgase / Rauchsäule - Ulm  und Stadtgebiet Neu-Ulm",
+      "de": "Entwarnung: Brand - Ludwigsburg Ortsteil Neckarweihingen",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-TH-HIG-W111-20260903-001",
+    "version": 19,
+    "startDate": "2026-09-03T09:27:48+02:00",
+    "expiresDate": "2026-09-03T15:27:47+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausbreitung von Brandrauch in [Jützenbach] - Jützenbach",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-TH-HIG-W111-20260903-002",
+    "version": 19,
+    "startDate": "2026-09-03T11:57:47+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausbreitung von Brandrauch in Heuthen und in Richtung Kreuzebra - Heuthen und Kreuzebra",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
