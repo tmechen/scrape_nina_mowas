@@ -21,48 +21,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-GI-W182-20260819-001",
-    "version": 19,
-    "startDate": "2026-08-19T14:42:34+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Das Trinkwasser in Langgöns-Cleeberg muss abgekocht werden - Langgöns-Cleeberg",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-HE-LDK-W187-20260819-000",
-    "version": 19,
-    "startDate": "2026-08-19T16:17:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserverschmutzung - Waldsolms-Weiperfelden",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-HE-FD-W183-20260824-000",
     "version": 19,
     "startDate": "2026-08-24T18:52:11+02:00",
@@ -126,27 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-SL-SLS-W038-20260901-000",
-    "version": 19,
-    "startDate": "2026-09-01T16:57:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bakteriologische Beeinträchtigung des Trinkwassers - Chlorungsmaßnahmen - Biringen, Fürweiler, Gerlfangen, Oberesch und Hemmersdorf - Gde. ReSi",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-HO-SE158-20260903-190-000",
     "version": 19,
     "startDate": "2026-09-03T12:59:38+02:00",
@@ -186,49 +123,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NI-BS-W091-20260904-000",
-    "version": 19,
-    "startDate": "2026-09-04T07:15:42+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchwolke durch Gebäudebrand - Braunschweig-Querum",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-ST-SK-W070-20260904-000",
-    "version": 19,
-    "startDate": "2026-09-04T09:05:31+02:00",
-    "expiresDate": "2026-09-04T15:05:30+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung Großbrand - Schnellroda, Albersroda, St. Micheln, Zingst",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
     }
   },
   {
@@ -339,6 +233,114 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-GI-W182-20260904-000",
+    "version": 19,
+    "startDate": "2026-09-04T11:57:35+02:00",
+    "expiresDate": "2026-09-04T17:57:34+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Das Trinkwasser in Langgöns-Cleeberg muss abgekocht werden - Langgöns-Cleeberg",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-HE-LDK-W187-20260904-000",
+    "version": 19,
+    "startDate": "2026-09-04T11:59:12+02:00",
+    "expiresDate": "2026-09-04T17:59:12+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Trinkwasserverschmutzung - Waldsolms-Weiperfelden",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-NI-DH-W233-20260904-000",
+    "version": 19,
+    "startDate": "2026-09-04T12:00:17+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Waldbrand-Einsatzübung \"Dehmse-Marhorst\" vom 04.09.26 - 06.09.26 12.00 Uhr - 27239 Twistringen, Im Waldgebiet Dehmse Bereich Altenmarhorst/Köbbinghausen",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SLS-W038-20260904-000",
+    "version": 19,
+    "startDate": "2026-09-04T13:05:28+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "1. AKTUALISIERUNG: Bakteriologische Beeinträchtigung des Trinkwassers - Chlorung - Biringen, Fürweiler, Gerlfangen und Oberesch - Gde. ReSi",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-NI-BS-W091-20260904-001",
+    "version": 19,
+    "startDate": "2026-09-04T13:07:08+02:00",
+    "expiresDate": "2026-09-04T19:07:07+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchwolke durch Gebäudebrand - Braunschweig-Querum",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
