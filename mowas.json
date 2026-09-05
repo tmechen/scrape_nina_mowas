@@ -234,27 +234,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20260905-129-000",
-    "version": 19,
-    "startDate": "2026-09-05T17:22:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgasausbreitung - Stadt Seelze",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-RP-SIM-W243-20260905-001",
     "version": 19,
     "startDate": "2026-09-05T18:07:38+02:00",
@@ -286,6 +265,28 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: FEUERWEHREINSATZ - Strasburg",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029B-20260905-129-001",
+    "version": 19,
+    "startDate": "2026-09-05T19:15:05+02:00",
+    "expiresDate": "2026-09-06T01:15:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgasausbreitung - Stadt Seelze",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
