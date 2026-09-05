@@ -168,70 +168,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20260905-99-000",
-    "version": 19,
-    "startDate": "2026-09-05T10:00:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großübung des Bevölkerungsschutzes - Preetz",
-      "en": "Major event",
-      "ar": "فعالية كبيرة",
-      "es": "Evento multitudinario",
-      "fr": "Événement de grande ampleur",
-      "pl": "Impreza masowa",
-      "ru": "Массовое мероприятие",
-      "tr": "Büyük etkinlik"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-035"
-    }
-  },
-  {
-    "id": "mow.DE-TH-AP-W115-20260905-001",
-    "version": 19,
-    "startDate": "2026-09-05T10:01:14+02:00",
-    "expiresDate": "2026-09-05T16:01:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Sirenenprobealarm - Weimarer Land",
-      "en": "Siren test",
-      "ar": "تجربة صفارة الإنذار",
-      "es": "Prueba de sirena",
-      "fr": "Test des sirènes",
-      "pl": "Test syren",
-      "ru": "Проверка средств оповещения",
-      "tr": "Siren testi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-060"
-    }
-  },
-  {
-    "id": "mow.DE-SL-SLS-W038-20260905-001",
-    "version": 19,
-    "startDate": "2026-09-05T10:44:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "1. AKTUALISIERUNG +++ÜBUNG+++ Kat.-schutzübung LK SLS ++++ BÜRGERTELEFON aktiv - Saarlouis (Innenstadt)",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-TH-UH-W116-20260905-001",
     "version": 19,
     "startDate": "2026-09-05T11:06:54+02:00",
@@ -251,6 +187,93 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SLS-W038-20260905-002",
+    "version": 19,
+    "startDate": "2026-09-05T15:04:26+02:00",
+    "expiresDate": "2026-09-05T21:04:26+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: 1. AKTUALISIERUNG +++ÜBUNG+++ Kat.-schutzübung LK SLS ++++ BÜRGERTELEF - Saarlouis (Innenstadt)",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20260905-99-001",
+    "version": 19,
+    "startDate": "2026-09-05T15:22:36+02:00",
+    "expiresDate": "2026-09-05T21:22:35+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großübung des Bevölkerungsschutzes - Preetz",
+      "en": "Major event",
+      "ar": "فعالية كبيرة",
+      "es": "Evento multitudinario",
+      "fr": "Événement de grande ampleur",
+      "pl": "Impreza masowa",
+      "ru": "Массовое мероприятие",
+      "tr": "Büyük etkinlik"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-035"
+    }
+  },
+  {
+    "id": "mow.DE-BY-A-W083-20260905-001",
+    "version": 19,
+    "startDate": "2026-09-05T16:55:05+02:00",
+    "expiresDate": "2026-09-05T22:55:05+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Brand - Stadtbergen",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-MV-HGW-W005-20260905-001",
+    "version": 19,
+    "startDate": "2026-09-05T16:59:03+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "FEUERWEHREINSATZ - Strasburg",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
