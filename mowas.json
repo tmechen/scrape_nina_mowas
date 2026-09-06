@@ -105,27 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-KI-SE099-20260903-99-000",
-    "version": 19,
-    "startDate": "2026-09-03T18:13:51+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelentschärfung im Kieler Stadtgebiet - Kiel-Dietrichsdorf",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-SL-SLS-W038-20260904-000",
     "version": 19,
     "startDate": "2026-09-04T13:05:28+02:00",
@@ -144,72 +123,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-069"
-    }
-  },
-  {
-    "id": "mow.DE-SL-SB-SE035-20260906-35-001",
-    "version": 19,
-    "startDate": "2026-09-06T09:09:00+02:00",
-    "expiresDate": "2026-09-06T15:09:00+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 3 Geruchsbelästigung - Völklingen, Bous, Wadgassen, Saarbrücken, Püttlingen, Schwalbach",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-NI-DH-W233-20260906-000",
-    "version": 19,
-    "startDate": "2026-09-06T09:51:23+02:00",
-    "expiresDate": "2026-09-06T15:51:23+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Waldbrand-Einsatzübung \"Dehmse-Marhorst\" vom 04.09.26 - 06.09.26 12.00 - 27239 Twistringen, Im Waldgebiet Dehmse Bereich Altenmarhorst/Köbbinghausen",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-TH-EF-W108-20260906-002",
-    "version": 19,
-    "startDate": "2026-09-06T10:18:33+02:00",
-    "expiresDate": "2026-09-06T16:18:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brandrauch - Großmonra und Ostramondra",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
     }
   },
   {
@@ -232,6 +145,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SH-KI-SE099-20260906-99-000",
+    "version": 19,
+    "startDate": "2026-09-06T16:08:31+02:00",
+    "expiresDate": "2026-09-06T22:08:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelentschärfung im Kieler Stadtgebiet - Kiel-Dietrichsdorf",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NI-BS-SE129-20260906-157-000",
+    "version": 19,
+    "startDate": "2026-09-06T17:23:41+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung durch Brand - Peine Ilsede",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
