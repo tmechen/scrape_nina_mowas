@@ -126,28 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20260908-129-001",
-    "version": 19,
-    "startDate": "2026-09-08T09:45:25+02:00",
-    "expiresDate": "2026-09-08T15:45:24+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großbrand im Stadtgebiet Lüneburg - Schließen Sie Fenster und Türen - Lüneburg",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20260908-000",
     "version": 19,
     "startDate": "2026-09-08T12:02:57+02:00",
@@ -169,14 +147,15 @@
     }
   },
   {
-    "id": "mow.DE-TH-GT-W112-20260908-000",
+    "id": "mow.DE-TH-GT-W112-20260908-001",
     "version": 19,
-    "startDate": "2026-09-08T14:23:47+02:00",
+    "startDate": "2026-09-08T15:40:23+02:00",
+    "expiresDate": "2026-09-08T21:40:22+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung - Goldbach (Nessetal)",
+      "de": "Entwarnung: Starke Rauchentwicklung - Goldbach (Nessetal)",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -187,6 +166,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DN-SE054-20260908-54-001",
+    "version": 19,
+    "startDate": "2026-09-08T17:46:02+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Hürtgenwald - Hürtgen",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20260908-35-001",
+    "version": 19,
+    "startDate": "2026-09-08T18:28:29+02:00",
+    "expiresDate": "2026-09-09T00:28:28+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Brandereignis - Eppelborn",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
