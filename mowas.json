@@ -126,28 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-SH-OD-SE105-20260907-105-001",
-    "version": 19,
-    "startDate": "2026-09-07T19:50:11+02:00",
-    "expiresDate": "2026-09-08T01:50:11+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Bargteheide",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-STD-SE029B-20260907-129-000",
     "version": 19,
     "startDate": "2026-09-07T22:55:44+02:00",
@@ -169,14 +147,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20260907-129-001",
+    "id": "mow.DE-NI-STD-SE029B-20260908-129-000",
     "version": 19,
-    "startDate": "2026-09-08T00:35:33+02:00",
+    "startDate": "2026-09-08T03:00:09+02:00",
+    "expiresDate": "2026-09-08T09:00:09+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchentwicklung durch Wohnhausbrand - Bad Pyrmont",
+      "de": "Entwarnung: Rauchentwicklung durch Wohnhausbrand - Bad Pyrmont",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
