@@ -84,27 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20260909-33-001",
-    "version": 19,
-    "startDate": "2026-09-09T18:58:39+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Weltkriegsbombe gefunden - Hamburg-Bahrenfeld",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BW-RA-W025-20260909-006",
     "version": 19,
     "startDate": "2026-09-09T20:52:37+02:00",
@@ -168,6 +147,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20260909-33-002",
+    "version": 19,
+    "startDate": "2026-09-09T23:02:37+02:00",
+    "expiresDate": "2026-09-10T05:02:36+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Weltkriegsbombe gefunden - Hamburg-Bahrenfeld",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
