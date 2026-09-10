@@ -105,27 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20260910-33-000",
-    "version": 19,
-    "startDate": "2026-09-10T10:56:18+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Bundesweiter Warntag 2026 und Sirenentest vor Beginn der Sturmflutsaison - Hamburg",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
     "id": "mow.DE-BB-SC-SE009-20260910-9-002",
     "version": 19,
     "startDate": "2026-09-10T11:45:04+02:00",
@@ -167,6 +146,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20260910-33-001",
+    "version": 19,
+    "startDate": "2026-09-10T11:59:21+02:00",
+    "expiresDate": "2026-09-10T17:59:21+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Bundesweiter Warntag 2026 und Sirenentest vor Beginn der Sturmflutsais - Hamburg",
+      "en": "Test alert",
+      "ar": "تحذير تجريبي",
+      "es": "Advertencia de prueba",
+      "fr": "Alarme d'essai",
+      "pl": "Ostrzeżenie próbne",
+      "ru": "Учебная тревога",
+      "tr": "Deneme uyarısı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-050"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MS-SE043-20260910-43-000",
+    "version": 19,
+    "startDate": "2026-09-10T14:49:33+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Vermuteter Kampfmittelfund - Herma-Kramm-Weg - Münster - Herma-Kramm-Weg - Münster",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
