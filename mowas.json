@@ -63,36 +63,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20260913-001",
+    "id": "mow.DE-TH-EF-W108-20260913-003",
     "version": 20,
-    "startDate": "2026-09-13T17:22:33+02:00",
-    "expiresDate": "2026-09-13T23:22:33+02:00",
+    "startDate": "2026-09-13T23:03:00+02:00",
+    "expiresDate": "2026-09-14T05:02:59+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Brand mit starker Rauchentwicklung - Sinzheim",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-TH-EF-W108-20260913-002",
-    "version": 20,
-    "startDate": "2026-09-13T21:33:55+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Brand in Weimar, Lützendorf - Stadt Weimar, Teile Landkreis Weimarer Land",
+      "de": "Entwarnung: Brand in Weimar, Lützendorf - Stadt Weimar, Teile Landkreis Weimarer Land",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
