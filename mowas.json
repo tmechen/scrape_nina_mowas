@@ -84,58 +84,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-VIE-SE074-20260913-74-001",
+    "id": "mow.DE-BW-RA-W025-20260913-001",
     "version": 20,
-    "startDate": "2026-09-13T12:21:43+02:00",
-    "expiresDate": "2026-09-13T18:21:43+02:00",
+    "startDate": "2026-09-13T17:22:33+02:00",
+    "expiresDate": "2026-09-13T23:22:33+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Ausfall Stromversorgung in Viersen Süchteln - Viersen Süchteln",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-TH-EF-W108-20260913-001",
-    "version": 20,
-    "startDate": "2026-09-13T12:37:21+02:00",
-    "expiresDate": "2026-09-13T18:37:21+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Unterbrechung der Trinkwasserversorgung - Gemeinden Eckstedt, Großrudestedt incl.OT, Ollendorf, Schloßvippach incl.OT",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RA-W025-20260913-000",
-    "version": 20,
-    "startDate": "2026-09-13T15:48:19+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand mit starker Rauchentwicklung - Sinzheim",
+      "de": "Entwarnung: Brand mit starker Rauchentwicklung - Sinzheim",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
