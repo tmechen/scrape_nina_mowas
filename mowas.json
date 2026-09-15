@@ -63,14 +63,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-FFB-W143-20260914-000",
+    "id": "mow.DE-BY-FFB-W143-20260915-000",
     "version": 20,
-    "startDate": "2026-09-14T18:16:09+02:00",
+    "startDate": "2026-09-15T07:27:23+02:00",
+    "expiresDate": "2026-09-15T13:27:23+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "starke Rauchentwicklung durch Großbrand - Gemeinde Vilgertshofen",
+      "de": "Entwarnung: starke Rauchentwicklung durch Großbrand - Gemeinde Vilgertshofen",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
@@ -84,35 +85,15 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20260914-36-000",
+    "id": "mow.DE-NI-STD-SE029-20260915-29-000",
     "version": 20,
-    "startDate": "2026-09-14T18:17:13+02:00",
+    "startDate": "2026-09-15T08:07:49+02:00",
+    "expiresDate": "2026-09-15T14:07:48+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Sprengung einer Weltkriegsbombe am 15.09. - Elsterwerda",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029B-20260915-129-000",
-    "version": 20,
-    "startDate": "2026-09-15T06:01:04+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung durch Brand - Dinklage",
+      "de": "Entwarnung: Rauchentwicklung durch Brand - Dinklage",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -123,6 +104,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BB-CB-SE036-20260915-36-001",
+    "version": 20,
+    "startDate": "2026-09-15T11:50:31+02:00",
+    "expiresDate": "2026-09-15T17:50:31+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Sprengung einer Weltkriegsbombe am 15.09. - Elsterwerda",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
