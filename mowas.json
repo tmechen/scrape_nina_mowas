@@ -21,27 +21,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-MI-SE073-20260915-73-000",
-    "version": 20,
-    "startDate": "2026-09-15T22:26:54+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in Bad Oeynhausen / Süd- und Innenstadtbereich - Bad Oeynhausen",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-NW-HF-SE039-20260915-39-000",
     "version": 20,
     "startDate": "2026-09-15T22:56:48+02:00",
@@ -63,12 +42,33 @@
     }
   },
   {
-    "id": "mow.DE-NI-GF-W216-20260915-000",
+    "id": "mow.DE-MV-SN-SE049-20260916-49-000",
     "version": 20,
-    "startDate": "2026-09-16T01:31:27+02:00",
+    "startDate": "2026-09-16T04:40:40+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch Brand einer Strohmiete - Boizenburg-Bahnhof, Schwartow",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-GF-W216-20260916-000",
+    "version": 20,
+    "startDate": "2026-09-16T05:21:38+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
     "i18nTitle": {
       "de": "Rauchgasausbreitung im Stadtgebiet Gifhorn - Innenstadtbereich",
       "en": "Fumes",
@@ -81,6 +81,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MI-SE073-20260916-73-000",
+    "version": 20,
+    "startDate": "2026-09-16T06:19:57+02:00",
+    "expiresDate": "2026-09-16T12:19:57+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung in Bad Oeynhausen / Süd- und Innenstadtbereich - Bad Oeynhausen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
