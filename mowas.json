@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-MA-W044-20260916-000",
+    "id": "mow.DE-BW-MA-W044-20260917-000",
     "version": 20,
-    "startDate": "2026-09-16T23:01:27+02:00",
+    "startDate": "2026-09-17T03:26:15+02:00",
+    "expiresDate": "2026-09-17T09:26:14+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand in Recyclingbetrieb - Mannheim",
+      "de": "Entwarnung: Brand in Recyclingbetrieb - Mannheim",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -63,35 +64,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-LU-SE005-20260916-5-000",
+    "id": "mow.DE-RP-LU-SE005-20260917-5-000",
     "version": 20,
-    "startDate": "2026-09-16T23:22:04+02:00",
+    "startDate": "2026-09-17T03:31:33+02:00",
+    "expiresDate": "2026-09-17T09:31:33+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Warnung Geruchsbelästigung aufgrund Brandereignis in Mannheim - Stadt Ludwigshafen am Rhein",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-RP-LU-SE005-20260916-5-001",
-    "version": 20,
-    "startDate": "2026-09-17T00:54:43+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung nach einem Großbrand in Mannheim - Altrip",
+      "de": "Entwarnung: Geruchsbelästigung nach einem Großbrand in Mannheim - Altrip",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -102,6 +83,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-LU-SE005-20260917-5-001",
+    "version": 20,
+    "startDate": "2026-09-17T03:33:20+02:00",
+    "expiresDate": "2026-09-17T09:33:19+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung Geruchsbelästigung aufgrund Brandereignis in Mannheim - Stadt Ludwigshafen am Rhein",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
     }
   }
 ]
