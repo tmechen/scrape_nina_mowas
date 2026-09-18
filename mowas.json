@@ -64,14 +64,15 @@
     }
   },
   {
-    "id": "mow.DE-HE-KS-SE106-20260918-106-000",
+    "id": "mow.DE-HE-KS-SE106-20260918-106-001",
     "version": 20,
-    "startDate": "2026-09-18T11:31:09+02:00",
+    "startDate": "2026-09-18T15:51:17+02:00",
+    "expiresDate": "2026-09-18T21:51:16+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall in Weinbach - Elkerhausen - Weinbach - Elkerhausen",
+      "de": "Entwarnung: Stromausfall in Weinbach - Elkerhausen - Weinbach - Elkerhausen",
       "en": "Power outage",
       "ar": "انقطاع الكهرباء",
       "es": "Interrupción del suministro eléctrico",
