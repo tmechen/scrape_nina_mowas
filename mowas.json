@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-BB-CB-SE036-20260920-36-000",
+    "id": "mow.DE-BB-CB-SE036-20260921-36-000",
     "version": 20,
-    "startDate": "2026-09-20T06:34:07+02:00",
+    "startDate": "2026-09-21T06:18:54+02:00",
+    "expiresDate": "2026-09-21T12:18:54+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brand auf dem Gelände einer Recyclinganlage - Cottbus",
+      "de": "Entwarnung: Brand auf dem Gelände einer Recyclinganlage - Cottbus",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
