@@ -84,91 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W226-20260924-000",
-    "version": 20,
-    "startDate": "2026-09-24T10:47:02+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Störung in der Notrufsignalisierung 112 / 110 - Hamburg",
-      "en": "IT system outage",
-      "ar": "انقطاع أنظمة تكنولوجيا المعلومات",
-      "es": "Fallo de los sistemas informáticos",
-      "fr": "Défaillance des systèmes informatiques",
-      "pl": "Awaria systemów informatycznych",
-      "ru": "Отказ информационных систем",
-      "tr": "BT sistemleri arızası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-004"
-    }
-  },
-  {
-    "id": "mow.DE-HB-HB-SE019-20260924-19-001",
-    "version": 20,
-    "startDate": "2026-09-24T12:16:36+02:00",
-    "expiresDate": "2026-09-24T18:16:35+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Probealarm der Sirenen - Bremen",
-      "en": "Test alert",
-      "ar": "تحذير تجريبي",
-      "es": "Advertencia de prueba",
-      "fr": "Alarme d'essai",
-      "pl": "Ostrzeżenie próbne",
-      "ru": "Учебная тревога",
-      "tr": "Deneme uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-050"
-    }
-  },
-  {
-    "id": "mow.DE-NW-RE-SE078-20260924-78-000",
-    "version": 20,
-    "startDate": "2026-09-24T15:05:12+02:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "1.1 Standard Warnung - Deutschland",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NW-DO-SE067-20260924-67-000",
-    "version": 20,
-    "startDate": "2026-09-24T16:17:20+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Kampfmittelfund - Dortmund; 2 Blindgänger-Entschärfung im Westfalenpark.",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-NW-HAM-SE085-20260924-85-001",
     "version": 20,
     "startDate": "2026-09-24T17:08:51+02:00",
@@ -188,6 +103,93 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-RE-SE078-20260924-78-001",
+    "version": 20,
+    "startDate": "2026-09-24T18:40:49+02:00",
+    "expiresDate": "2026-09-25T00:40:49+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: 1.1 Standard Warnung - Deutschland",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20260924-67-001",
+    "version": 20,
+    "startDate": "2026-09-24T18:57:28+02:00",
+    "expiresDate": "2026-09-25T00:57:27+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund - Dortmund; 2 Blindgänger-Entschärfung im Westfalenpark.",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W226-20260924-001",
+    "version": 20,
+    "startDate": "2026-09-24T19:05:08+02:00",
+    "expiresDate": "2026-09-25T01:05:08+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Störung in der Notrufsignalisierung 112 / 110 - Hamburg",
+      "en": "IT system outage",
+      "ar": "انقطاع أنظمة تكنولوجيا المعلومات",
+      "es": "Fallo de los sistemas informáticos",
+      "fr": "Défaillance des systèmes informatiques",
+      "pl": "Awaria systemów informatycznych",
+      "ru": "Отказ информационных систем",
+      "tr": "BT sistemleri arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-004"
+    }
+  },
+  {
+    "id": "mow.DE-TH-G-W109-20260924-000",
+    "version": 20,
+    "startDate": "2026-09-24T20:51:29+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gasaustritt im Stadtgebiet Greiz - Stadt Greiz",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
     }
   }
 ]
