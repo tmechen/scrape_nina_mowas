@@ -63,14 +63,37 @@
     }
   },
   {
-    "id": "mow.DE-NW-MK-SE095-20260923-95-001",
+    "id": "mow.DE-ST-MD-SE022-20260924-143-001",
     "version": 20,
-    "startDate": "2026-09-23T18:23:09+02:00",
+    "startDate": "2026-09-24T04:33:06+02:00",
+    "expiresDate": "2026-09-24T10:33:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Starke Rauchentwicklung bei einem Brandereignis in Barleben - Barleben und umliegende Gemeinden",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-MK-SE095-20260924-95-000",
+    "version": 20,
+    "startDate": "2026-09-24T05:01:51+02:00",
+    "expiresDate": "2026-09-24T11:01:51+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Brandereignis in Iserlohn-Sümmern - Iserlohn",
+      "de": "Entwarnung: Brandereignis in Iserlohn-Sümmern - Iserlohn",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
