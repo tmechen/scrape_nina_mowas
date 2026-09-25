@@ -42,27 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-TS-W135-20260924-000",
-    "version": 20,
-    "startDate": "2026-09-24T10:00:05+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Reparaturarbeiten an der Trinkwasserversorgung - Rattenkirchen, Heldenstein",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-BW-KA-W138-20260925-000",
     "version": 20,
     "startDate": "2026-09-25T09:01:07+02:00",
@@ -81,28 +60,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-081"
-    }
-  },
-  {
-    "id": "mow.DE-SH-FL-SE100-20260925-100-001",
-    "version": 20,
-    "startDate": "2026-09-25T12:22:30+02:00",
-    "expiresDate": "2026-09-25T18:22:30+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Erfde",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
     }
   },
   {
@@ -232,35 +189,37 @@
     }
   },
   {
-    "id": "mow.DE-BW-RA-W025-20260925-001",
+    "id": "mow.DE-BY-TS-W135-20260925-000",
     "version": 20,
-    "startDate": "2026-09-25T17:23:27+02:00",
+    "startDate": "2026-09-25T18:42:04+02:00",
+    "expiresDate": "2026-09-26T00:42:04+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Stromausfall großflächig - Kuppenheim",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
+      "de": "Entwarnung: Reparaturarbeiten an der Trinkwasserversorgung - Rattenkirchen, Heldenstein",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
     },
     "transKeys": {
-      "event": "BBK-EVC-063"
+      "event": "BBK-EVC-078"
     }
   },
   {
-    "id": "mow.DE-NI-H-SE110-20260925-110-000",
+    "id": "mow.DE-NI-H-SE110-20260925-110-001",
     "version": 20,
-    "startDate": "2026-09-25T17:33:20+02:00",
+    "startDate": "2026-09-25T18:47:15+02:00",
+    "expiresDate": "2026-09-26T00:47:15+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund - Poggenhagen",
+      "de": "Entwarnung: Kampfmittelfund - Poggenhagen",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
@@ -271,6 +230,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RA-W025-20260925-002",
+    "version": 20,
+    "startDate": "2026-09-25T19:11:33+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Stromausfall großflächig - Kuppenheim und Muggensturm",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
     }
   }
 ]
