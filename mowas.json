@@ -126,27 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-HE-WI-W097-20260925-000",
-    "version": 20,
-    "startDate": "2026-09-25T15:08:33+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Vorsorgliches Abkochgebot für Trinkwasser in Teilen Wiesbadens - Wiesbaden-Mitte (Teile), Wiesbaden-Nordost (Teile)",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-NW-VIE-SE074-20260926-74-002",
     "version": 20,
     "startDate": "2026-09-26T11:01:17+02:00",
@@ -212,14 +191,36 @@
     }
   },
   {
-    "id": "mow.DE-BB-EW-SE079-20260926-79-000",
+    "id": "mow.DE-HE-WI-W097-20260926-000",
     "version": 20,
-    "startDate": "2026-09-26T13:39:57+02:00",
+    "startDate": "2026-09-26T14:54:01+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "ÜBUNG ÜBUNG ÜBUNG Einsatzübung im Bereich Seefeld - Seefeld",
+      "de": "Vorsorgliches Abkochgebot für Trinkwasser in Teilen Wiesbadens - Wiesbaden-Mitte (Teile), Wiesbaden-Nordost (Teile)",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BB-EW-SE079-20260926-79-001",
+    "version": 20,
+    "startDate": "2026-09-26T15:01:45+02:00",
+    "expiresDate": "2026-09-26T21:01:45+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: ÜBUNG ÜBUNG ÜBUNG Einsatzübung im Bereich Seefeld - Seefeld",
       "en": "Risk of explosion",
       "ar": "خطر الانفجار",
       "es": "Peligro de explosión",
@@ -230,6 +231,71 @@
     },
     "transKeys": {
       "event": "BBK-EVC-020"
+    }
+  },
+  {
+    "id": "mow.DE-NW-SU-SE057-20260926-57-000",
+    "version": 20,
+    "startDate": "2026-09-26T15:08:52+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Bornheim Hersel - Bornheim-Hersel",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-HE-HG-W103-20260926-001",
+    "version": 20,
+    "startDate": "2026-09-26T15:52:58+02:00",
+    "expiresDate": "2026-09-26T21:52:58+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Es ist zu einem Brand gekommen mit Ausbreitung von Rauchgasen. - Schmitten im Taunus",
+      "en": "Forest fire",
+      "ar": "حريق بالغابات",
+      "es": "Incendio forestal",
+      "fr": "Feu de forêt",
+      "pl": "Pożar lasu",
+      "ru": "Лесной пожар",
+      "tr": "Orman yangını"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-077"
+    }
+  },
+  {
+    "id": "mow.DE-NW-UN-SE068-20260926-68-001",
+    "version": 20,
+    "startDate": "2026-09-26T15:56:19+02:00",
+    "expiresDate": "2026-09-26T21:56:19+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchgase - Fröndenberg",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
