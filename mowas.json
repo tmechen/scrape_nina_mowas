@@ -105,27 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-ERK-SE056-20260925-56-001",
-    "version": 20,
-    "startDate": "2026-09-25T14:52:28+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Umweltkeime im Trinkwasser - Kreis Heinsberg",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-TH-G-W109-20260926-000",
     "version": 20,
     "startDate": "2026-09-26T13:08:00+02:00",
@@ -168,14 +147,15 @@
     }
   },
   {
-    "id": "mow.DE-ST-MSH-W058-20260928-000",
+    "id": "mow.DE-ST-MSH-W058-20260928-001",
     "version": 20,
-    "startDate": "2026-09-28T06:39:17+02:00",
+    "startDate": "2026-09-28T08:18:06+02:00",
+    "expiresDate": "2026-09-28T14:18:06+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Starke Rauchentwicklung durch Großbrand - Eisleben",
+      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Eisleben",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
@@ -186,6 +166,70 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NW-HAM-SE085-20260928-85-000",
+    "version": 20,
+    "startDate": "2026-09-28T09:20:28+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Belästigung durch Rauchgase in der Stadt Hamm - Hamm- Innenstadt",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20260928-56-000",
+    "version": 20,
+    "startDate": "2026-09-28T11:08:34+02:00",
+    "expiresDate": "2026-09-28T17:08:33+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Umweltkeime im Trinkwasser - Kreis Heinsberg",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-N-SE137-20260928-166-000",
+    "version": 20,
+    "startDate": "2026-09-28T13:28:28+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Fund einer Weltkriegsbombe auf dem Gelände der Fa. SIEMENS Conradtystraße - Nürnberg - Gibitzenhof",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
