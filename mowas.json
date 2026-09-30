@@ -147,90 +147,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-MA-W044-20260930-001",
-    "version": 20,
-    "startDate": "2026-09-30T13:02:49+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Brandereignis im Stadtgebiet Mannheim - Mannheim",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-BW-MA-W044-20260930-011",
-    "version": 20,
-    "startDate": "2026-09-30T14:29:46+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brandereignis im Stadtgebiet Mannheim - Mannheim",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
-    "id": "mow.DE-RP-MZ-SE114-20260930-125-000",
-    "version": 20,
-    "startDate": "2026-09-30T14:41:19+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchausbreitung, großräumig - Gesamtes Stadtgebiet Worms",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-HE-HP-W196-20260930-000",
-    "version": 20,
-    "startDate": "2026-09-30T14:41:27+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Großbrand Stadtbereich Mannheim - Bürstadt und Lampertheim",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-ST-SK-W070-20260930-000",
     "version": 20,
     "startDate": "2026-09-30T15:30:55+02:00",
@@ -249,28 +165,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-SE033-20260930-33-002",
-    "version": 20,
-    "startDate": "2026-09-30T16:25:08+02:00",
-    "expiresDate": "2026-09-30T22:25:08+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Aktualisierung: Störung der Trinkwasserversorgung - Stadtgebiet Hamburg",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
     }
   },
   {
@@ -401,6 +295,115 @@
     },
     "transKeys": {
       "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-RP-MZ-SE114-20260930-125-001",
+    "version": 20,
+    "startDate": "2026-09-30T20:04:57+02:00",
+    "expiresDate": "2026-10-01T02:04:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchausbreitung, großräumig - Gesamtes Stadtgebiet Worms",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BW-MA-W044-20260930-012",
+    "version": 20,
+    "startDate": "2026-09-30T20:15:30+02:00",
+    "expiresDate": "2026-10-01T02:15:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandereignis im Stadtgebiet Mannheim - Mannheim",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BW-MA-W044-20260930-013",
+    "version": 20,
+    "startDate": "2026-09-30T20:15:41+02:00",
+    "expiresDate": "2026-10-01T02:15:41+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brandereignis im Stadtgebiet Mannheim - Mannheim",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-HE-HP-W196-20260930-001",
+    "version": 20,
+    "startDate": "2026-09-30T21:24:50+02:00",
+    "expiresDate": "2026-10-01T03:24:49+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand Stadtbereich Mannheim - Bürstadt und Lampertheim",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HE-LDK-W187-20260930-000",
+    "version": 20,
+    "startDate": "2026-09-30T22:17:19+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Freisetzung von Gefahrstoffen - Dillenburg - Kernstadt",
+      "en": "Health hazard",
+      "ar": "خطر على الصحة",
+      "es": "Riesgo para la salud",
+      "fr": "Risque sanitaire",
+      "pl": "Zagrożenie dla zdrowia",
+      "ru": "Опасность для здоровья",
+      "tr": "Sağlık tehlikesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-081"
     }
   }
 ]
