@@ -189,28 +189,6 @@
     }
   },
   {
-    "id": "mow.DE-BY-HO-SE158-20261001-190-001",
-    "version": 20,
-    "startDate": "2026-10-01T19:37:07+02:00",
-    "expiresDate": "2026-10-02T01:37:07+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wohnhausbrand Ossecker Str., Nahe der WILO - Hof / Saale Heimstättenweg",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-ST-SK-W070-20261001-002",
     "version": 20,
     "startDate": "2026-10-01T19:41:51+02:00",
@@ -250,28 +228,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-063"
-    }
-  },
-  {
-    "id": "mow.DE-NI-VER-W077-20261001-001",
-    "version": 20,
-    "startDate": "2026-10-01T19:53:09+02:00",
-    "expiresDate": "2026-10-02T01:53:09+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Brand in Oyten - Bereich Meyerdamm/Sagehorn",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
     }
   },
   {
