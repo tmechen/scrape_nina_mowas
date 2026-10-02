@@ -187,5 +187,26 @@
     "transKeys": {
       "event": "BBK-EVC-003"
     }
+  },
+  {
+    "id": "mow.DE-NW-ERK-SE056-20261002-56-000",
+    "version": 20,
+    "startDate": "2026-10-03T00:40:36+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchgase - ÜBP-Frelenberg / GEI-Teveren",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
   }
 ]
