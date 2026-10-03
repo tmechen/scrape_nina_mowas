@@ -189,28 +189,6 @@
     }
   },
   {
-    "id": "mow.DE-HB-HB-SE076-20261003-137-001",
-    "version": 20,
-    "startDate": "2026-10-03T16:43:38+02:00",
-    "expiresDate": "2026-10-03T22:43:38+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Bremerhaven, Fischereihafen",
-      "en": "Alert",
-      "ar": "تحذير",
-      "es": "Advertencia",
-      "fr": "Avertissement",
-      "pl": "Ostrzeżenie",
-      "ru": "Предупреждение",
-      "tr": "Uyarı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-078"
-    }
-  },
-  {
     "id": "mow.DE-SH-EH-SE028-20261003-28-000",
     "version": 20,
     "startDate": "2026-10-03T19:08:54+02:00",
