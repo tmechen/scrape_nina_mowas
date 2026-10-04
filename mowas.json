@@ -189,47 +189,67 @@
     }
   },
   {
-    "id": "mow.DE-SN-C-W092-20261004-001",
+    "id": "mow.DE-NI-H-SE110-20261004-110-000",
     "version": 20,
-    "startDate": "2026-10-04T03:36:14+02:00",
-    "expiresDate": "2026-10-04T09:36:14+02:00",
+    "startDate": "2026-10-04T09:00:06+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Brand Recyclinghof - Bereich Halsbrücke - Krumhermersdorf",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
+      "de": "[04a] Kampfmittelfund - Hannover - Misburg Nord",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
     },
     "transKeys": {
-      "event": "BBK-EVC-030"
+      "event": "BBK-EVC-079"
     }
   },
   {
-    "id": "mow.DE-MV-SN-SE024-20261004-24-000",
+    "id": "mow.DE-BW-RA-W025-20261004-001",
     "version": 20,
-    "startDate": "2026-10-04T06:24:41+02:00",
-    "expiresDate": "2026-10-04T12:24:41+02:00",
+    "startDate": "2026-10-04T11:40:24+02:00",
+    "expiresDate": "2026-10-04T17:40:23+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Entwarnung Geruchsbelästigung durch Brandgase - Wulkenzin, Broda, Mallin, Passentin, Neuendorf, Neu Rhäse",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
+      "de": "Entwarnung: Tunnelübung: Vernebelung der Innenstadt - keine Gefahr für die Bevölke - Gernsbach",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
     },
     "transKeys": {
-      "event": "BBK-EVC-010"
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BW-OG-W204-20261004-001",
+    "version": 20,
+    "startDate": "2026-10-04T12:47:53+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Mobilfunk z.T. ausgefallen - Hohberg Niederschopfheim",
+      "en": "Telephone line outage",
+      "ar": "انقطاع خطوط الهاتف",
+      "es": "Fallo de la línea telefónica",
+      "fr": "Défaillance de la ligne téléphonique",
+      "pl": "Awaria linii telefonicznej",
+      "ru": "Отказ линии телефонной сети",
+      "tr": "Telefon hattı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
     }
   }
 ]
