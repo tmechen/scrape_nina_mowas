@@ -189,14 +189,36 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029-20261004-29-000",
+    "id": "mow.DE-ST-MSH-W058-20261005-000",
     "version": 20,
-    "startDate": "2026-10-05T00:40:10+02:00",
+    "startDate": "2026-10-05T03:31:36+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Brand in Messenkamp - Rauchgase in den Samtgemeinden Rodenberg und Nenndorf",
+      "de": "Rauchbelästigung durch Brand - Breitungen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-NI-STD-SE029-20261005-29-000",
+    "version": 20,
+    "startDate": "2026-10-05T04:15:23+02:00",
+    "expiresDate": "2026-10-05T10:15:22+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand in Messenkamp - Rauchgase in den Samtgemeinden Rodenberg und Nenndorf",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -207,6 +229,48 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KO-SE113-20261005-113-000",
+    "version": 20,
+    "startDate": "2026-10-05T05:19:05+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung durch ein Brand eines landwirtschaftlichen Gebäudes - Lederbach",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-MV-HGW-W005-20261005-000",
+    "version": 20,
+    "startDate": "2026-10-05T08:25:15+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "BOMBENENTSCHÄRFUNG - Strand Seebad Ahlbeck",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
