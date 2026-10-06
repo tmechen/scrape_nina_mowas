@@ -229,5 +229,26 @@
     "transKeys": {
       "event": "BBK-EVC-047"
     }
+  },
+  {
+    "id": "mow.DE-HE-KS-SE106-20261006-106-000",
+    "version": 20,
+    "startDate": "2026-10-06T09:22:55+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor Gasaustritt - Romrod",
+      "en": "Gas leak",
+      "ar": "تسرب غاز",
+      "es": "Escape de gas",
+      "fr": "Fuite de gaz",
+      "pl": "Wyciek gazu",
+      "ru": "Утечка газа",
+      "tr": "Gaz kaçağı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-027"
+    }
   }
 ]
