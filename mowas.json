@@ -147,15 +147,15 @@
     }
   },
   {
-    "id": "mow.DE-ST-SK-W070-20261007-000",
+    "id": "mow.DE-HE-OF-W106-20261007-001",
     "version": 20,
-    "startDate": "2026-10-07T10:38:14+02:00",
-    "expiresDate": "2026-10-07T16:38:14+02:00",
+    "startDate": "2026-10-07T16:38:43+02:00",
+    "expiresDate": "2026-10-07T22:38:42+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund - Braunsbedra",
+      "de": "Entwarnung: Kampfmittelfund - Offenbach im Stadtwald Richtung Heusenstamm - Offenbach am Main",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
@@ -169,37 +169,35 @@
     }
   },
   {
-    "id": "mow.DE-MV-HGW-W005-20261007-000",
+    "id": "mow.DE-TH-G-W109-20261007-001",
     "version": 20,
-    "startDate": "2026-10-07T12:34:50+02:00",
-    "expiresDate": "2026-10-07T18:34:50+02:00",
+    "startDate": "2026-10-07T16:57:55+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: BOMBENENTSCHÄRFUNG - Strand Seebad Ahlbeck",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
+      "de": "Rauchentwicklung durch Brand eines Wohngebäude - Eubenberg Nummer 5",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
     },
     "transKeys": {
-      "event": "BBK-EVC-079"
+      "event": "BBK-EVC-010"
     }
   },
   {
-    "id": "mow.DE-BY-BA-W140-20261007-000",
+    "id": "mow.DE-BW-FR-W022-20261007-001",
     "version": 20,
-    "startDate": "2026-10-07T13:20:31+02:00",
-    "expiresDate": "2026-10-07T19:20:30+02:00",
+    "startDate": "2026-10-07T17:31:52+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Trinkwasserverunreinigung - Abkochgebot für Gemeindeteil Geisfeld in S - Geisfeld (Strullendorf)",
+      "de": "Abkochgebot - Bollschweil: OT Bollschweil",
       "en": "Contaminated drinking water",
       "ar": "تلوث مياه الشرب",
       "es": "Contaminación de agua potable",
@@ -213,46 +211,90 @@
     }
   },
   {
-    "id": "mow.DE-NW-NE-SE044-20261007-44-003",
+    "id": "mow.DE-BW-FR-W022-20261007-002",
     "version": 20,
-    "startDate": "2026-10-07T14:29:40+02:00",
-    "expiresDate": "2026-10-07T20:29:40+02:00",
+    "startDate": "2026-10-07T17:32:56+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Abkochgebot - Kirchzarten Ortsteile: Burg Birkenhof, Burg Höfen und Burg am Wald",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-NI-GF-W216-20261007-001",
+    "version": 20,
+    "startDate": "2026-10-07T19:23:01+02:00",
+    "expiresDate": "2026-10-08T01:23:01+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in Neuss - Westfeld - Neuss",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
+      "de": "Entwarnung: Rauchgasausbreitung in Voitze - Ortschaft Voitze",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
     },
     "transKeys": {
-      "event": "BBK-EVC-079"
+      "event": "BBK-EVC-010"
     }
   },
   {
-    "id": "mow.DE-HE-OF-W106-20261007-000",
+    "id": "mow.DE-RP-WW-SE116-20261007-123-001",
     "version": 20,
-    "startDate": "2026-10-07T15:05:52+02:00",
-    "severity": "Minor",
+    "startDate": "2026-10-07T19:56:33+02:00",
+    "expiresDate": "2026-10-08T01:56:33+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Kampfmittelfund - Offenbach im Stadtwald Richtung Heusenstamm - Offenbach am Main",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
+      "de": "Entwarnung: Geruchsbelästigungen - Lahnstein Ortsteil Süd",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
     },
     "transKeys": {
-      "event": "BBK-EVC-079"
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-RP-KO-SE113-20261007-113-001",
+    "version": 20,
+    "startDate": "2026-10-07T19:59:47+02:00",
+    "expiresDate": "2026-10-08T01:59:47+02:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigungen - Lahnstein Ortsteil Süd",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
