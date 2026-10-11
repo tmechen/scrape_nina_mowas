@@ -147,37 +147,14 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20261011-28-001",
+    "id": "mow.DE-NI-GOE-W264-20261011-000",
     "version": 21,
-    "startDate": "2026-10-11T16:31:15+02:00",
-    "expiresDate": "2026-10-11T22:31:15+02:00",
-    "severity": "Minor",
+    "startDate": "2026-10-11T23:42:37+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Vorsorgliche Information - Wesselburen",
-      "en": "Heavy rainfall",
-      "ar": "مطر شديد",
-      "es": "Lluvias torrenciales",
-      "fr": "Forte pluie",
-      "pl": "Ulewa",
-      "ru": "Сильный дождь",
-      "tr": "Yoğun yağmur"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-062"
-    }
-  },
-  {
-    "id": "mow.DE-ST-MSH-W058-20261011-001",
-    "version": 21,
-    "startDate": "2026-10-11T17:18:34+02:00",
-    "expiresDate": "2026-10-11T23:18:34+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchbelästigung durch Brand - Breitungen",
+      "de": "Rauchentwicklung durch Brand - Bad Lauterberg",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
