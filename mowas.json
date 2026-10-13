@@ -147,57 +147,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-DO-SE067-20261012-67-000",
+    "id": "mow.DE-NW-UN-SE068-20261012-68-003",
     "version": 21,
-    "startDate": "2026-10-12T18:37:11+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchgase - Stadt Schwerte",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NW-UN-SE068-20261012-68-002",
-    "version": 21,
-    "startDate": "2026-10-12T19:27:59+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Rauchgase - Stadt Schwerte",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NW-HA-SE087-20261012-149-002",
-    "version": 21,
-    "startDate": "2026-10-12T19:29:35+02:00",
-    "expiresDate": "2026-10-13T01:29:34+02:00",
+    "startDate": "2026-10-13T01:58:16+02:00",
+    "expiresDate": "2026-10-13T07:58:16+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Brand einer Lagerhalle in Schwerte - Hagen - Berchum, Garenfeld, Tiefendorf, Hohenlimburg, Oege",
+      "de": "Entwarnung: Rauchgase - Stadt Schwerte",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -211,15 +169,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-K-SE031-20261012-31-001",
+    "id": "mow.DE-NW-DO-SE067-20261013-67-000",
     "version": 21,
-    "startDate": "2026-10-12T19:30:24+02:00",
-    "expiresDate": "2026-10-13T01:30:23+02:00",
+    "startDate": "2026-10-13T02:01:15+02:00",
+    "expiresDate": "2026-10-13T08:01:15+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Brand einer Lagerhalle in Schwerte - Hagen - gesamtes Stadtgebiet Hagen",
+      "de": "Entwarnung: Rauchgase - Stadt Schwerte",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -233,15 +191,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-EN-SE069-20261012-69-003",
+    "id": "mow.DE-NW-OB-SE055-20261013-55-001",
     "version": 21,
-    "startDate": "2026-10-12T19:38:54+02:00",
-    "expiresDate": "2026-10-13T01:38:54+02:00",
+    "startDate": "2026-10-13T04:19:00+02:00",
+    "expiresDate": "2026-10-13T10:18:59+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Brand einer Lagerhalle in Schwerte - Für Witten und Herdecke",
+      "de": "Entwarnung: Brand mit starker Rauchentwicklung in Oberhausen - Schlad",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -252,28 +210,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-NW-HAM-SE085-20261012-85-001",
-    "version": 21,
-    "startDate": "2026-10-12T20:58:18+02:00",
-    "expiresDate": "2026-10-13T02:58:18+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund in der Stadt Hamm - Hamm-Süden",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
     }
   }
 ]
