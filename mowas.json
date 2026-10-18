@@ -126,6 +126,27 @@
     }
   },
   {
+    "id": "mow.DE-SH-KI-SE014-20261018-14-000",
+    "version": 21,
+    "startDate": "2026-10-18T11:19:30+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Stromausfall - Kreis Schleswig-Flensburg; Gemeinde Erfde",
+      "en": "Power outage",
+      "ar": "انقطاع الكهرباء",
+      "es": "Interrupción del suministro eléctrico",
+      "fr": "Coupure de courant",
+      "pl": "Awaria zasilania",
+      "ru": "Отказ системы электроснабжения",
+      "tr": "Elektrik kesintisi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-063"
+    }
+  },
+  {
     "id": "mow.DE-NW-ST-SE032-20261018-165-001",
     "version": 21,
     "startDate": "2026-10-18T12:09:22+02:00",
@@ -167,28 +188,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-SH-KI-SE014-20261018-14-001",
-    "version": 21,
-    "startDate": "2026-10-18T15:06:03+02:00",
-    "expiresDate": "2026-10-18T21:06:03+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Stromausfall - Kreis Schleswig-Flensburg; Gemeinde Erfde",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
     }
   }
 ]
