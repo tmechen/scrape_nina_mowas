@@ -61,49 +61,5 @@
     "transKeys": {
       "event": "BBK-EVC-069"
     }
-  },
-  {
-    "id": "mow.DE-BY-PA-W160-20261019-001",
-    "version": 21,
-    "startDate": "2026-10-19T21:53:14+02:00",
-    "expiresDate": "2026-10-20T03:53:14+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 4.01 Schadstofffreisetzung in Obernzell nach Brandereignis - Obernzell",
-      "en": "Air pollution",
-      "ar": "تلوث الهواء",
-      "es": "Contaminación atmosférica",
-      "fr": "Pollution atmosphérique",
-      "pl": "Zanieczyszczenie powietrza",
-      "ru": "Загрязнение воздуха",
-      "tr": "Hava kirliliği"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-047"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-SE033-20261019-33-001",
-    "version": 21,
-    "startDate": "2026-10-20T00:50:40+02:00",
-    "expiresDate": "2026-10-20T06:50:40+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Hamburg-St. Pauli",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
   }
 ]
