@@ -42,36 +42,36 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20261022-28-001",
+    "id": "mow.DE-NW-D-SE047-20261022-47-001",
     "version": 21,
-    "startDate": "2026-10-22T09:43:35+02:00",
-    "expiresDate": "2026-10-22T15:43:34+02:00",
+    "startDate": "2026-10-22T16:24:16+02:00",
+    "expiresDate": "2026-10-22T22:24:16+02:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Wedel",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
+      "de": "Entwarnung: Weltkriegsbombe in Düsseldorf - Düsseldorf - Mörsenbroich",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
     },
     "transKeys": {
-      "event": "BBK-EVC-034"
+      "event": "BBK-EVC-079"
     }
   },
   {
-    "id": "mow.DE-BY-N-SE137-20261022-166-000",
+    "id": "mow.DE-BW-S-SE018-20261022-18-000",
     "version": 21,
-    "startDate": "2026-10-22T12:37:28+02:00",
+    "startDate": "2026-10-22T17:49:30+02:00",
     "severity": "Severe",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Fund einer Weltkriegsbombe - Nürnberg",
+      "de": "Bombenfund mit Evakuierung - Gemarkung Sinzheim zwischen Autobahn 5 und Klärwerk Sinzheim",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
@@ -85,36 +85,15 @@
     }
   },
   {
-    "id": "mow.DE-NW-D-SE047-20261022-47-000",
+    "id": "mow.DE-BY-N-SE137-20261022-166-001",
     "version": 21,
-    "startDate": "2026-10-22T12:42:50+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Weltkriegsbombe in Düsseldorf - Düsseldorf - Mörsenbroich",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NI-GOE-W264-20261022-000",
-    "version": 21,
-    "startDate": "2026-10-22T12:55:12+02:00",
-    "expiresDate": "2026-10-22T18:55:12+02:00",
-    "severity": "Minor",
+    "startDate": "2026-10-22T18:46:02+02:00",
+    "expiresDate": "2026-10-23T00:46:01+02:00",
+    "severity": "Severe",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelbeseitigung an der B27 erfolgreich beendet - Göttingen",
+      "de": "Entwarnung: Fund einer Weltkriegsbombe - Nürnberg",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
