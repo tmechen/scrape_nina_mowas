@@ -42,27 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-COE-SE051-20261022-124-001",
-    "version": 21,
-    "startDate": "2026-10-22T21:40:32+02:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Ausfall mehrerer Telekom Festnetzanschlüsse in Nordkirchen und Umgebung - Nordkirchen",
-      "en": "Telephone line outage",
-      "ar": "انقطاع خطوط الهاتف",
-      "es": "Fallo de la línea telefónica",
-      "fr": "Défaillance de la ligne téléphonique",
-      "pl": "Awaria linii telefonicznej",
-      "ru": "Отказ линии телефонной сети",
-      "tr": "Telefon hattı arızası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-006"
-    }
-  },
-  {
     "id": "mow.DE-NW-NE-SE044-20261023-44-002",
     "version": 21,
     "startDate": "2026-10-23T15:49:35+02:00",
@@ -82,6 +61,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BY-WUE-SE159-20261023-192-001",
+    "version": 21,
+    "startDate": "2026-10-23T18:12:20+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Brand einer Lagerhalle in Iphofen - Iphofen",
+      "en": "Conflagration",
+      "ar": "حريق كبير",
+      "es": "Gran incendio",
+      "fr": "Incendie de grande ampleur",
+      "pl": "Pożar wielkopowierzchniowy",
+      "ru": "Крупный пожар",
+      "tr": "Büyük yangın"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-COE-SE051-20261023-124-000",
+    "version": 21,
+    "startDate": "2026-10-23T19:09:02+02:00",
+    "expiresDate": "2026-10-24T01:09:01+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Ausfall mehrerer Telekom Festnetzanschlüsse in Nordkirchen und Umgebun - Nordkirchen",
+      "en": "Telephone line outage",
+      "ar": "انقطاع خطوط الهاتف",
+      "es": "Fallo de la línea telefónica",
+      "fr": "Défaillance de la ligne téléphonique",
+      "pl": "Awaria linii telefonicznej",
+      "ru": "Отказ линии телефонной сети",
+      "tr": "Telefon hattı arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-006"
     }
   }
 ]
