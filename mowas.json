@@ -126,27 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20261025-004",
-    "version": 21,
-    "startDate": "2026-10-25T15:13:38+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
-      "en": "Storm surge",
-      "ar": "فيضان جراء عاصفة",
-      "es": "Marejada",
-      "fr": "Onde de tempête",
-      "pl": "Powódź spowodowana sztormem",
-      "ru": "Штормовой нагон",
-      "tr": "Fırtına seli"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
     "id": "mow.DE-BW-KN-W131-20261025-000",
     "version": 21,
     "startDate": "2026-10-25T17:57:23+01:00",
@@ -168,14 +147,35 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20261025-33-000",
+    "id": "mow.DE-HH-HH-SE033-20261025-33-001",
     "version": 21,
-    "startDate": "2026-10-25T20:50:41+01:00",
+    "startDate": "2026-10-25T23:05:03+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Update",
     "i18nTitle": {
-      "de": "Sturmflut um 04:09 Uhr (26.10.2026) mit ca. 4,10 Metern über Normalhöhennull - Hamburger Elbgebiet",
+      "de": "Sturmflut um 03:30 Uhr (26.10.2026) mit ca. 4,60 Metern über Normalhöhennull - Hamburger Elbgebiet",
+      "en": "Storm surge",
+      "ar": "فيضان جراء عاصفة",
+      "es": "Marejada",
+      "fr": "Onde de tempête",
+      "pl": "Powódź spowodowana sztormem",
+      "ru": "Штормовой нагон",
+      "tr": "Fırtına seli"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20261025-005",
+    "version": 21,
+    "startDate": "2026-10-26T00:23:55+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
       "en": "Storm surge",
       "ar": "فيضان جراء عاصفة",
       "es": "Marejada",
