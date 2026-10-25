@@ -42,28 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20261025-18-001",
-    "version": 21,
-    "startDate": "2026-10-25T12:07:28+01:00",
-    "expiresDate": "2026-10-25T18:07:27+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Großflächiger Stromausfall - Landkreis Breisgau Hochschwarzwald",
-      "en": "Power outage",
-      "ar": "انقطاع الكهرباء",
-      "es": "Interrupción del suministro eléctrico",
-      "fr": "Coupure de courant",
-      "pl": "Awaria zasilania",
-      "ru": "Отказ системы электроснабжения",
-      "tr": "Elektrik kesintisi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-063"
-    }
-  },
-  {
     "id": "mow.DE-HH-HH-W240-20261025-000",
     "version": 21,
     "startDate": "2026-10-25T12:20:09+01:00",
@@ -166,6 +144,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-BW-KN-W131-20261025-000",
+    "version": 21,
+    "startDate": "2026-10-25T17:57:23+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Geruchsbelästigung aufgrund von Brandereignis - Friedingen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
