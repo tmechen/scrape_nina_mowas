@@ -1,0 +1,132 @@
+[
+  {
+    "id": "mow.DE-SL-SLS-W038-20260904-000",
+    "version": 19,
+    "startDate": "2026-09-04T13:05:28+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "1. AKTUALISIERUNG: Bakteriologische Beeinträchtigung des Trinkwassers - Chlorung - Biringen, Fürweiler, Gerlfangen und Oberesch - Gde. ReSi",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-SR-SE142-20261012-167-000",
+    "version": 21,
+    "startDate": "2026-10-12T17:33:06+02:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasserversorgung - Böbrach",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20261026-011",
+    "version": 21,
+    "startDate": "2026-10-26T15:59:06+01:00",
+    "expiresDate": "2026-10-26T21:59:05+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einer Sturmflut - Wesergebiet",
+      "en": "Storm surge",
+      "ar": "فيضان جراء عاصفة",
+      "es": "Marejada",
+      "fr": "Onde de tempête",
+      "pl": "Powódź spowodowana sztormem",
+      "ru": "Штормовой нагон",
+      "tr": "Fırtına seli"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20261026-012",
+    "version": 21,
+    "startDate": "2026-10-26T16:01:38+01:00",
+    "expiresDate": "2026-10-26T22:01:37+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einer Sturmflut - Elbegebiet",
+      "en": "Storm surge",
+      "ar": "فيضان جراء عاصفة",
+      "es": "Marejada",
+      "fr": "Onde de tempête",
+      "pl": "Powódź spowodowana sztormem",
+      "ru": "Штормовой нагон",
+      "tr": "Fırtına seli"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  },
+  {
+    "id": "mow.DE-HE-MR-W190-20261026-001",
+    "version": 21,
+    "startDate": "2026-10-26T16:34:06+01:00",
+    "expiresDate": "2026-10-26T22:34:06+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Rauchentwicklung durch Brand - Stadtallendorf",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-W240-20261026-013",
+    "version": 21,
+    "startDate": "2026-10-26T17:13:43+01:00",
+    "expiresDate": "2026-10-26T23:13:42+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+      "en": "Storm surge",
+      "ar": "فيضان جراء عاصفة",
+      "es": "Marejada",
+      "fr": "Onde de tempête",
+      "pl": "Powódź spowodowana sztormem",
+      "ru": "Штормовой нагон",
+      "tr": "Fırtına seli"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-065"
+    }
+  }
+]
