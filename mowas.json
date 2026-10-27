@@ -42,14 +42,15 @@
     }
   },
   {
-    "id": "mow.DE-ST-SLK-W069-20261026-000",
+    "id": "mow.DE-ST-SLK-W069-20261027-000",
     "version": 21,
-    "startDate": "2026-10-27T00:36:40+01:00",
+    "startDate": "2026-10-27T02:18:33+01:00",
+    "expiresDate": "2026-10-27T08:18:33+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Rauchwolke durch Brand einer Lagerhalle - Aschersleben",
+      "de": "Entwarnung: Rauchwolke durch Brand einer Lagerhalle - Aschersleben",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
