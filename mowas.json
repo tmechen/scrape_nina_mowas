@@ -42,28 +42,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HF-SE039-20261027-39-001",
-    "version": 21,
-    "startDate": "2026-10-27T09:04:08+01:00",
-    "expiresDate": "2026-10-27T15:04:07+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung in der Stadt Enger - Stadt Enger",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-SH-OD-SE105-20261027-105-002",
     "version": 21,
     "startDate": "2026-10-27T11:00:52+01:00",
@@ -86,14 +64,15 @@
     }
   },
   {
-    "id": "mow.DE-NI-OS-SE154-20261027-186-000",
+    "id": "mow.DE-NI-OS-SE154-20261027-186-001",
     "version": 21,
-    "startDate": "2026-10-27T11:39:10+01:00",
+    "startDate": "2026-10-27T13:38:30+01:00",
+    "expiresDate": "2026-10-27T19:38:30+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Gefahrgutunfall , Gefahrgut freigesetzt - Auf der A 1 Rieste Richtung Norden",
+      "de": "Entwarnung: Gefahrgutunfall , Gefahrgut freigesetzt - Auf der A 1 Rieste Richtung Norden",
       "en": "Dangerous goods accident",
       "ar": "حادث مواد خطرة",
       "es": "Accidente imputable a mercancías peligrosas",
@@ -104,6 +83,91 @@
     },
     "transKeys": {
       "event": "BBK-EVC-029"
+    }
+  },
+  {
+    "id": "mow.DE-NI-VEC-W078-20261027-001",
+    "version": 21,
+    "startDate": "2026-10-27T13:42:09+01:00",
+    "expiresDate": "2026-10-27T19:42:08+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Freisetzung von Gefahrstoff A1 - BAB A1 Rieste Richtung südl. Landkreis Vechta",
+      "en": "Dangerous goods accident",
+      "ar": "حادث مواد خطرة",
+      "es": "Accidente imputable a mercancías peligrosas",
+      "fr": "Accident impliquant des substances dangereuses",
+      "pl": "Wypadek z materiałami niebezpiecznymi",
+      "ru": "Авария при перевозке опасных грузов",
+      "tr": "Tehlikeli madde kazası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-029"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20261027-35-000",
+    "version": 21,
+    "startDate": "2026-10-27T13:54:30+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Verunreinigung Gewässer - Riegelsberg, Püttlingen, Völklingen",
+      "en": "Health hazard",
+      "ar": "خطر على الصحة",
+      "es": "Riesgo para la salud",
+      "fr": "Risque sanitaire",
+      "pl": "Zagrożenie dla zdrowia",
+      "ru": "Опасность для здоровья",
+      "tr": "Sağlık tehlikesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-081"
+    }
+  },
+  {
+    "id": "mow.DE-SL-SB-SE035-20261027-35-001",
+    "version": 21,
+    "startDate": "2026-10-27T14:47:41+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Trinkwasserversorgung - Saarbrücken Malstatt, Burbach",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-NW-EN-SE069-20261027-69-000",
+    "version": 21,
+    "startDate": "2026-10-27T16:28:56+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Ausfall Trinkwasserversorgung - Herdecke",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
     }
   }
 ]
