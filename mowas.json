@@ -42,91 +42,24 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-W240-20261026-011",
+    "id": "mow.DE-ST-SLK-W069-20261026-000",
     "version": 21,
-    "startDate": "2026-10-26T15:59:06+01:00",
-    "expiresDate": "2026-10-26T21:59:05+01:00",
+    "startDate": "2026-10-27T00:36:40+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Cancel",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut - Wesergebiet",
-      "en": "Storm surge",
-      "ar": "فيضان جراء عاصفة",
-      "es": "Marejada",
-      "fr": "Onde de tempête",
-      "pl": "Powódź spowodowana sztormem",
-      "ru": "Штормовой нагон",
-      "tr": "Fırtına seli"
+      "de": "Rauchwolke durch Brand einer Lagerhalle - Aschersleben",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
     },
     "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-W240-20261026-012",
-    "version": 21,
-    "startDate": "2026-10-26T16:01:38+01:00",
-    "expiresDate": "2026-10-26T22:01:37+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut - Elbegebiet",
-      "en": "Storm surge",
-      "ar": "فيضان جراء عاصفة",
-      "es": "Marejada",
-      "fr": "Onde de tempête",
-      "pl": "Powódź spowodowana sztormem",
-      "ru": "Штормовой нагон",
-      "tr": "Fırtına seli"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
-    }
-  },
-  {
-    "id": "mow.DE-HE-MR-W190-20261026-001",
-    "version": 21,
-    "startDate": "2026-10-26T16:34:06+01:00",
-    "expiresDate": "2026-10-26T22:34:06+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Brand - Stadtallendorf",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-W240-20261026-013",
-    "version": 21,
-    "startDate": "2026-10-26T17:13:43+01:00",
-    "expiresDate": "2026-10-26T23:13:42+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Warnung vor einer Sturmflut - Hamburger Elbegebiet",
-      "en": "Storm surge",
-      "ar": "فيضان جراء عاصفة",
-      "es": "Marejada",
-      "fr": "Onde de tempête",
-      "pl": "Powódź spowodowana sztormem",
-      "ru": "Штормовой нагон",
-      "tr": "Fırtına seli"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-065"
+      "event": "BBK-EVC-010"
     }
   }
 ]
