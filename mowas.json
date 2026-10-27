@@ -42,25 +42,68 @@
     }
   },
   {
-    "id": "mow.DE-ST-SLK-W069-20261027-000",
+    "id": "mow.DE-NW-HF-SE039-20261027-39-001",
     "version": 21,
-    "startDate": "2026-10-27T02:18:33+01:00",
-    "expiresDate": "2026-10-27T08:18:33+01:00",
+    "startDate": "2026-10-27T09:04:08+01:00",
+    "expiresDate": "2026-10-27T15:04:07+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Rauchwolke durch Brand einer Lagerhalle - Aschersleben",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
+      "de": "Entwarnung: Geruchsbelästigung in der Stadt Enger - Stadt Enger",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
     },
     "transKeys": {
-      "event": "BBK-EVC-010"
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20261027-105-002",
+    "version": 21,
+    "startDate": "2026-10-27T11:00:52+01:00",
+    "expiresDate": "2026-10-27T17:00:51+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Evakuierung/Räumung - Müssen",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-NI-OS-SE154-20261027-186-000",
+    "version": 21,
+    "startDate": "2026-10-27T11:39:10+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Gefahrgutunfall , Gefahrgut freigesetzt - Auf der A 1 Rieste Richtung Norden",
+      "en": "Dangerous goods accident",
+      "ar": "حادث مواد خطرة",
+      "es": "Accidente imputable a mercancías peligrosas",
+      "fr": "Accident impliquant des substances dangereuses",
+      "pl": "Wypadek z materiałami niebezpiecznymi",
+      "ru": "Авария при перевозке опасных грузов",
+      "tr": "Tehlikeli madde kazası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-029"
     }
   }
 ]
