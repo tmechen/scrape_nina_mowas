@@ -84,32 +84,11 @@
     }
   },
   {
-    "id": "mow.DE-NW-HAM-SE085-20261029-85-002",
+    "id": "mow.DE-NW-HAM-SE085-20261029-85-004",
     "version": 21,
-    "startDate": "2026-10-29T08:44:19+01:00",
+    "startDate": "2026-10-29T10:38:24+01:00",
+    "expiresDate": "2026-10-29T16:38:24+01:00",
     "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Belästigung durch Rauchgase in der Stadt Hamm - HAMM - Sandbochum, Bockum-Hövel",
-      "en": "Conflagration",
-      "ar": "حريق كبير",
-      "es": "Gran incendio",
-      "fr": "Incendie de grande ampleur",
-      "pl": "Pożar wielkopowierzchniowy",
-      "ru": "Крупный пожар",
-      "tr": "Büyük yangın"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-034"
-    }
-  },
-  {
-    "id": "mow.DE-NW-HAM-SE085-20261029-85-003",
-    "version": 21,
-    "startDate": "2026-10-29T08:47:56+01:00",
-    "expiresDate": "2026-10-29T14:47:56+01:00",
-    "severity": "Severe",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
@@ -124,6 +103,112 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-SH-OD-SE105-20261029-105-000",
+    "version": 21,
+    "startDate": "2026-10-29T11:13:39+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Rauchentwicklung - Wentorf HH",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-WAF-SE045-20261029-45-000",
+    "version": 21,
+    "startDate": "2026-10-29T15:07:12+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund in Ahlen - Ahlen",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-SN-DD-W094-20261029-001",
+    "version": 21,
+    "startDate": "2026-10-29T15:31:54+01:00",
+    "expiresDate": "2026-10-29T21:31:53+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Großbrand eines Gebäudes - Dresden Trachau",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HE-FB-W193-20261029-001",
+    "version": 21,
+    "startDate": "2026-10-29T15:54:11+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "[WS 2] Kampfmittelfund - Butzbach Stadtwald",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-HE-GI-W182-20261029-000",
+    "version": 21,
+    "startDate": "2026-10-29T16:07:31+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "[WS 2] Kampfmittelfund - Butzbach Stadtwald",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
