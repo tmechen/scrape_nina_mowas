@@ -14,7 +14,13 @@ jobs:
       uses: actions/checkout@v4
     - name: Fetch latest data
       run: |-
-        curl https://warnung.bund.de/api31/mowas/mapData.json | jq . > mowas.json
+        # api33 (NINA-App ab 3.7) bevorzugt, api31 als Rückfall; nur eine gültige Liste wird übernommen
+        for gen in api33 api31; do
+          if curl -fsS --retry 2 "https://warnung.bund.de/$gen/mowas/mapData.json" -o raw.json && jq -e 'type == "array"' raw.json > /dev/null; then
+            jq . raw.json > mowas.json && break
+          fi
+        done
+        rm -f raw.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
