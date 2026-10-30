@@ -84,58 +84,15 @@
     }
   },
   {
-    "id": "mow.DE-BB-FF-SE080-20261029-80-000",
+    "id": "mow.DE-BB-FF-SE080-20261030-80-000",
     "version": 21,
-    "startDate": "2026-10-29T16:31:15+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung in Märkisch-Oderland - 16269 Bliesdorf",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-BY-R-SE084-20261029-84-002",
-    "version": 21,
-    "startDate": "2026-10-29T20:57:30+01:00",
-    "expiresDate": "2026-10-30T02:57:29+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Gefährdung auf Grund eines Bombenfunds - Stadtteil Burgweinting, Regensburg",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NW-DO-SE067-20261029-67-001",
-    "version": 21,
-    "startDate": "2026-10-29T21:21:23+01:00",
-    "expiresDate": "2026-10-30T03:21:22+01:00",
+    "startDate": "2026-10-30T05:35:33+01:00",
+    "expiresDate": "2026-10-30T11:35:32+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Rauchentwicklung durch Feuer - Dortmund Lanstrop",
+      "de": "Entwarnung: Geruchsbelästigung in Märkisch-Oderland - 16269 Bliesdorf",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
