@@ -126,27 +126,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-SHA-W039-20261103-000",
-    "version": 8,
-    "startDate": "2026-11-03T17:00:39+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Geruchsbelästigung durch Rauchentwicklung - Schwäbisch Hall-Sulzdorf",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20261103-84-000",
     "version": 8,
     "startDate": "2026-11-03T17:04:19+01:00",
@@ -168,25 +147,25 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-SE137-20261103-166-001",
+    "id": "mow.DE-BW-SHA-W039-20261103-001",
     "version": 8,
-    "startDate": "2026-11-03T18:22:20+01:00",
-    "expiresDate": "2026-11-04T00:22:19+01:00",
-    "severity": "Severe",
+    "startDate": "2026-11-03T23:01:25+01:00",
+    "expiresDate": "2026-11-04T05:01:25+01:00",
+    "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Blindgängerfund - Waldgebiet nördlich der Trierer Straße",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
+      "de": "Entwarnung: Geruchsbelästigung durch Rauchentwicklung - Schwäbisch Hall-Sulzdorf",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
     },
     "transKeys": {
-      "event": "BBK-EVC-079"
+      "event": "BBK-EVC-030"
     }
   }
 ]
