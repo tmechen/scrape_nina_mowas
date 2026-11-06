@@ -105,14 +105,36 @@
     }
   },
   {
-    "id": "mow.DE-NW-KR-SE075-20261106-75-010",
+    "id": "mow.DE-TH-ARN-W014-20261106-000",
     "version": 8,
-    "startDate": "2026-11-06T11:14:31+01:00",
+    "startDate": "2026-11-06T13:58:03+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Alert",
     "i18nTitle": {
-      "de": "Schadstofffreisetzung in Krefeld - Berliner Straße Auffahrt zur A57",
+      "de": "Brand - Arnstadt",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-KR-SE075-20261106-75-012",
+    "version": 8,
+    "startDate": "2026-11-06T17:18:05+01:00",
+    "expiresDate": "2026-11-06T23:18:05+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Schadstofffreisetzung in Krefeld - Berliner Straße Auffahrt zur A57",
       "en": "Chemical hazard",
       "ar": "خطر كيماوي",
       "es": "Peligro químico",
@@ -123,50 +145,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-014"
-    }
-  },
-  {
-    "id": "mow.DE-NW-KR-SE075-20261106-75-011",
-    "version": 8,
-    "startDate": "2026-11-06T11:14:52+01:00",
-    "expiresDate": "2026-11-06T17:14:51+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Schadstofffreisetzung in Krefeld - Stadtgebiet Krefeld",
-      "en": "Dangerous goods accident",
-      "ar": "حادث مواد خطرة",
-      "es": "Accidente imputable a mercancías peligrosas",
-      "fr": "Accident impliquant des substances dangereuses",
-      "pl": "Wypadek z materiałami niebezpiecznymi",
-      "ru": "Авария при перевозке опасных грузов",
-      "tr": "Tehlikeli madde kazası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-029"
-    }
-  },
-  {
-    "id": "mow.DE-NW-MS-SE043-20261106-43-002",
-    "version": 8,
-    "startDate": "2026-11-06T11:51:55+01:00",
-    "expiresDate": "2026-11-06T17:51:55+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund MS - Münster - Lippstädter Strasse",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
     }
   }
 ]
