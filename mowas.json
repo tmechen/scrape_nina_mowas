@@ -84,36 +84,36 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20261108-18-001",
+    "id": "mow.DE-HE-FB-W193-20261108-001",
     "version": 8,
-    "startDate": "2026-11-08T12:07:17+01:00",
-    "expiresDate": "2026-11-08T18:07:17+01:00",
+    "startDate": "2026-11-08T18:28:01+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Bevölkerunginformation - Münzenberg OT Gambach",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-HE-MR-W190-20261108-001",
+    "version": 8,
+    "startDate": "2026-11-08T19:10:17+01:00",
+    "expiresDate": "2026-11-09T01:10:16+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Brandereignis - Inzlingen",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-HE-MR-W190-20261108-000",
-    "version": 8,
-    "startDate": "2026-11-08T17:03:21+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Rauchentwicklung bei Brandereignis - Dautphetal-Dautphe und Dautphetal-Wolfgruben",
+      "de": "Entwarnung: Rauchentwicklung bei Brandereignis - Dautphetal-Dautphe und Dautphetal-Wolfgruben",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
