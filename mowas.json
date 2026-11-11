@@ -84,35 +84,36 @@
     }
   },
   {
-    "id": "mow.DE-SH-EH-SE028-20261110-28-000",
+    "id": "mow.DE-BB-P-SE082-20261110-82-000",
     "version": 8,
-    "startDate": "2026-11-10T18:10:08+01:00",
+    "startDate": "2026-11-10T22:07:52+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Feuerwehreinsatz - Ellerau",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
+      "de": "Geruchsbelästigung nach Brandereigniss - Potsdam",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
     },
     "transKeys": {
-      "event": "BBK-EVC-010"
+      "event": "BBK-EVC-030"
     }
   },
   {
-    "id": "mow.DE-NW-BO-SE077-20261110-77-001",
+    "id": "mow.DE-NW-BO-SE077-20261110-77-003",
     "version": 8,
-    "startDate": "2026-11-10T18:23:22+01:00",
+    "startDate": "2026-11-10T22:22:55+01:00",
+    "expiresDate": "2026-11-11T04:22:55+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Update",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Fund einer Weltkriegsbombe - Bochum-Wiemelhausen",
+      "de": "Entwarnung: Fund einer Weltkriegsbombe - Bochum-Wiemelhausen",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
@@ -123,6 +124,28 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-SH-EH-SE028-20261111-28-000",
+    "version": 8,
+    "startDate": "2026-11-11T01:25:53+01:00",
+    "expiresDate": "2026-11-11T07:25:52+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Ellerau",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
     }
   }
 ]
