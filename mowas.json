@@ -84,72 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-TH-GT-W112-20261111-001",
-    "version": 8,
-    "startDate": "2026-11-11T17:02:34+01:00",
-    "expiresDate": "2026-11-11T23:02:34+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Vollsperrung: Fahrbahnverunreinigung - B7 Gamstädt, K4 Pferdingsleben",
-      "en": "Traffic alert",
-      "ar": "تحذير مروري",
-      "es": "Advertencia de tráfico",
-      "fr": "Alerte trafic",
-      "pl": "Ostrzeżenie drogowe",
-      "ru": "Предупреждение о ситуации на дороге",
-      "tr": "Trafik uyarısı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-075"
-    }
-  },
-  {
-    "id": "mow.DE-BY-N-SE137-20261111-166-001",
-    "version": 8,
-    "startDate": "2026-11-11T18:43:38+01:00",
-    "expiresDate": "2026-11-12T00:43:37+01:00",
-    "severity": "Severe",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Fund einer Weltkriegsbombe - Trierer Straße (höhe Hornbach)",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NW-BOT-SE062-20261111-62-001",
-    "version": 8,
-    "startDate": "2026-11-11T19:13:17+01:00",
-    "expiresDate": "2026-11-12T01:13:16+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund - Bottrop Boy",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
     "id": "mow.DE-BY-N-SE137-20261111-166-003",
     "version": 8,
     "startDate": "2026-11-11T20:16:22+01:00",
@@ -171,49 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-NW-HF-SE039-20261111-39-001",
-    "version": 8,
-    "startDate": "2026-11-11T21:02:49+01:00",
-    "expiresDate": "2026-11-12T03:02:48+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch ein Brandereignis - Bünde",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BW-S-SE018-20261111-18-000",
-    "version": 8,
-    "startDate": "2026-11-11T21:33:53+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brand im Bereich Ladenburg Industriegebiet - Ladenburg und Heddesheim",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
     "id": "mow.DE-NI-EL-W089-20261111-001",
     "version": 8,
     "startDate": "2026-11-11T22:38:13+01:00",
@@ -223,6 +114,28 @@
     "type": "Cancel",
     "i18nTitle": {
       "de": "Entwarnung: Starke Rauchentwicklung durch Großbrand - Papenburg",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20261111-18-001",
+    "version": 8,
+    "startDate": "2026-11-11T23:12:55+01:00",
+    "expiresDate": "2026-11-12T05:12:55+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Brand im Bereich Ladenburg Industriegebiet - Ladenburg und Heddesheim",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
