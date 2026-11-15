@@ -105,15 +105,15 @@
     }
   },
   {
-    "id": "mow.DE-BW-KN-W131-20261115-001",
+    "id": "mow.DE-BY-KRU-W174-20261115-001",
     "version": 8,
-    "startDate": "2026-11-15T10:22:30+01:00",
-    "expiresDate": "2026-11-15T16:22:29+01:00",
-    "severity": "Minor",
+    "startDate": "2026-11-15T13:24:09+01:00",
+    "expiresDate": "2026-11-15T19:24:09+01:00",
+    "severity": "Severe",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brand einer Lagerhalle - Gemeinde Steißlingen",
+      "de": "Entwarnung: Brand in / im (Kreis / Stadt /Stadtgebiet) - Vöhringen",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
