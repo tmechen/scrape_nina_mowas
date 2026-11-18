@@ -84,28 +84,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20261117-18-001",
-    "version": 8,
-    "startDate": "2026-11-17T14:35:08+01:00",
-    "expiresDate": "2026-11-17T20:35:07+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: 01.01 Brand - Information - Schramberg-Waldmössingen / Fluorn-Winzeln",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
     "id": "mow.DE-SH-FL-SE100-20261117-100-000",
     "version": 8,
     "startDate": "2026-11-17T15:42:22+01:00",
@@ -114,28 +92,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Allgemeiner Schadensfall - Gemeinde Brodersby-Goltoft",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-SH-OD-SE105-20261117-105-002",
-    "version": 8,
-    "startDate": "2026-11-17T15:53:23+01:00",
-    "expiresDate": "2026-11-17T21:53:23+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Neustadt in Holstein",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -167,6 +123,49 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BW-RT-SE050-20261117-50-000",
+    "version": 8,
+    "startDate": "2026-11-18T00:42:56+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Brands eines Wohnhauses - Frickenhausen, Hauptstraße",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-BY-AB-SE139-20261117-171-001",
+    "version": 8,
+    "startDate": "2026-11-18T00:46:08+01:00",
+    "expiresDate": "2026-11-18T06:46:07+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brandereigniss - Aschaffenburg Hafen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
     }
   }
 ]
