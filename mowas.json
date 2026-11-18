@@ -84,14 +84,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20261117-100-000",
+    "id": "mow.DE-SH-FL-SE100-20261118-100-000",
     "version": 8,
-    "startDate": "2026-11-17T15:42:22+01:00",
+    "startDate": "2026-11-18T05:28:11+01:00",
+    "expiresDate": "2026-11-18T11:28:11+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
     "i18nTitle": {
-      "de": "Allgemeiner Schadensfall - Gemeinde Brodersby-Goltoft",
+      "de": "Entwarnung: Allgemeiner Schadensfall - Gemeinde Brodersby-Goltoft",
       "en": "Fumes",
       "ar": "غازات حارقة",
       "es": "Gases de combustión",
@@ -105,12 +106,56 @@
     }
   },
   {
-    "id": "mow.DE-BY-N-SE137-20261117-166-000",
+    "id": "mow.DE-SH-EH-SE028-20261118-28-001",
     "version": 8,
-    "startDate": "2026-11-17T16:40:18+01:00",
+    "startDate": "2026-11-18T06:04:05+01:00",
+    "expiresDate": "2026-11-18T12:04:05+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
-    "type": "Alert",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Feuerwehreinsatz - Wedel",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20261118-33-001",
+    "version": 8,
+    "startDate": "2026-11-18T06:13:16+01:00",
+    "expiresDate": "2026-11-18T12:13:16+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung - Hamburg-Rissen",
+      "en": "Odour nuisance",
+      "ar": "انزعاج من الروائح الكريهة",
+      "es": "Molestia por malos olores",
+      "fr": "Nuisance olfactive",
+      "pl": "Uciążliwy zapach",
+      "ru": "Неприятные запахи",
+      "tr": "Koku rahatsızlığı"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  },
+  {
+    "id": "mow.DE-BY-N-SE137-20261118-166-000",
+    "version": 8,
+    "startDate": "2026-11-18T08:47:26+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
     "i18nTitle": {
       "de": "Fund einer Weltkriegsbombe - Nürnberg, Kettelersiedlung",
       "en": "Second World War bomb",
@@ -123,49 +168,6 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-BW-RT-SE050-20261117-50-000",
-    "version": 8,
-    "startDate": "2026-11-18T00:42:56+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Brands eines Wohnhauses - Frickenhausen, Hauptstraße",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-BY-AB-SE139-20261117-171-001",
-    "version": 8,
-    "startDate": "2026-11-18T00:46:08+01:00",
-    "expiresDate": "2026-11-18T06:46:07+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung durch Brandereigniss - Aschaffenburg Hafen",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
     }
   }
 ]
