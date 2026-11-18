@@ -21,27 +21,6 @@
     }
   },
   {
-    "id": "mow.DE-BW-S-SE018-20261102-18-000",
-    "version": 8,
-    "startDate": "2026-11-02T16:32:36+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Trinkwasserverunreinigung - Gemeinde Reute und Ortsteil Schupfholz der Gemeinde Vörstetten",
-      "en": "Contaminated drinking water",
-      "ar": "تلوث مياه الشرب",
-      "es": "Contaminación de agua potable",
-      "fr": "Pollution de l'eau potable",
-      "pl": "Zanieczyszczenie wody pitnej",
-      "ru": "Загрязнение питьевой воды",
-      "tr": "İçme suyu kirlenmesi"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-069"
-    }
-  },
-  {
     "id": "mow.DE-BY-R-SE084-20261103-84-000",
     "version": 8,
     "startDate": "2026-11-03T17:04:19+01:00",
@@ -84,80 +63,15 @@
     }
   },
   {
-    "id": "mow.DE-SH-FL-SE100-20261118-100-000",
+    "id": "mow.DE-BY-N-SE137-20261118-166-001",
     "version": 8,
-    "startDate": "2026-11-18T05:28:11+01:00",
-    "expiresDate": "2026-11-18T11:28:11+01:00",
+    "startDate": "2026-11-18T13:56:02+01:00",
+    "expiresDate": "2026-11-18T19:56:01+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Allgemeiner Schadensfall - Gemeinde Brodersby-Goltoft",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-SH-EH-SE028-20261118-28-001",
-    "version": 8,
-    "startDate": "2026-11-18T06:04:05+01:00",
-    "expiresDate": "2026-11-18T12:04:05+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Feuerwehreinsatz - Wedel",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-SE033-20261118-33-001",
-    "version": 8,
-    "startDate": "2026-11-18T06:13:16+01:00",
-    "expiresDate": "2026-11-18T12:13:16+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Geruchsbelästigung - Hamburg-Rissen",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-030"
-    }
-  },
-  {
-    "id": "mow.DE-BY-N-SE137-20261118-166-000",
-    "version": 8,
-    "startDate": "2026-11-18T08:47:26+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Update",
-    "i18nTitle": {
-      "de": "Fund einer Weltkriegsbombe - Nürnberg, Kettelersiedlung",
+      "de": "Entwarnung: Fund einer Weltkriegsbombe - Nürnberg, Kettelersiedlung",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
@@ -168,6 +82,48 @@
     },
     "transKeys": {
       "event": "BBK-EVC-079"
+    }
+  },
+  {
+    "id": "mow.DE-BW-S-SE018-20261118-18-000",
+    "version": 8,
+    "startDate": "2026-11-18T16:27:37+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Trinkwasserverunreinigung - Aktualisierung - Gemeinde Reute und Ortsteil Schupfholz der Gemeinde Vörstetten",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BY-R-SE084-20261118-84-000",
+    "version": 8,
+    "startDate": "2026-11-18T18:23:45+01:00",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Trinkwasserverschmutzung Großraum Roding - Gemeindebereiche Roding,Michelsneukirchen,Falkenstein,Zell,Wald,Rettenbach",
+      "en": "Contaminated drinking water",
+      "ar": "تلوث مياه الشرب",
+      "es": "Contaminación de agua potable",
+      "fr": "Pollution de l'eau potable",
+      "pl": "Zanieczyszczenie wody pitnej",
+      "ru": "Загрязнение питьевой воды",
+      "tr": "İçme suyu kirlenmesi"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
     }
   }
 ]
