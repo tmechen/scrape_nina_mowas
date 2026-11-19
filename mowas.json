@@ -105,36 +105,15 @@
     }
   },
   {
-    "id": "mow.DE-BY-R-SE084-20261119-84-001",
+    "id": "mow.DE-HH-HH-SE033-20261119-33-003",
     "version": 8,
-    "startDate": "2026-11-19T16:00:09+01:00",
-    "expiresDate": "2026-11-19T22:00:09+01:00",
+    "startDate": "2026-11-19T23:16:10+01:00",
+    "expiresDate": "2026-11-20T05:16:10+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Gefährdung durch Brandgase - Unter- / Oberpfrauendorf",
-      "en": "Fumes",
-      "ar": "غازات حارقة",
-      "es": "Gases de combustión",
-      "fr": "Gaz de combustion",
-      "pl": "Gazy spalinowe",
-      "ru": "Газообразные продукты горения",
-      "tr": "Yanıcı gazlar"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-010"
-    }
-  },
-  {
-    "id": "mow.DE-HH-HH-SE033-20261119-33-000",
-    "version": 8,
-    "startDate": "2026-11-19T17:18:52+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Alert",
-    "i18nTitle": {
-      "de": "Weltkriegsbombe gefunden - Hamburg-Heimfeld",
+      "de": "Entwarnung: Weltkriegsbombe gefunden - Hamburg-Heimfeld",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
