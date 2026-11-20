@@ -105,46 +105,24 @@
     }
   },
   {
-    "id": "mow.DE-HH-HH-SE033-20261119-33-003",
+    "id": "mow.DE-BW-KN-W131-20261120-000",
     "version": 8,
-    "startDate": "2026-11-19T23:16:10+01:00",
-    "expiresDate": "2026-11-20T05:16:10+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Weltkriegsbombe gefunden - Hamburg-Heimfeld",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NI-STD-SE029-20261120-29-000",
-    "version": 8,
-    "startDate": "2026-11-20T03:03:38+01:00",
+    "startDate": "2026-11-20T13:33:21+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Rauchentwicklung aufgrund eines Brandeinsatzes im Bereich Salzgitter-Heerte - Salzgitter-Heerte, Salzgitter-Gebhardshagen",
-      "en": "Odour nuisance",
-      "ar": "انزعاج من الروائح الكريهة",
-      "es": "Molestia por malos olores",
-      "fr": "Nuisance olfactive",
-      "pl": "Uciążliwy zapach",
-      "ru": "Неприятные запахи",
-      "tr": "Koku rahatsızlığı"
+      "de": "Abkochgebot Trinkwasser - Güttingen, Möggingen und die Weinburg",
+      "en": "Alert",
+      "ar": "تحذير",
+      "es": "Advertencia",
+      "fr": "Avertissement",
+      "pl": "Ostrzeżenie",
+      "ru": "Предупреждение",
+      "tr": "Uyarı"
     },
     "transKeys": {
-      "event": "BBK-EVC-030"
+      "event": "BBK-EVC-078"
     }
   }
 ]
