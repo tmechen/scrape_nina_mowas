@@ -126,14 +126,57 @@
     }
   },
   {
-    "id": "mow.DE-NW-GT-SE040-20261121-40-000",
+    "id": "mow.DE-BB-EW-SE079-20261121-79-000",
     "version": 8,
-    "startDate": "2026-11-21T08:38:03+01:00",
+    "startDate": "2026-11-21T11:42:27+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Geruchsbelästigung - Stadt Rietberg",
+      "de": "Ausbreitung von Brandrauch - Werneuchen // Barnim",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-SN-HY-SE048-20261121-122-001",
+    "version": 8,
+    "startDate": "2026-11-21T13:27:44+01:00",
+    "expiresDate": "2026-11-21T19:27:43+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Gefährliche Rauchentwicklung durch Brand - Ortslage Gröbern",
+      "en": "Fumes",
+      "ar": "غازات حارقة",
+      "es": "Gases de combustión",
+      "fr": "Gaz de combustion",
+      "pl": "Gazy spalinowe",
+      "ru": "Газообразные продукты горения",
+      "tr": "Yanıcı gazlar"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-010"
+    }
+  },
+  {
+    "id": "mow.DE-NW-K-SE031-20261121-31-000",
+    "version": 8,
+    "startDate": "2026-11-21T18:26:31+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Großräumige Geruchslage - Köln Lindenthal",
       "en": "Odour nuisance",
       "ar": "انزعاج من الروائح الكريهة",
       "es": "Molestia por malos olores",
