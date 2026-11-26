@@ -105,14 +105,36 @@
     }
   },
   {
-    "id": "mow.DE-NW-BM-SE042-20261125-42-000",
+    "id": "mow.DE-NW-SI-SE066-20261126-66-000",
     "version": 8,
-    "startDate": "2026-11-25T21:16:39+01:00",
+    "startDate": "2026-11-26T11:43:11+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Alert",
     "i18nTitle": {
-      "de": "Kampfmittelfund - Rhein-Erft-Kreis",
+      "de": "Ausfall der Gasversorgung - Hilchenbach",
+      "en": "Gas supply outage",
+      "ar": "انقطاع إمدادات الغاز",
+      "es": "Interrupción del suministro de gas",
+      "fr": "Coupure de gaz",
+      "pl": "Awaria zasilania gazem",
+      "ru": "Отказ системы газоснабжения",
+      "tr": "Gaz beslemesi arızası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-003"
+    }
+  },
+  {
+    "id": "mow.DE-NW-BM-SE042-20261126-42-007",
+    "version": 8,
+    "startDate": "2026-11-26T12:43:07+01:00",
+    "expiresDate": "2026-11-26T18:43:06+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Kampfmittelfund - Rhein-Erft-Kreis",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
@@ -126,15 +148,15 @@
     }
   },
   {
-    "id": "mow.DE-RP-KO-SE113-20261125-113-001",
+    "id": "mow.DE-NI-GOE-W264-20261126-001",
     "version": 8,
-    "startDate": "2026-11-25T23:58:01+01:00",
-    "expiresDate": "2026-11-26T05:58:01+01:00",
+    "startDate": "2026-11-26T13:38:34+01:00",
+    "expiresDate": "2026-11-26T19:38:34+01:00",
     "severity": "Minor",
     "urgency": "Immediate",
     "type": "Cancel",
     "i18nTitle": {
-      "de": "Entwarnung: Großbrand mit Gefahr durch Rauchgase - Bad Neuenahr-Ahrweiler",
+      "de": "Entwarnung: Rauchentwicklung durch Großbrand - Barbis, In den Bühwiesen",
       "en": "Conflagration",
       "ar": "حريق كبير",
       "es": "Gran incendio",
@@ -145,6 +167,27 @@
     },
     "transKeys": {
       "event": "BBK-EVC-034"
+    }
+  },
+  {
+    "id": "mow.DE-NW-DO-SE067-20261126-67-000",
+    "version": 8,
+    "startDate": "2026-11-26T15:05:18+01:00",
+    "severity": "Minor",
+    "urgency": "Immediate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Kampfmittelfund - Dortmund; Blindgänger-Entschärfung im Westfalenpark",
+      "en": "Second World War bomb",
+      "ar": "قنبلة من الحرب العالمية",
+      "es": "Bomba de guerra mundial",
+      "fr": "Bombe de guerre mondiale",
+      "pl": "Bomba z czasów II wojny światowej",
+      "ru": "Снаряд времен Второй мировой войны",
+      "tr": "Dünya savaşı bombası"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-079"
     }
   }
 ]
