@@ -105,28 +105,6 @@
     }
   },
   {
-    "id": "mow.DE-NI-STD-SE029B-20261125-129-000",
-    "version": 8,
-    "startDate": "2026-11-25T19:23:38+01:00",
-    "expiresDate": "2026-11-26T01:23:37+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Wettermeldung für den Landkreis Cloppenburg - Landkreis Cloppenburg",
-      "en": "Black ice",
-      "ar": "ثلج انزلاقي",
-      "es": "Superficies heladas",
-      "fr": "Verglas",
-      "pl": "Gołoledź",
-      "ru": "Гололед",
-      "tr": "Buzlanma"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-032"
-    }
-  },
-  {
     "id": "mow.DE-NW-BM-SE042-20261125-42-000",
     "version": 8,
     "startDate": "2026-11-25T21:16:39+01:00",
@@ -135,28 +113,6 @@
     "type": "Alert",
     "i18nTitle": {
       "de": "Kampfmittelfund - Rhein-Erft-Kreis",
-      "en": "Second World War bomb",
-      "ar": "قنبلة من الحرب العالمية",
-      "es": "Bomba de guerra mundial",
-      "fr": "Bombe de guerre mondiale",
-      "pl": "Bomba z czasów II wojny światowej",
-      "ru": "Снаряд времен Второй мировой войны",
-      "tr": "Dünya savaşı bombası"
-    },
-    "transKeys": {
-      "event": "BBK-EVC-079"
-    }
-  },
-  {
-    "id": "mow.DE-NW-DO-SE067-20261125-67-001",
-    "version": 8,
-    "startDate": "2026-11-25T21:46:06+01:00",
-    "expiresDate": "2026-11-26T03:46:05+01:00",
-    "severity": "Minor",
-    "urgency": "Immediate",
-    "type": "Cancel",
-    "i18nTitle": {
-      "de": "Entwarnung: Kampfmittelfund - Dortmund; Blindgänger-Entschärfung im Bereich Westfalendamm/Max-Eyth-Straße",
       "en": "Second World War bomb",
       "ar": "قنبلة من الحرب العالمية",
       "es": "Bomba de guerra mundial",
